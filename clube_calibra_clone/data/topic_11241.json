@@ -1,0 +1,242 @@
+{
+    "title": "Alguém conhece alguém BOM em Injeção Eletrônica?",
+    "url": "http://www.clubecalibra.com.br/forum/topic/11241-alguem-conhece-alguem-bom-em-injecao-eletronica/",
+    "id": "11241",
+    "messages": [
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T13:12:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoas, cansei do meu elegante cupê alemão falhando e engasgando quando frio.<br/><br/>A luz da injeção eletrônica acende de vez em quando, mas não coincide com a falha. Ela acaba apagando depois de 10, 20 segundos.<br/><br/>O carro está com os bicos injetores limpos, velas novas, filtro de combustível e de óleo novos.<br/><br/>Já descrevi essa falha anteriormente, mas repito aqui:<br/><br/><strong class=\"bbc\">Condições na qual ocorre a falha:</strong><br/><br/>Sempre quando o carro está frio, nunca quando está quente. Pode ser coincidência mas sempre dá depois que lavo o carro (talvez molhe alguma coisa). Não lembro de ter ocorrido com o Plug no B, mas sempre no A. Pode estar relacionado.<br/><br/><strong class=\"bbc\">Modus Operandi do Defeito:</strong><br/><br/>Carro começa a falhar, passa a engasgar e quando eu acelero ele para de vez. Não responde ao acelerador, como se estivesse afogado, e entra em um ciclo em baixa rotação, sem morrer: vai até 800 rpm, cai pra 500 rpm e assim sucessivamente. Caso eu tente acelerar, o motor não gira, como se não estivesse indo combustível.<br/><br/><strong class=\"bbc\">Persistência:</strong><br/><br/>Basta desligar e ligar a chave que o carro volta a funcionar perfeitamente. Mas nunca dá uma vez só, depois de andar mais um pouquinho, se repete o item 2 e tenho que desligar e ligar de novo. Caso eu tenha espaço para andar WOT durante 200, 300 metros e esticar a marcha até o limitador, o defeito não dará mais. Caso eu continue andando devagarzinho, no meio do trânsito, o defeito dá 2, 3 ou 4 vezes e depois para (pode estar relacionado com a temperatura do motor). Mesmo após parar o defeito o carro não vem com força total, fica amarrado.<br/><br/><strong class=\"bbc\">Suspeita:</strong><br/><br/>A injeção está lendo alguma coisa e colocando o carro em \"safe mode\", não atrasando o ponto de ignição mas simplesmente fazendo o carro parar. Depois que ele para com os ciclos de marcha lenta que o carro não anda, ele volta mas com o ponto muito atrasado, andando bem pouco, mas pelo menos vai liso.<br/><br/>Isso vem acontecendo há quase 2 anos com esse carro e ninguém descobre o que é.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2007-08-28T13:34:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJá passou pelo scanner? Não acusou nada?<br/><br/>Esse tipo de defeito está com cara de ser Osmar ... <em class=\"bbc\">os mar contatos</em><br/><br/>Sugestão: limpar todos os conectores dos sensores, principalmente o de temperatura ariando com um bombril e aplicando limpa-contato. Meu Astra, logo que comprei, de vez enquando não ligava. Era mal contato no sensor de temperatura. Não dava leitura e o carro afogava. Bastou limpar, e nunca mais o defeito apareceu.<br/><br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T13:55:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOnde fica o sensor de temperatura?<br/>\n<br/>\nO Scanner não identifica nada, mas suspeito que o problema é mais o mecânico do que o Scanner. Acho que que o mecânico é meio sacanner.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "racerX",
+            "date": "2007-08-28T14:17:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpo, estou na mesma... esta difícil encontrar um BOM mecanico <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2007-08-28T14:29:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDesconecte o MAF e veja se muda algo, com o MAF desligado o carro morre umas vezes na 1a partida da manha, mas depois estabiliza.<br/>\n<br/>\nOutra coisa a ser testada é soltar o plug na sonda lambda, se melhorar pode ser ela.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2007-08-28T14:31:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlemão, este irritante problema já aconteceu com meu carro por muito tempo . . . até citei naquele tópico sobre sonda lambda (manutenção). Era muito parecido com este que vc citou . . . sempre precisava esquentar o carro por uns 3 a 5 minutos, pra poder sair! Por acaso sua sonda lambda está ok? Esperimentou trocá-la para ver o sintoma persisite?<br/>\nAbração...<br/>\nQualquer coisa esperimenta uma ECU emprestada!<br/>\n<br/>\n<br/>\n[]s<br/>\n<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2007-08-28T14:48:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMinha dica pro Tim TIm e pro Racer:<br/>\n<br/>\nCriscar CTA<br/>\nR. do Manifesto, num lembro o número<br/>\nF. 6161-6056\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2007-08-28T15:23:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tchip original?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T15:50:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tChip original.<br/>\n<br/>\nVou andar com a MAF desconectada na volta pra casa pra ver como fica, conforme aconselhou o ML. O problema é que sem ela a injeção fica com os parâmetros prejudicados e o carro anda menos, não?<br/>\n<br/>\nInteressante que o Célio teve a mesma coisa. Ainda não testei a sonda Lambda. Vou trocar por desencargo de consciência.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2007-08-28T15:57:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Doutor Eduardo Thimberg\" data-date=\"28/08/2007, 12:50\"><p>Chip original.<br/><br/>Interessante que o Célio teve a mesma coisa. Ainda não testei a sonda Lambda. Vou trocar por desencargo de consciência.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240471\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Exatamente a mesma coisa . . . ai me lembrei que tinha trocado a sonda quando comprei o carro em 2003 . . . mas o carro mudou pra caramba.  . . agora é dar partida e sair . . . antes parecia que andava sem compressão . . .e tudo tremendo . . . até o barulho da partida era diferente!<br/>[]s<br/>Célio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2007-08-28T15:59:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAh . . . e nunca apareceu no scanner!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "AlvaroCastroJr",
+            "date": "2007-08-28T16:02:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu problema que alguns lembram em SP parecido com isso, mas não era com o carro andando... era Sonda Lambda mesmo pelo visto... mas aparecia no scanner!<br/>\n<br/>\nTroquei e nunca mais deu pau!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>AlvaroCastroJr</b>: 28 agosto 2007 - 13:02\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2007-08-28T16:02:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Doutor Eduardo Thimberg\" data-date=\"28/08/2007, 10:55\"><p>Onde fica o sensor de temperatura?<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240456\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>SNME no Calibra são 2: <br/><br/>- um para temperatura do ar admitido (próximo ao filtro de ar)<br/>- um para temperatura da água (embaixo da mangueira superior do radiador)<br/><br/>Amobos, olhando o cofre do motor de frente ficam do lado esquerdo, mais próximo do farol.<br/><br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T16:07:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVou na brute force e mandar trocar os 2 sensores de temperatura e a sonda lambda.<br/>\n<br/>\nMal não pode fazer.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2007-08-28T16:21:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCreio que há 2 sensores de temperatura da água, sendo 1 pra injeção, e 1 pro painel, não é?<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2007-08-28T16:39:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSim o carro ficará bem mais fraco, nao vai aceitar dar WOT rápido, mas se a falha inicial sumir é so procurar o defeito no circuito do MAF ou no proprio.<br/><br/>Não precisa trocar a sonda, desconecte-a e ande sem ela para ver se o defeito some. <br/><br/>Piscadas aleatorias na luz da injeção são sintomas de pobre, isso pode ser causado por erro de leitura do MAF ou lambda.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Doutor Eduardo Thimberg\" data-date=\"28/08/2007, 13:50\"><p>Chip original.<br/><br/>Vou andar com a MAF desconectada na volta pra casa pra ver como fica, conforme aconselhou o ML. O problema é que sem ela a injeção fica com os parâmetros prejudicados e o carro anda menos, não?<br/><br/>Interessante que o Célio teve a mesma coisa. Ainda não testei a sonda Lambda. Vou trocar por desencargo de consciência.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240471\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2007-08-28T16:41:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSoltar os sensores é o melhor diagnostico para nao gastar $ a toa.<br/>\ndescoberto qual o sensor que caso retirado, desapareça com o defeito ai é so troca-lo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "racerX",
+            "date": "2007-08-28T16:48:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\taproveitando, alguem sabe qual o sensor que fica nesse duto de ar ?<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img122.imageshack.us/img122/1055/mangueirazz8.jpg\"/></span><br/><br/>é desplugar isso e o carro fica regular... puglado fica com a marcha lenta acelerada.<br/><br/>erro no scanner:  069 - Tensão baixa da temperatura do ar admissao<br/><br/>o Rafael16V colocou um PDF muito bom sobre a Motronic 2.8<br/>com os erros e possiveis soluções... pra quem ainda nao baixou: <a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forumold/index.php?act=Attach&amp;type=post&amp;id=5813\" title=\"\">M2_8_1.pdf</a><br/><br/>to achando que o mecanico trocou só um sensor e nao checou as coisas direito.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>racerX</b>: 28 agosto 2007 - 14:01\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2007-08-28T16:54:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to black quando eu comprei após todas as retiradas das gambis e tudo devidamente perfect, continuava com problemas intermitentes em mlenta e aceleração meio estranha em baixos regimes.<br/>\n<br/>\nfui pra última opção, troca do chip... pq o resto todo eu sabia que tava ok, e pronto, carro normal. No caso coloquei o chip do Seco, mas nao foi alteração positiva de curva, mas sim a curva próxima da original do carro. Provavelmente o chip que estava nele, e se dizia original, era feito em algum XpeiroProfiSSionau<br/>\n<br/>\nse acabarem as opções e tiver um chip comprovadamente original ou do seco por perto, vale a tentativa hein.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T17:06:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tInteressante porque o carro <strong class=\"bbc\">já </strong>não aceita (há um bom tempo) WOT rápido. Ele trava e o motor não gira. WOT, só subindo o acelerador gradualmente. Meter o pé rápido, ele dá uma engasgada definitiva e não anda.<br/><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"marcio.leal\" data-date=\"28/08/2007, 13:39\"><p>Sim o carro ficará bem mais fraco, nao vai aceitar dar WOT rápido, mas se a falha inicial sumir é so procurar o defeito no circuito do MAF ou no proprio.<br/><br/>Não precisa trocar a sonda, desconecte-a e ande sem ela para ver se o defeito some. <br/><br/>Piscadas aleatorias na luz da injeção são sintomas de pobre, isso pode ser causado por erro de leitura do MAF ou lambda.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Doutor Eduardo Thimberg\" data-date=\"28/08/2007, 13:50\"><p>Chip original.<br/><br/>Vou andar com a MAF desconectada na volta pra casa pra ver como fica, conforme aconselhou o ML. O problema é que sem ela a injeção fica com os parâmetros prejudicados e o carro anda menos, não?<br/><br/>Interessante que o Célio teve a mesma coisa. Ainda não testei a sonda Lambda. Vou trocar por desencargo de consciência.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240471\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240484\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T17:08:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOu talvez trocar com o chip de algum outro Calibra. Mas antes, tenho que ver os sensores. Tô achando que a parada é na admissão mesmo.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"28/08/2007, 13:54\"><p>o black quando eu comprei após todas as retiradas das gambis e tudo devidamente perfect, continuava com problemas intermitentes em mlenta e aceleração meio estranha em baixos regimes.<br/><br/>fui pra última opção, troca do chip... pq o resto todo eu sabia que tava ok, e pronto, carro normal. No caso coloquei o chip do Seco, mas nao foi alteração positiva de curva, mas sim a curva próxima da original do carro. Provavelmente o chip que estava nele, e se dizia original, era feito em algum XpeiroProfiSSionau<br/><br/>se acabarem as opções e tiver um chip comprovadamente original ou do seco por perto, vale a tentativa hein.<br/><br/>[]s<br/>Rodrigo<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240489\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2007-08-28T17:13:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTodos esses coisas (MAF, Sonda, Conector com problema, etc..) quando acionada a luz de injeção e gravada (10 a 20 seg), aparecem no scanner...<br/>\n<br/>\nJá tive problemas com sensor e o scanner do mecanico aqui perto acusou, foi so limpar ou trocar e pronto !!! E com a sonda a mesma coisa !!!  O scanner acusava a falha.<br/>\n<br/>\nDr. Tim Tim, esse problema no seu carro acontece parado ???  Ou só quando voce poe ele pra rodar ???<br/>\n<br/>\nAbraços,<br/>\nGORDO.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T17:29:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tParabéns pela resposta Gordo!<br/>\n<br/>\nOlha, o problema dá tanto parado quanto andando. Logo que eu tiro o carro da garagem e paro num semáforo, por exemplo, começo a perceber uma indecisão na marcha lenta e isso é sinal de que quando eu começar a andar vai dar merda. Aí entra aquele ritual funesto, o carro começa a falhar, e não acelera mais, fica naquele vai e vem irritante em 500 - 800 rpm... e o interessante é que não morre, ficaria assim eternamente se eu não desligasse e ligasse.<br/>\n<br/>\nProva que é loucura eletrônica é que o boot na injeção desligando e ligando o carro resolve imediatamente o problema, que sempre volta umas 2 ou 3 vezes até parar de vez (deve ser o tempo para esquentar o carro).\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2007-08-28T18:33:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to meu tinha isso tambem. <br/>\n<br/>\ndefeito? Bunda do Maf encostando no caput e vibrando causando mal contato , vire o maf de posição para q nao pegue no caput. <br/>\n<br/>\noutra coisa pode ser falta de terra na sua lambda.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2007-08-28T18:36:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-date=\"28/08/2007, 15:33\"><p>outra coisa pode ser falta de terra na sua lambda.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240507\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Se vc fala isso pro estagiário, ele enche a mão de terra no jardim do condomínio e joga em cima da lambda  <span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-28T19:36:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"West\" data-date=\"28/08/2007, 15:36\"><p><blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-date=\"28/08/2007, 15:33\"><p>outra coisa pode ser falta de terra na sua lambda.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240507\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Se vc fala isso pro estagiário, ele enche a mão de terra no jardim do condomínio e joga em cima da lambda  <span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240508\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/><br/>Isso se ele não lamber o jardim todo dia antes de entrar no carro (falta de terra na sua lambida).<br/><br/>Gostei da dica do Master... É fácil acessar a sonda do escape ou tem que levar o carro num circo pra um contorcionista mexer?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2007-08-28T19:40:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\té facil porem perigoso , tem q levantar o carro e entrar em baixo , nao faça isso usando o macaco!!!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "David",
+            "date": "2007-08-28T19:51:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEstagiário + macaco + Gambiarra = <span rel=\"lightbox\"><img alt=\":emrip_1:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/emrip_1.gif\"/></span> :sm1\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2007-08-29T13:51:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLemao... lave o motor .. se quiser eu levo seu carro embora e tento achar o defeito para vc com os mecanicos que meche no meu carro e do gordo (aqueles dois carecas que estava no Dino) ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2007-08-29T15:15:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO sensor de temp do ar é muito raro queimar. O seu esta com o chicote em curto. verifique.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"racerX\" data-date=\"28/08/2007, 14:48\"><p>aproveitando, alguem sabe qual o sensor que fica nesse duto de ar ?<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img122.imageshack.us/img122/1055/mangueirazz8.jpg\"/></span><br/><br/>é desplugar isso e o carro fica regular... puglado fica com a marcha lenta acelerada.<br/><br/>erro no scanner:  069 - Tensão baixa da temperatura do ar admissao<br/><br/>o Rafael16V colocou um PDF muito bom sobre a Motronic 2.8<br/>com os erros e possiveis soluções... pra quem ainda nao baixou: <a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forumold/index.php?act=Attach&amp;type=post&amp;id=5813\" title=\"\">M2_8_1.pdf</a><br/><br/>to achando que o mecanico trocou só um sensor e nao checou as coisas direito.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240487\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2007-08-29T15:18:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão precisa trocar para concluir que o problema é nela. Soltando o conector que fica facilmente acessivel na corta fogo o carro tem que melhorar.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-date=\"28/08/2007, 17:40\"><p>é facil porem perigoso , tem q levantar o carro e entrar em baixo , nao faça isso usando o macaco!!!!!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240518\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "racerX",
+            "date": "2007-08-29T15:37:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvaleu Marcio.<br/>\n<br/>\nvou levar nesse lugar que o Ives sempre indicou... apesar de ser fora de mão, por morar aqui na Zona Sul, talvez vale o esforço. <br/>\nComo vou trocar a suspensão, ja deixo parado num lugar legal <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2007-08-30T02:03:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlemão, quanto mais detalhadamente você descreve, mais eu identifico seu problema com o que eu já tive no meu carro.<br/>\n<br/>\nNo meu caso, eu troquei o sensor de temperatura de água, que fica na tampa da válvula termostática, e juntamente com essa troca eu virei um pouquinho mais pra baixo o MAF, e parou tudo.<br/>\n<br/>\nCabeçudisse minha, porque agora fico na dúvida do que foi, até porque o problema não era acusado quando passei o carro no computador.<br/>\n<br/>\nDe toda a forma, as dicas do ML são as melhores possíveis, não vai precisar colocar a mão no bolso, é só soltar o plug da lambda e testar, depois vire o MAF, e se não resolver nenhum dos dois, eu pensaria em trocar esse sensor, que não é caro e creio que tenha sido ele mesmo o causador do meu problema.<br/>\n<br/>\nAbrax\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-08-30T12:37:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Fábio\" data-date=\"29/08/2007, 23:03\"><p>Alemão, quanto mais detalhadamente você descreve, mais eu identifico seu problema com o que eu já tive no meu carro.<br/><br/>No meu caso, eu troquei o sensor de temperatura de água, que fica na tampa da válvula termostática, e juntamente com essa troca eu virei um pouquinho mais pra baixo o MAF, e parou tudo.<br/><br/>Cabeçudisse minha, porque agora fico na dúvida do que foi, até porque o problema não era acusado quando passei o carro no computador.<br/><br/>De toda a forma, as dicas do ML são as melhores possíveis, não vai precisar colocar a mão no bolso, é só soltar o plug da lambda e testar, depois vire o MAF, e se não resolver nenhum dos dois, eu pensaria em trocar esse sensor, que não é caro e creio que tenha sido ele mesmo o causador do meu problema.<br/><br/>Abrax<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=240677\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Entendi, o problema é que estes testes tem que ser indo feitos a longo prazo. Mexe num sensor, espera pra ver se volta, se voltar mexe no outro... Um saco!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "racerX",
+            "date": "2007-09-04T16:46:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpassei na CrisCar que o Ives indicou e o cara não teve ideia do que esta acontecendo... falou do chicote ou terra como comentaram. Gente boa, apesar de falar que nao mexe em carro convertido pra alcool hehehe.<br/>\n<br/>\nno scanner acusava temperatura do ar em 207c quando o normal acho que é entre 30-60. Tirando o plug do sensor de temperatura do ar, a marcha lenta voltava ao normal mas a temperatura continuava alta.<br/>\n<br/>\n<br/>\nagora é encontrar um auto-eletrico bom... o Ogata nao quis nem demonstrou interesse me mexer <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span><br/>\n<br/>\nvaleu<br/>\n[]´s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-09-04T16:58:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTenho muito bode desses caras que ficam com frescura pra mexer em alguns carros.<br/>\n<br/>\nQuando estiverem passando fome eles mudam de idéia.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2007-09-04T17:41:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tExiste um mal que assola esses prestadores de serviços elétricos/mecânicos - eles querem ser meros trocadores de peça.<br/>\n<br/>\nSe o defeito não é óbvio para ele te apunhalar logo com o preço de uma peça nova, ele prefere não perder tempo com seu carro.<br/>\n<br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2007-09-04T19:09:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"racerX\" data-date=\"4/09/2007, 13:46\"><p>passei na CrisCar que o Ives indicou e o cara não teve ideia do que esta acontecendo... falou do chicote ou terra como comentaram. Gente boa, apesar de falar que nao mexe em carro convertido pra alcool hehehe.<br/><br/>no scanner acusava temperatura do ar em 207c quando o normal acho que é entre 30-60. Tirando o plug do sensor de temperatura do ar, a marcha lenta voltava ao normal mas a temperatura continuava alta.<br/><br/><br/>agora é encontrar um auto-eletrico bom... o Ogata nao quis nem demonstrou interesse me mexer <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span><br/><br/>valeu<br/>[]´s<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=241226\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Putz, os DOIS que eu indiquei!!...<br/>Viadinhos!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2007-09-04T22:07:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"racerX\" data-date=\"4/09/2007, 13:46\"><p>passei na CrisCar que o Ives indicou e o cara não teve ideia do que esta acontecendo... falou do chicote ou terra como comentaram. Gente boa, apesar de falar que nao mexe em carro convertido pra alcool hehehe.<br/><br/>no scanner acusava temperatura do ar em 207c quando o normal acho que é entre 30-60. Tirando o plug do sensor de temperatura do ar, a marcha lenta voltava ao normal mas a temperatura continuava alta.<br/><br/><br/>agora é encontrar um auto-eletrico bom... o Ogata nao quis nem demonstrou interesse me mexer <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span><br/><br/>valeu<br/>[]´s<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=241226\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Liga para o Gordo, nos encontramos no sabado de manhã, resolvemos isso!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-09-05T12:53:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDescobriram o que não presta no meu carro.<br/><br/><span style=\"color: white\">............................</span>\\ <br/>MAF fodida + sonda /\\<br/><br/>A bosta da injeção para de dar erros de leitura trocando a MAF por uma nova. Não mandei trocar ainda, mas acho que descobri o buraco na cerca por onde fugiram parte dos cavalos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Doutor Eduardo Thimberg</b>: 05 setembro 2007 - 09:55\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "racerX",
+            "date": "2007-09-05T13:37:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Ives\" data-date=\"4/09/2007, 16:09\"><p>Putz, os DOIS que eu indiquei!!...<br/>Viadinhos!!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=241241\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>hahahaha.... de qualquer jeito agradeço muito pela ajuda <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Sérgio\" data-date=\"4/09/2007, 19:07\"><p>Liga para o Gordo, nos encontramos no sabado de manhã, resolvemos isso!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=241266\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>valeu Sergião, mas não queria dar trabalho pra vocês. <br/>Se preferir pode ser na segunda, no posto, dai já acerto em cervejas hehehehe<br/> <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2007-09-05T14:22:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnao X ...<br/>\n<br/>\nÉ melhor fazer durante o dia na garagem..<br/>\n<br/>\nAe vcs aproveitam e faz um churras na casa do serjao ...<br/>\nhehe<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2007-09-05T14:47:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu ouvi churras no Sergio ???<br/>\n<br/>\nHumm hummm !!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2007-09-05T18:25:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Gordo\" data-date=\"5/09/2007, 11:47\"><p>Eu ouvi churras no Sergio ???<br/><br/>Humm hummm !!!!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=241336\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Lembrem, serão três dias!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2007-09-05T18:31:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFeira do Escambo, Troco MAF por Geforce 7950GT <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span> <br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Doutor Eduardo Thimberg\" data-date=\"5/09/2007, 10:53\"><p>Descobriram o que não presta no meu carro.<br/><br/><span style=\"color: white\">............................</span>\\ <br/>MAF fodida + sonda /\\<br/><br/>A bosta da injeção para de dar erros de leitura trocando a MAF por uma nova. Não mandei trocar ainda, mas acho que descobri o buraco na cerca por onde fugiram parte dos cavalos.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=241311\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2007-09-05T18:47:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHuaehuea nunca, a MAF é a mesma do Marea, 400 paus apenas.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "racerX",
+            "date": "2007-10-02T15:01:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom levei o carro num novo lugar e todos os problemas foram resolvidos.<br/>\nAlém de chicotes, fiações, foi feita a descarbonização do atuador da marcha-lenta, desmagnetização do modulo... enfim, uma geral na parte elétrica, que estava mal instalada.<br/>\n<br/>\nPior que tinha falado com o outro mecanico, o que instalou o motor, para verificar chicotes, limpar o atuador, seguindo as recomendações do marcio leal e de outros que postaram, mas sempre vinha com corpo mole dizendo que aquilo não iria resolver e que era problema do trabalho que fiz no TBI ou na retifica do cabeçote.<br/>\n<br/>\nA oficina é de um pai de um amigo, e fica do lado do shop. Morumbi. Atende a frota da globo.<br/>\n<br/>\nAtendimento/serviço ser mto bom. Único porém é o preço... mas se está cansado com mecanico que não resolve, vale a pena.<br/>\n<br/>\n<br/>\nassim de cabeça deu:<br/>\n<br/>\n1h de scanner = R$ 100<br/>\n2h de mecanica* + 3h de eletrica deu uns = R$ 450<br/>\n+ oleo, fluidos, etc = R$ 100<br/>\ntotal de uns R$ 650<br/>\n<br/>\ndeu +- 95 a hora em cada area (mecanica e eletrica)<br/>\n<br/>\n* tinha vazamentos no cambio e tive que trocar uns retentores e a partida a frio foi arrumada e agora parece funcionar mesmo.<br/>\n<br/>\ncomo ainda não achei um lugar mais em conta / confiável, atendeu as expectativas do serviço e resolveu o problema. <br/>\n<br/>\nAvant Motors (www.avantmotors.com.br) - falar c/ Augusto<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>racerX</b>: 04 outubro 2007 - 08:43\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        }
+    ]
+}

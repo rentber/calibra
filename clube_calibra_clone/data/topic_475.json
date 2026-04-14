@@ -1,0 +1,337 @@
+{
+    "title": "Hallmeter - Instalação",
+    "url": "http://www.clubecalibra.com.br/forum/topic/475-hallmeter-instalacao/",
+    "id": "475",
+    "messages": [
+        {
+            "author": "dmzamora",
+            "date": "2003-09-04T00:04:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal<br/>\n<br/>\nAlguém já instalou seu hallmeter por conta própria?<br/>\n<br/>\nSaberiam me dizer se os fios da sonda lambda chegam direto na ECU pelo chicote, ou seja, posso caçá-los no conector da ECU?<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2003-09-04T08:07:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tALow,<br/>\n<br/>\n  Eu liguei o meu nos cabos ali perto do reservatório de água do radiador... nos fios q partem da lambda antes de entrarem na parede corta-fogo e irem pra ECU, mais prático.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-09-04T12:36:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFoi o que pensei em fazer de início, realmente é bem mais prático, mas se a ligação puder ser totalmente feita por dentro do carro, é preferível <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2003-09-04T15:44:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu ja amandei esse desenho que eu fiz para o Rod disponibilizar para o pessoal mas ele é regulado ...<br/>hehehe<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://planeta.terra.com.br/lazer/VectraCalibra/m28.jpg\"/></span><br/><br/>caso nao aparece busquem direto no link<br/><br/><a class=\"bbc_url\" href=\"http://planeta.terra.com.br/lazer/VectraCalibra/m28.jpg\" rel=\"nofollow external\" title=\"Link externo\">http://planeta.terra...Calibra/m28.jpg</a><br/><br/><a class=\"bbc_url\" href=\"http://planeta.terra.com.br/lazer/VectraCalibra/m28.jpg\" rel=\"nofollow external\" title=\"Link externo\">http://planeta.terra...Calibra/m28.jpg</a><br/><br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lemmel",
+            "date": "2003-09-04T15:47:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAE,<br/>\n<br/>\nManda por e-mail pro rod pq estes links para as páginas do Terra não rolam quando são acessadas diretamente.<br/>\n<br/>\nDai ele publica no forum\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2003-09-04T15:49:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tmais ki K7 ...<br/>\n<br/>\naqui no meu micro funciona direitinho ...<br/>\n<br/>\nse vc escrever o end no browzer funciona ???<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-09-04T15:57:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão rola, diz que a página não foi encontrada... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\nManda a imagem prá mim que eu posto aqui...<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-09-04T17:30:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHey Led<br/>\n<br/>\nValeu mesmo, facilitou pacas.<br/>\n<br/>\nAté a posição física dos pinos é favorável, são todos contíguos:<br/>\n<br/>\n10 - Terra<br/>\n28 - Sinal da sonda Lambda<br/>\n27 - +V passando pela chave de ignição<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Roberto DF",
+            "date": "2003-09-05T03:12:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOPA<br/>\n<br/>\nO desenho please, to pensando num hallmeter tb, e os links não abrem, se der manda pro meu mail ou coloque ai pra q todos possam ver<br/>\nrobertodf@netp.com.br<br/>\n<br/>\nAbraço<br/>\n<br/>\nRobbhertho DF\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-09-05T03:24:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAqui o desenho tá aparecendo acima dos links...<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2003-09-05T03:58:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\taeee<br/>\n<br/>\nalguem quer comprar um hallmeter ae?<br/>\n<br/>\nfaloww\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2003-09-05T12:02:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAê! Pessoal...<br/>\n<br/>\nSegura as pontas quem quer um hallmeter aê!<br/>\n<br/>\nEstou desenvolvendo um hallmeter profissional micro-processado para diversos tipos de combustível e provavelmente algumas funcionalidades para quem tem NITRO tbém! Além do que ele terá indicação em LCD com luz background (indicação de relação estequiométrica ou tensão da sonda lambda), totalmente programável e + 20 leds de indicação para ficar bem bacana no carro!  8) <br/>\n<br/>\nE o melhor, vai sair apenas um pouco mais caro que um Hallmeter chulé comum!  :wink: <br/>\n<br/>\nEsperem até o fim do ano!<br/>\n<br/>\nAbraços no dorsal,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Dan",
+            "date": "2003-09-05T13:36:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlha só o Erick montando uma filial dos produtos ACME no Brasil !!!!! hehehehe<br/>\n<br/>\nAbraço.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Roberto DF",
+            "date": "2003-09-11T17:45:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE o desenho??????\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-09-11T17:55:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.clubecalibra.com.br/upped/m28.jpg\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Roberto DF",
+            "date": "2003-09-12T02:46:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOPA<br/>\n<br/>\nMuito bem daniel, excelente desenho, mas só mais uma duvido, onde encontro esse cabo pra fazer a ligação??<br/>\n<br/>\nAbraço<br/>\n<br/>\nRobbhertho DF\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-09-12T02:53:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO autor do desenho não sou eu, é o Led Zeppelin <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\nEu estou aproveitando um cabo serial fininho de 9 fios que tinha aqui. Claro que só utilizarei 4, mas é o que tinha em mãos <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\nHj soldei o cabo no rabicho do hallmeter, amanhã ou sábado pretendo fazer a instalação.<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2003-09-25T12:06:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Aê! Pessoal...<br/><br/>Segura as pontas quem quer um hallmeter aê!<br/><br/>Estou desenvolvendo um hallmeter profissional micro-processado para diversos tipos de combustível e provavelmente algumas funcionalidades para quem tem NITRO tbém! Além do que ele terá indicação em LCD com luz background (indicação de relação estequiométrica ou tensão da sonda lambda), totalmente programável e + 20 leds de indicação para ficar bem bacana no carro!  8)  <br/><br/>E o melhor, vai sair apenas um pouco mais caro que um Hallmeter chulé comum!  :wink:  <br/><br/>Esperem até o fim do ano!<br/><br/>Abraços no dorsal,</p></blockquote><br/>fiquei interessado..<br/>vc pode dar mais detalhes e postar fotos?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2003-09-27T23:24:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntão brother...<br/>Tem um tópico novo para acompanhar o progresso...<br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/viewtopic.php?t=558&amp;highlight=hallmeter\" title=\"\">http://www.clubecali...light=hallmeter</a><br/><br/>Fotos só qdo estiver o acabamento Ok e instalado na caranga...  :wink: <br/>Abraço...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-10-05T13:02:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCaracas vei. meu hall num funciona direito qnd os badulaques taum ligados. <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>  se o som e o neon tiverem desligados fica tudo lindo. agora se ligar o som já começa a ocilação ai qnd liga o neon o bicho pega. :cry:  fica ocilando no ritimo da musica <span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span> <br/>\n<br/>\n[]s<br/>\n<br/>\n :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-05T13:53:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTaca um multímetro analógico na bateria e monitora a variação de voltagem... com o carro ligado o ponteiro praticamente não deve se mexer.<br/>\n<br/>\nSe tiver muito violenta a variação, c tem que checar se teu alternador tá entregando energia suficiente ao sistema, OU se o som não está puxando demais.<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-10-05T14:57:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvei se ta tudo desligado num varia nada ou quase nada. <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>  se tiver variação é imperceptivel. froids é com som e neon ligado.  <span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span> fica parecendo discoteca com luzinhas mechendo pra todos os lados, mas o neon e o trance rolando vira a maior RAVE <span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span> <br/>\n<br/>\n[]s<br/>\n<br/>\n :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-05T15:08:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tProcê ter uma idéia, o meu, com o carro desligado tanto faz se estiver com todos os acessórios ligados ou tudo desligado, a marcação é a mesma... no seu caso pode ser problema de aterramento do hall.<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-10-05T15:17:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvaleu zamora. vou verificar essa parada aki. mas até q ta legal. altas festas RAVES.<br/>\n<br/>\n[]s<br/>\n<br/>\n :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2003-10-05T15:21:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  O meu tb... só que se colocar o som no máximo, a cada batida do sub ele sobe um LED e depois volta ao normal <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-05T15:40:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSS, eu liguei os 2 terras do hall no bloco do motor... como vc fez aí?<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-10-05T18:35:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnum sei direito ñ. vou olhar e posto aki<br/>\n<br/>\n[]s<br/>\n<br/>\n :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2003-10-06T01:09:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAí! Povo!<br/>\n<br/>\nO que posso dizer tecnicamente é que o sinal do som gera harmônicas de várias frequências... E as de 1a. e 2a. ordem são as que mais atrapalham...<br/>\nNum quase \"chute\", pois eu não sei como é o seu hallmeter por dentro, eu diria que estas harmônicas não estão chegando pelo sinal da sonda lambda e sim pelo sinal da bateria que o hallmeter usa como referência, assim, se esta referência varias, ele fica doidin...<br/>\n<br/>\nSolução... Fonte chaveada para alimentar os circuitos sensíveis ou pelo menos filtros passivos na linha do som, para que este não retorne para a rede estas harmônicas! 8)<br/>\n<br/>\nAbraço pela nuca,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Jaime Coelho",
+            "date": "2003-10-06T01:39:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOi pessoal,<br/>\nO meu estava com este problema. Qdo ligava o farol ou aumentava o som afetava diretamente no hallmeter. Tava mais para luz rítmica do para hallmeter. O motivo no meu caso era a baixa qualidade no aterramento(liguei na ferragem dos pedais). Qdo liguei o negativo de boa qualidade (direto do comutador da iginição) resolvi o problema.<br/>\nAcho que vale a pena tentar buscar o negativo direto da bateria ou de um fio mesmo e não da lataria ou bloco do motor.<br/>\n[]s<br/>\nJaime\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-06T02:03:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJaime, bloco do motor ou bateria dá na mesma, ambos são o terra mais absoluto do carro.<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "[SoloN]",
+            "date": "2003-10-06T12:49:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tErick Nagy adora uma fonte chaveada...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Jaime Coelho",
+            "date": "2003-10-06T15:42:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFaça um teste então SS. Ligue direto da bateria o positivo e o principalmente o negativo (ligação para o Bloco do fio terra pode não ser de baixa qualidade) e veja se vai continuar seu problema. Não custa nada tentar.<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Jaime Coelho",
+            "date": "2003-10-06T15:42:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFaça um teste então SS. Ligue direto da bateria o positivo e o principalmente o negativo (ligação para o Bloco do fio terra pode não ser de baixa qualidade) e veja se vai continuar seu problema. Não custa nada tentar.<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-06T15:52:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTb não custa lembrar que isso é só um teste, pois o positivo tem que passar pela ignição...<br/>\n<br/>\nEu utilizei como positivo aquele fio que \"sobra\" do chicote ali na região do plug A/B.<br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-10-06T23:00:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvaleus pessoal. vou testar amanha e falo pra vcs! e ai jaimão? me deu um bolo aki né! perdeu um festaum. <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/>\n<br/>\n :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Jaime Coelho",
+            "date": "2003-10-06T23:13:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tImprevistos de última hora...  Fique tranquilo que não vai faltar oportunidade para dar uma pulo aí.<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-05-24T18:07:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera, puz um hallmeter no calibroso mas o bixo fica em pobre o tempo todo.... com ar ligado ele sobe um pouquinho, mas mesmo assim nada de rico... fica rico soh quando uso freio motor...<br/>\ndiz o cara lá q é normal, pq o motor o é original, n tá mexido, o carro tava esquentando, etc, etc...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2004-05-24T18:17:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ttalvez seu carro esteja desregulado ou a ligação ñ esteja correta.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-05-24T20:06:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tou a lambda foi para o saco ..<br/>\n<br/>\nfalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-05-24T21:53:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tou a escala do hall meter não está coerente. E carro aspirado, original, rico vai ser difícil achar.<br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2004-05-24T22:57:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to titulo do tópico tá escrito Hell meter  ahhuauhuha<br/>\n<br/>\nhell = inferno  <span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span> <br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>João Cesar</b>: 24 maio 2004 - 20:01\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-05-25T00:04:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  Qual hallmeter vc tá usando e como estão as medidas das faixas? 0-400-800-1100?<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-05-26T15:54:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ um beast racing pro series, e a faixa é não sei... deve tá como veio... vou dar uma olhada e posto.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Roberto DF",
+            "date": "2004-05-27T08:37:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to negócio é interpretar o quanto ta chegando nele, e não os leds q tão acendendo. Se tiver vermelho mais chegando entre 300 e 350 ta normal<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-05-27T08:43:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t300 e 350 normal??? O normal é 780 a 890!!! Menos q isso é pobre, mais q isso é rico (em carro original basicamente).<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-05-27T17:17:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCarro original o ideal é 450mV Rod!<br/>\nNo Calibra, fica por aí, um pouco mais baixo as vezes...<br/>\nIsto para Gasolina!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-05-27T17:26:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Erick Nagy\" data-date=\"27/05/2004, 14:17\"><p>Carro original o ideal é 450mV Rod!<br/>No Calibra, fica por aí, um pouco mais baixo as vezes...<br/>Isto para Gasolina!</p></blockquote> Também conhecia esse número (450mV) para ASPRO Original.<br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-05-27T21:30:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tagora q o tanque tá quase na reserva, ele fica sem nenhum led aceso, aí acende 4, apaga todos devagar, vai lá no rico (acende tudo), apaga, acende tudo, apaga, acende 4, apaga.... va vareiando... a sonda ou a bomba taum indo pro saco <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\neu voto na bomba pq ele engasga um pouco na reserva (ainda tem 10L no tanque, mas marca reserva e engasga), com tanque até 1/4 vai tranquilin... mas tb n vi o hall funfando com tanque cheio...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-05-27T21:38:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  Hmm o meu quando rodava no álcool variava entre 650mv e 800mv na lambda. Não reisntalei o hallmeter no carro original, mas pesquisando na inet vi q realmente falam em 450mv (450-550mv)!! 850mv então seria pra carro turbo/chipado?<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-05-28T02:00:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\té o seguinte ... um resumo rapido ...<br/>\n<br/>\nA sonda Lambda mede a quantidade de oxigenio que sobrou apos a queima<br/>\n<br/>\nA razao ideal é 14:1 ar:gasolina (razao estequiometrica)...<br/>\nQue apos a queima o fator lambda resulta em 500 mV ...<br/>\n<br/>\nA curva do fator lambda é muito aguda quando perto de mistura ideal<br/>\n<br/>\nMais ou menos assim<br/>\n<br/>\n........................__________<br/>\n......................./.................<br/>\n...................../..................<br/>\n...................|..................<br/>\n...................|....................<br/>\n<br/>\n................./..................<br/>\n________/........................<br/>\n<br/>\n<br/>\nEntao da para se diser que 450 a 550 mV estaria ainda dentro da mistura ideal<br/>\n<br/>\n<br/>\nA mistura ideal é o crusamento de Economia Performance e resultado poluente aceitavel <br/>\n<br/>\n<br/>\nComo em 500mV sobrou oxigenio sem queimar entao nao temos o maximo de potencia que o motor pode oferecer ...<br/>\nEntao quando presisamos de potencia enriquecemos a mistura para ter uma combustao mais potente .. com mais queima de oxigenio .. gerando mais calor ...<br/>\n<br/>\nTem carros que em plena carga o fator lambda passa de 1V<br/>\nCada carro é um .. mas a maioria esta entre os 850 a 950mV ..<br/>\n<br/>\nLembrando que ecesso de combustivel tb atrapanha o motor obter o maximo de potencia <br/>\n<br/>\nMistura pobre deixa o motor super economico... <br/>\nMas tb perde muita potencia e a um grande risco de quebra do motor por aumento da temperatura na camara de combustao ...<br/>\n<br/>\nSe ve mistura pobre quando em desaceleracao a uma pequena abertura da borboleta ... mas nunca pode mostrar menos que 300mv <br/>\n<br/>\nA unica situacao que mostrara menos que 300mV é em Cut Off ... Onde o Valor vai caindo até chegar a 0mV<br/>\n<br/>\nEm muitos motores, em marcha lenta ou em meia carga onde esta somente mantendo a velocidade o valor oscila de pobre para rico<br/>\n<br/>\n<br/>\nA sei la mais o que diser ..<br/>\n<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Led Zeppelin</b>: 27 maio 2004 - 23:03\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-05-28T02:28:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHmm tá blz então, os 850mv são em WOT.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Roberto DF",
+            "date": "2004-05-28T02:50:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"27/05/2004, 05:43\"><p>300 e 350 normal??? O normal é 780 a 890!!! Menos q isso é pobre, mais q isso é rico (em carro original basicamente).<br/><br/>[]s<br/>Rodrigo</p></blockquote>  :sm18  :sm18  :sm18 <br/><br/>Ta loco boss??? 780 ja é mistura rica\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-05-28T03:27:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tem WOT, é pobre <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-05-28T05:45:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to que é WOT?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-05-28T05:52:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tWOT (Wide Open Throttle) Borboleta de aceleração totalmente aberta <br/><br/>Resumindo, pé no fundo do acelerador <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=1913\" title=\"\">http://www.clubecali...?showtopic=1913</a><br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-05-31T14:37:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu fica beirando realmente entre 400 e 600 quando ando tranquilo, n cheguei a bizoiar pizando... agora, parado, sem acelerar, ele vareia tanto a rotação q vai de 3 leds (300Mv) a nenhum led acesso <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\nmas meu carro deu pau e n deu pra reparar direito... tá batendo mistura hiper rica (acende tudo) e o carro n acelera, como se a bateria tivesse ido pro saco... aí acende a luz de injeção e o carro volta a andar um pouco soluçando, e apaga a luz da injeçao, daí um tempo ele quase apaga d novo... daí se eu desligo e ligo ele, vai mais uns 5 mins sem problemas... o tanque tá cheio <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> Além disso, a temperatura sobe muito rápido, em questão de 2 ou 3 minutos já tá em quase 90 graus... mas para nos 90, n aquece mais n...<br/>\n<br/>\nVou levar hoje pra passar o haster pra ver o q tem de problemas...<br/>\n<br/>\nFalando em haster, acredito q até final do mês fica pronto o caseiro, pra ligar no pc... daí pode-se customizar o software pra mostrar o que quiser, na hora que quiser... quando tiver ok eu posto mais detalhes....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-06-01T16:04:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDeu pau na sonda lambda no haster <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> daí desliguei o hallmeter e n deu mais pau <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> vou ter que colocar uma lambda extra pro hall <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\nDaí quero aproveitar e trocar a q tá lá por uma nova, uso a atual só pro haster (aí já fica pronto preu turbar depois <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>)<br/>\n<br/>\nDaí pergunto-lhes:<br/>\n1) A nossa sonda n aguenta ligar junto o hall, tem q ser uma pra injeção e uma pro hall ou minha lambda tá indo pro saco?<br/>\n2) Qual código, preço, etc, da sonda lambda nossa? Ou pode ser qq uma?<br/>\n<br/>\n<br/>\nValeu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2004-06-01T16:11:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu tenho meu Hallmeter na mesma sonda a mais de 2 anos quando deu Pau foi que o fio que estava ligado a sonda entrou agua depois que isolei o mesmo de uma melhor forma nunca mais deu nemhum problema isso ja faz um ano e oito meses\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-06-01T17:22:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMas o meu tá sequinho, n peguei chuva ou poça desde que instalei o hall <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> será q a minha sonda q já foi pro saco ou o 94 é diferente?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-06-01T20:20:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  Aonde vc ligou o hall à sonda? Eu descasquei levemente os fios ali perto do suporte do caput no lado do carona e passei dali pra dentro do carro. Instalando certinho não dá erro não, não precisa outra sonda... e como fica bem em cima, não tem probs com água.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-06-01T23:51:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVirge, entendí nada... pelo q eu conversei com o cara lá, parece q ele ligou os fios lá na sonda diretamente  <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> mas sinceramente não acompanhei nadinha da instalação... só ví as gambis debaixo do painel (o fio do hall vai até aí e dalí vai até algum lugar q liga nos fios da lambda, ou nela mesmo...<br/>\n<br/>\nAproveitando Rod, o esquema do haster tá ficando filé... acredito q tenha um protótipo até final do mês, lembra q conversamos via MSN? Além do cali vai dar pra usar em \"qq carro\". Tudo que se lê da injeção poderá ser apresentada na tela, aí é programação pra apresentar em gráfico, analógico, barras, etc... estamos estudando a possibilidade de fazer via cabo de rede, assim fica mais razoável um RJ-45 no painel do que um DB9 ou DB25...<br/>\n<br/>\nDaí outros projetos serão facin de fazer, tipo leds de progresso de RPM (tipo F1), etc.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-06-02T11:30:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPutz, que show!!! SE tiver como colocar saída pra qq tela, tipo um VIDEO OUT (pra entrada de monitor de PC), fechou pra mim, manda um pra cá! eauhauhaeu tem idéia de definição de tela e coisas do tipo ou o projeto é só pra LCD 2 ou 3 linhas com backlight mesmo?<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-06-02T15:48:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tô rod, agente já conversou sobre isso, mas vamo-la...<br/>\n<br/>\ninicialmente é apenas um conversor ie/pc, o software no pc q vai ser responsável pela exibição. Esse software será feito inicialmente em delphi ou em C++, posteriormente em java pra poder colocar até no celular.<br/>\nSerá de código aberto, assim o comprador do aparelho poderá alterar a tela da forma que quizer. Dessa forma poderiamos ter um cristal líquido de notebook/dvd (ligado a um notebook/pc) no lugar do painel apontando as infos.<br/>\n<br/>\nCom esse projeto pronto e funcional, a segunda fase será fazer um haster portátil independente do PC (mas tb com saída para este), só que beeeeeeeeeeem mais barato do que os presentes no mercado.<br/>\n<br/>\nEm paralelo a isto, podemos estar desenvolvendo coisas personalizadas, tipo quero infos em tempo real num display tipo aqueles de GPS preu colocar no lugar do meu porta-camisinhas do painel, ou qq outra coisa disponível de qq forma desde que seja estudada a viabilidade ($$$) do projeto. Displays inda mais colorido fica muiiiiito caro. Mas, comprando e nos fornecendo \"qq coisa\" é fazível. A terceira coisa mais maravilhosa inventada pelo homem foi o tal do micro-controlador... mas é claro que o estudo de viabilidade do projeto tem que ser analisada... o haster deve ficar (por baixo) em 600 contos (com saída pra PC).<br/>\n<br/>\nCom saída video out ficaria muiiiiiiiiiiiiiiiiiiito mais cara do q vc colocar um notebook (vc acha por 2 contos um legal) pois deveríamos simular uma placa de vídeo, mas vou ver mais detalhes e confirmo. Seria muito bom fazer algo desse tipo pois poderíamos usar telas de DVD para mostrar as infos...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-06-02T18:37:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  Esse lance de o PC funfar pra receber as informações tá + perfeito ainda!!! continuo querendo o meu! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> opensource é o que há... <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-06-03T22:33:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAe, só confirmando, a lambda nossa é a de 3 fios e ponto final, n tem nada \"particular\"? Pode ser usada uma de 4 fios? Preço: por volta de 180 disse o mecânico, mas eu achei por 280 <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span> quem tem a razão?<br/>\nMeu carro n tá fazendo nem 9km/l, isso com mais de 200km do tanque em estrada, acreditamos ser a lambda... Até pq, com o hall ligado ela fica locona...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-06-03T22:39:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSonda lambda...<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=1702\" title=\"\">http://www.clubecali...?showtopic=1702</a><br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

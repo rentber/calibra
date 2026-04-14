@@ -1,0 +1,62 @@
+{
+    "title": "Fórmula válida pra aquaplanagem?",
+    "url": "http://www.clubecalibra.com.br/forum/topic/5226-formula-valida-pra-aquaplanagem/",
+    "id": "5226",
+    "messages": [
+        {
+            "author": "Rodrigo",
+            "date": "2005-08-03T22:30:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRepassando:<br/>\n<br/>\n---<br/>\n<br/>\nAe galera, aprendi ontem consultando um manual de aviacao que existe uma formula geral pra calcular a velocidade aproximada em que ha o risco de ocorrer aquaplanagem: o pneu corre o risco de aquaplanagem quando a velocidade do veiculo e igual a 7.7 vezes a raiz quadrada da pressao do pneu se ele estiver travado (nao rodando) ou 9 vezes a raiz da pressao do pneu se ele estiver rodando, isso em nos (knots), cada knot equivale a 1.8 km/h.<br/>\n<br/>\nEntao por exemplo, um pneu inflado com 35 psi:<br/>\n<br/>\nTRAVADO: 7.7 * sqrt(35) * 1.8 = 81 km/h<br/>\n<br/>\nRODANDO: 9 * sqrt(35) * 1.8 = 95 km/h<br/>\n<br/>\nClaro que outros fatores afetam a aquaplanagem, como a quantidade de agua na pista e o desenho e area de contato do pneu, mas alguem sabe se a formula acima pode ser aplicada a carros e motos tb?<br/>\n<br/>\nAbracos! <br/>\n<br/>\n---<br/>\n<br/>\nhmmm 42... <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> 160km/h...  <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span> <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Slimer",
+            "date": "2005-08-04T01:55:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu já aquaplanei à 60km/h saindo de uma rotatoria\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Eugenio Resende",
+            "date": "2005-08-04T02:11:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsse raciocínio faz sentido pois, quanto mais baixa a pressão, mais fechados ficarão os sulcos em contato com o solo, dificultando a passagem da água. E só. Dizer que o carro vai aquaplanar a partir da velocidade <strong class=\"bbc\">x</strong> é mero chute. Depende do desgaste do pneu (quanto mais desgastado, mais raso o sulco e maior a possibilidade de aquaplanar), do desenho do pneu, da quantidade de água na pista... São tantas variáveis que se torna impossível levar essa fórmula a sério.<br/><br/>[]s<br/>Eugenio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-08-04T04:13:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tUmmm se na fórmula (seja ela qual for) tiver a opção LION, é certeza que vai aquaplanar a 160km/h <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-08-04T04:56:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnAO SERVBE ROD NÃO INVENTA\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-08-04T05:00:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQue absurdo!<br/>\n<br/>\nEssa fórmula ignora as outras 5 trilhões de variáveis que existem no caso.<br/>\n<br/>\nÉ a mesma coisa que tentar calcular o nome de Deus através do peso específico da água.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-08-04T05:02:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tkd o Eduardo Thimberg? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-08-04T05:03:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tmas se agua é vida e deus é vida, pq não calcular o nome dele pelo peso especifico? <br/>\n<br/>\ne qual nome daria o peso especifico de um grão de ciment cola quartsolit?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2005-08-04T05:05:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom to caindo de paraquedas, o que quer dizer a opção LION?<br/>\n<br/>\n<br/>\n<br/>\nOlha acho que o calculo não esta errado não, algumas experiencias que tive ja tinha percebido que o limite entre a aquaplanagem e minimo controle do VGSI embaixo de chuva forte era +/- 70Km/h a 80K/h.<br/>\n<br/>\nEspero ter contribuido. Mas não recomendo são fortes emoções do carro dançando de um lado pro outro e logo retomando o controle que se o motorista se assustar e virar o volante rapidamente tentando corrigir vai rodar bonito.<br/>\n<br/>\nHa eu fiz os calculos e derão 74Km/H para uma pressão de 29PSI que se não me engano é a pressão recomendada pela montadora nos pneus traseiros.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Fabio Melo</b>: 04 agosto 2005 - 02:09\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-08-04T05:06:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO que é Lion?<br/><br/>Resp: <a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=4796\" title=\"\">http://www.clubecali...?showtopic=4796</a><br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-08-04T05:12:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tformula para aquaplanagem real. <br/>\n(p+a)*v=m <br/>\n<br/>\np=pneu<br/>\na=agua<br/>\nv=velocidade <br/>\nm=MERDA!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

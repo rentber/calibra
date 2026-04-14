@@ -1,0 +1,217 @@
+{
+    "title": "HIGH VOLTAGE MAF SENSOR",
+    "url": "http://www.clubecalibra.com.br/forum/topic/3827-high-voltage-maf-sensor/",
+    "id": "3827",
+    "messages": [
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T10:55:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAmigos,<br/>\n<br/>\npela ultimaaa vez eu peço ajuda =( num guento mais encher vc´s...<br/>\n<br/>\n<br/>\nbom, vou resumir....<br/>\n<br/>\nmeu carro tah turbo e tal,, e levei pra oficina pra revisar instalações e tudo mais...<br/>\n<br/>\no erro de injeção continuava o mesmo... ALTA VOLTAGEM DO SENSOR MAF...<br/>\n<br/>\nfizemos de tudo... verificamos chicote (de acordo com o manual da injeção), ligamos dois negativos, comprei (pasmém!) um sensor MAF NOVO!!! e nada adiantou.....<br/>\n<br/>\nno scanner ele marca 5.5v ao invés de marcar entre 0 e 1 volt.<br/>\n<br/>\njá nao sei mais o que fazer.<br/>\n<br/>\nespero que me ajudem... pq esse eh o unico problema que nos resta antes de terminarmos de acertar o carro.<br/>\n<br/>\nvaleu<br/>\n<br/>\nabraço a todos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-01-12T11:10:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO cara mais apropriado para te ajudar nesse caso eo LED\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-12T11:21:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom Pentadex..agora a coisa ficou mais séria. Vc tem certeza que revisou corretamente o chicote do sensor de massa?  Pois isso esta me parecendo fio invertido. Se realmente vc já checou corretamente o chicote, já trocou o sensor de massa, e ainda continua dando esse erro, eu posso te dizer que só resta o módulo estar com pau. Verifique o aterramento do módulo.<br/>\n<br/>\n<br/>\nP.S: Vc resetou a ECU após ter colocado o massa novo? <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T11:40:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcara, revisamos o chicote pelo manual do modulo MOTRONIC 2.8.1 que temos...<br/>\n<br/>\nresetamos a injeção pelo rasther (limpar memoria de avarias) se for isso q vc quer dizer....<br/>\n<br/>\ntem algum outro esquema eletrico do chicote pra mim tentar fazer???<br/>\n<br/>\nvaleu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-01-12T11:57:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDesculpe, vou fazer um comentário imbecil, mas como já via acontecer.<br/>\nVc já tentou usar outro scanner para verificar se essa voltagem está realmente correta. Digo isso pq assistir um carro que no scanner tava marcando temperatura alta (acima de 100º) e a ventoinha ligava só após isso, quando deveria ligar antes. Trocou tudo no carro, termostática, sensor, etc. No final a aferimento de temperatura do scanner tava com pau...vai entender.<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T11:59:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPL,<br/>\n<br/>\nnao achei imbecil seu comentario, pq eh uma hipotese neh... as vezes um comentario assim, na frente gera uma solução.. valeu pela resposta...<br/>\n<br/>\nmas acho q nao eh nao... pq esses scanner eh usado em todos os carros da oficina e marca certinho... e alem disso, a luz da injeção do meu carro tah acessa... e se desligados os fios da ECU, a voltagem cai para 0... ou seja,, está correto.....<br/>\n<br/>\nassim como fiz aquele teste de ASSOPRAR no maf pro carro apagar... mas nada disso heheh..<br/>\n<br/>\ntá  jogando a voltagem maxima que o sensor aguenta... sabe como?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2005-01-12T12:03:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara... SIMPLES...<br/>\nLiga por fora (passa pela janela e o capô) nova fiação dedicada ao MAF (tudo que for relacionado) e testa!<br/>\nSe der pau, é a ECU! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nAbrax,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T12:14:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tErick....<br/>\n<br/>\njah tentamos fazer isso e nada resolveu....<br/>\n<br/>\nliguei na concessionaria.... ECU NOVA = 14.000 reais.. isso mesmo.. QUATORZE MIL REAIS =D<br/>\n<br/>\ndaí tem uma mulher aqui da cidade que tem um calibra, e parece q ela vai ceder o ECU dela pra testarmos<br/>\naehuiaehuiahiae<br/>\n<br/>\nabraço\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2005-01-12T12:19:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTesta com a ECU dela... Com o FIO por fora! Senaum corre o risco de queimar a ECU dela! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nDepois, compra com o Officine uma outra ECU! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nAbrax,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T12:23:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvo testar com o chicote original...<br/>\n<br/>\nserah q pode queimar a ECU Dela?? falando serio... acho q nao neh... tomara q nao aehuiaheiuahe<br/>\n<br/>\nqto q o o Officine quer no ECU dele?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-01-12T12:27:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t14000? Nossa...eu não sabia que era esse absurdo.<br/>\n<br/>\nLegal tentar achar nos desmanches também...<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T12:41:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\taterramento da ECU nao eh....<br/>\n<br/>\nporra, to despesperado.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-01-12T13:18:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPutz Penta se vc estivesse em sampa, podíamos pegar os dois calibras e fazer diversos testes.<br/>\nAcho que esse é o caminho, tentar simular o problema em outro calibra, para então isolar a causa. Colocar o seu módulo no outro cali por exemplo, que está com o chicote 100% e verificar se a temperatura muda...<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T13:22:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPL... <br/>\n<br/>\nesse era o canal neh , vou tentar fazer isso com o calibra emprestado da mulher =D<br/>\n<br/>\nps.: nao eh temperatura.. eh voltagem.. o sensor q estah com problema eh o de MASSA de ar e nao o te temp.<br/>\n<br/>\nvaleu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-12T14:26:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ, muito cuidado com o módulo da mulher. Mas se vc garante que o chicote do seu sensor de massa esta perfeito, então pode ligar direto. Agora se vc ligou errado, aí grandes chances de queimar o módulo da mulher. Mas o jeito mais fácil é esse mesmo, testando com um módulo de um carro que esta funcionando perfeitamente, assim vc já elimina o mistério. Como eu disse no outro post, se todas as informações que vc colocou aqui, procedem(isto é, chicote com ligação perfeita, sensor de massa novo, aterramento da ECU...etc.), então só resta o módulo estar com pau. <br/>\n O Erick deu a boa dica de comprar com o Oficine.. o problema é acha-lo..o cara sumiu do mapa.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-01-12T14:41:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNossa, essa mulher não sabe a loucura que tá fazendo!<br/>\n<br/>\n<span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\nPenta, acho que vc vai ter que trazer o carro pra SP. Garanto que descobrem isso pra vc em minutos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-12T14:43:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTo realmente perdido cara.<br/>\n<br/>\nE o que vc acha de montar assim mesmo (sem MAF)?<br/>\n<br/>\ne regular pelo chip da injeção feito com o emulador?<br/>\n<br/>\nvaleu <br/>\nabraço\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-14T02:45:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPOR FAVORRRRRR.... HELP!!!!<br/>\n<br/>\nalguem tem o esquema eletrico do CHICOTE DO MAF??<br/>\n<br/>\nto perdido.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-01-14T02:59:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCaramba Penta, é uma pena eu não poder ajudar em nada, pois não entendo bulhufas de esquema elétrico... mas o que o Alemones falou é a mais pura verdade: aqui em Sampa conheço pelo menos 01 profissional que encontraria o problema numa boa, ele iria te dizer se é chicote ou ECU e pode confiar. Não que a pessoa que está mexendo no seu cali não entenda do assunto, mas pela minha experiência com as manutenções que já fiz na injeção de todos os carros que eu tive, não é possível que um bom profissional não consiga dizer se o problema está no chicote ou não.<br/>\n<br/>\nBoa sorte, abraço, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2005-01-14T03:24:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVí uma Motronic M2.8 nova por uns R$1000,00<br/>acho que foi na Autoz.<br/><br/>O <a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/upped/ledm28.jpg\" title=\"\">esquema do Led</a> não te ajudou??\n\t\t\t\t\t<div class=\"clearfix\" id=\"attach_wrap\">\n<h4>Imagem(ns) anexa(s)</h4>\n<ul>\n<li class=\"\">\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/post-5-1105673042.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[73445]\" title=\"wire.JPG - Tamanho: 23,56K, Downloads: 1\"><img alt=\"wire.JPG\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/post-5-1105673042.jpg\"/></a>\n</li>\n</ul>\n</div>\n<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-14T03:43:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Fábio-SP\" data-date=\"13/01/2005, 23:59\"><p>Caramba Penta, é uma pena eu não poder ajudar em nada, pois não entendo bulhufas de esquema elétrico... mas o que o Alemones falou é a mais pura verdade: aqui em Sampa conheço pelo menos 01 profissional que encontraria o problema numa boa, ele iria te dizer se é chicote ou ECU e pode confiar. Não que a pessoa que está mexendo no seu cali não entenda do assunto, mas pela minha experiência com as manutenções que já fiz na injeção de todos os carros que eu tive, não é possível que um bom profissional não consiga dizer se o problema está no chicote ou não.<br/><br/>Boa sorte, abraço, Fábio.</p></blockquote> Os caras que estou trabalhando agora com o carro são super competentes.. na area de preparação de motores...<br/><br/>tem aquele notebook que sai emulando com o carro andando, scanner no otro notebook, cheio das manhas....<br/><br/>soh q de eletrica nao entendem!!! e NINGUEM  na minha cidade entende...<br/><br/>agora q eu achei esse esquema eletrico vai ser mais facil!!<br/><br/>abraço.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-14T03:44:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"lukguns\" data-date=\"14/01/2005, 00:24\"><p>Ví uma Motronic M2.8 nova por uns R$1000,00<br/>acho que foi na Autoz.<br/><br/>O <a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/upped/ledm28.jpg\" title=\"\">esquema do Led</a> não te ajudou??</p></blockquote> po cara, aonde q vc achou isso?? VALEU por postar aí, pq agora acho q com esse esquema eu consiga resolver o problema..<br/><br/>VALEU MESMO...<br/>abraço.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-01-14T03:52:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"PentaDex\" data-date=\"14/01/2005, 00:44\"><p>po cara, aonde q vc achou isso?? VALEU por postar aí, pq agora acho q com esse esquema eu consiga resolver o problema..<br/><br/>VALEU MESMO...<br/>abraço.</p></blockquote> Também achei esse esquema do chicote muito interessante.<br/><br/>Não seria mais interessante ainda colocar aonde é que vai plugada cada ponta do chicote, correspondente ao número que aparece?<br/><br/>Para quem entende do assunto, minha pergunta é: dá para fazer uma espécie de lista com os números de cada ponta do chicote, e ao lado de cada nº colocar aonde ela vai plugada?<br/><br/>Abraço, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2005-01-14T03:56:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"PentaDex\" data-date=\"14/01/2005, 00:44\"><p>po cara, aonde q vc achou isso?? VALEU por postar aí, pq agora acho q com esse esquema eu consiga resolver o problema..<br/><br/>VALEU MESMO...<br/>abraço.</p></blockquote><span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span>  Ce tá com problema na injeção e não entrou no GUIA TÉCNICO.<br/>Injeção, sensores e afins são assuntos quase encerrados, no Guia tem tudo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>lukguns</b>: 14 janeiro 2005 - 00:57\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-14T11:55:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Paulo Caramico ta vendendo um módulo de injeção da Motronic 2.8 por 350,00 reais. <br/>\n<br/>\nE sou de acordo com o pessoal, um profissional deveria conseguir localizar o erro. <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-01-14T15:02:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tda 5.5v direto ??<br/>\nMotor ligado e desligado??<br/>\nIgnicao ligada e desligada??<br/>\ncom e sem sensor ??<br/>\n<br/>\n<br/>\nNo sensor<br/>\npino 1 terra  (sempre terra. mesmo ignicao desligada)<br/>\npino 2 Esse eu to na duvida .. nao sei se é 5V ou Terra (mas nele so deve ter sinal com a Ignicao ligada, e esse terminal tb é ligado nos sensores de temperatura)<br/>\npino 3 Alimentacao 12v (so com ignicao ligada)<br/>\npino 4 Sinal<br/>\nesse sensor nao trabalha de 0 a 1v .. ele trabalha de 0 a 4.8v<br/>\nmarcha lenta marca mais ou menos 0,7v a 0,8v<br/>\nplena carga a 6500 rpm \"aspirado\" 4,2 a 4,5v<br/>\n<br/>\n<br/>\nVe ai<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Led Zeppelin</b>: 14 janeiro 2005 - 12:07\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-14T15:06:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeuuuuuuu!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-01-14T16:57:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPo Penta o erro é obvio, ta dando fundo de escala no maf por causa do turbo, simples assim.<br/>\nCompra um diodo zenner de 4,8v e instala lá para não deixar o sinal passar de 4,8 v e não dixar a injeção maluca. Pergunta por Led como instala o diodo zener que eu não lembro. Custa coisa de 1 real o diodo. <br/>\nPo esse seu preparador não entende nada de injeção, hein.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-14T17:31:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Po Penta o erro é obvio, ta dando fundo de escala no maf por causa do turbo, simples assim.<br/>Compra um diodo zenner de 4,8v e instala lá para não deixar o sinal passar de 4,8 v e não dixar a injeção maluca. Pergunta por Led como instala o diodo zener que eu não lembro. Custa coisa de 1 real o diodo. <br/>Po esse seu preparador não entende nada de injeção, hein.</p></blockquote><br/>Não é o sensor de massa estourando voltagem por alto fluxo, pois quando ele liga o carro(segundo a explicação dele) já da 5 volt no retorno. Se fosse devido ao fluxo excedente pelo turbo, esse erro só iria acusar quando a turbina enchesse, e não quando acaba de ligar o carro.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-01-14T17:31:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcho que o Marcio liquidou o assunto.<br/>\n<br/>\n<span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-14T17:37:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>esse sensor nao trabalha de 0 a 1v .. ele trabalha de 0 a 4.8v<br/>marcha lenta marca mais ou menos 0,7v a 0,8v<br/>plena carga a 6500 rpm \"aspirado\" 4,2 a 4,5v</p></blockquote><br/>Acho que o Pentadex quis dizer que na marcha lenta deveria trabalhar entre 0 a 1 volt no retorno da voltagem para a ECU. E realmente deveria. Pelo que entendi, ele liga o carro, e já da 5 volts no retorno. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-01-14T17:38:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tele nao deixou claro em que ora ocorre esse 5.5v ..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-01-14T17:50:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"14/01/2005, 14:31\"><p>Não é o sensor de massa estourando voltagem por alto fluxo, pois quando ele liga o carro(segundo a explicação dele) já da 5 volt no retorno. Se fosse devido ao fluxo excedente pelo turbo, esse erro só iria acusar quando a turbina enchesse, e não quando acaba de ligar o carro.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida</p></blockquote> Ele não disse em que momento que o sensor da 5,5V,mas como o carro é turbo e imagino não estar usando clamper de maf, ainda acho que é fundo de escala por fluxo....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Caramico",
+            "date": "2005-01-14T17:52:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPENTA TENHO O MODULO POR 350 reais se vc prescisar me dá um toque\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-14T17:56:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPra mim, quando ele colocou isso:<br/><blockquote class=\"ipsBlockquote\"><p>no scanner ele marca 5.5v ao invés de marcar entre 0 e 1 volt.</p></blockquote><br/>Já da para pré-entender que ele esta fazendo os testes com o carro parado. Primeiro pq esses scanners de oficina, em maior parte são instalados em um computador PC, e não portátil. E depois, pelo fato dele colocar que deveria variar de 0 a 1 volt, provavelmente essa foi a informação que o mecânico passou pra ele, que na marcha lenta o sensor de massa não deveria retornar voltagem superior a 1 volt. <br/> Então, analisando esses fatos, da para pré-entender que quando ele liga o carro, já estoura voltagem. <br/> E com o carro no neutro, a turbina não enche muita pressão, pois vc não consegue gerar back-pressure suficiente, só se segurar muito tempo em uma faixa de giro elevada, por isso, é bem difícil ele estourar voltagem do sensor, carregando a turbina no neutro. <br/> Mas realmente falta ele dar uma explicação melhor, com mais fatos. Assim fica difícil encontrar o problema, ficamos entre inúmeras possibilidades quando abrimos o leque.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Matheusc20xe</b>: 14 janeiro 2005 - 14:58\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-01-14T18:07:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\texato, se for com o carro parado não tem como dar 5,5 v so com fluxo de turbina, seria impossivel sem carga motor. <br/>\n<br/>\nVamos esperar o dono se pronunciar, mas se o problema for 5,5v travado em situação, alimente o sensor com 12v e desconecte a saida dele da central e meça a saida. Tem que voltar a marcar 0-1v em lenta.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>marcio.leal</b>: 14 janeiro 2005 - 15:07\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-14T18:19:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE ai pessoal...<br/>\n<br/>\nagora acho que com tanta gente ajudando, seja mais facil de chegar no problema e resolve-lo!! desde já mto obrigado a todos...<br/>\n<br/>\nentao, o scanner é num notebook, mas nem chegamos a sair com o carro pra que o sensor estoure a quantia de 5.5v, já em marcha lenta ele só acusa 5.5, desde que o carro é ligado.<br/>\n<br/>\ncomo nao sei quem de vc´s me falou esses dias, o sensor SÓ mede 5.5, por isso talvez ele até esteja mandando MAIS que isso,, mas como só é medido até 5.5 o excesso é ignorado.<br/>\n<br/>\neu concordo com o marcio que depois que a turbina encher, precisarei instalar um diodo ou um clamper... mas até chegar lá acho que ainda demora heheh...<br/>\n<br/>\neu ja passei os esquemas eletricos do MOTRONIC 2.8 pro pessoal lá, vamos ver o q eles me dizem...<br/>\n<br/>\n<br/>\nBOM... RESUMINDO o que aconteceu ontem:<br/>\n<br/>\nSaimos com o carro, mesmo com o erro do sensor, emulando no notebook... na terceira puchada, enchendo 0.6, mistura perfect, 6 bar de combustivel.. um BARULHO no motor e o mesmo começa a RATIAR... PQP, pensamos...<br/>\n<br/>\ndepois desmontaram o cabeçote, tudo... SABEM O QUE QUE ERA?? a borrachinha de vedação do BICO INJETOR que foi pra dentro do MOTOR... pqp...<br/>\n<br/>\nhj tao montando de volta...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-01-14T18:43:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu oring de bico cuspiu com 1 bar de turbo, devia estar mal instalado!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-14T18:49:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcho que acertei em minhas deduções..<br/>\n<br/>\nPor isso to achando que tem erro no chicote.. devem ter colocado a alimentação no lugar do terra. Se não for chicote errado, não vejo outra saída, a não ser o módulo com pau.<br/>\n<br/>\nPenta, vc já tentou aquela dica que eu te disse, de colocar um terra extra direto no negativo da bateria até o terra do sensor? <br/>\n<br/>\n<br/>\nQuanto ao o-ring escapar, nunca aconteceu comigo. Deve ser o-ring velho. Sempre que eu mexo na flauta de um carro, e vejo que os o-rings já estão meio ressecados, eu troco. <br/>\nVc esta com uma bela pressão na linha de combustível, certifique que todas mangueiras e abraçadeiras estão boas o suficiente para suportar o uso dessa pressão sem vazamento/ruptura.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-14T19:12:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnao sei se esse o ring que vc's estao falando eh o mesmo que caiu pra dentro do motor... depois se der eu tiro fotos...<br/>\n<br/>\nMatheus, tentei fazer o que vc falou da ligar o negativo mas nao deu mto certo...<br/>\n<br/>\nvou tentar fazer o chicote inteiro novamente pelo esquema que eu puxei ai no site.<br/>\n<br/>\nvaleu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-01-14T19:25:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>nao sei se esse o ring que vc's estao falando eh o mesmo que caiu pra dentro do motor... depois se der eu tiro fotos...</p></blockquote><br/>Não vejo como ser outra \"borracha\" de vedação, dos bicos injetores, a única vedação são os o-rings.<br/><br/>Veja a foto dos meus Rochesters abaixo, os o-rings são essas duas borrachinhas verdes nas extremidades:<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.megagaleria.com/pictures/Pic_1984_26.jpg\"/></span><br/><br/>Agora olhando de cima:<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.megagaleria.com/pictures/Pic_1984_27.jpg\"/></span><br/><br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "PentaDex",
+            "date": "2005-01-15T01:45:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teh ... soh que no meu bico sao diferentes..<br/>\n<br/>\nseria como se fosse a borracinha verdinha + a borrachinha preta desse teu bico.....<br/>\n<br/>\neh bem maior a peça do meu bico q foi pra dentro....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

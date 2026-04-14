@@ -1,0 +1,47 @@
+{
+    "title": "Sensor Hall  - Tensão Baixa",
+    "url": "http://www.clubecalibra.com.br/forum/topic/4271-sensor-hall-tensao-baixa/",
+    "id": "4271",
+    "messages": [
+        {
+            "author": "MasterRey",
+            "date": "2005-03-03T16:14:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpra quem não sabe meu carro dava erro de sensor maf , ai desmontei toda a admissão de ar limpei e mudei o maf de lugar, resetei a ecu e o codigo 73 sumiu e o carro parou de falhar; mas agora aparece esse erro: Código: 093 - Sensor Hall  - Tensão Baixa <br/>\ne ae? onde é essa porra?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-03T16:30:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSensor hall eh o sensor q fica do lado direito do motor ( olhando de frente )<br/>\n<br/>\nExatamente o sensor q queimou do alemao segunda feira!<br/>\n<br/>\nEle fica dentro daquela pecinha meio redonda ali, mto facil de enxergar ( alias, dificil de NAO enxergar, hehe )\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-03T17:12:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tExatamente como o Puppets falou.. É o sensor de fase do comando, ele serve para a função sequencial da Motronic 2.8, através dele que ela sabe o tempo certo de ativar cada bico. Se a Motronic 2.8 fosse uma injeção simultânea convencional, não precisaria desse sensor hall, apenas o sensor de fase da roda fônica no virabrequim seria o suficiente. <br/>\n Pelo jeito esse sensor tem uma certa fragilidade ou é vulnerável a alguma coisa. Além do sensor do Calibra do Alemão e do MasterRay ter ido para o vinagre, o do Edson também foi, inclusive, vendi o meu sensor que eu tinha aqui em casa para ele. <br/>\n<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-03T17:29:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu foi no meio do ano passado tb.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "NightRider",
+            "date": "2005-03-11T10:13:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"3/03/2005, 14:12\"><p>Exatamente como o Puppets falou.. É o sensor de fase do comando, ele serve para a função sequencial da Motronic 2.8, através dele que ela sabe o tempo certo de ativar cada bico. Se a Motronic 2.8 fosse uma injeção simultânea convencional, não precisaria desse sensor hall, apenas o sensor de fase da roda fônica no virabrequim seria o suficiente. <br/> Pelo jeito esse sensor tem uma certa fragilidade ou é vulnerável a alguma coisa. Além do sensor do Calibra do Alemão e do MasterRay ter ido para o vinagre, o do Edson também foi, inclusive, vendi o meu sensor que eu tinha aqui em casa para ele. <br/> <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. almeida</p></blockquote> Pois é, o meu sensor foi pro vinagre mesmo, agora o carro tá melhor com o sensor que comprei do matheus, porem ainda continuo com a mistura rica...que m.... agora vou trocar o regulador de pressao de comb. se isso nao resolver vou dar é um tiro na cabeça :sm22  :sm22  :sm22  :sm23  :sm23\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-11T14:45:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tguia técnico, tem tudo lá!<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-03-11T14:56:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Marcio Leal comprou um regulador de pressão com regulagem , se não me engano e mais barato que o original.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-03-11T17:49:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcaras meu carrro esta redondo fora a sonda lambda com mal contato , mesmo assim ele não falaha não engasga não morre e não falta potencia, será q não é mal contato nesse hall?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

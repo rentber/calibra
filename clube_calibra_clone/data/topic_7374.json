@@ -1,0 +1,32 @@
+{
+    "title": "Teste Do Sistema Abs",
+    "url": "http://www.clubecalibra.com.br/forum/topic/7374-teste-do-sistema-abs/",
+    "id": "7374",
+    "messages": [
+        {
+            "author": "lucaskj",
+            "date": "2006-04-06T01:04:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom pessoal como eu não se já tem esse topico no guia tecnico, vou coloca-lo aqui...<br/>\n<br/>\nSISTEMA BOSCH 2E do ABS<br/>\n<br/>\nTEMPRA TURBO / VECTRA A / CALIBRA<br/>\n<br/>\n<br/>\nLocalização:<br/>\nPróximo cilindro Mestre<br/>\n<br/>\n<br/>\nCOMO ATIVAR O CÓDIGO DE PISCADAS<br/>\n<br/>\nPara \"ativar\" o código de piscadas interligar os pinos \"A\" e \"K\" no conector de diagnóstico do Vectra, pode ser com um clips aberto.<br/>\n<br/>\n<br/>\n<br/>\nAgora de o contato sem ligar o carro e acompanhe o numero de piscadas da luz do ABS no painel.<br/>\nOs codigos sao formados por 2 numeros. Voce devera contar o numero de piscadas da lampada<br/>\nUma pausa longa ( lamp desligada) significa que as piscadas passaram a indicar o segundo digito dos codigos, quando houver outra pausa longa, indica que ira para o proximo numero do erro. Quando acabar de mostrar todos os erros, ele ira fazer um loop e mostrar os erros novamente.<br/>\n<br/>\n<br/>\nCÓDIGOS DE FALHAS<br/>\n<br/>\nCÓD - COMPONENTES / DEFEITO<br/>\n12 -Nenhum defeito memorizado<br/>\n16 -Válvula solenóide dianteira esquerda /Com defeito<br/>\n17 -Válvula solenóide dianteira direita /Com defeito<br/>\n18 -Válvula solenóide trasira /Com defeito<br/>\n19 -Relê das válvulas solenóide / Com defeito<br/>\n25 -Anel de impulsos das rodas / Número de dentes errado<br/>\n35 -Motor da bomba / Com defeito<br/>\n37 -Interruptor da luz do freio / Interrupção<br/>\n39 -Sensor de rotação dianteiro esquerdo / Sinal defeituoso ou sem sinal<br/>\n41 -Sensor de rotação dianteiro esquerdo / interrupção<br/>\n42 -Sensor de rotação dianteiro direito / Sinal defeituoso ou sem sinal<br/>\n43 -Sensor de rotação dianteiro direito / interrupção<br/>\n44 -Sensor de rotação traseiro esquerdo / Sinal defeituoso ou sem sinal<br/>\n45 -Sensor de rotação traseiro esquerdo / interrupção<br/>\n46 -Sensor de rotação traseiro direito / Sinal defeituoso ou sem sinal<br/>\n47 -Sensor de rotação traseiro direito / interrupção<br/>\n48 -Tensão da bateria / Muito baixo<br/>\n55 -Unidade de comando / Com defeito<br/>\n56 -Diagnose por pulsos / Falha de operação<br/>\n<br/>\n<br/>\nCOMO APAGAR A MEMÓRIA DE FALHAS<br/>\n1º Modo<br/>\nLigar a ignição, aguardar a lâmpada do ABS no painel apagar e desligar a ignição.Repetir este procedimento 20 vezes!<br/>\n<br/>\n2ºModo<br/>\nresetar o a ECU!<br/>\n<br/>\nfonte: Vectra Clube.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-04-06T03:25:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLegal lucas, eu ja tinha essa informação, mas o pessoal diz que isso não funciona nos calibras 95 e acima, posso confirmar que no meu VGSi funciona perfeitamente.<br/>\n<br/>\nAlias to precisando arrumar o sensor de roda esquerda direita, so arrumar um pouco de fita de autofusão e o fio ta facil de arrumar.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2006-04-06T03:59:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tno meu calibra 94 também não funciona.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2006-04-06T12:31:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ta regra nao é o ano do carro ...<br/>\n<br/>\neu ja tinha postado isso a um bom tempo ..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-04-11T14:24:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDescupa Led, não tinha visto outros posts  a respeito, mas era a informação que eu tinha.<br/>\n<br/>\nAgora ninguem viu a besteira \"mor\" que escrevi junto  \"estou com problema no sensor ESQUERDO DIREITO\", na verdade esquerda dianeteira e so não fiz ainda porque quero fechar tudo com fita de autofusão pra não ter problema de infiltrar aqua e dar mal contato de novo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

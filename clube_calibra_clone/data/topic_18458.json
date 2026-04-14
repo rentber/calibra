@@ -1,0 +1,22 @@
+{
+    "title": "Lenta Acelerada",
+    "url": "http://www.clubecalibra.com.br/forum/topic/18458-lenta-acelerada/",
+    "id": "18458",
+    "messages": [
+        {
+            "author": "aldrigues",
+            "date": "2020-04-07T01:12:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:01 +0000-->Boa noite, meu Calibra sempre quando frio ficou com a lenta mais acelerada, depois de um ou dois minutos estabilizava. Agora está acontecendo exatamente ao contrário, ligo e ele fica na lenta lisinho e depois de um ou dois minutos eles fica com a lenta acelerada, acima dos mil rpm. O carro não falha nem oscila a lenta, a mesma fica acelerada. Alguém já passou por isso com seu Calibra para que eu possa verificar?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2020-04-09T05:12:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:01 +0000--><p>Verifique se não há o que chamam de \"entrada de ar falso\" na admissão. Isso acontece quando alguma mangueira rasga e o motor aspira ar após o sensor MAF.</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "aldrigues",
+            "date": "2020-04-09T15:56:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:01 +0000-->Acabei de acertar o carro, o atuador de lenta tava travao imundo, limpei com car80 ligando direto na bateria, ficou top. Valeu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>aldrigues</b>: 09 abril 2020 - 12:57\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        }
+    ]
+}

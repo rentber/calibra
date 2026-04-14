@@ -1,0 +1,122 @@
+{
+    "title": "[PLUG] Dados gerais",
+    "url": "http://www.clubecalibra.com.br/forum/topic/5241-plug-dados-gerais/",
+    "id": "5241",
+    "messages": [
+        {
+            "author": "Puppets",
+            "date": "2005-08-05T16:46:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAi galera, seguinte:<br/><br/>Eu tava pensando em fazermos uma tabela no excel com cada informacao de cada carro, q seja diferente de outros, tal como o cabeçote, e o PLUG.<br/><br/><strong class=\"bbc\">P: Mas pq o plug?</strong> <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/><br/>Estive dando uma olhada melhor sobre o plug com o Seco, e algumas coisas foram descobertas, e estas podem desmistificar a diferenca de comportamento entre cada carro com o Plug.<br/><br/>Eu ia tirar fotos mais detalhadas, mas hj nao terei tempo. Assim q sobrar um tempo eu faco as fotos do q falarei agora.<br/><br/>Peço q, assim como vcs tiveram a paciencia de olhar o cabeçote de vcs, e postar aki, para relacionarmos com os chassis, retirem o plug de vcs, e postem algumas perguntinhas:<br/><br/>Coloquem o plug sobre a mesa, com a letra A virada pra cima. Caso o seu plug seja de numeros, creio q o numero 91 deva ficar para cima. Agora virem os pinos metalicos para sua direcao.<br/><br/>Com um multimetro, meçam a resistencia entre o pino a esquerda, e o do meio. Anotem. ( Medida RA )<br/>Agora utilizem o pino do meio, e o da direita. Anotem. ( Medida RB )<br/>Anotem a cor do plug. <br/>Anote se o seu plug eh do tipo A-B ou 91-95.<br/>Perto dos pinos metalicos, existe um pequeno numero na parte plastica. Anotem tb.<br/><br/><strong class=\"bbc\">Pq tudo isso?</strong> <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/><br/>Bom, no carro do seco, as informacoes sao as seguintes:<br/><br/>Plug Marrom tipo A-B<br/>Resistencia RA - 470 Ohms<br/>Resistencia RB - 220 Ohms<br/>Numero interno - 7<br/><br/>No meu carro:<br/><br/>Plug Marrom tipo A-B<br/>Resistencia RA - 470 Ohms<br/>Resistencia RB - Resistencia Infinita ( Resistor queimado, ou fio rompido )<br/>Numero interno - 6<br/><br/>No carro do Leo, nao conseguimos medir as resistencias, pois nao tinhamos o multimetro, mas o plug tb eh marrom tipo A-B, e o numero interno era 4.<br/><br/>Como percebemos q o meu plug nao funciona na posicao B, porem eu já andei com ele ali, conseguimos dar a resposta a uma pergunta q mtos tinham, mas ninguem tinha coragem de testar:<br/><br/><strong class=\"bbc\">O carro liga sem o plug?</strong> <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/><br/>Sim, ele liga. O carro assume valores padroes. Como experiencia propria, qdo o carro ta SEM plug, a marcha lenta fica em 1000rpm, e o carro ganha mais torque em baixa. Bom, isso deve acontecer como um \"safe-mode\" da injecao, sei lah.<br/><br/>Ta ai a explicação do carro do JC ficar com 1000rpm de marcha lenta com o plug no A.<br/><br/>Então, vamos fazer o seguinte:<br/><br/>Cada um responde um formulario abaixo nas mensagens, e vamos criar uma tabela mais completa sobre os carros. Jã temos informacao boas sobre cabeçote, vamos colocar dos plugs tb.<br/><br/><span style=\"color: blue\"><strong class=\"bbc\">Formulario:<br/><br/>Plug ( Marrom/Amarelo/Preto ) Tipo ( A-B/91-95 )<br/>Resistencia RA - XXX Ohms<br/>Resistencia RB - XXX Ohms<br/>Numero interno - X</strong></span><br/><br/>Alguem poderia tb colocar isso tudo no excel, junto com os chassis, e cabeçotes.<br/><br/>Por enquanto eh isso, se eu me lembrar mais de alguma coisa, posto aqui.<br/><br/>[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2005-08-05T16:52:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÓtima iniciativa de vcs!!<br/>\nLogo logo teremos \"super chips\" que com certeza serão feitos pra cada carro, e vamos ver resultados surpriendentes pelo jeito <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-08-05T16:57:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVou fazer, mas acho que não é todo mundo que tem multímetro à mão para fazer o teste hein?<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-08-05T17:00:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVcs de SP: Quem tiver multimetro, leve no posto. Isso nao demora nem 2 minutos pra fazer.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2005-08-05T19:37:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFicava no A em 1000 rpm com chip da foto igual ao do célio ( foto do super chip original de fábrica hehe) e no B era 800 giros .<br/>\n<br/>\neu andava no B pois foi assim que eu o comprei e no B com 800 giros o carro andava mais \" era mais bravo até o barulho do motor era mais forte ) depois do superchip feito com base do meu antigo chip, continuei andando no B e com 800 giros . a diferença era brutal.<br/>\n<br/>\ndica aumentem o limitador do carro pois dá para esticar mais as marchas e não desbiela não. pelo menos o meu não desbielou uhauhhua. batia em 4º 200 fácil e até ultrapassava, mas como motor já tava cheio era melhor espetar uma quinta . legal é que a 200 por hora o consumo instâtaneo era de 10 no CP / 100 kmh<br/>\n<br/>\nespero ter ajudado e que vocês tenham um super chip.<br/>\n<br/>\nJC o pôlemico<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-08-06T00:31:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOu o plug do JC estava invertido, ou ele nao sabia qual a posicao real q o plug estava colocado, ou alguem mexeu no conector invertendo os bornes originais pegando o lado oposto.<br/>\n<br/>\nFoi exatamente o contrario nas rotacoes do q a maioria disse <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Fritz",
+            "date": "2005-08-06T13:05:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> SENHORES <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/>\n<br/>\n   To na empresa agora e arrumei um tempinho pra dar uma verificada no assunto. Meus resultados estão aí em baixo:<br/>\n<br/>\nDados do Cali: 95/95 - B5S111601B<br/>\nPlug Marrom ( A - B )<br/>\nRA = 470 Ohms (800rpm) OK<br/>\nRB = 220 Ohms (1000rpm) OK<br/>\nNúmero do Plug = 3 ( <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> ) sei lá o que significa!<br/>\n<br/>\nBem meu carro ta rodando bem redondo, sem falhas. <br/>\nAhaaa... reparei que o mesmo \"3\" fica também do lado de fora ao lado das letras AB na \"curva\" que tem entre as letras <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> , do outro lado tem o símbolo do bico injetor.<br/>\nEspero que seja uma ajuda pro desenvolvimento do <br/>\nSuper Ultra Mega Power CHIP  <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/>\nINTË pro ceis...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2005-08-06T20:49:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJC, até onde eu sei o motor do Calibra corta a 6800rpm sendo que 1º 60, 2º 100, 3º140, 4º200 e 5º ...<br/>\ncorta BEM pouco depois disso...<br/>\nDizer que em quarta a 200km/h e o motor \"tranquilão\" é fodiz heim...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-08-06T21:34:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\topa, corta a 7200rpm.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2005-08-06T21:41:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMas em termos de velocidade não errei, right?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Léo",
+            "date": "2005-08-06T22:10:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTá certo <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-08-06T22:23:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu dei 7200 em 5a, parece que todo calibra chipado o corte muda pra 7200. O meu corsa é igual . não pedi para mexer em corte  mas o corte pulou para 7200.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-08-06T22:26:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\toriginal 'no pau' as vezes a central deixa ele girar 7200 tb, já fiz isso com meu red e quem reprogramou o chip foi a própria GM, então sem chance de não ter sido com a programação original aeueheuah mas nao é o 'normal' nem o comum, só em situações limites e com central bem acostumada aehuaeuh <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2005-08-06T22:34:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOloko!<br/>\nCalibra a 7200rpm em 5º tem ideia de velocidade??<span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-08-07T12:34:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t260 real usando pneu na medida original.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>marcio.leal</b>: 07 agosto 2005 - 09:35\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2005-08-07T13:53:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPoutz, ta ótimo!<br/>\nmas isso seu carro estava já não estava original né?<br/>\nmas foi bom saber que pela relação original se tiver um big descidão da pra pegar isso auheahe<br/>\n<span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-08-08T01:53:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPor favor, nao vamos desvirtuar o topico <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2005-08-08T20:53:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"6/08/2005, 19:26\"><p>original 'no pau' as vezes a central deixa ele girar 7200 tb, já fiz isso com meu red e quem reprogramou o chip foi a própria GM, então sem chance de não ter sido com a programação original aeueheuah mas nao é o 'normal' nem o comum, só em situações limites e com central bem acostumada aehuaeuh <br/><br/>[]s<br/>Rodrigo<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=112975\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>isso ae Rod.<br/><br/>depois de 2 anos e meio de pé em baixo desde que eu comprei o calibra a central tava mais do que acostumada .<br/><br/>era 100 % modo Sporte  <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-08-08T20:57:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão tenho voltímetro pra testar.<br/>\n<br/>\nQuero saber onde que as curvas ficam mais agressivas, se usando 470 ou 220 ma.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-08-08T21:12:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComprem<br/><br/>PL<br/><br/><br/><a class=\"bbc_url\" href=\"http://www.mercadolivre.com.br/jm/item?site=MLB&amp;id=30857304\" rel=\"nofollow external\" title=\"Link externo\">http://www.mercadoli...MLB&amp;id=30857304</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-08-16T18:36:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNossa, agora q vi quantos fizeram o teste <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2007-05-30T19:44:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHá um boato de que, com o plug A, o carro fica melhor em altas rotações, mas mais gastão; e de que, no plug B, melhora em consumo e baixas rotações. <br/>\nHá outro boato de que o Plug B serve para atender às normas ambientais de determinados países. <br/>\nMas são só boatos. <br/>\n<span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2007-05-30T19:45:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa, com plug no B q fica mais gastão hein. Só não te dou um puxão de orelha, pq era apenas <strong class=\"bbc\">BOATO!</strong>\n<br/>\n</div>"
+        }
+    ]
+}

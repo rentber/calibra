@@ -1,0 +1,52 @@
+{
+    "title": "Injeção",
+    "url": "http://www.clubecalibra.com.br/forum/topic/7928-injecao/",
+    "id": "7928",
+    "messages": [
+        {
+            "author": "cealima",
+            "date": "2006-06-16T13:44:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMeu chip original foi remapeado pro meu carro andar no alcool.....outro dia fiquei sem bateria, e tirei ela para dar uma carga, ficou um dia sem bateria nenhuma no carro....qndo eu coloquei ela, com o tanque cheio de alcool, o carro não para de falhar, será q a injeção resetou e voltou para a gasolina, alguem pode me ajudaR????\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2006-06-16T14:02:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\té impossivel a programação voltar para a gasolina, visto que a existe uma eprom onde é gravada os dados do remapeamento. Se der algum problema nessa eprom o carro nem liga.<br/>\nSeu carro tem algum outro defeito, procure um mecanico, pode ser um monte de coisas.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "cealima",
+            "date": "2006-06-16T16:13:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMas antes do carro ficar sem bateria, ele tava td ok, depois q ele ficou sem bateria q começou a dar esse problema\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2006-06-16T17:35:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teeprom de janela so apaga depois de algumas desenas de minutoes embaixo de luz UV ...<br/>\n<br/>\neeprom guarda seu conteudo  por mais de 100 anos sem alimentacao<br/>\n<br/>\nno Chip da IE, que é uma eeprom, nao tem bkp do prog antigo, entao nao tem como voltar ao que era assim do nada ...<br/>\n<br/>\nseu carro tem outro prob ... nao é o chip ...<br/>\n<br/>\no Reset que se da na IE sao para apagar parametros temporarios como regulagem de ML, calculo de octanagem... e tb para apagar os codigos de falhas do diagnostico<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Led Zeppelin</b>: 16 junho 2006 - 14:38\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "cealima",
+            "date": "2006-06-16T18:47:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVALEW PELA AJUDA DE VCS.....ABRAÇOS\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2006-06-16T20:04:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tserio cara .. o prob é outro ...<br/>\n<br/>\nnao fique irritado ..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "cealima",
+            "date": "2006-06-16T20:52:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão to irritado....to agradecendo pela ajuda mesmo....ehehehhehe, desculpa....to agradecendo mesmo, pois achava q era isso, pois eu tava vendo em uns topicos antigos como fazia pra reseta a injeção e td mais......pelo menos eliminei o problema, agora tenho q levar pro mecanico mesmo.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "cealima",
+            "date": "2006-06-19T13:24:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE ae galera, só pra esclarecimento, meu carro estava falhando por um problema supoer besta....tava com a mangueira de combustivel com um furo, tava dando entrada de ar na linha...por isso ele falhava....valew de novo pela ajuda...abraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2006-06-20T01:51:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tque bom que resolveu! bem-vindo!<br/>\n<br/>\n[]s Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

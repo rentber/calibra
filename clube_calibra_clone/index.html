@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clube Calibra - Fórum Offline</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body id="ipboard_body">
+    <div id="header_bar">
+        <div class="main_width">
+            <div id="user_navigation">
+                <span>Bem-vindo, renato (OFFLINE)</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="branding">
+        <div class="main_width">
+            <div id="logo">
+                <h1 style="color: #800000; font-size: 32px; padding: 20px 0;">CLUBE CALIBRA BRASIL</h1>
+            </div>
+        </div>
+    </div>
+
+    <div id="primary_nav">
+        <div class="main_width">
+            <ul id="community_app_menu">
+                <li class="active"><a href="index.html">Fórum</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="content" class="main_width">
+        <div id="search_box" style="margin-bottom: 20px; padding: 15px; background: #f7f7f7; border: 1px solid #ddd;">
+            <input type="text" id="search_input" placeholder="Buscar tópicos ou mensagens..." style="width: 80%; padding: 10px;">
+            <button onclick="performSearch()" style="padding: 10px 20px; background: #800000; color: #fff; border: none; cursor: pointer;">Buscar</button>
+        </div>
+
+        <div class="category_block">
+            <h3 class="maintitle">:: MANUTENÇÃO & DÚViDAS DETALHADAS ::</h3>
+            <table class="ipb_table" id="topic_list">
+                <thead>
+                    <tr class="header">
+                        <th style="width: 5%"></th>
+                        <th>Tópico</th>
+                        <th style="width: 15%">Respostas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Tópicos serão carregados aqui -->
+                </tbody>
+            </table>
+        </div>
+
+        <div id="topic_view" class="hidden">
+            <button onclick="showTopicList()" style="margin-bottom: 10px; padding: 5px 10px;">← Voltar para lista</button>
+            <h2 id="current_topic_title" class="ipsType_pagetitle"></h2>
+            <div id="messages_container"></div>
+        </div>
+    </div>
+
+    <script src="assets/js/app.js"></script>
+</body>
+</html>

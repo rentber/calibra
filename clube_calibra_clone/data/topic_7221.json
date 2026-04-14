@@ -1,0 +1,107 @@
+{
+    "title": "Cálculo Do Tamanho Dos Pneus",
+    "url": "http://www.clubecalibra.com.br/forum/topic/7221-calculo-do-tamanho-dos-pneus/",
+    "id": "7221",
+    "messages": [
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-21T08:12:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlá Pessoal,<br/><br/>Para quem estiver querendo trocar as rodas e/ou escolher outro pneu, e estiver querendo saber qual vai ser o tamanho do pneu novo e a diferença de altura que ficará entre os dois pneus, utilize a fórmula abaixo:<br/><br/>TAMANHO =(RODA x 2,54) + {2 x [(PERFIL*LARGURA)/1000]}<br/>Roda (pol), Perfil (%) e Largura (mm), Tamanho (cm)<br/><br/>Ou se quiser, é só utilizar a planilha abaixo (em EXCEL). Você entra com os dados dos pneus/rodas, e a diferença de tamanho entre os pneus é mostrada...<br/><br/><a class=\"bbc_url\" href=\"http://www.eletronz.com/calibra/calculo_pneus.xls\" rel=\"nofollow external\" title=\"Link externo\">Planilha para cálculo do tamanho do pneu (Excel - 93kb)</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-03-21T14:34:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLuiz tinha um link bem legal que mostrava isso em forma de grafico aqui no site mesmo só não lembro onde ele esta.<br/>\n<br/>\nMas legal a iniciativa eu ja esto copiando pra mim.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2006-03-21T15:28:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ta mesma praça, o mesmo banco... <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-21T15:41:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu já tinha visto em algum tópico essas explicações, mas não tinha como fazer um cálculo automático.. <br/>\n<br/>\nMas fica aí mais um opção então, se algum administrador souber que tópico é e quiser juntar tudo fiquem a vontade <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2006-03-21T17:16:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Fabio Melo\" data-date=\"21/03/2006, 11:34\"><p>Luiz tinha um link bem legal que mostrava isso em forma de grafico aqui no site mesmo só não lembro onde ele esta.<br/><br/>Mas legal a iniciativa eu ja esto copiando pra mim.<p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=162044\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><a class=\"bbc_url\" href=\"http://www.miata.net/garage/tirecalc.html\" rel=\"nofollow external\" title=\"Link externo\">http://www.miata.net...e/tirecalc.html</a><br/><span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-21T20:54:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMuito Legal esse, valeu!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2006-03-23T15:39:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsses calculos são furados, pois pneus de mesma medidas e modelos e fabricantes diferentes, apresentam diametro diferentes.<br/>A pratica é diferente da teoria nesse caso.<br/>Tem que acessar o site de fabricante de pneu e pegar o diametro para se ter uma medida segura.<br/><br/><br/><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Luiz Menezes Jr\" data-date=\"21/03/2006, 06:12\"><p>Olá Pessoal,<br/><br/>Para quem estiver querendo trocar as rodas e/ou escolher outro pneu, e estiver querendo saber qual vai ser o tamanho do pneu novo e a diferença de altura que ficará entre os dois pneus, utilize a fórmula abaixo:<br/><br/>TAMANHO =(RODA x 2,54) + {2 x [(PERFIL*LARGURA)/1000]}<br/>Roda (pol), Perfil (%) e Largura (mm), Tamanho (cm)<br/><br/>Ou se quiser, é só utilizar a planilha abaixo (em EXCEL). Você entra com os dados dos pneus/rodas, e a diferença de tamanho entre os pneus é mostrada...<br/><br/><a class=\"bbc_url\" href=\"http://www.eletronz.com/calibra/calculo_pneus.xls\" rel=\"nofollow external\" title=\"Link externo\">Planilha para cálculo do tamanho do pneu (Excel - 93kb)</a><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=162022\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "fernando junior",
+            "date": "2006-03-24T02:27:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSe for pensar assim (correto), o nível de desgaste dos pneus tb influenciará o perímetro do conjunto.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-24T02:29:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ, vai desgastar, e esses 0,2% virará 0,0%.<br/>\n<br/>\nProcurei no site da Yokohama e não achei o tamanho em mm dos pneus... Só tem as medidas mesmo.. axo q o jeito eh medir na loja <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\nEdit: no site da Toyo tem as medidas certas:<br/>\n<br/>\nToyo Proxes T1R R17<br/>\n215/45<br/>\nFórmula: 62,53 cm<br/>\nSite: 63,00 cm<br/>\nDiferença: 0,47 cm<br/>\n<br/>\n225/45<br/>\nFórmula: 63,43 cm<br/>\nSite: 63,75 cm<br/>\nDiferença: 0,32 cm<br/>\n<br/>\nOu seja, existe uma pequena diferença entre o cálculo com a fórmula e o que é produzido pela fábrica, e nem todas as fábricas disponibilizam o tamanho no site (ou de forma fácil de achar no site).\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Luiz Menezes Jr</b>: 23 março 2006 - 23:39\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-03-24T12:33:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSe formos pensar assim então até a calibragem dos pneus ira influenciar, acho que a ideia é termos algo proximo a realidade.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2006-03-24T13:44:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAs medidas nominais são orientativas. Para o uso \"CIVIL\" <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> se aplicam perfeitamente.<br/>\n<br/>\nSó para aplicações \"MILITARES\", quando estamos buscando 1 ou 2 km a mais de top speed que os números reais são importantes. E nesse caso, não é nem a medida nominal (205/45 R17), nem a medida geométrica (24,4\") disponível no site. Mas sim a o diâmetro dinâmico do pneu, ou seja, com o pneu em movimento e considerando as deformações devido ao peso do carro. Essa informação, quando disponível nos sites, é expressa na forma de RPK ou RPM (rev per kilometer, ou rev per mile). É uma medida de quantas voltas o pneu dá para percorrer a distância de 1km ou 1 milha. Ela remete a um diâmetro efetivo sempre menor do que as outras 2 medidas (nominal e geométrica).<br/>\n<br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fernando junior",
+            "date": "2006-03-24T23:20:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, se for ser mais chato ainda.....  <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/>\n<br/>\nEsse número de voltas que o pneu dará em 1 km ou 1 milha é em que velocidade ?<br/>\n<br/>\nQuanto maior a velocidade, maior a deformação dos pneus (sei que é ridícula), mas algum pentelhésimo deve mudar devido a tendência dele se tornar oval durante o movimento em relação ao solo.<br/>\n<br/>\nPensando-se em termos de movimento relativo de um pneu a 200 km/h em relação a um ponto fixo no solo, seria algo do tipo:<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/post-148-1143242393.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[162694]\" title=\"movimento_relativo.jpg - Tamanho: 36,33K, Downloads: 2\"><img alt=\"movimento_relativo.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/post-148-1143242393.jpg\"/></a>\n<br/>\n<br/>\nPor isso que existe o índice de velocidade nos pneus. Quanto maior o índice, maior sua resistência a deformações provenientes de seu movimento relativo ao solo e força centrífuga....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-03-25T03:50:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcho que o West se relacionou a uma rotação completa em qualquer velocidade, uma vez que acho eu que não temos veiculos terrestres militares andando a mais de 200km/h.<br/>\n<br/>\nPelo que sei tambem as deformações que ocorrem são no centro do pneu e seu aquecimento e atrito que terminam a velocidade maxima. A parte externa do pneu tambem sofre deformações mas principalmente em curvas, não que não existam pois o  pneu que fica normalmente assim [] ficara )( de acordo com a velocidade.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-25T05:01:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcho que o esquema para escolher as rodas e pneus é colocar a que a gente acha mais indicado, olhando a medida pela forma e depois a medida fornecida pelo fabricante.<br/>\n<br/>\nE depois de instalado no carro, cortar a mola na altura que queríamos deixar o carro (ou comprar mola própria para isso).<br/>\n<br/>\nPor enquanto estou decidindo por pneus 215/45 R17 na frente e 225/45 R17 atrás (acho que vi um post do Carica usando essa configuração).<br/>\n<br/>\nDessa forma não vai mudar muito a altura que está hoje, com mola cortado 1 elo, 195/60 R15 na frente e 205/60 R15 (se eu não me engano) atrás...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "gustapetry",
+            "date": "2006-03-25T17:47:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera<br/><br/>Eu estava pesquisando na web sobre a legalidade de usar suspensão a ar e encontrei esta matéria aqui sobre rodas/pneus maiores que o original. <br/>VEJAM <a class=\"bbc_url\" href=\"http://www.xpeedclub.com.br/site/xtechlib.php?view=13055\" rel=\"nofollow external\" title=\"Link externo\">AQUI!</a><br/><br/>Prá minha surpresa, segundo o consultor técnico do site, não existiria  parâmetro legal para a alteração do conjunto rodas/pneus, e aquela história de que não pode superar o tamanho do conjunto original seria coisa da legislação antiga, que foi revogada pelo novo CTB. É uma questão a ser investigada!<br/><br/>[]'s<br/>Gustavo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-25T18:00:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem algum advogado aqui para poder saber isso? E será que os \"puliça\" saberão que o conjunto pode ser alterado? <br/>\n<br/>\nE alias, será que algum policial rodoviário saberia que as rodas/pneus do nosso calibra estão maiores que os originais e/ou que está rebaixado? Acho que não, a não ser que você deixe o Calibra a 1cm do chão....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "gustapetry",
+            "date": "2006-03-25T21:20:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLuiz, vc resumiu com ímpar felicidade a questão... do tipo \"pode mas não pode\"... hehehe<br/>\n<br/>\nEu sou advogado e te digo que o lance funciona mais ou menos assim:<br/>\n<br/>\n&gt;&gt; a rigor, o regulamento que dispunha que o conjunto rodas/pneus deveria ser o mesmo que o original foi revogado pelo novo código de trânsito, então teria ficado um vácuo legislativo sem disciplina relativamente a esta matéria, em específico.<br/>\n<br/>\n&gt;&gt; na prática, os puliça não sabem disso e vão aplicar a velha história do conjunto roda/pneu = original (e ainda acrescentam o lance dos 3 dedos em relação ao para-lama que ninguém sabe donde surgiu  <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> )<br/>\n<br/>\n&gt;&gt; então, no fim das contas, é aquela história. O cidadão tem razão, mas precisa brigar e discutir prá ver reconhecido seu direito. Quer colocar um rodão 19? Até pode, mas vai ser encrenca na certa na hora da bliz dos \"homi\" (vai explicar que Cristo não morreu de gripe...)<br/>\nParticularmente, acho que o mais coerente é jogar dentro da \"pseudo-lei\", ou seja, uma roda que procure manter harmonia com o conjunto original... (que seria uma 205/45 R17, snme).<br/>\n<br/>\nAquele abraço,  <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/>\nGustavo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Caramico",
+            "date": "2006-03-27T11:53:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvcs estão reclamando a toa<br/>\nnos 2 calibras q tive (principalmente o primeiro) andava com aros 16 e 17 e carro socado no chão, e viajava toda semana, e fui varias vezes pra sp, nenhum policial me parou pra ver a roda e se tava rebaixado isso é lenda. <br/>\nno meu atual ninguem nunca me parou tb<br/>\nparem de frescura e coloquem as 17 logo ujhahuahuahuahua\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2006-03-27T13:21:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"fernando junior\" data-date=\"24/03/2006, 20:20\"><p>Bom, se for ser mais chato ainda.....  <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/>Esse número de voltas que o pneu dará em 1 km ou 1 milha é em que velocidade ?</p></blockquote> Sem querer cortar o barato da sua chatisse <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> , as medidas de RPM e RPK são para um teste padrão, com velocidade uniforme e peso definido fixo igual para todos os pneus. Portanto é um parâmetro uniforme para todas as marcas. Não é uma variável que dependa do peso do veículo, da calibragem dos pneus, e nem da velocidade. Tudo está definido. Portanto, não tente medir o RPK/RPM do seu pneu, montado num Calibra, calibrado a 28 lbs, numa velocidade de 120km/h, porque o número que vc encontrar não estará em concordância com os parâmetros pré-estabelecidos.<br/>Todo ensaio tem sua metodologia.<br/><blockquote class=\"ipsBlockquote\" data-author=\"Fabio Melo\" data-date=\"25/03/2006, 00:50\"><p>Acho que o West se relacionou a uma rotação completa em qualquer velocidade, uma vez que acho eu que não temos <strong class=\"bbc\">veiculos terrestres militares </strong>andando a mais de 200km/h.</p></blockquote>O uso dos termos \"CIVIL\" e \"MILITAR\" foi uma mera brincadeira com as palavras, e por isso, estavam grafadas entre aspas. Quando disse \"CIVIL\", quis dizer civilizado, rotineiro, por pessoas comuns.<br/>E \"MILITAR\" seria um uso extreme-high-performance, coisa de Joselito mesmo, tipo chegar a 300 km/h em menos de 2km partindo do 0, alcançar top-speeds recordes, etc. <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Luiz Menezes Jr\" data-date=\"25/03/2006, 02:01\"><p>Acho que o esquema para escolher as rodas e pneus é colocar a que a gente acha mais indicado, olhando a medida pela forma e depois a medida fornecida pelo fabricante.<br/><br/>Por enquanto estou decidindo por pneus 215/45 R17 na frente e 225/45 R17 atrás (acho que vi um post do Carica usando essa configuração).<p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=162730\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote> O que vc considera mais indicado pode não ser a melhor escolha técnica. No seu caso, vc está se baseando meramente no aspecto visual. <br/>Colocando um pneu mais largo na traseira, vc estará acentuando a característica de subesterço do Calibra. Ou seja, o carro que já tem tendência de sair de frente, vai sair mais ainda.<br/><br/><br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-28T20:33:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tWest, <br/>\n<br/>\nApesar de você ter bricado sobre Civil x Militar, existe sim esse tipo de especificação em diversos produtos, principalmente nos eletrônicos como chips, transistores, resistores, etc.. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\nNo meu caso estou pensando em escolha visual x conforto, aqui em Campinas quando eu dou sorte eu caio num asfalto... então rodas 17 preciso pensar bem no tamanho do perfil... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "title": "Calibra não pega",
+    "url": "http://www.clubecalibra.com.br/forum/topic/4780-calibra-nao-pega/",
+    "id": "4780",
+    "messages": [
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-23T14:29:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPrezados colegas do Clube.<br/>\n<br/>\nTenho percebido uma certa dificuldade do meu Calibra para ligar (independentemente da hora, temperatura, tempo em repouso,...)<br/>\nAlgumas vezes, tenho que insistir ao girar a chave (em torno de 4 segundos). Outras vezes, na segunda tentativa.<br/>\nO mais interessante é que também pega de primeira, em 1 ou 2 segundos.<br/>\n<br/>\nApós ligar, fica totalmente estável (900 rpm). O consumo está norma. Não tem perda de potência, não engasga, etc.<br/>\n<br/>\nAlgumas vezes, quando insisto na ignição, sinto um leve cheiro de gasolina.<br/>\n<br/>\nPergunto:  O que poderia ser?<br/>\n<br/>\nAlguns ítens que foram trocados recentemente:<br/>\n<br/>\nbomba de combustível / filtro comb. / limpeza do tanque: dez/04;<br/>\nBateria: março/05;<br/>\nDescarbonização do motor: abril/05<br/>\nVelas: maio/2005.<br/>\n<br/>\nAlguém teria alguma idéia?<br/>\n<br/>\nAguardo retorno.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lemmel",
+            "date": "2005-05-23T14:33:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJá passou o carro no raster?<br/>\n<br/>\nPode ser o sensor de rotação do virabrequim. Mas não sou o cara especializado para te dar este tipo de ajuda...<br/>\n<br/>\nAtt<br/>\nlemmel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-05-23T14:34:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tregulador de pressão\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-05-23T14:58:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRegulador de pressão de comb....99% de chance\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-05-23T15:27:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTambém acho ser o regulador de pressão. Original Bosch +/- R$ 320,00, paralelo varia de R$ 120 a 180. <br/>\n[]s<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-05-23T15:35:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu somaria 1% nesse percentual...<br/><br/><span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"marcio.leal\" data-date=\"23/05/2005, 11:58\"><p>Regulador de pressão de comb....99% de chance<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=98960\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-23T15:44:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBeleza, galera:<br/>\n<br/>\nvou levar o carro em uma autorizada Bosch e verificar.<br/>\n<br/>\nEste regulador de pressão eu já troquei há uns cinco anos atrás, pois estava com o diafragma furado.<br/>\nQuando fiz a descarbonização, o mecânico não apontou nenhuma irregularidade (sem vazamento). Vou em um especialista em injeção Bosch, para tirar a dúvida.<br/>\n<br/>\nValeu pelas dicas.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-05-23T15:47:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRegulador de pressão tb... ou mangueira de retorno furada. <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-23T16:19:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tUm detalhe o qual me lembrei agora:<br/>\n<br/>\nQuando desligo o carro, aparece um \"F\" no computador de bordo (junto às horas).<br/>\nQuando giro a chave, para fazer a leitura da injeção e ligar o carro, este \"F\" desaparece, não sendo encontrado em nenhuma função do computador.<br/>\nQuando o motor está ligado, não acende a luz da injeção.<br/>\n<br/>\nPS. Troquei duas vezes a mangueira de combustível (entrada). Vou verificar a mangueira de retorno.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-05-23T21:21:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tConcordo, regulador de pressão. Compra da marca LP, custa R$45,00. Coloquei no meu no ano passado e não tenho do que reclamar.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-05-23T21:24:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNo meu tb aparece um F as vezes, ams nao eh nada demais....<br/>\n<br/>\nJuliano, retire a mangueirinha e cima do regulador, e ligue o carro. Veja se cria vacuo nela, ou se jorra gasolina.<br/>\n<br/>\nSe criar vacuo, o regulador esta bom, se jorrar gasolina, ele furou novamente o diafragma.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-05-23T23:38:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t---&gt; Compra da marca LP, custa R$45,00.  &lt;---<br/>\n<br/>\nFábio, onde vc conseguiu regulador por este preço? Este LP está R$ 180,00 por aqui!!! Se vc comprasse um para mim eu te enviaria o $$$, só para ter de reserva!!! O LP é aquele azulzinho?<br/>\n[]s<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-05-23T23:41:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu paguei R$ 86,90 no meu de marca que nem lembro qual é.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-24T15:21:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera:<br/>\n<br/>\nVou fazer o teste de vácuo no sistema quando retornar de viagem. Assim que tiver o resultado, postarei aqui.<br/>\n<br/>\nValeu pelas dicas.<br/>\n<br/>\n<br/>\nSds\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-25T10:43:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal:<br/>\n<br/>\nFiz o teste de vácuo no regulador de pressão. Removi a mangueira (tubo plástico) que fica em cima do regulador, e aguardei alguns instantes.... Não verifiquei nada de combustível saindo pelo regulador. Mesmo com a mangueira desconectada, não percebi alteração nenhuma no comportamento do carro.<br/>\n<br/>\nSexta-feira estarei em Curitiba, \"scaneando\" a injeção, para solução do problema.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-27T20:32:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tProblema resolvido <span rel=\"lightbox\"><img alt=\":pompom\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/pompom.gif\"/></span> .... regulador de pressão. <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span> <br/>\n<br/>\nO teste foi a retirada da mangueira sober o regulador de pressão, com o carro desligado, mas ainda quente. Simplesmente \"jorrou\" gasolina fora. <span rel=\"lightbox\"><img alt=\":ives\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ivesdance.gif\"/></span> <br/>\nPaguei R$ 120,00 (autorizada Bosch), + 60,00 de mão de obra. <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>\n<br/>\nvaleu pelas dicas.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-05-27T23:46:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSe vc comprou o original Bosch, por este preço, pagou barato...Mas o importante é que seu Calibra está em orrdem!!!<br/>\n[]s<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Eugenio Resende",
+            "date": "2005-05-28T00:00:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTô vendo que vou ter de ir pelo mesmo caminho. Meu carro, de uns tempos pra cá, dificilmente pega na primeira tentativa...  <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> <br/>\n<br/>\n[]s<br/>\nEugenio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-28T22:55:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ uma sensação estranha. Você fica na dúvida se, de uma hora para outra, o carro vai parar de funcionar ou não. Há um tempo atrás, o meu Calibra estava com mau contato no sensor de rotação. Cheguei a descarregar a bateria do carro tentando fazê-lo pegar.<br/>\nChamei uma auto-elétrica, e o eletricista fez o tetste de verificação da bomba de gasolina. Tudo OK.<br/>\nEntão, ele falou: se não for o sensor de rotação, pode me internar. Dito e feito. desconectou o Plug (próximo ao duto de ar que liga o filtro à caixa do S.F.I.), e reconectou. Resultado: Pegou de primeira.<br/>\nSão detalhes que podem acabar com a paciência de qualquer um.<br/>\nMas como o Célio falou: O importante é que está tudo OK.<br/>\n<br/>\nEugênio:<br/>\n<br/>\nFaça este teste. É muito simples:<br/>\nQuando chegar com o carro em casa, remova a mangueirinha (tubo plástico + mangueira), com o carro quente. Se \"jorrar\" gasolina, eis o problema.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RUI PATRÃO",
+            "date": "2005-05-29T07:20:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE ai Juliano blz, explica melhor esse esquema da manguera, estou achando que meu cali tb esta com problema no regulador, antes ele pegava de primeira, agora só na 3 ou 4 tentativa.<br/>\n<br/>\nvaleu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-05-30T10:43:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFala, Patrão:<br/>\n<br/>\nO teste é simples:<br/>\n<br/>\nCom o motor do carro quente (pode ser desligado), remova aquela mangueira que fica em cima do regulador de pressão (é uma mangueira que parece um tubo plástico preto + mangueira trançada pequena). Remova-a com uma chave de fenda.<br/>\nNo momento que você remover a mangueira, observe se não há gasolina saindo pelo orifício onde estava conectada a mangueira. Se isto ocorrer, é o regulador de pressão com o diafragma furado.<br/>\n<br/>\nPS: Caso você não consiga realizar o teste, vá em uma auto-elétrica autorizada BOSCH, e peça para eles fazerem um teste no regulador de pressão.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-05-30T15:07:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOs efeitos de andar com o regulador furado é consumo excessivo, cheiro de gasolina na cabine (principalmente quando se tenta ligar o carro, pois fica gasolina sobrando no regulador), não há perda de desempenho, mas o carro fica fedorento e gastão.<br/>\n<br/>\nPaguei 260 na época... original. Mas ainda não havia o CCB <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Adriano SJC",
+            "date": "2005-06-20T22:08:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa! Ressucitando esse tópico!<br/>\n<br/>\nApós ter trocado a sonda lamba e ter conseguido obter um consumo excelente de SJC pra Santos (6,2 l/100km ou 16,1 km/l), tive problemas em ligar o carro (frio).<br/>\nDomingo de manhã foram 3 tentativas pra pegar. Domingo de noite, outras 3. E assim por diante (hoje de manhã antes de ir por trabalho e agora final de tarde). Detalhe: a luz da injeção não ascendeu nenhuma vez!<br/>\nFiz o teste da manguueira e nada de sair gasolina. Levei o carro pro Mecânico recomendado pelo Matheus (o Alex) e ele colocou o aparelho pra medir a pressão do sistema e nada de vazamento.<br/>\n<br/>\nO que pode ser então, bomba de combustível, sensor de rotação?<br/>\n<br/>\nPs: o carro não está cheirando a gasolina após acabar de ligá-lo.<br/>\n<br/>\nAguardo sugestões.<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lucaskj",
+            "date": "2005-06-20T22:19:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpessoal no gol bola tem como fazer esse teste?????<br/>\n<br/>\nme explique please<br/>\n<br/>\nfalowww<br/>\nt+\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Adriano SJC",
+            "date": "2005-06-20T22:22:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSó mais uma dúvida!<br/>\n<br/>\nMeu carro é 95. Se for problema com a bomba, tenho que abaixar o tanque?<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-06-20T22:32:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tsim se o problema for bomba, te que abrir sim.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lucaskj",
+            "date": "2005-06-20T22:54:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpq ninguem me responde?? <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Adriano SJC",
+            "date": "2005-06-20T23:04:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu não sei lhe responder... mas com certeza deve ser possível sim!<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lucaskj",
+            "date": "2005-06-20T23:06:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Adriano SJC\" data-date=\"20/06/2005, 20:04\"><p>Eu não sei lhe responder... mas com certeza deve ser possível sim!<br/><br/>Abraços<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=104182\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>valeww e esse povo meio lerdo<br/><br/>o caramba me fala <br/><br/> <span rel=\"lightbox\"><img alt=\":angry:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/mad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-06-21T02:43:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tclube do gol...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "AlvaroCastroJr",
+            "date": "2005-06-21T18:09:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSerá q existe doido pra fazer um clube de gol???  :sm50\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2005-06-21T22:23:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJá vi que resolveu e parabéns pros que acertaram no regulador, é muito comum mesmo.<br/>\n<br/>\nMas uma dica, tive um problema parecido e simplismente não encontrava o probla a mangueira dentro do tanque estava rachada, essa é brebinha pacas...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Adriano SJC",
+            "date": "2005-06-22T01:52:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa...<br/>\n<br/>\nAo que parece, é bomba de combustível ou apenas o refil da bomba...<br/>\nPs: Green, na desmontagem, ele vai verificar o restante tb! Não se pode descartar mangueira rachada e coisas parecidas....<br/>\nValeu pela dica.<br/>\n<br/>\nO mecânico vai desmontar o tanque amanhã. Fiz umas cotações e o valor da bomba está em 342 reais e o refil 134. Ambos da Bosch. Mão de obra por 70 paus.<br/>\n<br/>\nAmanhã coloco novidades.<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Adriano SJC",
+            "date": "2005-06-23T02:34:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGM, bingo! <span rel=\"lightbox\"><img alt=\":grupo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/grupo.gif\"/></span> <br/>\n<br/>\nPeguei o carro hoje.<br/>\n<br/>\nO defeito não era bomba nem refil e sim a tal mangueirinha que estava rachada.<br/>\n<br/>\nEconomia boa em tempos difíceis pré renovação de seguro. <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/>\n<br/>\nAbraços a todos!<br/>\n<br/>\nAdriano\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

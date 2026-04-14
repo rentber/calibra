@@ -1,0 +1,97 @@
+{
+    "title": "Consumo - Diferença Grande Entre Cidade E Estrada",
+    "url": "http://www.clubecalibra.com.br/forum/topic/15725-consumo-diferenca-grande-entre-cidade-e-estrada/",
+    "id": "15725",
+    "messages": [
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T13:29:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom dia a todos<br/>\nCaros amigos estou com um problema e gostaria de tirar umas dúvidas antes de levar o carro novamente para oficina e ser enganado. Recentemente adquiri o calibra (ja postei que sou novo aqui) e levei na oficina para dar uma geral nos amortecedores, rolamentos (foram trocados pois estavam ferrados) entre outros... o mecanico aproveitou e deu uma olhada nos bicos, sonda e disse não ter problemas com esses itens. Fazendo a média (completei o tanque mas o ponteiro da gasolina só marca até 40lts e não sobe mais) somente na estrada meu carro fez 13,7 km/l andando de 120 a 130km/h em um percurso de 460km. Ja nos percursos entre cidade e estrada, diariamente rodo 30km sendo 5km de cidade e 9km estrada o carro esta fazendo uma média de 5 km/l. Estou rodando somente com o plug no A e estou assustado com tamanha diferença e gostaria da ajuda de vcs para indicar possíveis causas e não cair no conto do vigario nos mecanicos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2010-05-07T13:36:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCom essa diferença gigantesca de consumo, é provável que o problema seja pontual.<br/>\n<br/>\nPossibilidades, a meu ver:<br/>\n<br/>\n- posto de gasolina que vc abastece na cidade vende xixi de rato.<br/>\n- problemas na marcha lenta<br/>\n- vazamento de combustível em algum ponto da linha<br/>\n<br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T13:45:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCaro West<br/>\nEstou sempre abastecendo no mesmo posto, o carro não esta falhando e tb não esta aparecendo manchas ou cheiro de gasolina que caracterize vazamentos. Noto que a marcha lenta as vezes oscila ficando no CB entre 1,5 a 2,3L/H. Sensor de temperatura no CB aparentemente ta marcando corretamente.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-05-07T13:47:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem algo bem errado com seu carro então. Calibra original, na gasolina, deve marcar 1.0-1.1 l/h na marcha lente quando quente.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T13:51:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"308519\" data-date=\"07 maio 2010 - 10:47\" data-time=\"1273240068\"><p>Tem algo bem errado com seu carro então. Calibra original, na gasolina, deve marcar 1.0-1.1 l/h na marcha lente quando quente.<br/><br/>[]s<br/></p></blockquote><br/>Seria o sensor de marcha lenta que poderia deixar oscilando dessa forma?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-05-07T13:53:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO atuador de marcha lenta só influenciaria com o seu carro parado. Para o consumo em cidade, tem algo no funcionamento que está interferindo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2010-05-07T14:10:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tA luz da injeção acende em algum momento? <br/>\nJá colocou no scanner (ou com o diagnóstico caseiro mesmo) e puxou a memória da ECU pra ver se tem alguma coisa?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T14:22:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Mortari'\" data-cid=\"308522\" data-date=\"07 maio 2010 - 11:10\" data-time=\"1273241408\"><p>A luz da injeção acende em algum momento? <br/>Já colocou no scanner (ou com o diagnóstico caseiro mesmo) e puxou a memória da ECU pra ver se tem alguma coisa?<br/></p></blockquote><br/>A luz de injeção de vez em qdo acende em percursos maiores e velocidades constantes, mas não muda nada no funcionamento do carro. Qdo desliga ou o carro fica funcionando em lenta ela apaga. Qdo o mecanico passou o aparelho alguns dias atras disse que não tem nada de errado com o carro. Dureza né...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2010-05-07T14:41:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tA luz da injeção só acende quando a central identifica um sensor com erro de leitura, ou seja, se está acendendo, algo de errado tem. O carro já estava acendendo a luz antes de o mecânico passar no scanner?<br/><br/>Se o seu mecânico não soube sequer identificar isso, minha sugestão é:<br/><br/>1. Antes de tudo, faça o diagnóstico caseiro (<a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php/topic/1432-artigo-plug-de-diagnostico/\" title=\"\">veja aqui como fazer</a>) da IE e veja quais os sensores que estão dando erro de leitura e poste aqui pro pessoal ajudar. Essa informação pode não matar a charada, mas vai te dar boas pistas.<br/><br/>2. Arrume um mecânico melhor.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T16:58:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Mortari'\" data-cid=\"308528\" data-date=\"07 maio 2010 - 11:41\" data-time=\"1273243319\"><p>A luz da injeção só acende quando a central identifica um sensor com erro de leitura, ou seja, se está acendendo, algo de errado tem. O carro já estava acendendo a luz antes de o mecânico passar no scanner?<br/><br/>Se o seu mecânico não soube sequer identificar isso, minha sugestão é:<br/><br/>1. Antes de tudo, faça o diagnóstico caseiro (<a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php/topic/1432-artigo-plug-de-diagnostico/\" title=\"\">veja aqui como fazer</a>) da IE e veja quais os sensores que estão dando erro de leitura e poste aqui pro pessoal ajudar. Essa informação pode não matar a charada, mas vai te dar boas pistas.<br/><br/>2. Arrume um mecânico melhor.<br/></p></blockquote><br/>Blz Mortari... amanhã mesmo vou fazer esse procedimento e depois vou postar os erros apresentados para vcs darem uma força.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-05-07T17:00:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu suspeito da sonda Lambda estar muito devagar. Não apresenta falha na ECU e altera o consumo absurdamente.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T17:38:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"308536\" data-date=\"07 maio 2010 - 14:00\" data-time=\"1273251611\"><p>Eu suspeito da sonda Lambda estar muito devagar. Não apresenta falha na ECU e altera o consumo absurdamente.<br/></p></blockquote><br/>Existe alguma forma de testar ou só trocando mesmo Puppets?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-05-07T17:42:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ possível testar em casa mesmo com um multímetro.<br/>\n<br/>\nÉ só medir a tensão do sinal. Este deve variar entre 100mV a 900mV mais ou menos relativamente rápido ( mas perceptível a olho nú ). Como \"referência\", o valor deve ir para o vaor máximo e mínimo umas 2-3 vezes por segundo. Se estiver muito devagar, está ruim.<br/>\n<br/>\nO conector da sonda lambda está próximo do reservatório de expansão.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-07T17:52:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"308539\" data-date=\"07 maio 2010 - 14:42\" data-time=\"1273254168\"><p>É possível testar em casa mesmo com um multímetro.<br/><br/>É só medir a tensão do sinal. Este deve variar entre 100mV a 900mV mais ou menos relativamente rápido ( mas perceptível a olho nú ). Como \"referência\", o valor deve ir para o vaor máximo e mínimo umas 2-3 vezes por segundo. Se estiver muito devagar, está ruim.<br/><br/>O conector da sonda lambda está próximo do reservatório de expansão.<br/></p></blockquote><br/>Sou leigo em mecânica, não tenho nem idéia onde fica o reservatório de expansão.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-05-07T18:25:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tReservatório de Expansão é o reservatório da água do radiador.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Regis Pasqualato",
+            "date": "2010-05-10T16:06:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom galera fiz o diagnostico caseiro somente com o carro desligado. No link do diagnostico percebi que alguns falavam que era somente com o carro desligado e outros diziam que teria que ligar o carro e fazer o diagnostico tb. Como fiz somente com o carro desligado e apareceu somente o erro 31. Acham necessário fazer tb com o carro ligado?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fininho",
+            "date": "2013-01-05T22:43:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tConforme o computador de bordo, tá gastando 12litros/100km, dá uma média de uns 9km por litro. Motor original, MAF original denovo. Isso com gasolina Pódium ainda. Que será que tá errado? Ou melhor, onde começar, limpeza e equalização de bicos?<br/>\n<br/>\nobrigado\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>fininho</b>: 05 janeiro 2013 - 19:43\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Luiz Marchauek",
+            "date": "2013-01-08T15:32:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'fininho'\" data-cid=\"337446\" data-date=\"05 janeiro 2013 - 19:43\" data-time=\"1357425802\"><p>Conforme o computador de bordo, tá gastando 12litros/100km, dá uma média de uns 9km por litro. Motor original, MAF original denovo. Isso com gasolina Pódium ainda. Que será que tá errado? Ou melhor, onde começar, limpeza e equalização de bicos?<br/><br/>obrigado<br/></p></blockquote><br/>Fininho, se o CB está marcando 12l/100km, a média está em 8,3 km/l.<br/><br/>Esse consumo é em cidade? Estrada? Pé embaixo?  tudo isso pode alterar.<br/>Nunca consegui fazer mais que 9 aqui em Curitiba.<br/>Mas indo para Foz do iguaçu o meu faz 15 km/l.<br/><br/>A diferença é grande na cidade e na estrada...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

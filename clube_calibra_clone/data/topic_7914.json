@@ -1,0 +1,32 @@
+{
+    "title": "Drivetrain",
+    "url": "http://www.clubecalibra.com.br/forum/topic/7914-drivetrain/",
+    "id": "7914",
+    "messages": [
+        {
+            "author": "Paulo Caramico",
+            "date": "2006-06-15T17:04:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:43 +0000-->Ai pessoal como vou trocar a correia e roletes em breve tava checando uns codigos. dei uma atualizada na lista completei com os codigos da marca NYTRON eu ja usei no antigo calibra e nunca tive problemas aqui vão:<br/>\n(lembrando que esses codigos são APENAS para calibras 95)<br/>\n<br/>\nTensionador ou Esticador:<br/>\nCódigo GM: 09.158.004 (ex 90.411.774) ou 90.530.125<br/>\nCódigo SKF: VKM15202<br/>\nCódigo INA: F232248.8<br/>\nCódigo NYTRON: 7797<br/>\nAplicações: Esta peça é a mesma utilizada nos Vectras CD 96/97<br/>\n<br/>\nCorreia dentada: (176 dentes)<br/>\nCódigo GM: 90.530.598<br/>\nCódigo Dayco: 176STP8M240H<br/>\nAplicações: S10 2.2<br/>\n<br/>\nRolete menor:<br/>\nCódigo GM: 09.128.738 ou 90.411.782<br/>\nCódigo SKF: VKM25212<br/>\nCódigo INA: F22496.4<br/>\nCódigo NYTRON: 2041<br/>\nAplicações: Esta peça é a mesma utilizada nos Vectras CD 96/97<br/>\n<br/>\nRolete maior:<br/>\nCódigo GM: 90.411.773<br/>\nCódigo SKF: VKM25213<br/>\nCódigo INA: ---<br/>\nCódigo NYTRON: 2038<br/>\nAplicações: Esta peça é ESPECÍFICA do Calibra / Vectra GSi\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fininho",
+            "date": "2014-09-12T18:05:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:43 +0000-->\n<p class=\"\">Correia sincronizadora/correia dentada 176 dentes – Marca indicada Continental/Contitech</p>\n<p class=\"\" style=\"color:#ff0000;\">Polia (maior) da correia sincronizadora - 62.7 mm</p>\n<p class=\"\" style=\"color:#ff0000;\">GM 90411773</p>\n<p class=\"\" style=\"color:#ff0000;\">INA F-224966</p>\n<p class=\"\" style=\"color:#ff0000;\">SKF VKM-25213 H</p>\n<p class=\"\">Polia menor da correia sincronizadora - 52.5 mm</p>\n<p class=\"\">GM 09128738</p>\n<p class=\"\">INA F-224964</p>\n<p class=\"\">SKF VKM-25212 H</p>\n<p class=\"\">Tensor da correia sincronizadora</p>\n<p class=\"\">GM 09158004/90530125</p>\n<p class=\"\">INA F-232488</p>\n<p class=\"\">SKF VKM-15202 L</p>\n<p class=\"\">O motor C20XE (Vectra GSI e Calibra 16V), 2.0 16v, utiliza correia dentada de 176 dentes, duas polias sincronizadoras (62.7 mm e 52.5 mm), e um tensor.</p>\n<p class=\"\">Obs.: a polia da 62.7 mm é exclusiva do C20XE. Por isso está em destaque. Já a polia menor (52.5 mm) e o tensor são também utilizados em outros motores 2.0 16V GM, o que facilita encontrá-los à venda.</p>\n<p class=\"\">Fonte: <a class=\"bbc_url\" href=\"http://pt.scribd.com/doc/93723529/SKF-CATALOGO-POLIAS-E-TENSORES\" rel=\"nofollow external\" title=\"Link externo\">http://pt.scribd.com...LIAS-E-TENSORES</a></p>\n<br/>\n</div>"
+        },
+        {
+            "author": "celso rocha",
+            "date": "2014-09-15T00:43:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:43 +0000--><p>Estou usando 2 roletes dos menores já que é difícil achar o maior. O ajuste foi feito pela rotação de alguns graus da bomba dágua. Já está assim há uns 20 mil km.</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "Robson Lott",
+            "date": "2017-04-25T01:15:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:43 +0000--><p>Deixando aqui meu testemunho:</p>\n<p> </p>\n<p>Procurei bastante em Curitiba e não encontrei o rolete/polia de 62.7mm próprio do Calibra/Vectra GSI. Meu mecânico colocou o INA F-224971 do Corsa 1.0/1.6 16v que é de 62.7mm porém a largura de pista é algo de 1-2mm menor, compensado por uma adição de arruela. Até tinha o do Cali/VGSI de outras marcas desconhecidas, mas a decisão foi GM, SKF ou INA. Tem uns 10.000km que rodei assim sem problemas. Fica aí a gambi! hehehehe!</p>\n<p> </p>\n<p>Abraços!</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "Number0101",
+            "date": "2017-05-01T01:12:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:43 +0000--><p>Pela facilidade com que o mecanico encontrou os roletes quando mexeu no meu carro, acredito que tenha usado esse truque que o Robson falou.</p>\n<p> </p>\n<p>O mcanico até comentou comigo que os roletes eram iguais, sendo que um era ao contrário. Com certeza tem uma gambi la.</p>\n<br/>\n</div>"
+        }
+    ]
+}

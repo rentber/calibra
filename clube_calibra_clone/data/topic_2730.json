@@ -1,0 +1,242 @@
+{
+    "title": "Fade na luz de cortesia",
+    "url": "http://www.clubecalibra.com.br/forum/topic/2730-fade-na-luz-de-cortesia/",
+    "id": "2730",
+    "messages": [
+        {
+            "author": "MasterRey",
+            "date": "2004-09-14T02:57:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCom leds na luz de cortesia é muito facil fazer um fade que pareça coisa de bmw etc , veja só :\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-14T03:28:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\taqui\n\t\t\t\t\t<div class=\"clearfix\" id=\"attach_wrap\">\n<h4>Imagem(ns) anexa(s)</h4>\n<ul>\n<li class=\"\">\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/post-6-1095132484.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[51106]\" title=\"fade.JPG - Tamanho: 11,92K, Downloads: 1\"><img alt=\"fade.JPG\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/post-6-1095132484.jpg\"/></a>\n</li>\n</ul>\n</div>\n<br/>\n</div>"
+        },
+        {
+            "author": "Segura",
+            "date": "2004-09-14T03:33:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\toq quer dizer fade?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Leon",
+            "date": "2004-09-14T03:56:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ta luz vai diminuindo de intensidade até se apagar por completo!<br/>\n<br/>\n<br/>\nmto show!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-14T09:12:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMas, já naum tem? Ou é impressão minha! <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Belloli",
+            "date": "2004-09-14T10:10:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão tem não.. Já tentei fazer esse circuito com a lampada original, mas não deu certo pq precisaria de uma capacitancia muito maior ou então um circuito transistorizado para dininuir gradualmente a corrente.<br/>\n<br/>\nQue horário de post em Erick? hehee\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-14T10:45:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPEÃO! Trabalhadô meu fio! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2004-09-14T15:49:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tinteressante ...<br/>\n<br/>\nmas eu quase nunca saco esses gráficos de eletrônica <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/>\n<br/>\nnum manjo nada de resitors e diodos etc hahuuhaa<br/>\n<br/>\nfodz<br/>\n<br/>\nno meu ver se eu fosse fazer eu pegaria qualquer fio que passa corrente eletrica do carro fazia uma gambiarra e metia esses leDs não poderia ter o efeito de fader mas que ia acender ia hahahha<br/>\n<br/>\nflw\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-14T15:50:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thauhauha , esqueci de explicar\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-14T15:51:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tassim pra quem tem leds no teto como eu , (eu coloquei 2 brancos de 12000 mcdl cada) faze-los apagarem em fade é facil é só colocar um capacitor em paralelo , com o valor do esquema\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2004-09-14T15:51:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thehehe se for fácil eu até faço<br/>\n<br/>\npois a idéia é 10<br/>\n<br/>\nfui\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2004-09-14T15:57:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpow master não seria +fácil vc postar umas fotos dos capacitores etc <br/>\nou fotos passo a passo de como vc fez ou irá fazer ...<br/>\n<br/>\neu não entendo nada de valores de resitências etc <br/>\nnão parece dificil mas acertar nos valores e no tipo de resistor/capacitor ( sou leigo hehe ) ai é que está o problema no meu ver, pois eu nem imagino o que e onde instalar isso no carro.<br/>\n<br/>\nhehe <br/>\nflw\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-09-14T16:36:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEi JC .. se vc nao consegue ler o diagrama, esquece ...  <br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-14T17:22:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\":ives\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ivesdance.gif\"/></span> <span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rod\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rod.gif\"/></span> <span rel=\"lightbox\"><img alt=\":grupo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/grupo.gif\"/></span> <span rel=\"lightbox\"><img alt=\":kgada\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/kgada.gif\"/></span> <span rel=\"lightbox\"><img alt=\":puliça\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/cop.gif\"/></span> <span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span> <span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span> <span rel=\"lightbox\"><img alt=\":pompom\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/pompom.gif\"/></span> <span rel=\"lightbox\"><img alt=\":uhuu\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/uhu.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span> hauahuaha ai zuou! <br/>\n<span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>MasterRey</b>: 14 setembro 2004 - 14:56\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-09-14T18:49:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"João Cesar\" data-date=\"14/09/2004, 15:02\"><p><span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> bah <strong class=\"bbc\">nerds</strong> <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>  Sempre eles...<br/><br/>é + facil pagar 15 reais e o cara instala...<br/><br/>flw</p></blockquote> é Foda JC ..<br/><br/>Nao foi por maldade .. eu entenderia isso com um estimulo ...<br/><br/>\"Porra .. se é tao simples como todo mundo diz e eu nao entendi .. acho que esta faltando esforco de minha parte ...\"<br/><br/>Serio JC .. para o cara lhe fazer um passo a passo por fotos, é impossivel ...<br/>O Diagrame esta tudo descrito .. sem dificuldades nehuma ..  esta tao facil como ler historia em quadrinhos ... <br/><br/>Faz um esforco ae cara ...  vc vai ver o quanto é satisfatorio parar, pensar, desenvolver e concluir algo  ...<br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2004-09-14T19:10:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLED VÉIO !<br/>\n<br/>\neu sakei + ou menos <br/>\n<br/>\nsobre resitors etc eu sei que tem um monte mas , e como se fosse um falando coloca uma lampadas + fortes no farol do calibra que fica 10 ...<br/>\n<br/>\npow + qual ? de que marca ? 100VW ? <br/>\n<br/>\nera + ou menos isso<br/>\n<br/>\nnão sakei muito ali o gráfico da \"porta \"<br/>\n<br/>\ne a luz seria a luz do teto ? pode ser + poderia ser uma luz debaixo do pota luvas etc aonde situam-se os tapetes do 2 lados passageiro /motorista amigo meu tem no vectra dele iluminam os famos \" Tapetes de Busão \"<br/>\n<br/>\nflw\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Rodrigo</b>: 14 setembro 2004 - 18:35\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-09-14T19:47:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHmm eu tb num entendo bulhufas desses esquemas... mas tb não é meu meio de vida aeuhaeuhau então tb nem esquento <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> mas pra quem manja ou gosta de brincar com essas coisas, é uma mão na roda o esquema assim de bandeija <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-14T20:23:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcaraca , eu expliquei mas vou detalhar mais: <br/>\nos leds vão no lugar da luz do meio do teto do carro junto com os resistores , e o capacitor eletrolitico de 16v de 10000uf vai em paralelo com esses leds . entendeu , a chave da porta é só um exemplo de chave\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2004-09-15T01:49:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"14/09/2004, 16:47\"><p>Hmm eu tb num entendo bulhufas desses esquemas... mas tb não é meu meio de vida aeuhaeuhau então tb nem esquento <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> mas pra quem manja ou gosta de brincar com essas coisas, é uma mão na roda o esquema assim de bandeija <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/>[]s<br/>Rodrigo</p></blockquote> Qual o end. daquele tópico falando com que cada um trabalha?<br/><br/>PL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2004-09-15T07:57:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-date=\"14/09/2004, 17:23\"><p>caraca , eu expliquei mas vou detalhar mais: <br/>os leds vão no lugar da luz do meio do teto do carro junto com os resistores , e o capacitor eletrolitico de 16v de 10000uf vai em paralelo com esses leds . entendeu , a chave da porta é só um exemplo de chave</p></blockquote> Blz Master, acho q entendi mas vamos lá. Primeiro eu tiro a lâmpada original do teto, coloco no lugar dela dois leds brancos de 12000 mcd. Depois, eu puxo um fio em paralelo e coloco então, no meio desse fio, um capacitor eletrolítico de 16v e 10000uf. Até ai tudo bem, a única coisa q eu não entendi muito bem é essa de paralelo. Paralelo com qual fio, negativo ou positivo? Ou é do + para o -, como se fosse um by-pass?<br/><br/>Se vc me tirar essa dúvida acho q não terei probs pra fazer. A idéia é excelente! Vi isso no Peugeot do meu amigo e achei o máximo! Parabéns pela sacada!<br/><br/>abrçs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-15T10:16:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFala Fabião,<br/>\n<br/>\nVeja lá... É exatamente o que está no diagrama, assim será a configuração dos fios... Só atente para:<br/>\n<br/>\n1. O capacitor tem polaridade, o lado marcado positivo, deve ficar para a alimentação positiva que vem da chave (+12Vdc).<br/>\n2. O led, como vc sabe tbém é polarizado, e o resistor (não tem polaridade), vc solda diretamente no terminal positivo (anodo, que é o mais comprido) do mesmo.<br/>\n<br/>\nVeja o antes e depois que vc vai matar suas dúvidas! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nQquer coisa, pergunta pro Sergião que ele tá especialista neste trampo de instalar leds!  <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<div class=\"clearfix\" id=\"attach_wrap\">\n<h4>Imagem(ns) anexa(s)</h4>\n<ul>\n<li class=\"\">\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/post-6-1095243398.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[51374]\" title=\"faderlightantes.jpg - Tamanho: 9,58K, Downloads: 1\"><img alt=\"faderlightantes.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/post-6-1095243398.jpg\"/></a>\n</li>\n</ul>\n</div>\n<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-15T10:18:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDepois...\n\t\t\t\t\t<div class=\"clearfix\" id=\"attach_wrap\">\n<h4>Imagem(ns) anexa(s)</h4>\n<ul>\n<li class=\"\">\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/post-6-1095243498.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[51375]\" title=\"faderlight.jpg - Tamanho: 11,92K, Downloads: 1\"><img alt=\"faderlight.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/post-6-1095243498.jpg\"/></a>\n</li>\n</ul>\n</div>\n<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-09-15T12:59:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsse tópico já não está tão engraçado como ontem, mas realmente, mais claro do que isso, impossível <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nParabéns ao MasterRey pela idéia <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2004-09-15T14:05:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHum, com isso ela tb acende devagar, até o capacitor carregar, celto? Tipo tem nos vectrosos novos, certo?<br/>\n<br/>\nMas ae, os leds alumiam legal? Eles são direcionais, mas o plástico faz a refração necessária?<br/>\n<br/>\nPara quem não entendeu, é só usar a lógica do espeto de churrasco pra entender o paralelismo do circuito. Sobre os valores e talz, vai numa loja de eletrônica com o desenho e fala \"ae, me dá esse negocio aqui\"...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-15T14:58:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcara vou tirar uma foto assim q possivel pq fica mais facil , já q o circuito não resolveu hhee\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-15T17:51:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Azg\" data-date=\"15/09/2004, 11:05\"><p>Hum, com isso ela tb acende devagar, até o capacitor carregar, celto? Tipo tem nos vectrosos novos, certo?<br/><br/>Mas ae, os leds alumiam legal? Eles são direcionais, mas o plástico faz a refração necessária?<br/><br/>Para quem não entendeu, é só usar a lógica do espeto de churrasco pra entender o paralelismo do circuito. Sobre os valores e talz, vai numa loja de eletrônica com o desenho e fala \"ae, me dá esse negocio aqui\"...</p></blockquote> O led nao acende mais devagar nao. Ele acende tudo jah de comeco, e o capacitor vai sendo carregado a medida q for tendo tensao nos polos.<br/><br/>Quando vc fechar a porta, e os 5 segundos ( ou mais ) acabaram, e q a lampada deveria apagar, o capacitor comecara a fornecer a tensao pros leds, no lugar do carro. Porem o capacitor comecará a perder carga, e fornecera menos tensao. Por isso o led vai apagando aos poucos.<br/><br/>O q vai acontecer eh q o led nao apagara de vez. Ele ficara um tempo aceso, mas MTO fraquinho. Isto pq o grafico de descarrego do capacitor eh funcao logaritmica, ou seja, tende ao infinito o descarrego a ZERO VOLTS.<br/><br/>Mas o led apaga em alguns segundos <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/>Abracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2004-09-15T18:26:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEaeh Nagy! Com o antes e depois ficou fácil. Agora é só comprar o capacitor e mandar bala!!!<br/>\n<br/>\nbrigadão.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-15T20:43:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tisso da certo com a lampada original também?<br/>\nse der eu vou tentar fazer no polo...<br/>\noutra coisa que eu quero perguntar<br/>\nno polo eu fiz um pinel de leds que ficou muito mala, porém a iluminação dos instrumentos (contagiros e velocimetro) ficou meio fraco, por serem iluminados por cima.<br/>\nsão dois leds adaptados no soquete descartavel da lampada original, e com o resistor q veio junto ele corta a voltagem de 12 pra 3 volts<br/>\nfazendo testes com pilhas a tensão ideal seria de 4,5 volts os leds ficariam bem mais fortes e azul mais intenso..<br/>\nqual resistor deixaria a tensão em 4,5 volts?<br/>\ne qual deixaria a 9 volts? ai eu poderia ligar 2 em serie!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-16T02:28:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnão faz isso os led´s perdem a vida util vai queimar facil <br/>\na lampadanormal não dá pq ela consome muita corrente teria q ser um capacitor de maior potencia porem n~çao testei\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T02:34:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ta vida util do led é muito extensa...<br/>\naumentando essa voltagem(que estou desconfiado que seja a correta pra ele) pode-se perder pouca vida util deles..<br/>\ne outra custam 2 reais<br/>\nprefiro trocar leds a cada 1 ano q seja do q não enxergar o meu painel...<br/>\nno botão do farol, tinha um led de auto brilho verde e eu troquei pelo azul..<br/>\nficou com a eficiencia de qdo eu liguei em 4,5v<br/>\nem 3v eles ficam meio brancos e em 4,5 eles ficam realmente azul..<br/>\npor isso desconfio q seja 4,5 a voltagem certa..<br/>\nna loja onde comprei os leds é mto vagaba, eles não entendem nada, e acho q colocaram qualquer resistor....<br/>\n<br/>\nbom mas e ae..<br/>\nalguém sabe qual o resistor q devo usar?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-09-16T02:58:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t470 o valor 'generalizado' pra resistor pra leds no carro.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T03:04:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tachei um capacitor de 1000uf 25v <br/>\neu arranquei ele de uma placa que era de uma caxinha de som de pc..<br/>\ntirei esse e um outro maior que eu perdi..<br/>\neu testei ne funfou, mas acho que a capacidade dele é mto pequena<br/>\napaga quase q instantaneamente só fica uma luizinha fraca o led...<br/>\n<br/>\nliguei 3 pilhas palito em série, resultando em 4,5v<br/>\ndai eu encostei uma perninha do led em cada perninha do capacitor<br/>\ne depois encostei os fiozinhos da \"bateria\" correspondentes á voltagem do led.<br/>\nfunfou..<br/>\ncomo não manjo muito de eletronica, não sei que lado é pra ser ligado o capacitor, testei dos dois lados e funfou dos dois igualmente(é qq lado?)<br/>\nas perninhas eram iguais pois foram cortadas de uma placa<br/>\nmas ele tem uma faixinha cinza em um dos lados\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-16T03:10:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO q determina o qto o capacitor segura a carga, eh o valor em uF.<br/>\n<br/>\nQto maior, mais carga segura.<br/>\n<br/>\nSe for capacitor eletrolitico ( forma de cilindro ) o polo negativo tera varios tracinhos - ( menos ) do mesmo lado da perninha.<br/>\n<br/>\nSe for de poliester, ou ceramica, tanto faz a polaridade.<br/>\n<br/>\nOutra coisa. O capacitor tem tempo de carga. Quanto mais tempo ele ficar sobre uma tensao ( desde q menor q a tensao maxima admitida por ele ), mais carga ele armazena de acordo com a expressao:<br/>\n<br/>\nQ = C * U<br/>\n<br/>\nonde q= carga, C = capacitancia do capacitor e U= tensao aplicada<br/>\n<br/>\nPortanto, para usar um capacitor para fade em lampada mesmo, seria ideal usar um capacitor com maior capacitancia, ou mais capacitores em paralelo.<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T03:28:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\té...<br/>\nbem q eu desconfiei q aquele monte de tracinh na faixa cinza indicava negativo<br/>\nmas o estranho é que funcionou dos dois lados...<br/>\npela sua descrição é o eletrolitico....<br/>\ncara to gostando dessa parte de eletronica...<br/>\nacho que vou fazer faculdade disso!<br/>\nO DÚVIDA CRUEL.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-16T03:46:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MURILLOALANIS\" data-date=\"16/09/2004, 00:28\"><p>é...<br/>bem q eu desconfiei q aquele monte de tracinh na faixa cinza indicava negativo<br/>mas o estranho é que funcionou dos dois lados...<br/>pela sua descrição é o eletrolitico....<br/>cara to gostando dessa parte de eletronica...<br/>acho que vou fazer faculdade disso!<br/>O DÚVIDA CRUEL.....</p></blockquote> Desta parte eu tb gosto.<br/><br/>Mas da parte de transistores, amplificadores operacionais, comparadores de tensao, etc...BLERGH<br/><br/>Chato bagarai.<br/><br/>Mas a parte digital de eletronica acho mto show!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T04:02:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tquanto maior o número do resistor vai ser menor ou maior a voltagem?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-16T04:24:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MURILLOALANIS\" data-date=\"16/09/2004, 01:02\"><p>quanto maior o número do resistor vai ser menor ou maior a voltagem?</p></blockquote> Qto maior o valor da resistencia do resistor, para a mesma corrente percorrida no circuito, maior vai ser a tensao dissipada no resistor, ou seja, menor a tensao no resto do circuito ( led ).<br/><br/>Soh fico na duvida se a corrente mantem a mesma, pq qdo usamos Vcc= 12V, e R=470 Ohms, a corrente q passa no led eh de 20 mA.<br/><br/>A um tempo, fiz uns calculos, e acho q se trocarmos o resistor pra 270 Ohms, teriamos 30 mA no led, e uma tensao maior no led tb. Agora nao lembro direito o valor exato.<br/><br/>Eh como o MasterRey falou, a vida util do led vai diminuir, porem vai diminuir de 1000000 horas pra 900000 horas, auehaueh<br/><br/>E led eh barato.<br/><br/>Abracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T04:29:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\té isso mesmo....<br/>\na diminuição da vida util é desprezivel, porém o aumento de luminosidade de 3 pra 4,5v é muito significativo..<br/>\nuso leds de 5mm<br/>\nquem não acreditar que a diferenca é tanta que faça um teste!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-16T04:31:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem uma coisa que pode-se fazer nos leds com foco, para melhorar a dispercao de luz.<br/>\n<br/>\nLixe o led inteiro com uma lixa de unha, ate ficar todo opaco. Lixe TODO ele. A intensidade da luz diminui um pouco, mas fica mais dispersa tb.<br/>\n<br/>\nEu tenho 1 led azul no meu CB do carro, e antes de eu lixar, ficava uma faixa mais clara no centro. Tirei, lixei, e agora esta bem mais uniforme a iluminacao.<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T04:41:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thehehe<br/>\neu já testei isso...<br/>\nmas no digital eu tive uma idéia melhor...<br/>\npintei a ponta redonda do led de branco ficou mto bom...<br/>\nno painel (ponteiros e numeros) eu vou colocar 4 com o foco pra baixo, jogando no espalhador que eu fiz...<br/>\nespero que melhore..<br/>\ndo resto do painel, no comando do ar eu troquei por um vermelho, no controle do retrovisor abri e troquei 4 leds verdes por 4 vermelhos, nos comandos do vidro elétrico, desembaçador traseiro e do farol eu tirei a vitral q tinha na lampada e pintei com esmalte vermelho...<br/>\nno botão que vira do farl eu troquei o led verde por um azul, dando destaque aos outros comandos vermelhos...<br/>\nmeu som é azul de botoes vermelhos...<br/>\nfecho...<br/>\nta mto bonito...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-16T10:54:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTesta com R=330 e se ainda achar forte, com de 270 Ohms (ou OHmens para o Puppy)... Hauehuaheuhaueaieaieai<br/>\n<br/>\nPois, não é bem a tensão que vai determinar a luminosidade do seu led, mas sim a corrente aplicada. <br/>\nCom a pilha, de maior tensão, esta poderá fornecer um pouco mais de corrente, mas assim mesmo dentro de um limite, por isso aumenta o brilho.<br/>\nTenta ligar direto, sem resistor no carro e depois conta pra gente o que aconteceu, beleza? (Mas tenha outro led de reserva para não ficar me xingando depois com o painel apagado)!<br/>\n<span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nAbrax,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-16T15:57:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnao ´e mais facil comprar led de autobrilho ?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T16:00:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to led É DE AUTO BRILHO<br/>\neu to pensando em colocar 4 ligando cada dois em série, ficando a 6v!<br/>\nleds reserva tem bastante...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-16T16:02:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tesistem ledsa mais fortes q o simples autobrilho\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-16T16:04:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to led é bem forte sim master...<br/>\no problema é que no painel ele não rende o quanto deveria\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2004-09-17T00:44:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPoxa eu tenho que vir aqui mais vezes.<br/>\n<br/>\nEu vou fazer isso, o meu Logus tem e o Calibra não tem que vergonha... ahuahauhauha\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-17T16:29:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tisso até os moza 90 da vida tem!!! <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        }
+    ]
+}

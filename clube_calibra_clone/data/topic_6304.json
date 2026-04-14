@@ -1,0 +1,62 @@
+{
+    "title": "CARRO ENGASGA E MORRE",
+    "url": "http://www.clubecalibra.com.br/forum/topic/6304-carro-engasga-e-morre/",
+    "id": "6304",
+    "messages": [
+        {
+            "author": "JadsoN",
+            "date": "2005-11-22T19:16:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTenho um Calibra 95 e estou com problemas que não consigo resolver.<br/>\n<br/>\n1º o carro começou a engasgar até morrer e não pegar mais:<br/>\n- Troquei a bomba de combústivel<br/>\n<br/>\n2º o carro andou uns poucos KMs e apresentou o mesmo problema<br/>\n-Troquei o Rele da injeção que segundo o mecânico estava queimado<br/>\n<br/>\n3º andei uns 2 dias com carro e apresentou o mesmo problema e o carro voltou a oficina.<br/>\n<br/>\nTroquei recentemente a poucos meses o regulador da pressão de combustível.<br/>\n<br/>\nO QUE PODE SER GALERA??\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-11-22T19:18:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara, dizer q o carro falha, é muito genérico.<br/>\nPrimeiro, leve seu carro num mecânico de confiança. Peça para ele passar o scanner no carro, para ver que tipo de erros a ECU gravou.<br/>\n<br/>\nA partir daí, você poderá tomar um rumo para achar o defeito.<br/>\nO carro pode estar com falha em qualquer tipo de sensor. E SÃO MUITOS! hehehe<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2005-11-22T20:37:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpor favor não vão falar que é atuador de marcha lenta sujo ahuhuahuha<br/>\n<br/>\nArrgghh isso é pior do que escutar que o carro pode estar com o Plug a e b ao contrário auhhuahuauh<br/>\n<br/>\nvelho passe no scanner , mas pode ser cabo de velas , filtro de gasolina velho, ou velas ruins .<br/>\nse trocou de velas recentemente , pode ser cabo de velas .<br/>\ntroque logo esse íten. <br/>\n<br/>\nnão creio que seja alguma tubulação que sai da caixa SFI por exemplo é muito dificil dela soltar já que é presa por presilhas .<br/>\n<br/>\npasse no scanner , que dá o diagnóstico na hora .<br/>\n<br/>\nfalows.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "JadsoN",
+            "date": "2005-11-23T13:24:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBlz valeu galera... vou mandar dar uma scaneada nos sensores, limpeza etc... depois posto o resultado aki... abraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-11-23T13:29:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPode ser a sonda Labda\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-11-23T13:38:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComo o Puppets falou, muitos sensores podem apresentar esse tipo de problema quando com defeito de leitura. No meu caso, qudno tive problema semelhante, era o MAF sujo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "JadsoN",
+            "date": "2005-11-28T12:21:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPelo visto o problema foi resolvido! o Scanner acusou erro no sensor da temperatura e mandei trocar... além do sensor troquei velas e cabos! Valeu a vcs, um abraço!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-11-28T18:53:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu aconteceu isso e deu o erro de circuito de oxigênio aberto, acho que erros 38 e 39, eu desliguei os sensores um a um (da admissão) e tentei ligar, depois desliguei a sonda lambda e na segunda tentativa sem ela o carro ligou, e está rodando com ela desligada (luz da injeção acesa).\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "coyote",
+            "date": "2005-12-11T14:57:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-12-11T15:22:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNormalmente o problema se concentra na injeção, o ideal seria passar um Scanner e verificar se existe falha de algum sensor ou sonda lambda, verifique os bicos para ver se nenhum apresenta falha ou travamento, verifique a pressão do combustível na flauta, verifique também o combustível usado, a cada dia tem sido mais comum problemas mecanicos causado por combustível ruim, eu mesmo já fiquei procurando defeito e depois de abastecer por duas vezes em outro posto o carro melhorou\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-12-12T01:56:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Fabrizio tem razão, pode ser sonda lambda sim.<br/>\n<br/>\nOntem, depois do dinoday, fui ligar o meu carro e nada. O carro engasgava e não segurava a lenta de jeito nenhum. Depois que eu me lembrei que, quando descemos o cabeçote no lugar, estava com o coletor de admissão preso e por baixo dele o atuador da marcha lenta.<br/>\n<br/>\nFoi então que eu olhei a mangueira que prende o atuador no coletor, e tinha rasgado. Acho que acabou sendo forçada por uma outra mangueira e ela rasgou. Troquei ela hoje e tá tudo certo.<br/>\n<br/>\nCarro engasgando / falhando pode ser um monte de coisa: velas, cabo de velas, filtro de combustível, sonda lambda, atuador da marcha lenta ou passagem de ar falta de algum outro lugar, etc... melhor coisa é levar em um bom eletricista.<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Motronic 2.8 = MAP",
+    "url": "http://www.clubecalibra.com.br/forum/topic/15080-motronic-28-map/",
+    "id": "15080",
+    "messages": [
+        {
+            "author": "explosion",
+            "date": "2009-09-10T18:29:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlá pessoal,<br/>\n<br/>\n  Eu costumo ter idéias malucas e desta vez eh sobre programação. Tenho projeto em vista de um c20xe turbo e dei uma pesquisada sobre programação de EPROMs. Mas uma dúvida não quer calar. Será que eu conseguiria utilizar um MAP ao in'ves do MAF para leitura enganando a M2.8 e conseguindo uma leitura de pressão positiva? TEnho tempo para desenvolver o projeto e já já meu c20xe passará a ser somente um brinquedo e assim podendo ter o luxo de quebra. Claro não quero fazer nada nas coxas, mas se existir uma chance vou tentar.<br/>\n<br/>\nAlguem com alguma dica ou com um balde de água fria ??  SEM ACHISMOS!!!!<br/>\n<br/>\n<br/>\nObs: Alguem pode mudar o tópico por favor para:<br/>\n<br/>\nMotronic 2.8 + MAP, Alguem já pesquisou a possibilidade?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>explosion</b>: 10 setembro 2009 - 15:31\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "GuilhermeBuonfiglio",
+            "date": "2009-09-10T19:23:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAté onde eu sei, não dá pra mudar o software da Motronic. Só dá pra mudar os mapas, o que por si só não é op suficiente pra implementar um suporte à MAP... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/><br/>O MAF é o responsável por informar a carga do motor, enquanto o MAP sozinho não faz isto, ele é apenas parte da equação. Pra \"enganar\" a Motronic 2.8 teria que construir um simulador de MAF, que implicaria em conhecer a leitura do MAF e calcular o equivalente a partir do MAP, TPS e RPM.<br/>Seria muito mais fácil, extremamente mais fácil, instalar outra injeção eletrônica programável e que use todos os sensores do Calibra e que ainda possa usar outros, como a <a class=\"bbc_url\" href=\"http://www.vems.hu/wiki/index.php?page=GenBoard%2FVerThree\" rel=\"nofollow external\" title=\"Link externo\">VEMS</a>.<br/><br/>Pra você ter uma idéia das opções pra cálculo da carga do motor, tirei as sentenças abaixo do <a class=\"bbc_url\" href=\"http://www.vems.hu/wiki/index.php?page=MembersPage%2FPhatBob%2FUserGuide\" rel=\"nofollow external\" title=\"Link externo\">manual da VEMS</a>:<br/><blockquote class=\"ipsBlockquote\"><p><strong class=\"bbc\"><span style=\"font-size: 14px;\">Configuring Air Metering</span></strong><br/><strong class=\"bbc\">Speed Density (MAP vs RPM)</strong><br/>  For turbocharged and Normally Aspirated (NA) plenum based engines with  mild camshaft timing, Speed Density provides the best metering solution.<br/> <br/><strong class=\"bbc\">  Alpha-N (TPS vs RPM)</strong><br/>  Best suited to NA engines running independent throttle bodies (ITBs) where MAP readings are noisy and lack resolution.<br/> <br/><strong class=\"bbc\">Alpha-N with Map multiplication</strong><br/>Turbocharged engines running ITBs are a special case, they have the same problems with MAP noise and resolution when off-boost, but need the MAP to be factored in at anything over atmospheric pressure.<br/><br/><strong class=\"bbc\">Alpha-N/Speed Density blending</strong><br/>For NA engines with plenums that use more extreme camshafts and as a result have very noisy MAP signal at lower RPMS due to the valve overlap. Configuration values are dependent on the characteristics of the engine.<br/><br/><strong class=\"bbc\">Mass Air Flow (MAF)</strong><br/>In cases where a Mass Airflow Sensor is used to provide a Load value.</p></blockquote><br/>[]s,<br/>Guilherme\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "explosion",
+            "date": "2009-09-10T19:34:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom o que eu não gostaria de perder eh a comodidade do meu PC de bordo/ABS/Ar condicionado/ CheckControl etc etc, que a Motronic integra e traz detalhes desse componetes quanto a estado de funcionamento. Como meu projeto não eh para 300hp+. Tenho já uma MGB para suplementar. Mas se conseguisse usar o M2.8 seria melhor <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "explosion",
+            "date": "2009-09-10T20:03:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal a motronic do C20LET eh  MAF?? Tava dando uma pesquisada e achei um MAF no lugar. Será que seria compatível com a 2.8?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2009-09-10T20:16:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tABS, AC, DH não sofrem influência nenhuma da Motronic. Se trocar a injeção, estes ítens continuarão funcionando.<br/>\n<br/>\nQuando ao PC de bordo, este perderá as funções relativas a consumo e autonomia, visto que os bicos e vazão serão diferentes da original. Ou seja, ficariam apenas o cronometro ( se eu usei 10 vezes na vida, foi muito ), e a temperatura externa.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2009-09-10T20:17:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAliás... se vc vai usar a MGB pro bico extra, por que motivo quer trocar para MAP???<br/>\n<br/>\nColoca um zener no sinal do MAF para ele não saturar, e boa. A Motronic vai tocar o carro até o suplementar ser pulsado pela MGB. Meu carro, por exemplo, está rodando assim.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "explosion",
+            "date": "2009-09-10T20:23:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSim, mas eu disse que AC/ABS etc não perderiam a funcionalidade, mas sim a integração com a Motronic para leitura do funcionamento issso CASO eu colocasse uma Mega da vida. <br/><br/><strong class=\"bbc\">Agora qual a diferença maior entre a M2.7 e M2.8 para as duas usarem MAF e apenas uma aceitar uma \"leitura de pressão positiva\"??<br/></strong><br/><br/>OBs: Vou usar o MGB como ultimo recurso, que na verdade já era do projeto original. Mas se conseguisse usar APENAS a IE original já seria uma ótima solução.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "explosion",
+            "date": "2009-09-10T20:36:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom , descobri que ambos possuem MAF, mas a M2.7 tem ainda um MAP integrado na ECU. Que triste......<br/>\n<br/>\nMOTRONIC M 27 CONTROL UNIT<br/>\n<br/>\nThis unique control unit has an internal charge pressure sensor fitted, that measures the intake air pressure via a connection to the throttle body, by a plastic hose (arrowed), routed in with the wiring harness.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>explosion</b>: 10 setembro 2009 - 17:38\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2009-09-11T03:32:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcara, ja pesquisei muito sobre isso... muito mesmo...<br/>\n<br/>\nMuita coisa pode ser feitoo com muita coisa... inclusive mudar toda a motronic...<br/>\nmas tudo presisa de muito tempo, dinheiro, testes e informacoes restritas ...<br/>\n<br/>\nfalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "explosion",
+            "date": "2009-09-12T05:10:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Led Zeppelin\" data-cid=\"295775\" data-date=\"11/09/2009, 00:32\"><p>cara, ja pesquisei muito sobre isso... muito mesmo...<br/><br/>Muita coisa pode ser feitoo com muita coisa... inclusive mudar toda a motronic...<br/>mas tudo presisa de muito tempo, dinheiro, testes e informacoes restritas ...<br/><br/>falow</p></blockquote><br/>Então Led, abri um chamado rsrsrs na MIG para esses dados e o cara me respondeu o seguinte:<br/><br/><a class=\"bbc_url\" href=\"http://www.migweb.co.uk/forums/engines-transmission/409111-motronic-2-8-changes-turbo.html\" rel=\"nofollow external\" title=\"Link externo\">http://www.migweb.co...nges-turbo.html</a><br/><br/>Ele disse que pode ser feito facilmente se eu tiver as habilidades para remap..... Agora fico pensando se o MAF aguentaria.<br/><br/>vlw\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

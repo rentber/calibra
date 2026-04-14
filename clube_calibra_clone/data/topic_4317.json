@@ -1,0 +1,242 @@
+{
+    "title": "Bico injetor, zuado?oq eu faco!?!",
+    "url": "http://www.clubecalibra.com.br/forum/topic/4317-bico-injetor-zuadooq-eu-faco/",
+    "id": "4317",
+    "messages": [
+        {
+            "author": "brunotata",
+            "date": "2005-03-07T04:52:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal..<br/>\ntava andando com o calibrao normal....dando uma volta..100 %<br/>\ndesliguei ele..quando fui ligar ele denovo... a luz da injeção acendeu..e ele ta pipocando..!<br/>\ncheguei em casa fiz uns testes e percebi que um dos cilindros nao ta funcionando..<br/>\nsera que eh a vela?<br/>\nnao pude trocar pq nao tinha ferramente pra tirar ela..mas to preocupado..alguem ja aconteceu isso!??!?!??<br/>\nabraco!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunocar",
+            "date": "2005-03-07T11:42:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEstranho por que vela não pifa derepente...testou o cabo de vela desse cilindro? Bobina tá normal?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-03-07T11:48:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tse ascendeu a ingeção faça o testew , mas acho q é mais um hall\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-07T12:23:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTente que ver se realmente é um cilindro falhando apenas ou se é uma falha generalizada. Primeiro passo antes de tudo é checar qual o erro que a ECU gravou na memória de avarias, assim teremos uma base.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-07T13:38:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"7/03/2005, 09:23\"><p>Tente que ver se realmente é um cilindro falhando apenas ou se é uma falha generalizada. Primeiro passo antes de tudo é checar qual o erro que a ECU gravou na memória de avarias, assim teremos uma base.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida</p></blockquote> Isso mesmo, primeiro tem que ter certeza que é um cilindro falhando... como? É simples, mas tem que fazer com cuidado pra não tomar um baita choque...<br/><br/>Com o carro ligado em marcha lenta, puxe o cabo de cada um dos cilindro e verifique se dá diferença na aceleração do motor. Se realmente tiver um cilindro sem funcionar, quando você puxar o cabo da vela desse cilindro o carro vai continuar funcionando da mesma forma, ou seja, seu comportamento não vai mudar.<br/><br/>Sei disso por que aconteceu comigo... era justamente um bico que travou fechado... troquei-o-o-o e ficou zerado. Mas esse sintoma é semelhante ao de vela quando vai pro saco ou cabo dando fuga... tem que checar direitinho. Pra ter certeza se é bico, só olhando o que ficou gravado na memória de avarias. No meu dava código 82 - <strong class=\"bbc\">Falha no injetor 2 - tensão baixa</strong>... aí ficou fácil de descobrir o problema.<br/><br/>Abraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-07T15:58:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa..<br/>\nentao eu tinha feito o teste...dos cilindros..e um realmente nao estava alterando nada no motor....<br/>\nmas hj eu fui ligar o carro pra dar uma testada..e tava normal..tudo funcionando..<br/>\ncomo que eu faco pra ver qual era o erro na ecu????<br/>\nvaleu!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-07T16:24:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"brunotata\" data-date=\"7/03/2005, 12:58\"><p>Opa..<br/>entao eu tinha feito o teste...dos cilindros..e um realmente nao estava alterando nada no motor....<br/>mas hj eu fui ligar o carro pra dar uma testada..e tava normal..tudo funcionando..<br/>como que eu faco pra ver qual era o erro na ecu????<br/>valeu!!</p></blockquote> Putz, o mesmo sintoma do meu... às vezes ele funcionava direito, às vezes não. Pode ser mesmo bico injetor, pois o meu travava fechado, e de vez em quando abria por alguns segundos ou minutos e depois voltava a travar fechado...<br/><br/>Bem, tem um tópico explicando direitinho como fazer o jump no plug de diagnóstico. Vou ver se encontro ele e posto as infos aqui, blz?<br/><br/>Você já sabe onde fica o plug de diagnóstico Bruno? Se não, dá uma olhada no cofre do motor, do lado do motorista. Ali, na mesma direção da bateria só que na parte mais próxima do pàra-brisa, ficam tanto o plug de octanagem quanto o plug de diagnóstico. Esse plug de diagóstico geralmente está preso em um suporte próprio, e para fazer o jump, tem que soltar ele do suporte, fazer um jump entre 2 pontos que eu não me lembro agora de cabeça, depois tem que virar a chave do carro pra ligar a ignição e então aquela luz da injeção irá começar a piscar. Ela pisca em intervalos de tempo diferentes, você deverá contar o nº de piscadas, irá resultar em um código que depois, através da tabela Napro, dá pra saber onde está o defeito.<br/><br/>Agora, se você não quiser ter esse trabalho, é só levar o carro em alguma oficina de confiança que mexa com injeção eletrônica e pedir pra passar ele no computador (raster), que os defeitos aparecerão.<br/><br/>De toda a forma, pode parecer difícil mas é bem simples mesmo o esquema do jump. A hora que eu encontrar o tópico sobre o jump eu coloco aqui, blz?<br/><br/>Abraço, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2005-03-07T17:27:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"brunotata\" data-date=\"7/03/2005, 12:58\"><p>Opa..<br/>entao eu tinha feito o teste...dos cilindros..e um realmente nao estava alterando nada no motor....<br/>mas hj eu fui ligar o carro pra dar uma testada..e tava normal..tudo funcionando..<br/>como que eu faco pra ver qual era o erro na ecu????<br/>valeu!!</p></blockquote><strong class=\"bbc\">Puts !</strong> o mesmo problema crônico que meu calibra tem huauhuah <strong class=\"bbc\">faz mais de 1 ano </strong>!<br/><br/>nunca soube o que era ...<br/><br/>pensei que eram velas , mas não eram...<br/>cabos de velas tb não , foram trocados ...<br/>bobina também não foi trocada ...<br/><br/>passado o carro no Raster da Napro nada de defeito acusado só um na ECU quando botei o chip do seco e sonda lambda acusando... ( problema na ecu e sonda lambda )<br/><br/>o cara deu uma lixada na Sonda pois estava um pouco carbonizada e voltou ao normal ...<br/>zerou a ECU e nada de avarias... ( passamos o sacaner inumeras veses e em outros dias e nada )<br/><br/>tudo zero porém quando o carro está quente e eu dou umas aceleradas fortes  , quando desligo ele após 15 a 20 min depois de quente ele começa a falhar uns dos cilindros ... fica um cheiro forte de Gasolina ... coisa que um dos cilindros não está ocorrendo a combustão , as eses chega a explodir do scap ...<br/><br/>resolver o problema é : depois que acontece tal fenômeno ao ligar o carro e ele falhar um dos pistões a solução é desligar e esperar uns 5 minutos ...<br/><br/>após disso dou a partida e o carro pega de 1º como se nada tivesse acontecido...<br/><br/>já cansei de levar na mecânica mas ninguêm acha o que é essas engasgadas ...<br/><br/>só fiquei mais de um ano com esse problema pois eu achava que isso era problema da gasolina ( octanagem )...<br/>mas mesmo com o chip do seco acontecia isso as veses ...<br/><br/>perguntei para um cara e ele quer testar uns dos bicos pois ele disse que meu calibra está dando excesso pois pegou uma das velas e disse que ela estava um pouco mais limpa do que as outras , sinal tipico de que um dos bicos estáva lavando ela ...<br/><br/>dai quando eu desligo o carro ainda tem combustivel nos cilindros e quando dou a partida o carro dá uma afogada e os 5 minutos que eu deixo passar após as veses acontecer tal fenômeno é o tempo necessário para a gasolina evaporar e ai sim o carro não afogar e os cilindros funcionarem corretos ...<br/><br/>Eae procede essa explicação ???<br/><br/>acho que não hein ?<br/><br/>quando fiz limpeza de bicos faz um ano um cara disse que a vassão dos bicos estava correta e mesmo assim ele apresentava tais \" fenômenos \"<br/><br/>o que pode ser ?<br/><br/>o foda que o desempenho do carro tá animal tudo normal <br/>não falha em nada quando estou dirigindo ou em ponto morto ... <br/><br/>outra quando o carro está frio ( de manhã por exemplo ou tempo necessário de o motor esfriar ) nunca aconteceu tal \"fenômeno \" sempre pega de 1º <br/><br/>até quando o motor está engasgando ele pega de 1º o problema são esssas engasgadas que ocorrem pela falha de um dos cilindros que é nitido pelo cheiro de gasosa que não está acontecendo combustão...<br/><br/>só acontece isso se eu esticar bastante e depois de quente uns 15 a 20 min depois é que aparece tal falha ...<br/>ai é só esperar 5 minutos e pronto tudo normal ...<br/><br/>o o pior é que ninguêm sabe o que é ...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>João Cesar</b>: 07 março 2005 - 14:52\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2005-03-07T22:35:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"brunotata\" data-date=\"7/03/2005, 13:58\"><p>Opa..<br/>entao eu tinha feito o teste...dos cilindros..e um realmente nao estava alterando nada no motor....<br/>mas hj eu fui ligar o carro pra dar uma testada..e tava normal..tudo funcionando..<br/>como que eu faco pra ver qual era o erro na ecu????<br/>valeu!!</p></blockquote> Vc ja olhou se a regua que vai acima dos bicos não esta com mau contato,  aconteceu fui rosquear o cabo do velocimetro, o braço esbarrou na regua deslocando, sintomas eram como vc descreveu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Belloli",
+            "date": "2005-03-08T01:05:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu teve o mesmo problema. Era a bobina. R$250, snme.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T02:31:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComo eu posso verificar se essa regua esta com mau contato????<br/>\n<br/>\ne onde fica a sonda lambda..ja procurei por todos lados.....<br/>\nno escape....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T14:01:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal<br/>\nfui no mecanico..<br/>\nmeu motor ta com um cilindro nao funcionando..<br/>\no cara ouviu os bicos injetores e falou que um nao ta batendo.. e que quando intope nao acende a luz da injeção...<br/>\ne ele falou que nao tem esse bico la..<br/>\n1. sera que o bico zuou mesmo ou pode ser que entopiu?<br/>\n2. eh dificil eu mesmo trocar?ele quer 150 pra trocar sem a peça<br/>\n3.de qual carro eu posso comprar o bico?<br/>\n4. ME AJUDEM\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>brunotata</b>: 08 março 2005 - 11:17\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-08T14:14:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Pessoal<br/>fui no mecanico..<br/>meu motor ta com um cilindro nao funcionando..<br/>o cara ouviu os bicos injetores e falou que um nao ta batendo.. e que quando intope nao acende a luz da injeção...<br/>e ele falou que nao tem esse bico la..<br/>1. sera que o bico zuou mesmo ou pode ser que entopiu?<br/>2. eh dificil eu mesmo trocar?ele quer 150 pra trocar sem a peça<br/>3.de qual carro eu posso comprar o bico?<br/>4. ME AJUDEM</p></blockquote><br/>Ele te enfiou a faca para trocar os bicos. Deveria cobrar no máximo 70,00 reais, se for apenas para tirar a flauta, nada mais. <br/><br/>Eu tenho um jogo de bicos do C20XE versão antiga, com Motronic 2.5, tem praticamente a mesma vazão dos injetores da Motronic 2.8 no C20XE moderno, mas ainda não testei eles, preciso fazer ultrason e colocar na banca de teste. Se caso vc não conseguir achar um bico avulso do C20XE, eu te vendo esse meu jogo de bicos por um preço bom. Mas primeiro tente ver se alguém tem um avulso pra te vender.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T14:20:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, acho que o cara ve um CARRO igual o calibra e quer enfiar a faca..ele falou de 150 a 200 reais...<br/>\npior que eu mesmo tava querendo trocar..pra economizar grana...<br/>\nme diz uma coisa..como eu sei se o meu eh matronic 2.5 ou 2.8??<br/>\ne quanto vc faz esse conjunto?quanto custa de outro carro similar??<br/>\nValeu Matheus..\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-08T14:42:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Matheus, acho que o cara ve um CARRO igual o calibra e quer enfiar a faca..ele falou de 150 a 200 reais...<br/>pior que eu mesmo tava querendo trocar..pra economizar grana...<br/>me diz uma coisa..como eu sei se o meu eh matronic 2.5 ou 2.8??<br/>e quanto vc faz esse conjunto?quanto custa de outro carro similar??<br/>Valeu Matheus..</p></blockquote><br/>A sua injeção é Motronic 2.8, pois não veio Motronic 2.5 para o Brasil. <br/><br/>Eu faço nesse meu jogo de bicos(04 bicos) por apenas 220,00 reais. <br/><br/>O Paulo Henrique tem o contato de um cara em SP que tinha os bicos do Calibra, parece que o cara faz cada um por 70 a 80,00 reais. Vale a pena vc telefonar lá antes. <br/><br/><br/>Quanto a mão de obra que te cobraram, preciso ver direitinho o que esta incluso na mão de obra. Se é apenas troca de bicos, estão te explorando. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T15:48:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu Matheus..vou falar com ele..caso nao consiga eu vejo os seus bicos...vai alterar em algo o desempenho???<br/>\n<br/>\nto desmontando aki a injeção..cheguei na flauta..<br/>\nsó que nao sei como tirar os bicos..<br/>\neles estao encaixados no motor?<br/>\neu puxo a flauta e os bicos vao sair ou preciso fazer outra coisa???\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-08T15:48:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTenho 3 bicos aqui em casa ...<br/>\n<br/>\neu troquei os 4 quando 1 deles queimou ...<br/>\n<br/>\né muito facil trocar o bico .. pode fazer em casa mesmo ...<br/>\n<br/>\nTira a caixa SFi e a Tubulacao com a caixa de ar<br/>\nSolta as duas mangeiras que vao na flauta<br/>\nSolta os parafusos da flauta<br/>\npuxe o chicote com terminal e tudo dos bicos (nao lembro se tem alguma trava)<br/>\npuxe a flauta ela vai vir com bico e tudo ...<br/>\n<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2005-03-08T15:56:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpassa no scanner, inclusive dá pra testar a bobina, antes de masi nada troca as velas...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T16:05:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPuxei a flauta..sairam todos os bicos..<br/>\ncomo eu posso saber se ele ta realmente ruim?<br/>\neu percebi que na pontinha dele esta mais escura do que os outros bicos....<br/>\n<br/>\nvende pra mim um bico desses por quanto??<br/>\nnao achei nenhuma descricao no bico so achei uma numeracao na parte de plastico azul:<br/>\n<br/>\n060<br/>\n28015427<br/>\n561\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-08T16:20:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVai em uma oficina q tenha testador de vazao e akele pulsador de limpeza, etnta limpar antes de trocar se ele tiver funfando...<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "erlon",
+            "date": "2005-03-08T16:45:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ttb foram trocados os 4 bicos do meu calibra recentemente...<br/>\n1 deu problema e como consegui os 4 últimos de uma concessionária aqui a preço de custo, troquei todos.<br/>\nA luz da injeção do carro continua acendendo de vez em qdo, mas ele não falha mais e logo ela apaga.<br/>\nPoderia até vender os bicos, mas sinceramente, não sei qual dos 4 que troquei estava com problemas.. hehehe\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T17:49:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE ai..<br/>\nfui numa oficina....e o bico nao ta pulsando mesmo...<br/>\nLed, ou alguem ai qdo vende o bico pra mim??<br/>\nse fizer um desconto ai eu agradeco!!<br/>\nvaleuuuuuu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-08T18:52:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFala Bruno.<br/>\nPra mim não vale a pena vender apenas 1 bico, pois tenho o jogo completo. Veja primeiro se o Led ou o Erlon te vende uma unidade. Se caso vc não conseguir o bico, volte a falar comigo que eu te vendo o meu jogo de bicos de Motronic 2.5<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-08T19:25:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu Matheus..to falando com eles...sobre os bicos injetores........<br/>\n<br/>\nse eu colocar os seus...vai andar mesma coisa o calibrao?o consumo como vai ficar????<br/>\nobrigado..!!!!<br/>\nabraco\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-08T20:27:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBrunão, o Sandro K. tinha os bicos do calibra pra vender... dá uma pesquisada na área de compra &amp; vendas, ok?<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-08T20:35:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Valeu Matheus..to falando com eles...sobre os bicos injetores........<br/><br/>se eu colocar os seus...vai andar mesma coisa o calibrao?o consumo como vai ficar????<br/>obrigado..!!!!<br/>abraco</p></blockquote><br/>Sim, vai andar a mesma coisa e o consumo será igual. <br/><br/>Se vc for ficar com meus bicos, me avise com atencedência para eu efetuar o teste neles, quero enviar pra vc, tendo certeza que todos estão funcionando perfeitamente. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus s. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-08T21:19:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, pelo visto então esses seus bicos são exatamente iguais aos nossos, é isso?<br/>\n<br/>\nPorque se for, pelo brecim camagada que vc tá pedindo, vale a pena ele comprar logo o jogo, depois anuncia os outros 3 pra vender... vira e mexe aparece alguém precisando, e o Bruno acaba recuperando a grana.<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-09T02:18:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu Pessoal..<br/>\nvou procurar por enquanto  1 bico so..pq a grana ta meio curta.....mas se nao conseguir 1 eu fico com o jogo..e mto obrigado pela proposta Matheus..!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-09T02:27:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Matheus, pelo visto então esses seus bicos são exatamente iguais aos nossos, é isso?<br/><br/>Porque se for, pelo brecim camagada que vc tá pedindo, vale a pena ele comprar logo o jogo, depois anuncia os outros 3 pra vender... vira e mexe aparece alguém precisando, e o Bruno acaba recuperando a grana.<br/><br/>Abraços, Fábio.</p></blockquote><br/>Fala Fábio!<br/><br/>Eles não são idênticos, pois os bicos(cremes) que equipou os primeiros(com 156hp de potência) C20XE tinham vazão de 235cc por minuto, a 3 bar de pressão na linha e 85% de tempo de injeção. Já os bicos azuis, do C20XE moderno, tem vazão de 244cc por minuto nas mesmas condições. Ou seja, os bicos azuis tem cerca de 3,8% a mais de vazão. Porém, o sistema de spray dos bicos antigos é diferente dos bicos modernos, e dizem que são mais eficientes, conseguindo melhor emulsificação da mistura. Tanto que esses bicos antigos são os mais procurados lá fora. <br/><br/>De qualquer forma, eu venderia para o Bruno sem compromisso. Ele testaria primeiro, se ele notasse qualquer diferença negativa, sem problema, é só me devolver, e pronto. Só me paga depois que aprovar os bicos. Lembrando que ambos são de alta impedância.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-09T02:28:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu comprei recentemente.<br/>\nAmanhã posto o contato telefônico.<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-09T14:46:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMateus vc sabe esse tal de CC para os bicos amarelos usados no Vectra B .. meu carro esta usando de vectra b pois achei um absurdo pagar 800 pau em um bico original ... enquando os de vectra B custa 150 ..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-09T14:47:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tbruno ..<br/><br/><a class=\"bbc_url\" href=\"http://img203.exs.cx/img203/6923/dsc055174rd.jpg\" rel=\"nofollow external\" title=\"Link externo\"><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img203.exs.cx/img203/6923/dsc055174rd.th.jpg\"/></span></a><br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-09T16:02:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tqto?????\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-09T16:15:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Mateus vc sabe esse tal de CC para os bicos amarelos usados no Vectra B .. meu carro esta usando de vectra b pois achei um absurdo pagar 800 pau em um bico original ... enquando os de vectra B custa 150 ..</p></blockquote><br/>Fala Led. É só vc me passar o código Bosch desses bicos que eu puxo a vazão pra vc. Tenho a lista de injetores Bosch e Rochester aqui, e todos que estão catalogados eu tenho o flow rate.<br/> Provavelmente os bicos de Vectra B 2.0/2.2 16V deve ter vazão em torno dos 210cc por minuto. Vc pode compensar isso elevando a pressão na linha, de 3 bar em pico, para 3,5 bar(vai ficar 3 bar em lenta, ao invés de 2,5 bar). <br/><br/><br/>Abraços,<br/><br/><br/>Matheus s. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-09T16:17:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Led Zeppelin\" data-date=\"9/03/2005, 11:46\"><p>Mateus vc sabe esse tal de CC para os bicos amarelos usados no Vectra B .. meu carro esta usando de vectra b pois achei um absurdo pagar 800 pau em um bico original ... enquando os de vectra B custa 150 ..<br/><br/>Falow</p></blockquote> A diferença é grande.<br/>Para vc ter uma idéia, quando eu estava com o meu carro na oficina resolvendo esse problema dos bicos, tinha um Vectra B limpando os bicos lá também. Comparado com os meus originais do calibra eles davam naquele tubo até dois riscos a menos. Não sei quanto que corresponde, mas acho que é bastante.<br/><br/>Tem fotos desse tubo naquele meu tópico de colocação da termotape.<br/><br/>Dá uma olhada lá.<br/><br/>PL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-09T16:34:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBrunão,<br/>\n<br/>\nLiga nesse número: 5063-3000 ramal 24<br/>\nFoi lá que eu comprei o meu. <br/>\n<br/>\nApenas fique esperto quanto a vazão do novo bico e passe na máquina com os outros bicos do seu calibra antes de colocar. Quando comprei o meu, o primeiro que veio, veio zuado daí tive que trocar. O segundo veio perfeito.<br/>\n<br/>\nAbraço,<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2005-03-09T17:06:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBruno antes de comprar un novo bico como eu ia fazer faça uma limpesa legal nos bicos...<br/>\n<br/>\ncusta 40 reais pela limpesa e se os bicos estiverem funcionando a limpesa resolve o problema ...<br/>\n<br/>\ncomigo foi assim pois tinha um bico que estava apresentando mais gasolina no tubo de ensaio da flata aonde se faz o teste para ver se os bicos jogam gasolina na mesma medidadoque os outros ...<br/>\n<br/>\ne os meus 2 ficaram bons com uma vasão um pouco melhor tipo 30 e dois entre 25 por exemplo o cara disse que estão corretos e agora esse fenomeno não irá aparecer por um bom tempo ...<br/>\n<br/>\no meu problema foi quando eu troquei a bomba do tanque a 1 ano emeio atráz o o pessoalnão fez a limpesa do tanke de combustivel e dai algumas sujeiras vinheram posteriormente a modificar alongo prazo o comportamento dos bicos ( em aspecto de sujeira )<br/>\nrecentemente minha bomba do tanque foi pro saco novamente e  ai dessa vez por preucação mesmo usando aditivada por mais de 1 ano e não mais gasolina comum foi feita essa limpesa no tanque e ontem mesmo já refiz alimpesa dos bicos e do corbo de borbuletas coisa que não precisava visto não ter carbonização nenhuma no corpo de borbuletas pelo tempo que eu só usei aditivada ,mas aproveitei e já para garantir banho de gasolina nela só para deixar 100% e não 99 % se é que me entende  <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/>\n<br/>\nentão boa sorte ,pois esse problema agora eu já sei que não´é bobina nem cabo de velas nem velas nem nada e sim o bico dando diferença quando manda gasolina ...<br/>\n<br/>\npor isso um cilindro não funciona .. pois as veses ele \"os bicos \" devido a ssujeiras tende a travar mesmo com o carro desligado \" por exemplo quente \" e assim pela câmara estar humedecida de gasolina quando eles voltam a funcionar ficam esses engasgues etc e as veses nem funciona direito por que o bico travou ...<br/>\n<br/>\nmas travou mais devido a sujeiras no sistema ...<br/>\n<br/>\nentão limpeza de 40 reais vai te economizar pagar por um bico novo ...<br/>\nse der para salvar o por que não salvar ...<br/>\n<br/>\ne outra mesmo que você compre um bico novo os outros 3 e o corpo de borboleta do seu calibra estará 100% limpo o que faz o calibra economizar o que já é bom.<br/>\n<br/>\noutra é muito importante fazer uma limpesa no tanke de combustisvel do calibra pois tem um plástico que com o tempo ele se deteriora e tende a entupir a bomba de combustivel e os bicos por exemplo devido a ser uma borracha como se fosse igual a uma borracha ed cãmara de ar de pneu de bicicleta por exemplo ( isso nos calibras 95 não sei como são os 94 ,mas por um 95 já ter 10 anos e os 94 serem mais antigos uma boa limpeza é fundamental se não de que adianta limpar a Borbuleta e os bicos se o tanque está sujo e com o tempo tende a ficar ruin de novo . pense nisso limpesa do tanke do calibra é muito importante .)<br/>\n<br/>\n´falows !\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>João Cesar</b>: 09 março 2005 - 14:15\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-09T17:21:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"9/03/2005, 13:15\"><p>Fala Led. É só vc me passar o código Bosch desses bicos que eu puxo a vazão pra vc. Tenho a lista de injetores Bosch e Rochester aqui, e todos que estão catalogados eu tenho o flow rate.<br/> Provavelmente os bicos de Vectra B 2.0/2.2 16V deve ter vazão em torno dos 210cc por minuto. Vc pode compensar isso elevando a pressão na linha, de 3 bar em pico, para 3,5 bar(vai ficar 3 bar em lenta, ao invés de 2,5 bar). <br/><br/><br/>Abraços,<br/><br/><br/>Matheus s. Almeida</p></blockquote> estranho .. pq depois de limpar os bicos velhos e colocar um novo amarelo com outros 3 originais azul ...  esse amarelo deu uns 5 a 7% a mais de vazao ...<br/><br/>bom .. ae eu nao sei ..<br/><br/>pq o Jr da Over disse que em um duct Ciclo de 50% (que é usado em maquinas de teste)  pode até ser que o bico de um carro MPFI tenha mais Vazao que um bico de um motor SFI..  <br/>bom eu nao descordei dele .. mas fiquei na duvida ...<br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-09T17:22:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBruno .. compra la nesse lugar que o PHL disse ...<br/>\no cara disse que pode trazer por 200 pau cada ....<br/>\nAcho que é a melhor coisa<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-09T18:45:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>estranho .. pq depois de limpar os bicos velhos e colocar um novo amarelo com outros 3 originais azul ... esse amarelo deu uns 5 a 7% a mais de vazao ...<br/><br/>bom .. ae eu nao sei ..<br/><br/>pq o Jr da Over disse que em um duct Ciclo de 50% (que é usado em maquinas de teste) pode até ser que o bico de um carro MPFI tenha mais Vazao que um bico de um motor SFI.. <br/>bom eu nao descordei dele .. mas fiquei na duvida ...</p></blockquote><br/>Então esses bicos amarelos não são originais de Vectra B. Provavelmente são oriundos de algum outro carro de maior potência e/ou cilindrada. Mas para matarmos a charada, é só vc me passar o código que esta escrito nesses bicos amarelos que vc colocou no carro.. o código começa sempre com 0 280... Que é o código da Bosch. Aí eu já te digo a vazão exata dele. <br/><br/>Quanto ao que Jr disse, não tem lógica, talvez ele tenha invertido. Os bicos de injeção sequencial necessitam maior vazão que bicos de injeção simultânea(lembrando que a sigla SFI e MPFI são marcas da GM para simbolizar injeção multiponto sequencial e multiponto simultânea, mas ambas são multiponto), pois precisam injetar maior quantidade de combustível em menor tempo(pois para ser uma injeção sequencial, tem que pausar de cilindro a cilindro). Portanto, se vc pegar dois carros com 150cv, um com injeção sequencial e outro com injeção simultânea, os bicos do carro que tem injeção sequencial terá maior vazão. <br/>Os bicos originais do C20XE alimentaria(estou sempre contando com padrão no fluxo, isso é, 3 bar de pressão na linha) até 170cv em um motor a gasolina com injeção simultânea.<br/><br/>Portanto, não importa qual for o duty cycle(tempo de injeção), os bicos da injeção sequencial, sempre terá maior vazão comparado aos bicos da injeção simultânea de outro carro de mesma potência, obviamente nas mesmas condições de pressão de linha. <br/><br/><br/>De qualquer forma vc deve ter hallmeter em seu carro, se os bicos que vc colocou fosse de menor vazão, vc notaria menor voltagem da sonda em loop aberto(em loop fechado, a ECU corrige a mistura se a sonda retornar valor baixo do esperado para a condição). <br/><br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-09T18:46:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"9/03/2005, 15:45\"><p>Portanto, não importa qual for o duty cycle(tempo de injeção), os bicos da injeção sequencial, sempre terá maior vazão comparado aos bicos da injeção simultânea de outro carro de mesma potência, obviamente nas mesmas condições de pressão de linha.</p></blockquote> Isso fez sentido pra mim  <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-09T19:21:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE ai Pessoal..<br/>\nvaleu pelas dicas...<br/>\n<br/>\nVou fazer uma limpeza assim que conseguir um bico...<br/>\nvo te q deixa o carro parado um pouco..<br/>\n<br/>\nPaulo eu liguei la..ele falou que nao tem novo.. ia ver se arrumava algum usado e me ligaria..!<br/>\n<br/>\nEU vi alguem aki dizer que com o ULTRA SOM conseguiu destravar o bico.eu levei num cara que tem ultra som..e ele pois uma maquina nele e disse que esta sem resistencia..e quando esta sem resistencia eh pq queimou e nao vai adiantar passar no ultra..isso eh verdade???<br/>\nvaleu!!!!!!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-09T19:25:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"brunotata\" data-date=\"9/03/2005, 16:21\"><p>EU vi alguem aki dizer que com o ULTRA SOM conseguiu destravar o bico.eu levei num cara que tem ultra som..e ele pois uma maquina nele e disse que esta sem resistencia..e quando esta sem resistencia eh pq queimou e nao vai adiantar passar no ultra..isso eh verdade???<br/>valeu!!!!!!!!</p></blockquote> Sim .. é verdade ... tudo que vc disse ..<br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-03-09T19:36:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus .. tem que ver tb tempo de \"duel\" (nao sei como escreve) ...  é o tempo que demora entre totalmente fechado para totalmente aberto ...<br/>\n<br/>\nQuando desenvolvendo o MGB eu tinha em maos bicos mono e multiponto ...<br/>\n<br/>\nOs monoponto nao abre se nao tiver mais que 1,2ms de alimentacao ... e a 120 Hz o bicho ja comessava a imendar pulso <br/>\n<br/>\nOs Multi (de agulha como o mono) com 0,8ms... ia a 180 Hz na boa<br/>\n<br/>\ndepois de um tempo eu testei com os que tirei do vectrozo ... e o putos abrem com 0,5ms ... 200 220 hz e o bicho ia embora ..  a 100 Hz eu metia duty 5x95% ou 95x5% e o bicho nao abria as pernas ..   nao sei se esses que eu coloquei no vectrozo tb aceitaria isso ..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunotata",
+            "date": "2005-03-09T20:00:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAE PAULAO liguei la o cara tem semi-novo por 200...!<br/>\nvaleu...<br/>\n<br/>\nMatheus..se eu pegar o seu jogo..por 220..vc pagaria alguma coisa nos meus outros 3 bicos????<br/>\n<br/>\nabraco!!!!!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-10T00:02:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa...mais barato que eu paguei (240 na época). <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\nMas não se esqueça de pedir e guardar a nota ou comprovante e enfatize sobre a garantia com o cara...<br/>\n<br/>\nAbraço,<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-10T03:12:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Matheus .. tem que ver tb tempo de \"duel\" (nao sei como escreve) ... é o tempo que demora entre totalmente fechado para totalmente aberto ...<br/><br/>Quando desenvolvendo o MGB eu tinha em maos bicos mono e multiponto ...<br/><br/>Os monoponto nao abre se nao tiver mais que 1,2ms de alimentacao ... e a 120 Hz o bicho ja comessava a imendar pulso <br/><br/>Os Multi (de agulha como o mono) com 0,8ms... ia a 180 Hz na boa<br/><br/>depois de um tempo eu testei com os que tirei do vectrozo ... e o putos abrem com 0,5ms ... 200 220 hz e o bicho ia embora .. a 100 Hz eu metia duty 5x95% ou 95x5% e o bicho nao abria as pernas .. nao sei se esses que eu coloquei no vectrozo tb aceitaria isso ..</p></blockquote><br/>Fala Led..<br/>Desconheço esse termo Duel. De qualquer forma, o delay de abertura e fechamento do bico, já conta no tempo de injeção. Tanto é, que para obter a vazão dos bicos, vc entra apenas com o duty cycle(tempo de injeção), pressão na linha e tempo de teste. Ou seja, um bico que deu 200cc de vazão com 80% de duty cycle, a 3 bar de pressão na linha, durante 1 minuto de teste, esta é a capacidade dele de fluxo. Se o bico tem maior delay para abertura da solenóide, logo, o fluxo dele será menor em todas faixas de duty cycle em relação a outro que tem menor delay, e no teste será representado. <br/> Ou seja, se vc tem uma tabela que diz que o bico de 200cc de vazão, nesse volume obtido, já esta incluso a perda de fluxo por delay de abertura da solenóide. <br/> É o mesmo que eu pegar um spray de tinta que jorra 100ml de tinta em 5 segundos quando aperta o difusor. Se ele liberou 100ml de tinta, nesse valor de 100ml, já esta incluso o delay até abertura total do disufor que libera a tinta, e o delay que solta o difusor e cessa por completo a liberação da tinta. Portanto, é um valor agregado automaticamente.<br/><br/><br/>Talvez vc esteja se referindo a outra questão.. que seria do consumo específico, ou em inglês \"brake specific fuel consumption\", no qual tem a abreviação BSFC, que todos usam com rotina. Um motor com maior taxa de compressão, possui menor consumo específico, pois terá maior aproveitamento na queima. Então, talvez vc quis dizer, que um 2.0 8V comum com injeção simultânea(apenas suposição, pois vc não citou de qual carro era os bicos da injeção simultânea versus injeção sequencial) no qual tem taxa de compressão baixa, necessita de bicos de maior vazão devido seu consumo específico ser mais alto que o 2.0 16V, no qual tem taxa de compressão mais elevada e menor consumo específico. <br/> Aí sim a lógica é correta. O cálculo por BSFC é muito útil quando vc não tem os dados do bico em mãos. Mas mesmo vc puxando o cálculo de vazão pelo BSFC corrigido do 2.0 8V simultâneo, vc verá que a vazão ainda é bem inferior aos 2.0 16V sequencial, pois mesmo com menor BSFC, eles possuem potência relativamente mais elevada(o que necessita de mais combustível mesmo com menor BSFC) e ainda precisa de bicos capazes de injetar a demanda de combustível necessária em menor tempo, devido ser sequencial. <br/> Agora, se ele comparou um caso específico, de dois motores com potência iguais, sendo um com injeção simultânea, e outro sequencial, sendo que o com injeção simultânea tenha BSFC consideravelmente maior, aí sim os bicos de injeção simultânea teria maior vazão que os bicos de injeção sequencial para aplicação de mesma potência. Mas é um caso bem raro. <br/> Esse tipo de discrepância por BSFC ocorre mais quando compara injetores oriundos de carros turbos modernos, com injetores de carros aspirados antigos. <br/><br/><blockquote class=\"ipsBlockquote\"><p>Matheus..se eu pegar o seu jogo..por 220..vc pagaria alguma coisa nos meus outros 3 bicos????</p></blockquote><br/>Então Bruno, infelizmente não teria o pq eu ficar com seus demais bicos. Mas vc pode anunciar aqui mesmo para se caso outro colega precisar na mesma situação que a sua.<br/><br/>Se for ficar com meus bicos, eu te envio primeiro, sem vc me pagar nada, vc instala no carro, testa a vontade, com todo tipo de uso que possa ter, e então me diz o que achou. Se aprovou, vc me deposita, se não, vc me envia de volta os bicos. Só terá de arcar com o frete de ida e volta. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

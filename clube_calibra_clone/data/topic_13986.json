@@ -1,0 +1,32 @@
+{
+    "title": "Ar condicionado",
+    "url": "http://www.clubecalibra.com.br/forum/topic/13986-ar-condicionado/",
+    "id": "13986",
+    "messages": [
+        {
+            "author": "cealima",
+            "date": "2008-12-10T01:47:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, a pergunta é a seguinte, tenho um kadett com o c20xe e a motronic, esse kadett eu mandei instalar o ar condicionado, ou seja, é original adaptado.....ele não tem ligação nenhuma com a injeção e os originais tem.......gostaria de saber como fazer isso, pois o carro se eu venho andando normalmente e piso na embreagem e no freio ao mesmo tempo mto rapido, o motor apaga.....se faço devagar a injeção tem tempo de corrigir, mas se faço rapido ela não consegue......queria ligar o ar na injeção para q isso não acontecesse mais.....alguem manja fazer isso????????????\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2008-12-10T15:21:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem um pino na motronic que avisa ECU que o AC está ligado, portanto aumenta o tempo de injeção e a abertura o IAC.<br/>Precisa identificar o pino e verificar se ele precisa receber terra ou 12V quando ligar o AC. <br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"cealima\" data-cid=\"278341\" data-date=\"9/12/2008, 23:47\"><p>Bom, a pergunta é a seguinte, tenho um kadett com o c20xe e a motronic, esse kadett eu mandei instalar o ar condicionado, ou seja, é original adaptado.....ele não tem ligação nenhuma com a injeção e os originais tem.......gostaria de saber como fazer isso, pois o carro se eu venho andando normalmente e piso na embreagem e no freio ao mesmo tempo mto rapido, o motor apaga.....se faço devagar a injeção tem tempo de corrigir, mas se faço rapido ela não consegue......queria ligar o ar na injeção para q isso não acontecesse mais.....alguem manja fazer isso????????????</p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "marquinhos mecatronica",
+            "date": "2008-12-11T00:40:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tbeleza cara  vc tem que ligar os pinos 40 e 41 juntos la no botão do ar condicionado, alimentando esses dois pinos juntos com 12 v a central corrige a rotação para compensar o ac ok  abraços!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2008-12-11T01:51:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFechou\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "cealima",
+            "date": "2008-12-13T00:16:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFiquei meio ausente esse dias.....então é só eu falar pro cara q montou o ar condicionado, pra ligar o mesmo fio q aciona o compressor nos pinos 40 e 41, é isso?????\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

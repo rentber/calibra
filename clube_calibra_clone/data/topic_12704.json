@@ -1,0 +1,27 @@
+{
+    "title": "OBD-II ou OBD-I?",
+    "url": "http://www.clubecalibra.com.br/forum/topic/12704-obd-ii-ou-obd-i/",
+    "id": "12704",
+    "messages": [
+        {
+            "author": "GuilhermeBuonfiglio",
+            "date": "2008-05-17T10:41:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlá Pessoal,<br/><br/>Eu tô querendo usar o Carman (<a class=\"bbc_url\" href=\"http://openbossa.indt.org/carman/index.html\" rel=\"nofollow external\" title=\"Link externo\">http://openbossa.ind...rman/index.html</a>) para monitorar / diagnosticar o Calibra.<br/><br/>De acordo com o site <a class=\"bbc_url\" href=\"http://www.obd-2.de/tech_com.php\" rel=\"nofollow external\" title=\"Link externo\">http://www.obd-2.de/tech_com.php</a> o Calibra usa \"OBD-I\".<br/>De acordo com o artigo <a class=\"bbc_url\" href=\"http://en.wikipedia.org/wiki/On_Board_Diagnostics\" rel=\"nofollow external\" title=\"Link externo\">http://en.wikipedia....ard_Diagnostics</a>, a interface \"OBD-I\" é eletricamente compatível com a \"OBD-II\", porém o grau de compatibilidade é dados caso-a-caso.<br/><br/>Alguém sabe o quanto a \"OBD-I\" do Calibra é compatível com o padrão \"OBD-II\"? Alguma experiência usando um scanner genérico \"OBD-II\"?<br/><br/>[]s,<br/>Guilherme\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GMT",
+            "date": "2008-05-17T17:56:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVou resumir, não funciona. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> Vai precisar comprar um que esteja escrito especificamente em algum lugar algo como : \"Funciona com o Calibra!!!\" e de preferência em vermelho bem chamativo! <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2008-05-18T21:33:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to odb 2 nao funciona no 1 do calibra , nada funciona\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GuilhermeBuonfiglio",
+            "date": "2008-05-19T03:07:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tObrigado pelas respostas!<br/>\nO Vectra também não é compatível com OBD-II, o Niva vai ter VEMS que usa RS-232, enfim, desencanei do OBD-II.<br/>\n<br/>\n[]s!<br/>\nGuilherme\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

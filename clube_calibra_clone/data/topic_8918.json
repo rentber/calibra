@@ -1,0 +1,32 @@
+{
+    "title": "Pobrema misterioso...",
+    "url": "http://www.clubecalibra.com.br/forum/topic/8918-pobrema-misterioso/",
+    "id": "8918",
+    "messages": [
+        {
+            "author": "Mr. Calibra",
+            "date": "2006-10-26T16:03:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSeguinte... meu carro quando frio até q dá menos, mas quando quente é mais frequente...<br/>\n<br/>\nSe andar em baixo regime &lt; 3krpms, às vezes acende a injeção, passa 3 segundos e apaga... O hellmeter indica mistura extremamente-ultra-pobre (apagam todos leds) e depois desses 3 segundos tummm pra rico e volta a funfar normal.<br/>\n<br/>\nNão reparei esse problema em rotações altas.<br/>\n<br/>\nO que pode ser?<br/>\n<br/>\nPremissas:<br/>\n- Hallmeter usa sonda diferente da do carro. Foi checado via raster, e apresentou mesma coisa do hallmeter.<br/>\n- Sondas lambdas ok.<br/>\n- Bomba de combusta não perde pressão.<br/>\n- Bicos limpos e com vazão equalizada.<br/>\n- Filtro de combusta ok.<br/>\n<br/>\nO mexânico suspeita de cabos de velas e a velas...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-10-26T16:15:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMr. aconteceu algo comigo quase que de sintomas idênticos aos seus, faz + ou - 1 mês. Suspeitei de uma coisa, tinha uma peça reserva, troquei e voltou ao normal.<br/>\n<br/>\nO que era?<br/>\n<br/>\nBem, no meu caso foi o sensor de temperatura de água, aquele grande que manda sinal para a ECU, e fica preso ao corpo da válvula termostática (ao lado de um sensor menor, o de temperatura para o painel). Aquela tranqueira devia estar detonada, e quando ele esquentava, mandava (ou não) algum sinal errado à ECU e o carro ficava tão pobre que quase tive que parar.<br/>\n<br/>\nMas no meu caso foi só isso, esse treco não custa tão caro e talvez resolva o seu problema.<br/>\n<br/>\nAbração,<br/>\n<br/>\nFábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2006-10-26T22:12:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAliás custa +/- R$ 50,00!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2006-10-26T22:17:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcusta entre 18 e 22 reais... huahauahauha<br/>\n<br/>\nBom, meu carro foi ontem pro mexânico.... lavou o motor, tirou um vazamentozin de óleo, tocou a cebolinha do óleo e hj ele rodou + de 50 kms... o carro num acendeu nenhum vez a luz... nem o hall caiu pra pobre <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span><br/>\n<br/>\nAndei com ele agora a pouco e nada tb... <br/>\n<br/>\nVou tentar rodar mais esse fds... segunda volta pra lá. Vou trocar esse sensor só por descarrego...<br/>\n<br/>\nflw\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-10-27T03:43:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Mr. Calibra\" data-date=\"26/10/2006, 19:17\"><p>Vou trocar esse sensor só por descarrego...<br/><br/>flw<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=196745\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Eu também faria isso. Custa uma merreca e você elimina um provável motivo, se for o mesmo que ocorreu comigo (que é o que me parece).\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

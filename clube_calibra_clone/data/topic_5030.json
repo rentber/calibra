@@ -1,0 +1,382 @@
+{
+    "title": "Problema Enigmático com a Injeção",
+    "url": "http://www.clubecalibra.com.br/forum/topic/5030-problema-enigmatico-com-a-injecao/",
+    "id": "5030",
+    "messages": [
+        {
+            "author": "Anônimo",
+            "date": "2005-07-05T11:07:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPeças do Quebra cabeça:<br/>\n<br/>\nNas últimas 5 ou 6 vezes que peguei o Calibra, apenas 1 vez não aconteceu a seguinte ordem de coisas:<br/>\n<br/>\n1 -  Carro dá partida normal, sem problemas, sai rodando normalmente.<br/>\n<br/>\n2 - Carro alterna funcionamento normal com perda de força, até que começa a falhar e para.<br/>\n<br/>\n3 - Parado, ele não morre: fica oscilando a lenta entre 200 - 1000 rpm em ciclos de 1 segundo, a injeção fica \"bombando\" o acelerador em um ritmo constante e se acelerar o carro não anda, engasga e morre.<br/>\n<br/>\n4 - Desligo e ligo o carro e ele volta ao normal. Ando mais exatamente 40 segundos e acontece novamente: carro falha, não adianta acelerar que não vai, é como se tivesse acabado a gasolina, eu encosto e a injeção começa a ficar acelerando o carro e parando em intervalos cíclicos sem minha interferência.<br/>\n<br/>\n5 - Aí eu desligo e ligo novamente, a ECU reinicia e o carro volta ao normal, só que acende a luz do nível de óleo (!), o que não tem nada a ver pois o nível está normal. Aí ele engasga mais um pouquinho e volta ao normal.<br/>\n<br/>\n6 - São apenas 2 vezes que acontece isso. Depois disso o carro funciona praticamente normal. Nunca acontece a terceira vez. Parece que perde um pouco a força, depois volta ao normal.<br/>\n<br/>\nAlguém tem alguma idéia do que possa estar levando meu carro a obedecer esse ritual desprezível? <br/>\n<br/>\nDetalhe 1 - A Luz da Injeção não acende de jeito nenhum.<br/>\n<br/>\nDetalhe 2 - Levei no mecânico e ele não achou nada, inclusive pedi pra ele verificar o regulador de voltagem (meus faróis estão fracos, a bateria descarrega e a marcha lenta está alta. Até a buzina está fraca, deduzo que seja o maldito regulador, mas o mecânico disse que não tem nada ali. Estou começando a duvidar).<br/>\n<br/>\nAbraços!<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2005-07-05T11:26:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem que fazer uma revisão elétrica, medir pressão da bomba ver se não tem sujeira, mas apareceu um problema semelhante em um Tempra de um amigo e era malha partida do sensor de rotação do motor, nem tudo que parece é, meu carro quando coloca o scaner ele indica falha no sensor de rotação, mas esta com problema de aterramento!<br/>\nMeu mecanico fica com o carro até aparecer o problema, depois resolve, mas as vezes o carro da um show até achar o defeito.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-07-05T12:11:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQuando comprei meu carro tinha um problema bem parecido, mas não acendia a luz do óleo, ele falhava até parar, mas não morria, se tentasse andar engasgava. Desligava o carro e ligava de novo ele voltava ao normal e logo acontecia de novo.<br/>\n<br/>\nNo meu caso era sujeira no sensor de massa (MAF) que atrapalhava a leitura e \"enlouquecia\" a central. Mas era um problema intermitente e ao passar no scanner não era sempre que acusava a falha. <br/>\nO mecânico limpou o MAF e nunca mais aconteceu.<br/>\n<br/>\nNão sei se tem a ver com o seu problema, não custa dar uma checada. Até o ítem 4 são os mesmos sintomas, o resto não ocorria no meu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-05T12:16:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlha Mortari, é uma boa dica.<br/>\n<br/>\nVou limpar o MAF.<br/>\n<br/>\nSérgio, onde é o seu auto-elétrico de confiança?<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-07-05T12:31:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSó toma cuidado pois o mecânico disse que é muito sensível a \"plaquinha\" que tem no MAF, tem que limpar com muito cuidado. Falou que já viu vários MAFs estragados por mecânicos cavalos que tentaram limpar.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2005-07-05T14:32:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tseu carro esta de luto pq vc nao mexeu 1 sombrancelha para ajudar o irmao dele que foi pra prensa..\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2005-07-05T16:57:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Alemão - SP\" data-date=\"5/07/2005, 09:16\"><p>Olha Mortari, é uma boa dica.<br/><br/>Vou limpar o MAF.<br/><br/>Sérgio, onde é o seu auto-elétrico de confiança?<br/><br/>Abraços<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106168\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Vai no Ogata, na Av. Jabaquara, sentido bairro, entre Sta. Cruz e Pça. da Árvore.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2005-07-05T17:53:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Ives\" data-date=\"5/07/2005, 13:57\"><p>Vai no Ogata, na Av. Jabaquara, sentido bairro, entre Sta. Cruz e Pça. da Árvore.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106204\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Indeed. <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span><br/><br/>Cruzamento da jabaquara com Luis Goes. Do lado da sua casa, Lemones\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-07-05T18:22:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to meu fazia mesma foisa limpei o maf e desmontei e limpei toda a admição parou complemtamente\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Juliano Buchen",
+            "date": "2005-07-05T19:13:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlemão:<br/>\n<br/>\nMeu carro apresentava problema semelhante. Ligava o carro, arrancava com ele e, 10 segundos depois, tinha que encostar. Deixava o motor ligado e, após alguns segundos, desaparecia.<br/>\n<br/>\nLevai em uma auto-elétrica, autorizada Bosch, para \"scanear\" a injeção.<br/>\nDiagnóstico:  -40ºC no motor. A injeção imediatamente \"entupia\" o motor de gasolina, para compensar o suposto motor frio.<br/>\nCausa: mau contato do sensor de temperatura (posicionado no lado esquerdo - que quem está de frente para o carro - do condensador/radiador do carro) - Custo: R$5,00.<br/>\n<br/>\nSds,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-05T22:45:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTb pode ser um bico injetor indo pro espaço...<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-06T10:24:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVou levar no Ogata... como é do lado da minha casa, não vou ter preguiça dessa vez.<br/>\n<br/>\nSerá que um bico dando problema pode foder com o motor? O detalhe é que de repente ele pega no breu e anda pra cacete... depois fica amarrado de novo...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-07T05:23:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, meu Calibra ficou com inveja do seu...<br/>\n<br/>\nLuz da injeção nao acende<br/>\nDo nada o carro começa a falhar e engasgar<br/>\nParece que o cabo do acelerador tá estourando (sensação durante o problema)<br/>\nMarcha lenta (pisando na embreagem) fica oscilando entre 1500 e 700 rpm<br/>\n<br/>\nDesligando e religando o carro (às vezes precisa-se fazer isso 3 ou 4x) o problema pára e o carro volta 100% ao normal.<br/>\n<br/>\nMisteeeeeeeeeeeeeeeeeeeerio...<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-07T14:13:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRod, vou fazer a limpeza da MAF amanhã (sexta). O problema é exatamente o mesmo que o seu.<br/>\n<br/>\nSe resolver, basta vc repetir o procedimento.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-07-07T14:16:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvou aguardar a limpeza que o German vai fazer então pq tenho a muito tempo um probleminha parecido....<br/>\n<br/>\nMistériooooooooooooooo...huahauahauhauha\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-07T19:33:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQuarta que vem vou na oficina do vermelho, vou tentar trocar os tubos da admissão + sensores pra ver se o problema pára.<br/>\n<br/>\nO chato é que como é intermitente, posso achar que parou e um belo dia aparecer novamente <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> Seria tão bom se esse problema aparecesse quando tivesse um rasther por perto...<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-07-07T19:50:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNa verdade não é preciso ter um rasher na mão no momento do problema. Teoricamente a anomalia deve ficar amarzenada na ECU...<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-07T19:52:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tA luz da ignição nao acende <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\nNa minha ecu só tá guardado por enquanto o codigo de erro da sonda lambda, em virtude do prob q tive com o regulador de pressao e ficou com mto excesso no escape mandando a lambda pro espaço, e não botei uma nova ainda.<br/>\n<br/>\nFiz uma megarevisao + limpeza fisica em toda a admissao dele arrumando gambis do ex-dono, inclusive com limpeza de bicos e troca de um deles.<br/>\n<br/>\nLinha de combustivel tb toda revisada e com mangueiras e bomba trocadas.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-07T20:48:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVerdade, senão acende a Luz no painel, nada é gravado na FLASH EPROM, que é a memória apagável que vai acumulando os códigos de erro e vão pro saco quando você desconecta a bateria.<br/>\n<br/>\nInclusive eu passei o Raster e só tinha os códigos de erro antigos, relativos ao sensor de rotação que virou fumaça.<br/>\n<br/>\nUsei o carro segunda e estou com ele hoje e deu o problema o tempo todo, por isso está mais fácil de saber se a limpeza da MAF é a solução pro problema.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-07-07T22:37:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnao ..<br/>\n<br/>\nacender a luz nao quer diser que ele gravou erro na memoria ..<br/>\n<br/>\nMeu carro as veses da um erro quando soco o pé em quarta a uns 50/h e vou esticando .. la pelos 120 a luz comessa a piscar ...<br/>\n<br/>\no que é .. nao sei .. pois nao grava nada na ie ...<br/>\n<br/>\no ideal era estar com o scaner conectado na hora ..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-07T23:06:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSim, mas se acender não quer dizer que grave, porém se não acender com certeza não grava nada.<br/><br/>Acesa = possibilidade<br/>Apagada = certeza de não gravar<br/><br/>---<br/><br/>Hoje saí com o carro, passou 100% do tempo dando problema, desligadas e religadas sucessivas, o que acabou sendo bom pra testes.<br/><br/><strong class=\"bbc\">O problema pelo que consegui deduzir está em algum sensor que até 99% de carga do acelerador fica ativo (com valores errados provavelmente) e com WOT ele é ignorado pela ECU, fazendo o carro voltar ao normal.</strong><br/><br/>Amanhã cedo vou na oficina do Calibra vermelho, trocar o tubo do filtro até a SFI e os sensores e rodarei o final de semana em testes.<br/><br/>Há alguma chance de ser erro no TPS?? Se for maf ou o sensor de temp do ar admitido descobrirei nesse fds com a troca.<br/><br/>Com o acelerador em WOT, o carro fica perfect. Só tirar 1mm o pé do fundo e já começa a parecer que está engasopando ou dando falta (ficando sem força), a 2000 a 3500 rpm fica engasgando direto. Voltando pra WOT o carro fica 100% normal. Misteeeeeeeeeeeeeeeeeerio<br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-07-07T23:23:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRod, faça  um teste rápido com seu carro. Com o motor ligado, desconecte o sensor de massa e veja se o motor para de falhar. Se caso isso ocorrer, já esta explicado. <br/>\n<br/>\nO sensor TPS mede a posição da borboleta do início ao fim, portanto, não tem motivos para ocorrer retorno de voltagem somente na fase inicial. <br/>\n<br/>\nE lembre-se sempre de resetar a ECU, e então simular a falha atual, para poder fazer a leitura da memória de avarias, se não, vc nunca irá saber quais erros atuais foram registrados. <br/>\n<br/>\nQuanto ao erro contínuo: \"Falta de sinal do sensor de rotação\", esse sempre irá aparecer com a leitura estática, pois quando o motor esta desligado, o sensor de rotação do virabrequim não lê movimento na roda fônica, e a ECU interpreta isso como erro.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-07T23:27:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHmm + simples e mais pratico aeuaeuh <br/>\n<br/>\nEu já andei sem o MAF e o outro conectado, o carro ficava obviamente estranho mas:<br/>\n<br/>\nmarcha lenta perfeita e lisa em 90% do tempo<br/>\naceleração linear e perfeita sempre<br/>\n<br/>\nQq novidade posto aqui... amanha já vou pra oficina com eles desconectados.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-07-08T07:32:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Qq novidade posto aqui... amanha já vou pra oficina com eles desconectados.<br/><br/>[]s<br/>Rodrigo<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106535\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/><br/>Isto será interessante Rod, pois é um tipo de problema muito comum nos Calis.<br/>O meu fica assim como o seu todo dia de manhã, dou a partida, espero o motor esquentar um pouquinho, e saio. Andando na maciota o motor fica pururucando, prá não morrer acelero, e ai ele vai bem, caso contrario morre, e dá um pouco de trabalho para pegar . . . e o barulho da ignição fica estranho, como se o motor de arranque estivesse mais lerdo...tipo isto, dificil explicar. Mas depois da primeira morrida, liogo, e o carro fica ok....um canhão!<br/>Vamos aguardar!<br/>Boa sorte Rod<br/>[]s<br/>Célio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-08T10:45:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"7/07/2005, 20:06\"><p>---<br/><br/><br/><strong class=\"bbc\">O problema pelo que consegui deduzir está em algum sensor que até 99% de carga do acelerador fica ativo (com valores errados provavelmente) e com WOT ele é ignorado pela ECU, fazendo o carro voltar ao normal.</strong><br/><br/><br/>[]s<br/>Rodrigo<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106530\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Vc escreveu exatamente o que eu ía escrever ontem mas fiquei com preguiça.<br/><br/>Quando afoga a injeção de gasolina (tipo, está a 30 por hora e enfia quinta marcha e acelera tudo) parece que o carro ignora a MAF e adota um comportamento independente da leitura do sensor. Aí o carro funciona normal... pisando pouco ele volta a ficar um lixo.<br/><br/>Bem, hoje a tarde vai pra oficina.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-08T11:05:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQuanto a gravar ou não na memória, só grava se na hora que desligar a chave a luz permanecer acesa, o que indicaria um problema residente. Quando acende e apaga depois de uns segundos ele não grava nada mesmo...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-07-08T14:14:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ta luz da injeção não acende tb quando ocorre pré-detonação?! Pode ser este o motivo da luz acender quando deichao motor apanhar em 5ª!<br/>\n<br/>\nMeu carro apresenta todos os sintomas de vcs todos e ainda pende bastante para o caso do Célio. De manhã ele fica pururucando e sai dando coices muito estranho...até esquentar fica assim e é bem normal apagar na saída da garagem!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-07-08T14:40:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>a luz da injeção não acende tb quando ocorre pré-detonação?!</p></blockquote><br/>Acende sim.. Isso é, quando passa dos níveis comuns do sensor de detonação. Se mesmo com o mapa de avanço mais recuado, o seu motor grilar, a ECU irá interpretar isso como anomalia e irá acender a luz da injeção, pois o knock sensor registra o tempo todo a vibração anormal ocorrida da pré-detonação ao bloco. E é muito sensível. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-07-08T16:04:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Sonic\" data-date=\"8/07/2005, 11:14\"><p>a luz da injeção não acende tb quando ocorre pré-detonação?! Pode ser este o motivo da luz acender quando deichao motor apanhar em 5ª!<br/><br/>Meu carro apresenta todos os sintomas de vcs todos e ainda pende bastante para o caso do Célio. De manhã ele fica pururucando e sai dando coices muito estranho...até esquentar fica assim e é bem normal apagar na saída da garagem!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106615\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Que coisa, pensei que era só o meu !!!<br/>Mas dá raiva esta sintomatologia matinal . . .principalmente quando é para andar percursos curtos. Sei lá...<br/>[]s<br/>Célio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-07-08T17:24:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBem vindo ao meu mundo! <br/>\nPorra! <br/>\nTive este mesmo problema quando comprei o carro , e mostrei pra vc´s la no opel fest.<br/>\n<br/>\nArrumei eu mesno o problema, e possivelmente são 2:<br/>\n1º A maf suja.<br/>\n Solução: tira e limpa.<br/>\n2° O cabo da maf com mal contato.<br/>\n Solução: limpa os conectores.<br/>\n<br/>\n<br/>\nPossivelmente por causa da curva q o cabo da maf faz (ele pega no caput) então fica dando ruidos no sinal.<br/>\nSolução: Rodem a maf até o cabo não pegar mais no caput . <br/>\n<br/>\nok?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>MasterRey</b>: 08 julho 2005 - 14:27\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-07-08T21:26:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu to axando q meu problema é semelhante aos seus... c/ as diferenças:<br/>\n- engasgos apenas em rotações baixas, proximos da lenta<br/>\n- as vezes o motor acelera sozinho do nada tb proximo da lenta, qdo deixo em neutro c/ o carro em movimento.<br/>\n- agora, ascende a luz da injeção c/ + frequencia mesmo qdo ñ falha na pratica, mas sempre em baixa rotação<br/>\n- falha só c/ o carro em movimento... parado, funcionamento normal<br/>\n- 2000rpm p/ cima e funfa sempre normal<br/>\n- na ultima vez q fui à oficina, ñ deu nada no scaner<br/>\n- ñ é atuador da lenta.. ja limpei.<br/>\n- problema intermitente<br/>\n<br/>\nDeve ser o MAF... e axo q ele encosta mesmo no capo.<br/>\n<br/>\nAlias, p/ t ctz, qual dos sensores é o MAF e o Medidor d temperatura do ar?<br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>RSR</b>: 08 julho 2005 - 18:28\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-07-08T21:44:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO MAF é o que fica logo antes da caixa SFI, entre a SFI e a tubulação da admissão. O outro fica lá no começo, logo depois da caixa do filtro de ar, próximo à tampa do drive-train.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-07-08T21:53:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLembrando que quem precisar de MAF, eu tenho um aqui, vendo por 380,00 reais para amigos e 350,00 reais para associados.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-09T19:55:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, hoje só pq ia mostrar o prob pro Sniper pra variar como sempre acontece o prob nem deu sinal de vida... carro normal <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\nPorém depois da 1a volta, desliguei o maf e o sensor de temp de ar admitida e fomos pra 2a volta... não reparei se na 1a volta o marcador de temperatura do painel estava normal mas até ontem estava marcando perfeitamente, e na 2a volta sei lá pq hoje não estava mais marcando.<br/>\n<br/>\nNem religando o maf e o sensor de temp de ar da admissão a temperatura voltou a marcar. OK ok, nao tem nada a ver uma coisa com a outra, mas pelo q vi parece que foi depois que desconectei esses 2 sensores que o sensor de temperatura do motor (azul, embaixo da termostatica) resolveu morrer tb.<br/>\n<br/>\nEntão estou tendendo a achar que o problema do carro não é a MAF, mas sim tal sensor que já estava problematico em final de vida. É uma hipótese apenas...<br/>\n<br/>\nSemana q vem boto o sensor novo, religo a maf/temp admissão e vejo se o problema não aparece mais, não mexerei mais na maf por enquanto pra facilitar o diagnóstico (confirmar se esses sintomas acusam o sensor de temp problematico ou se acusa a maf mesmo pros proximos que tiverem esse problema).<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2005-07-09T21:23:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"9/07/2005, 16:55\"><p>Bom, hoje só pq ia mostrar o prob pro Sniper pra variar como sempre acontece o prob nem deu sinal de vida... carro normal <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/>Porém depois da 1a volta, desliguei o maf e o sensor de temp de ar admitida e fomos pra 2a volta... não reparei se na 1a volta o marcador de temperatura do painel estava normal mas até ontem estava marcando perfeitamente, e na 2a volta sei lá pq hoje não estava mais marcando.<br/><br/>Nem religando o maf e o sensor de temp de ar da admissão a temperatura voltou a marcar. OK ok, nao tem nada a ver uma coisa com a outra, mas pelo q vi parece que foi depois que desconectei esses 2 sensores que o sensor de temperatura do motor (azul, embaixo da termostatica) resolveu morrer tb.<br/><br/>Então estou tendendo a achar que o problema do carro não é a MAF, mas sim tal sensor que já estava problematico em final de vida. É uma hipótese apenas...<br/><br/>Semana q vem boto o sensor novo, religo a maf/temp admissão e vejo se o problema não aparece mais, não mexerei mais na maf por enquanto pra facilitar o diagnóstico (confirmar se esses sintomas acusam o sensor de temp problematico ou se acusa a maf mesmo pros proximos que tiverem esse problema).<br/><br/>[]s<br/>Rodrigo<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106745\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Rod acho que vc achou o problema, troca os dois, o pequeno é do ponteiro, o grande é o que envia para o modulo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-07-11T01:36:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-date=\"8/07/2005, 14:24\"><p>Possivelmente por causa da curva q o cabo da maf faz (ele pega no caput) então fica dando ruidos no sinal.<br/>Solução: Rodem a maf até o cabo não pegar mais no caput . <br/><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106638\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Boa sujestão, Master!<br/><br/>Onti dei uma olhada e vi q meu MAF encostava muito no capo, xegando ate ter estragado a parte em q pegava dakele material anti-ruído... então rodei o MAF até ñ encostar + e até agora ñ falhou nada.... vamo v daki uns dias.<br/><br/>[]´s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-07-11T02:36:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEspecificações técnicas do calibra do rod, no momento das voltas de teste:<br/>\n<br/>\n- Nível do óleo: Bem baixo mesmo, a luz piscava conforme as aceleredas.<br/>\n<br/>\n- Gasolina: Gasolina pra que? a onda é andar com a luz da reserva acesa e o ponteiro lá embaixo.<br/>\n<br/>\n- Freios: Pra que isso? o ABS tá morto, e os discos de freios estão parecendo uma locomotiva, cada freiada era um vuummm, vummm , vummm.<br/>\n<br/>\nResumo: Não sei como esse carro ainda anda, coitado!<br/>\n<br/>\nQue a força esteja com o calibra do rod, pq os discos de freio, o óleo do motor e a gasolina, não estão!<br/>\n<br/>\nvlw. <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2005-07-11T03:03:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"sniper.arnaud\" data-date=\"10/07/2005, 23:36\"><p>Especificações técnicas do calibra do rod, no momento das voltas de teste:<br/><br/>- Nível do óleo: Bem baixo mesmo, a luz piscava conforme as aceleredas.<br/><br/>- Gasolina: Gasolina pra que? a onda é andar com a luz da reserva acesa e o ponteiro lá embaixo.<br/><br/>- Freios: Pra que isso? o ABS tá morto, e os discos de freios estão parecendo uma locomotiva, cada freiada era um vuummm, vummm , vummm.<br/><br/>Resumo: Não sei como esse carro ainda anda, coitado!<br/><br/>Que a força esteja com o calibra do rod, pq os discos de freio, o óleo do motor e a gasolina, não estão!<br/><br/>vlw. <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=106810\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <br/> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-11T04:01:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tsafado aeuehau <br/>\n<br/>\n1. o motor tá queimando + óleo que o devido, e a troca está agendada pra essa semana já. Em segundo lugar a luz não está fixa, está piscante, então desconfio que o sensor do nível de óleo não está lá nos seus melhores dias... como a troca do óleo vai envolver engine flush, abrir carter, limpeza e troca de juntas, já troco ele de uma vez.<br/>\n<br/>\n2. gasolina tá baixa mesmo, reserva mode on <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> mas como a linha tá toda revista, filtros novos e tanque recém limpo, no probs.<br/>\n<br/>\n3. Qual o prob de usar ferro com ferro nos freios?? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> aeuhea o dot 5.1 valvoline, discos novos e pastilhas novas estão aki tb, mas quero resolver o prob do mal contato do abs antes de fazer a sangria e troca do sistema.<br/>\n<br/>\n4. VIADOS. PL <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-07-11T05:04:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tah esqueci:<br/>\n<br/>\n- VIADO!<br/>\n<br/>\n- ME RESPEITA PORRA!<br/>\n<br/>\nPL.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-07-11T12:37:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPra variar, no dia que ía levar o carro pra fazer os testes o problema simplesmente sumiu.<br/>\n<br/>\nÉ a inata rebeldia dos seres inanimados.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-07-13T00:41:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAchei finalmente o problema do meu, MasterRey ganhou uma sardinha <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> boa Flipper aeuheau <br/>\n<br/>\nConector do MAF com mal contato, pela posição mafagafada que ela fica torcendo o cabo e ainda tomando pancada do caput. Hoje mesmo de branco cansei e me sujei todo fazendo os testes com os sensores q achava q era, dava umas voltas e modificava pra mais testes.<br/>\n<br/>\nAgora o carro tá 100% normal, com todos novamente conectados. Quando der dou uma geral ali no chicote achando o local exato do mal contato e em qual dos fios do MAF, pra reparar.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-07-13T02:11:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tq mecanico q nada chamem eu, q nois resorve no durex\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2005-07-13T10:01:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlha a dureza o que faz, nosso presi pondo a mão na massa, mas é assim mesmo, vcs ainda estão bem eu que no passado ja até risquei pneu <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-09-27T11:20:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu carro apontou no teste da injeção erro no sensor de detonação <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> .<br/>\n<br/>\nTeste realizado com a ajuda do Led ontem no encontro do calibra.<br/>\n<br/>\nO carro funciona normal apesar de apresentar esse erro, não sei se apagando o erro some ou se o sensor está realmente com problema <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> .<br/>\n<br/>\nAlguém sabe explicar onde fica esse sensor e qual o preço aproximado ?<br/>\n<br/>\nValeu  <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> !!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-09-27T11:34:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tolhe nesse topico ...<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=1005&amp;pid=125729&amp;st=60&amp;#entry125729\" title=\"\">http://www.clubecali...60</a><br/><br/>o que vc pode fazer é desligar da bateria por um tempo e depois refazer o teste ...<br/><br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-09-27T11:38:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMeu carro, ontem de manhã, quando eu liguei, ficou pipocando e variando a rotação até morrer.<br/>\nTentei ligar mais umas 3 vezes a mesma coisa....na quarta vez ligou e ficou normal.<br/>\n<br/>\nDesde então não deu mais problema..<br/>\n<br/>\nVai entender..<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-09-27T18:52:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Led Zeppelin\" data-date=\"27/09/2005, 09:34\"><p>olhe nesse topico ...<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=1005&amp;pid=125729&amp;st=60&amp;#entry125729\" title=\"\">http://www.clubecali...60</a><br/><br/>o que vc pode fazer é desligar da bateria por um tempo e depois refazer o teste ...<br/>Falow<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=126996\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Ô Led não consigo acessar, tenho que me associar mas tô cortando tudo que é custo enquanto não arrumar um trampo.<br/><br/>Tem a localização do sensor nesse tópico ?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2005-09-27T19:35:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Calibra Vermelho que eu ví teve um problema que foi difícil de resolver. O MAF enconstava no capô, as vezes dava mal contato, outras funcionava direito.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-09-28T14:59:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPrimeira vez na mão com o Calibra, depois de 20.000km rodados, ontem na Aricanduva umas 20:00hs, começou a falhar não dava nem pra andar, encostei no estacionamento do Mac Dolnalds, antes do Shopping Aricanduva, no fim do mundo ou quase <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> .<br/>\n<br/>\nNão pegou mais, comecei a procurar o defeito e nada, conseguí fazer o carro funcionar e continuou falhando muito, o meu carro tem aquela caixinha Flex, mudei o botão pra gasolina assim isolando a caixinha e nada <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> .<br/>\n<br/>\nAinda bem que eu estava com a minha super maleta de ferramentas, desmontei todo o sistema de injeção tirei cabos, filtro, flauta dos bicos, tirei os cabos da caixinha flex e deixei o carro original, montei tudo de novo, 21:00hs, pronto o carro pegou <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> , não funcionando bem porque o tanque tava cheio de alcool, bom, que eu tinha a perder nada né, desmontei tudo de novo e montei com a caxinha flex, 21:30, pá !, carro funcionando perfeitamente. com alcool e caixinha, <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>  só pude constatar que era mal contados nos fios e conectores da injeção embora eu havia de início desconectado e conectado novamente....<br/>\n<br/>\nMenos mal tá funcionando de novo, mas tomei o maior susto, pensei que era algo mais grave.<br/>\n<br/>\nAndar se nada de ferramenta ?, never, se não eu só sairia no guincho.<br/>\n<br/>\nMas ainda não sei detalhes sobre esse sensor de detonação<br/>\n<br/>\nValeu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-09-28T15:10:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSó pra atualizar, meu carro continua ruim. Agora ficou mais raro ele parar e ter que ligar pra voltar ao normal, mas mesmo assim fica fraco principalmente quando está frio.<br/>\n<br/>\nDe repente ele pega no breu e volta a jogar potência normalmente, e depois que esquenta fica mais raro ficar amarrando.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-09-28T15:30:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVolta o conector pro \"B\" vê se muda esse comportamento, parece ser tipo de combustível ou algo assim.<br/>\n<br/>\nAgora, jampeando no Conector da injeção a porta A com a B você verifica o diagnóstico da injeção, caso exista algum erro ele aponta.<br/>\n<br/>\nO Led tem os códigos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-09-28T15:43:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsse problema ocorre com qualquer tipo de gasolina Wellington, desde Podium até as porcarias...<br/><br/>O que me intriga é que não é mecânico (se desligar e ligar e volta ao normal) porém ocorre quando o carro tá frio.<br/><br/> <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Wellingtonf\" data-date=\"28/09/2005, 12:30\"><p>Volta o conector pro \"B\" vê se muda esse comportamento, parece ser tipo de combustível ou algo assim.<br/><br/>Agora, jampeando no Conector da injeção a porta A com a B você verifica o diagnóstico da injeção, caso exista algum erro ele aponta.<br/><br/>O Led tem os códigos.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=127307\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-09-28T15:53:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Alemão - SP\" data-date=\"28/09/2005, 12:43\"><p>Esse problema ocorre com qualquer tipo de gasolina Wellington, desde Podium até as porcarias...<br/><br/>O que me intriga é que não é mecânico (se desligar e ligar e volta ao normal) porém ocorre quando o carro tá frio.<br/><br/> <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=127313\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Alemão, o meu tá exatamente assim, consegui  achar um atuador da ML 0 bala, e vou fazer a troca, tenho certeza deque tá enroscando, e dando mistura errada de gasolina.<br/>[]s<br/>Célio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-09-28T15:55:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ uma hein Célio!<br/><br/>Até porque quando dá pau geral, ele fica deixando a lenta cair pra 500 rpm, quase morre e sobe até 900 rpm de novo, e fica nessa até eu dar partida no carro e ele voltar ao normal, como que por mágica.<br/><br/>Limpei a MAF, não resolveu, combustíveis diversos, não resolveu.<br/><br/>Quanto custa o atuador da ML?<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Célio\" data-date=\"28/09/2005, 12:53\"><p>Alemão, o meu tá exatamente assim, consegui  achar um atuador da ML 0 bala, e vou fazer a troca, tenho certeza deque tá enroscando, e dando mistura errada de gasolina.<br/>[]s<br/>Célio<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=127318\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2005-09-28T17:46:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Ed tava com problema lenta direto, ele limpava o atuador mas poucos Km depois tava tudo sujo de novo. Ele pensou em comprar um novo mas o problema dele era outro. Os cilindros estavam com muita folga e, sei lá que jeito, isso fazia sujar de óleo o atuador. Retíficou e não teve mais problemas.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-09-29T16:58:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tusando o breather tank não suja o atuador..... <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-09-29T17:05:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComprei esse treco e nunca instalei.<br/>\n<br/>\nSou um merda por isso?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-09-29T17:13:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSe for assim, também sou.<br/>\nAté o suporte coloquei no motor, mas nunca instalei.<br/>\n<br/>\nFoda.<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-09-29T17:43:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntão são 3, tem uma caixinha da SPA em cima da cômoda do meu quarto.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-09-29T17:44:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBonita ela é...mas o maldito do Sniper amaldiçoou todas, daí quem não tinha instalado deixou de enfeite...<br/>\n<br/>\nEspero que uma bala atravesse o crânio do sniper quando eles estiver limpando a 9mm..<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-09-30T13:20:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTenho o mesmo problema do Alemão...<br/>\ncarro frio fica pipocando e se eu tentar acelerar fundo naum rende mais q 1.0! Pra apagar é um abraço tb! E fica assim até desligar e ligar denovo ou entaum se passar uns 20 minutos com o carro ligado....<br/>\n<br/>\nMeu atuador foi limpo e naum mudou em nada o problema!<br/>\nCreio q tem alguma coisa a ver com o sensor de temperatura q tah passando informação incorreta...<br/>\n<br/>\nSei lah tb..carro maldito!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2005-09-30T14:27:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Sonic\" data-date=\"30/09/2005, 10:20\"><p>Sei lah tb..carro maldito!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=128046\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Herege!!!! <br/><br/><span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-09-30T15:22:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"lukguns\" data-date=\"28/09/2005, 14:46\"><p>O Ed tava com problema lenta direto, ele limpava o atuador mas poucos Km depois tava tudo sujo de novo. Ele pensou em comprar um novo mas o problema dele era outro. Os cilindros estavam com muita folga e, sei lá que jeito, isso fazia sujar de óleo o atuador. Retíficou e não teve mais problemas.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=127409\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Na verdade com a folga, queima-se mais óleo, gerando mais vapor do memso, que é eliminado pelos 2 caninhos do cabeçote, que é jogado para queima na admissão, que por sua vez suja e faz enroscar a vávula do atuador....<br/><br/>Será que todo mundo que tem problemas de atuador frequetnemente sujo, deveria fazer um teste de compressão do motor?<br/><br/>É fácil de ser feito? <br/><span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "fernando junior",
+            "date": "2005-09-30T23:23:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Alemão - SP\" data-date=\"28/09/2005, 12:10\"><p>Só pra atualizar, meu carro continua ruim. Agora ficou mais raro ele parar e ter que ligar pra voltar ao normal, mas mesmo assim fica fraco principalmente quando está frio.<br/><br/>De repente ele pega no breu e volta a jogar potência normalmente, e depois que esquenta fica mais raro ficar amarrando.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=127299\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Alemão,<br/><br/>Vc já mandou testar a compressão dos pistões ?<br/><br/>Falow !\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-10-01T03:53:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSoh pra constar...<br/>\nno teste de compressão obtive 190/200PSI<br/>\n<br/>\ne tenho os mesmo sintomas...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-10-13T20:04:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Wellingtonf\" data-date=\"27/09/2005, 16:52\"><p>Ô Led não consigo acessar, tenho que me associar mas tô cortando tudo que é custo enquanto não arrumar um trampo.<br/><br/>Tem a localização do sensor nesse tópico ?<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=127095\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/><br/>Algum filho de ... Deus pode me explicar onde fica esse sensor e qual a sua ação porque o meu apresentou erro mas o carro funciona bem\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-10-13T22:36:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQ sensor?<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-10-13T22:46:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t\"O sensor de detonação fica atrás do motor, abaixo do coletor da admissão, perto do atuador da marcha lenta. Fica fixado no bloco mesmo, por um parafuso, e um chicote. É uma peça redonda, com um furo no meio, pra fixacção, e uma parte quadrada salienta pra fixar o chicote. Fica atrás do cilindro mais próximo dos roletes.\" (By Puppets)<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=1005&amp;view=findpost&amp;p=124544\" title=\"\">LINK</a>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Mortari</b>: 13 outubro 2005 - 19:47\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-10-13T22:49:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tIsso, isso, isso...<br/>\n<br/>\nEu sempre disse q esse Puppets é inteligente bagarai!<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2005-10-14T01:29:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu Mortari e Puppets, vou tentar localizar quem sabe.... não é um fio solto hehehehe\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-10-14T05:13:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tWellington, é legal vc dar uma olhada sim. O meu sensor tem um fio que sai direto dele, e o chicote é plugueado perto do corpo da borboleta. Se o seu for o original deve ser igual. Então, o plug vc não verá por baixo do carro, e sim olhando ao lado do corpo da borboleta à direita.<br/>\n<br/>\nQualquer coisa te mosro no próximo encontro (nessa 2ª).<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-10-17T15:13:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTeste de compressão deu mais de 190 psi nos 4 cilindros.<br/>\n<br/>\nHipótese descartada, problema persiste.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2005-10-17T19:00:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Alemão - SP\" data-date=\"17/10/2005, 12:13\"><p>Teste de compressão deu mais de 190 psi nos 4 cilindros.<br/><br/>Hipótese descartada, problema persiste.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=131292\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>O que não é um problema, agora que descobrimos que vc é onisciente... <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-10-17T19:12:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ só uma charada para saber se vocês atingiram um nível mínimo de conhecimento.<br/><br/><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Ives\" data-date=\"17/10/2005, 16:00\"><p>O que não é um problema, agora que descobrimos que vc é onisciente... <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=131359\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        }
+    ]
+}

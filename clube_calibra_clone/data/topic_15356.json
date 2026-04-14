@@ -1,0 +1,147 @@
+{
+    "title": "Problema Estranho (Elétrico?)",
+    "url": "http://www.clubecalibra.com.br/forum/topic/15356-problema-estranho-eletrico/",
+    "id": "15356",
+    "messages": [
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-11T12:35:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAí pessoal, vejam só, há um mês atrás fui sair com o Eclipse e o mesmo me deixou falando sozinho pois parou no meio da rua e não ligava nem fodendo.<br/>\n<br/>\nPrimeiro achei que era o alarme cortando o combustível, depois achei que o pescador não estava pegando comb. porque o tanque estava no osso, mas empurrei até o posto, enchi o tanque e não ligou. O alarme não deve ser pois parece estar funcionando normalmente (travando/destravando as portas).<br/>\n<br/>\nHoje resolvi arriscar e me fodi outra vez, o carro parou, mas foi bom porque vi que aconteceu bem quando eu aumentei o volume do rádio no talo. Aí aconteceram duas coisas:<br/>\n<br/>\n- o som do rádio pipocou, e o volume caiu pra zero<br/>\n- o carro desligou.<br/>\n<br/>\nParece que o rádio tomou toda a energia e não tinha como o motor acender as velas.<br/>\n<br/>\nEmpurrei o carro e depois de esperar um pouquinho, dei partida e ele funcionou novamente. Daí andou bastante, quase até o escritório, mas daí mesmo o com o rádio desligado ele deu mais um pau. Depois de duas partidas, funcionou novamente.<br/>\n<br/>\nLembro que da primeira vez que aconteceu isso eu tb estava mexendo no rádio (provavelmente aumentando o som como um imbecil). Talvez da outra vez não tenha ligado de jeito nenhum porque o carro tenha afogado (injetou um monte de comb. e as velas permaneceram apagadas).<br/>\n<br/>\nSeria alternador? Idéias são bem vindas.<br/>\n<br/>\nPS - bateria é nova.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2009-12-11T12:50:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem que acompanhar com um multimetro para ver se é o alternador...<br/>\n<br/>\nSe o regulador de tencao estiver estragado ele pode fornecer mais ou menos tensao...<br/>\nSe o regulador de tencao estiver regulando para mais de 15v a Ie tem uma protecao que desliga varios reles dos modulos eletronicos do carro, inclusive o de alimentao propria e da bobina...<br/>\n<br/>\nno scanner pode acusar o erro de alta tensao...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2009-12-11T12:59:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu acho que nada a ver com Bateria e Alternador, o alternador ta carregando caso contrario não teria nem bateria para dar partida depois.<br/>\n<br/>\nA pane elétrica pode ser mal contato no chicote, o que poderia cortar o motor é bobina, alarme, talvez o som seja coincidência.<br/>\n<br/>\nEu recomendo o Ogata como auto elétrico, na jabaquara, do lado dá rua das rosas, ele abre no sábado às 07 da manhã\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-11T13:08:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMas no caso da bateria + alternador estiverem Ok, ainda resta a opção do Led, se o regulador de tensão estiver uma merda a bateria vai continuar carregando (é capaz de carregar até mais do que deve, acho).<br/>\n<br/>\nAcho que seria muita coincidência o problema do som, W... mas isso é fácil de saber, basta ligar e meter o som no talo.<br/>\n<br/>\nComo é o regulador de tensão? Uma caixa pequena? Fica perto de que parte do motor?<br/>\n<br/>\nAbs<br/>\n<br/>\nEdit -&gt; Outro sintoma interessante: a luz do Air-Bag acendeu no Painel (não estava acesa antes de dar esse pau).\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Doutor Eduardo Thimberg</b>: 11 dezembro 2009 - 10:09\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2009-12-11T13:42:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tA luz do Air-Bag depois de ter esses dois thutchos ou apos trocar a bateria por uma nova?<br/>\n<br/>\n[]s,<br/>\nGordo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "da Matta",
+            "date": "2009-12-11T15:06:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Doutor Eduardo Thimberg'\" data-cid=\"300645\" data-date=\"11 dezembro 2009 - 11:08\" data-time=\"1260536912\"><p>Mas no caso da bateria + alternador estiverem Ok, ainda resta a opção do Led, se o regulador de tensão estiver uma merda a bateria vai continuar carregando (é capaz de carregar até mais do que deve, acho).<br/><br/>Acho que seria muita coincidência o problema do som, W... mas isso é fácil de saber, basta ligar e meter o som no talo.<br/><br/>Como é o regulador de tensão? Uma caixa pequena? Fica perto de que parte do motor?<br/><br/>Abs<br/><br/>Edit -&gt; Outro sintoma interessante: a luz do Air-Bag acendeu no Painel (não estava acesa antes de dar esse pau).<br/></p></blockquote><br/>Nao sei como é no Eclipse, mas geralmente o regulador de tensao é Bosch e fica localizado junto ao Alternador, na carcaça dele.<br/><br/>Abraços!!! Boa Sorte com o sabonete....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2009-12-11T15:40:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Doutor Eduardo Thimberg'\" data-cid=\"300645\" data-date=\"11 December 2009 - 11:08\" data-time=\"1260536912\"><p>Edit -&gt; Outro sintoma interessante: a luz do Air-Bag acendeu no Painel (não estava acesa antes de dar esse pau).<br/></p></blockquote>Isso + o rádio: indícios de curto-circuito.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2009-12-11T20:17:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVolta pro calibra.  <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/rolleyes.gif\"/></span>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>RSR</b>: 11 dezembro 2009 - 17:18\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-12T11:45:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ verdade, tinha esquecido que Calibra não quebra né...  <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/rolleyes.gif\"/></span> <br/>\n<br/>\nNão descobri o que é ainda, é impressionante o baixo nível dos mecânicos. Nego não consegue nem passar o raster em um carro um pouquinho diferente.<br/>\n<br/>\nE os poucos que entendem alguma coisa tem suas oficinas abarrotadas de gente e por terem um mínimo de reputação se vêem no direito de fazer pouco dos clientes.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2009-12-12T14:29:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLigar o SOM no talo exige muita corrente e pode fazer cair a tensão que teoricamente já deve estar baixa por algum motivo<br/>\nimpedindo que os circuitos eletrônicos tenham tensão mínima para seus transistores funcionarem. Por isso o som pipoca.<br/>\nQuando a tensão eh baixa ela não é suficiente para polarizar os transistores de potência de saída do amplificador de audio<br/>\ne o som pipoca. O mesmo acontece com o modulo de ignição e central eletrônica, mas principalmente com o modulo, sendo assim<br/>\nnada de fagulhas nas velas.<br/>\n<br/>\nPode ser alternador ou regulador de tensão bichado, mas eu tb nao descarto mal contato no sistema de geração e armazenamento de energia ( alternador e bateria )<br/>\n<br/>\nAbraço e boa sorte!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2009-12-12T18:10:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPode ser problema de osmar.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2009-12-14T13:05:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Doutor Eduardo Thimberg'\" data-cid=\"300687\" data-date=\"12 December 2009 - 09:45\" data-time=\"1260618317\"><p>É verdade, tinha esquecido que Calibra não quebra né...  <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/rolleyes.gif\"/></span> <br/><br/>Não descobri o que é ainda, é impressionante o baixo nível dos mecânicos. Nego não consegue nem passar o raster em um carro um pouquinho diferente.<br/><br/>E os poucos que entendem alguma coisa tem suas oficinas abarrotadas de gente e por terem um mínimo de reputação se vêem no direito de fazer pouco dos clientes.<br/></p></blockquote>Vai no Ogata, que além de tudo é gente finíssima.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2009-12-14T14:13:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Doutor Eduardo Thimberg'\" data-cid=\"300687\" data-date=\"12 dezembro 2009 - 09:45\" data-time=\"1260618317\"><p>E os poucos que entendem alguma coisa tem suas oficinas abarrotadas de gente e por terem um mínimo de reputação se vêem no direito de fazer pouco dos clientes.<br/></p></blockquote>Por falar nisso, perdemos um grande profissional na semana passada. Faleceu o Armando do Auto Elétrico Graúna, na esquina da Av. Santo Amaro com a Rua Graúna, em Moema. Este era um dos confiáveis.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2009-12-14T14:45:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tProblema de junta. Compra um Mille Way que o problema desaparece.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-14T15:12:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Ogata nem quis mexer no carro. <br/>\n<br/>\nFiquei sabendo que o Graúna morreu. Já desisti dessas oficinas genéricas, vou levar em um especializado em Mitsubishi que pelo menos tenha o software da injeção. Só tem amador e fuçador no Brasil.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2009-12-14T16:40:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPuxa, que chato! Eu já levei meu Calibra nesta oficina da Grauna x Santo Amaro... os caras são bons mesmo <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-14T16:41:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO foda daquela oficinana Graúna é parar o carro... inviável a posição dos boxes.<br/>\n<br/>\nO cara morreu com menos de 50 anos, de ataque cardíaco.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2009-12-14T17:19:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Doutor Eduardo Thimberg'\" data-cid=\"300735\" data-date=\"14 dezembro 2009 - 14:41\" data-time=\"1260808906\"><p>O cara morreu com menos de 50 anos, de ataque cardíaco.<br/></p></blockquote> <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2009-12-14T17:34:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Doutor Eduardo Thimberg'\" data-cid=\"300723\" data-date=\"14 dezembro 2009 - 13:12\" data-time=\"1260803522\"><p>O Ogata nem quis mexer no carro. <br/><br/><br/></p></blockquote><br/>Sacanagem, o cara é gente boa mas pisou na bola\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2009-12-14T17:41:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLeva no cara de Pinheiros... o Japones aquele\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-15T03:26:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"300748\" data-date=\"14 December 2009 - 15:41\" data-time=\"1260812517\"><p>Leva no cara de Pinheiros... o Japones aquele<br/></p></blockquote><br/>RAU... INDIO LEVAR ... ANTES FALAR QUE JAPONES SER AQUELE...<br/><br/><br/>RAU\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2009-12-15T12:10:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"300748\" data-date=\"14 dezembro 2009 - 15:41\" data-time=\"1260812517\"><p>Leva no cara de Pinheiros... o Japones aquele<br/></p></blockquote><br/>Huahsduashduashd, indicar o Japones, aquele, é foda tb hein, 99,9999999% são Japas\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2009-12-15T13:38:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMaledetos... eu ia continuar digitando \"o japones aquele que eu comentei com vc no msn, que o Marcio Leal indicou que instalava as injeções pro Herrera\"<br/>\n<br/>\nMas por algum impulso elétrico involuntário, acabei apertando na sequencia a tecla ALT, então, o cursor foi para o botão \"Responder\"... assim que apertei o espaço, a mensagem foi postada sem meu consentimento.<br/>\n<br/>\nAí fiquei com preguiça de editar o post, e deixei o Alemão se virar na subjetividade da minha tentativa de ajuda.<br/>\n<br/>\nFoda-se<br/>\n<br/>\nDET\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2009-12-19T13:15:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tResolveu?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2009-12-21T19:15:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNada ainda, vou levar na Tecnobox só em 2010. <br/>\n<br/>\nDepois digo o que era.<br/>\n<br/>\nAbs\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2010-01-11T12:37:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tUP!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2010-01-20T17:41:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE o carro Dr. Tim Tim, melhorou???<br/>\n<br/>\n[]s,<br/>\nGordo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2010-01-21T13:32:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tContinua parado no mesmo lugar. Bateria arreada, preto de pó.<br/>\n<br/>\nSem saco para ficar mexendo em carro.<br/>\n<br/>\nAbs\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

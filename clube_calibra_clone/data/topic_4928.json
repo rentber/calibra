@@ -1,0 +1,112 @@
+{
+    "title": "[PROBLEMAS] Parte elétrica",
+    "url": "http://www.clubecalibra.com.br/forum/topic/4928-problemas-parte-eletrica/",
+    "id": "4928",
+    "messages": [
+        {
+            "author": "Fábio",
+            "date": "2005-06-16T06:27:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGente, não sei o que aconteceu, mas o meu carro apresentou um curto circuito que apagou a iluminação do painel (que tem o velocímetro), a iluminação do computador de bordo e as luzes que iluminam a placa traseira.<br/>\n<br/>\nComecei a procurar o problema, mas estava difícl de encontrar, pois cada vez que eu colocava um fusível novo (fusível n09, snme) ele queimava.<br/>\n<br/>\nEntão, eu comecei a testar de várias maneiras, desliguei o cb e nada, depois tirei o velocímetro, testei, e lá se foi outro fusível... aí comecei a desconfiar das luzes da placa, que não acendiam de jeito nenhum. Verifiquei as lâmpadas, que estavam boas, então eu reparei que há uma ligação na minha caixa de fusíveis que eu não sei se é igual a de todos os calibra e vgsi, porque no meu carro ainda tem fiação daquele maldito alarme via satélite e eu sei que tem coisa ali que não está em uso.<br/>\n<br/>\nEssa ligação que eu encontrei está no lado extremo direito da caixa de fusíveis, ao lado de um relé, e ele tem 3 fios na parte de trás e na frente tem um jump, ligando 2 deles.<br/>\n<br/>\nEu notei que, quando eu coloco um fusível mais potente (e que demora mais pra queimar), esses fios do jump começam a esquentar, então eu desligo a chave da lanterna.<br/>\n<br/>\nEu decidi reitrar esse jump para ver o que acontecia, e dentro do carro tudo estava normal, apenas as luzes da placa continuam apagadas... acho que matei a charada, mas agora tenho que descobrir o caminho que esse fio faz até a placa, porque estou sem iluminação e isso dá multa.<br/>\n<br/>\nDepois coloco as fotos desse jump.<br/>\n<br/>\nAlguém sabe o que tenho que fazer? Já aconteceu isso com algum de vocês?<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-06-16T13:13:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu ja vi em alguns gm os caras colocarem o jumper no lugar do rele .. caso esses reles sejam dos neblinas ...<br/>\n<br/>\nseus neblinas  nao estar com curto nao ???<br/>\n<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2005-06-16T13:48:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOgata Auto Elétrico<br/>\nAv. Jabaquara, sentido Jabaquara, logo depois do Metrô Santa Cruz.<br/>\n<span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2005-06-16T13:52:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Ives\" data-date=\"16/06/2005, 10:48\"><p>Ogata Auto Elétrico<br/>Av. Jabaquara, sentido Jabaquara, logo depois do Metrô Santa Cruz.<br/><span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103561\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>indeed.<br/><br/>Av. Jabaquara - cruzamento com a Luis Goes (sentido bairro)<br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2005-06-16T16:55:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJapom serviço garantido né!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-06-17T04:28:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Led Zeppelin\" data-date=\"16/06/2005, 10:13\"><p>eu ja vi em alguns gm os caras colocarem o jumper no lugar do rele .. caso esses reles sejam dos neblinas ...<br/><br/>seus neblinas  nao estar com curto nao ???<br/>Falow<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103553\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Opa, só agora que vi as respostas do pessoal. <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/><br/>Led, os neblina estão funfando normalmente, eles estão com o relé sim. Ainda acho que o problema esteja na iluminação das placas.<br/><br/>Povo, obrigado pela dica. Assim que possível eu vou dar uma passada lá nesse japa <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/><br/>Abraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-06-17T12:40:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ttire entao o tal jumper e veja o que parou de funca ..<br/>\nai verifique o circuito ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-06-17T15:26:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Led Zeppelin\" data-date=\"17/06/2005, 09:40\"><p>tire entao o tal jumper e veja o que parou de funca ..<br/>ai verifique o circuito ...<br/><br/>Falow<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103731\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Opa, já fiz isso, e o que parou de funfar foi mesmo as luzes da placa traseira. Eram os fios do jumper que estavam esquentando, e eu suponho que sejam os das lâmpadas da placa sim.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-06-18T01:49:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão precisa de iluminação nas placas não...eu to andando assim a uns 6 meses e nada de multa!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-06-18T02:38:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Sonic\" data-date=\"17/06/2005, 22:49\"><p>Não precisa de iluminação nas placas não...eu to andando assim a uns 6 meses e nada de multa!<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103868\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Sonic, não sei como são as coisas por aí, mas aqui em sampa é um pouco diferente, não na grande cidade mas sim nas estradas... por isso se vier pra cá, fique esperto! Terá que contar com a sorte!<br/><br/>Um exemplo disso é o meu irmão, que sobe e desce a serra de Santos todos os dias para trabalhar. Ele já foi multado 2 vezes só porque, das 2 lâmpadas do Tempra que iluminam a placa, 1 estava queimada, acredite se quiser!!!! Fiquei puto quando ele me contou... é fato!<br/><br/>Por outro lado, também é fato que o antigo dono do meu calibra nem tinha as lanternas da iluminação de placa, ele que era muito zeloso com o carro, meteu fita isolante para tapar os 2 buracos e apertou o botão do \"foda-se\". Teve muita sorte, porque pegava um trecho da Castelo todos os dias para ir da facu pra casa. Eu não arrisco, quero arrumar logo essa droga.<br/><br/>Estou sem tempo para levar o carro em um auto-elétrico, então se eu arrumar uma 1/2 horinha vou tirar o pc traseiro e ver onde é que entra a fiação dessas lanternas e então vou refazê-las, isso é jogo rápido mesmo, mas vai ter que ser no home-made, não tem jeito. Só estou em dúvida se puxo os fios da caixa de fusíveis ou das lanternas traseiras, que ficam do lado... mas isso tá mais pra gambiarra...<br/><br/>Abrax\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Shinryuu",
+            "date": "2005-06-18T04:13:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara, se for para quebrar o galho, acho melhor puxar das lanternas. Vale ver se o sistema de alimentação das lanternas traseiras agüenta mais a potência das lâmpadas da placa. Se queimar os fusíveis e vc não ver, ai a multa vai ser maior...<br/>E, após o casório, desfaz logo essa m! que é uma baita [SIZE=7]GAMBIARRA, ENJAMBRA [SIZE=1]e variantes.<br/>Felipe<br/><br/>p.s.: tu é operador na PQU? Então, somos concorrentes <span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span> , sou op. da Copesul\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-06-18T04:47:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tplaca, o que é isso? huauha, sacanagem, mas multar porque a luz da placa tá queimada é foda, é algo que o dono do carro nunca vai ver, deveria ser apenas uma advertência, eu acho que não deveria ser porra nenhuma. Ou então tira logo a placa, e se te pararem diz que enquanto vc não tem tempo de levar no eletricista, vc tira a placa pro fpd não te multar. huahuauh\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "brunocar",
+            "date": "2005-06-20T04:32:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHe..he...he.....boa solução!!!!!!<br/>\n<br/>\nMas acho que o fusível da lanterna suporta sim! As lamp da lanterna consomem 10W cada uma, mais 10W da placa. Se o relé for de 10A temos a seguinte equação: Potência é igual a tensão vezes a corrente:<br/>\nP=V*I -&gt; 10+10+10=12*I -&gt; I=30/12 -&gt; I=2,5A, ou seja, suporta com folga!!!<br/>\n<br/>\n[]s<br/>\n<br/>\nBrunocar\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-06-20T23:40:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Shinryuu\" data-date=\"18/06/2005, 01:13\"><p>p.s.: tu é operador na PQU? Então, somos concorrentes <span rel=\"lightbox\"><img alt=\":lol:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/laugh.gif\"/></span> , sou op. da Copesul<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103880\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Fala Felipe, é isso mesmo, somos concorrentes <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> ... eu já tinha visto na parte de \"o que fazemos da vida\".<br/><br/>Então, bacana isso, mas esses horários de turno deixam a gente um pouco pirado, eheh... hoje de manhã eu me peguei desejando boa noite a um casal de vizinhos, que começou a rachar o bico, e quando me toquei comecei a rir também, aeuheauh... isso acontece comigo direto, aeuhueh.<br/><br/>Abraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-06-21T04:03:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"sniper.arnaud\" data-date=\"18/06/2005, 01:47\"><p>placa, o que é isso? huauha, sacanagem...<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103884\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Ué, como se fala aí no RJ? eheh...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-06-21T04:45:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\té placa mesmo filho, mas a pergunta foi pra saber qual a relevância da mesma.. hehe\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2005-06-22T03:56:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara puxar da lanterna pode até funfar, mas pode ter outros circuitos ligados no mesmo fusivel da lanterna, não acredito que a Gm iria colocar um fusivel com capacidade 4 vezes maior que a necessaria para as lanternas sendo que existem fusiveis de menor capacidade, cuidado tambem que nosso carro tem um circuito que checa se as lanternas estão funfando direito, voce pode danificalos ai a facada pode ficar ainda maior que a multa ou o tempo gasto em um eletricista, alem de que voce pode estarr sobrecarregando um equipamento que pode ate botar fogo no seu carro, ou voce desmonta logo isso e acha o defeito ou leva pra um eletricista, pelo menos esse é minha opnião.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-06-23T04:27:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa, valeu Sniper, eu é que não tinha me tocado, eheh...<br/>\n<br/>\nFábio, concordo com você, não dá pra ficar fazendo gambis desse jeito não, por isso eu disse que quero arrumar um tempo para desmontar o pc traseiro, e seguir a fiação até a caixa de fusíveis, porque assim eu conseguirei ver em que lugar começou o curto, e já coloco um par de fios com bitola maior, que é para não ter problemas futuros... é isso, meu maior problema é encontrar tempo para qualquer coisa...<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Lobão do Calibra",
+            "date": "2005-07-21T21:16:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"brunocar\" data-date=\"20/06/2005, 01:32\"><p>He..he...he.....boa solução!!!!!!<br/><br/>Mas acho que o fusível da lanterna suporta sim! As lamp da lanterna consomem 10W cada uma, mais 10W da placa. Se o relé for de 10A temos a seguinte equação: Potência é igual a tensão vezes a corrente:<br/>P=V*I -&gt; 10+10+10=12*I -&gt; I=30/12 -&gt; I=2,5A, ou seja, suporta com folga!!!<br/><br/>[]s<br/><br/>Brunocar<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=103972\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Estes valores de lampadas q vc disse estão errados, segue o correto.<br/><br/>Lanternas - 2 de 21w cada lado<br/>Lanterna de licensa - 2 de 5w <br/><br/>Sempre que for calcular a tensão (voltagem), faça o calculo por 13, pois a corente da bateria nunca é de 12v exatos. Com o carro parado é de 12,8v a 13v e como carro funcionado 13,8v a 14v. <br/><br/><br/>Então a formula correta seria<br/><br/>I = W / V<br/><br/>sendo I a corrente em amperes que queremos descobrir, W a soma potência das lampadas, e V a voltagem (tensão de operação) que temos no conjunto. Logo então:<br/><br/>I = 94 / 13  (soma de W das lampadas) dai, I=7,2A<br/><br/>Acho que ligar as lanternas ali ira dar problema no sensor de lanterna queimada no painel. E tb não tenho certeza que este rele é de 10A. O fusivel sim é de 10A e para luz de  licença e iluminação do painel de instrumentos (fusivel 9) e o outro das lanternas é de 10A tb (fusivel 21 se não me engano)\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Lobão do Calibra</b>: 21 julho 2005 - 18:24\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2005-07-22T05:31:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thoje eu estive mexendo nos fusíveis e para minha surpresa, o n°2 (acendedor de cigarros) ao ser retirado apaga todo o check control, tenta lá pra ver se resolve, retire e substitua o n°2 <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-07-22T11:50:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"sniper.arnaud\" data-date=\"22/07/2005, 02:31\"><p>hoje eu estive mexendo nos fusíveis e para minha surpresa, o n°2 (acendedor de cigarros) ao ser retirado apaga todo o check control, tenta lá pra ver se resolve, retire e substitua o n°2 <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=108463\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Mas esse aí apagou as luzes de licença também?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

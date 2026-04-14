@@ -1,0 +1,242 @@
+{
+    "title": "Consumo ALTO",
+    "url": "http://www.clubecalibra.com.br/forum/topic/634-consumo-alto/",
+    "id": "634",
+    "messages": [
+        {
+            "author": "Anônimo",
+            "date": "2003-10-16T14:32:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBlz gente, estou com um pequeno grande problema e resolvi apelar ao forum.<br/>\nO CB do meu calibra esta marcando o consumo nédio em l/100km, e ate entao eu achava q ele tinha algum problema e nao conseguia ler a media, até q eses dias atras eu parei e fiz alguns calculos e consegui achar a media em km/l (divide o valor antigo por 100, ridiculo). Ai comecei a calcular a media e a mesma andava la em baixo, entao resolvi literalmente secar o tanque, a ponto de ficar quase empenhado (quase, graças a decida do posto) e coloquei exatamente 30 litros. Dai pra ca vim acompanhado a media do cb e marcava media 5.8 a 6.3, e surpresa minha quando praticamente zerou o tanque em 175 km, e média de 5.8. Quase cai de costa, até pq a gasolina era aditivada e achava q ia melhorar o consumo (acho q viajei).<br/>\n<br/>\nConclusão, estou fazendo media abaixo de 6 com o motor regulado (creio eu) e ECU ou ECA recem reiniciada.<br/>\n<br/>\nPerguntas:<br/>\n1º - É normal o cb marcar o consumo medio em l/100km? Se nao, tem como mudar?<br/>\n2º - alguem ja chegou a esse consumo (detalhe, moderando no acelerador)<br/>\n3º - Justificaria este consumo os pneus 18 265/40? Ou nao chegaria a tanto.<br/>\n4º - Alguem tem alguma solução?<br/>\n<br/>\nAbraços<br/>\n<br/>\nLeandro\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Dan",
+            "date": "2003-10-16T15:08:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLeandro, experimenta fazer este mesmo teste com as rodas originais, o meu calibra também marca em l/100km más nem com o pé em baixo eu faço 5.8 km/l com certeza as suas rodas aumentam o consumo significativamente, primeiro pelo arraste gerado pelas superficies de contato do carro com o solo e também pelo aumento no raio da roda, oque acaba forçando mais o motor em saidas do carro parado.<br/>\n<br/>\nAbraço\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "[Ed]",
+            "date": "2003-10-16T21:43:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO aumento do raio (conjunto pneu+roda) aumenta a distância percorrida. Ou seja, com a mesma aceleração (ignorando o atrito do pneu mais largo!!), o carro de raio maior anda mais longe...<br/>\n<br/>\n<br/>\n  Ah... vale lembrar que o CB muda as unidades conforme a velocidade ok?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Dan",
+            "date": "2003-10-16T23:01:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEssa de mudar a unidade eu honestamente não sabia !!!!!!<br/>\n<br/>\nVivendo e aprendendo !!!!!!!<br/>\n<br/>\nAbraço\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Caio Furtado",
+            "date": "2003-10-16T23:24:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlha so, em lages o meu cali ta fazendo a media de 6.5km/l<br/>\n mais ou menos 16/100<br/>\n Quando comprei o cai, ja imaginava esta media de consumo dentro da cidade, ja que se trata de um motor  16v<br/>\n Outra coisa...  a cidade do ALCAPONE nao tem via expressa, e pequena, e cheia de anda e para, isso, sem duvida faz o consumo  piorar....<br/>\n Mas o seguinte.... enche o TANQUE, vai pra estrada, e anda  entre 100 e 120, o cali deve fazer algo em torno de 12 a 13km/l<br/>\n Depois, faca a mesma coisa dentro da cidade, e claro, com a rodas originais, dirigindo como vc normalmente dirige. acredito que uns 6km/h vai ser a media...<br/>\n A, uma dica, mantenha sempre o SEU COMPUTADOR DE BORDO no sistema de <br/>\n''CONSUMO INSTANTANEO'' e procure sempre deixar o numero o mais baixo possivel, uma pequene''erguida'' no pe, muda drasticamente o consumo....<br/>\n Outra coisa.... lembre-se, se o transito esta parado la na frente, sinaleira fechada.....  coloque em ponto morto e deixe o cali ir no embalo....<br/>\n isso ajuda tambem.....<br/>\n  []'s <br/>\n<br/>\n Caio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "femellao",
+            "date": "2003-10-17T02:40:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsse negócio de mudar a unidade q marca no CB é assim, como diz no manual:<br/>\n<br/>\nO CB marca o consumo instantâneo em L/h (litros/hora) até uma velocidade de 13km/h, depois disso, começa a marcar em L/100km.<br/>\n<br/>\nO meu Calibra parado e ligado, sem relar no acelerador, só em marcha lenta, marca 1,1 L/h... (isso com o motor na temp. normal de funcionamento, pq qdo esta frio marca um pouco mais, tipo 1,6 L/h +ou-)<br/>\n<br/>\nAgora, no dia a dia, esta marcando 9,7 L/100km no consumo médio, oq é um consumo muito bom!!!<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-17T11:50:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPorra cara, media 10!!!!<br/>\n<br/>\nSei la, mas nao pode ser tao drastica a diferença, uns fazem quase 11 e outros batem nos 6. Ta certo que a forma de dirigir influencia muito, mas... tanta diferença?!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2003-10-17T14:37:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu consumo médio entre cidade e asfalto, está barendo em 8,5 km/l.<br/>\nQuando voltei de Sampa com ele, vindo pela Castello Brando a +/- 120 km/h, fiz consumo de 14 km/l.<br/>\nAgora, se pisar fundo e gostar de sentir corpo afundando no banco . . . ai...<br/>\nParece-me que sonda lambda com defeito pode piorar bastante o consumo, não é?<br/>\nPara os entendidos de plantão, a tal sonda tem vida útil pré-determinada?<br/>\nÉ preciso substitui-la com alguma periodicidade? Como testar o seu funcionamento?<br/>\nBração a todos os amigos do Clube<br/>\nCélio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Caramico",
+            "date": "2003-10-17T22:19:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to que o caio falou procede<br/>\nem sp  a ss fazia media de  4km/l na cidade estou em lages e ela faz a mesma coisa que em sp, em florianopolis a media pula pra 6,5 , 7km/l\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Caio Furtado",
+            "date": "2003-10-17T22:37:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpessoal, o consumo depende muito do pe do motorista e do tipo  de ruas/avenidas/estrada em que o carro trafega....<br/>\n fazer 11km/l dentro da cidade, em brasilia, pode ser normal....<br/>\n em Sao Paulo, com o transito engarrafado....isto e impossivel.....<br/>\n Agora........ sejamos sinceros... possuimos um carro de motor potente...<br/>\n de alto desempenho....<br/>\n Logo....e normal...... o carro gastar umgasolina.....<br/>\n mas pessoal....<br/>\n Fica ai de lembranca.. uma frase de um amigo meu, dono de V8<br/>\n ''NAO E O MAVERICK QUE BEBE DEMAIS, VC E QUE TEM QUE APRENDER A ANDAR MENOS''<br/>\n Entao...... foda-se..o que importa e o prazer que o carro te proporciona..<br/>\n(ehhe, eu nao tenho $$  pra ter um carro de 3km/l... mas um de 6km/l...)<br/>\n grande abraco<br/>\n<br/>\n<br/>\nCaio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "femellao",
+            "date": "2003-10-18T13:50:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tV8 gasta muito bem gasolina mesmo, sem dó!!! Se tá mechido então... o meu maverick faz 2,5km/l na cidade mas é gostoso de andar!<br/>\n<br/>\nAgora com relação ao calibra, o meu fazia 13km/l em Floripa qdo fiquei na casa do Paulo. Na volta chegou a 17,1km/l na estrada e 14,9km/l de média na viagem!!! <br/>\nJá aqui em SJC é impossivel fazer 13 na cidade, fica no máximo 10 e já cheguei a fazer 6,5km/l no começo, qdo peguei o carro, que nao sabia controlar direito o consumo...<br/>\n<br/>\nabração\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Eugenio Resende",
+            "date": "2003-10-18T18:24:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPovo de Sucupira!<br/>\n<br/>\nFazem diferença quanto ao consumo: forma de dirigir, local onde se trafega, diâmetro de rodas/pneus e, lógico, um motor e seus componentes eletrônicos bem regulados...<br/>\n<br/>\nTenho um Dodge Charger R/T há mais de vinte anos (é que eu o comprei quando ainda era bem criancinha...  :wink: ) e o consumo dele, aqui em Bsb, é entre 5 e 6 Km/l. Sempre foi, desde a compra em maio de 1980.  :shock:  Quando ia ao Rio nele (tenho um irmão que morava lá) o consumo aumentava pra 2,5 a 3 Km/l...<br/>\n<br/>\nAliás, ontem enchi o tanque do Calibra. Aí vão os dados: 699,4 Kms rodados e 59,8 litros --&gt; 699 / 59.9 = 11,67 Km/l.<br/>\n<br/>\nDetalhe: não fico acelerando até ver o motor cortar como alguns fazem...  Né Solon? Hehehehe<br/>\n<br/>\nAbraço a todos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2003-10-19T22:02:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  Continuo na minha... 9,5 km/l com pé embaixo e ar ligado.<br/>\n<br/>\n  Esmerilhando TUDO na estrada, 9,5 km/l tb.<br/>\n<br/>\n  Viajando na boa (150 a 200), 13 km/l.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-10-20T05:21:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>procure sempre deixar o numero o mais baixo possivel, uma pequene''erguida'' no pe, muda drasticamente o consumo....<br/> Outra coisa.... lembre-se, se o transito esta parado la na frente, sinaleira fechada.....  coloque em ponto morto e deixe o cali ir no embalo....<br/> isso ajuda tambem.....<br/>  []'s  <br/><br/> Caio</p></blockquote><br/><br/>Po Caio, num é bem assim de por o caro em ponto morto e ir no embalo ñ. O cali num é carburado ñ, isso ai só funciona com carros carburados.se quiser fazer um teste coloque seu cali embalado numa descida e joga ponto morto. seu CB no consumo instantaneo vai ficar doidinho, variando entre 12 l/100km a 42 l/100km. agora depois faz o seguinte teste, na mesma descida embalada coloque o carro em quinta marcha e tire o pé do acelerador. Vc vai ter a surpresa de seu CB marcar a marca de 0.0 l/100km. Isso acontece pq a central da injeção na leitura dos sensores (detalhe, eu vou falar por cima pq num to muito qualificado e ñ sou tecnico nisso) qnd vc ta em ponto morto, fica sem saber o qnt joga de combustivel, por causa duma relação velocidade, posição do acelerador, bla bla bla. agora qnd vc esta com a 5° marcha engrenada, ele ve q o carro esta com uma certa velocidade e o acelerador ñ esta acionado, ai ele CORTA a emissão de gasolina para o motor, mas o motor continua funcionando por fricção. Fiz o teste em umas viagemzinhas pra caldas novas e ele chegou a rodar 930 km com um tanque.<br/>bem, fassam o teste e me corrijam em alguma coisa se eu estiver errado.<br/><br/>[]s<br/><br/> :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2003-10-20T10:13:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to lance do ponto morto e bem por ai mas faz que nem eu fiz limpa os bicos vai ver seu carro precisa de uma limpesa . meu cali sempre marca no CB 14 antes marcava 12 mas como eu arranquei o Bojo trazeiro do escapamento isso fez com que os gases saissem mais livres<br/>\nse eu tirar o catalizador ai fodeu vai beber ainda mais acho eu .. pois no começo não gostei muito da ideia do giro subir com muita facilidade não mas depois acostumei e o carro ta andando bem mais agora ... vai ver seu escape e abertão tb e seus bicos estão sujos e com essa rodas aro 18 ja viu né pode ser isso pra sair como as rodas são gigantes e o escapamento abertão se tiver ... po na teoria vai consumir mais mesmo acho eu..<br/>\nfalows\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2003-10-20T10:20:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tmas ae que essas rodas ficaram LOcAS no seu Calibra isso ficaram... , o meu é igualzinho ao seu pena que eu não tenha a grana  pra colocar uma roda dessas tb pois o estilo do seu cali é o estilo que eu curto manja ( estilo de Boy mesmo) jogando o aerofólio do carro branco do bonfá acho que eu vi na fotos um cali que levou porrada na trazeira ,pelo menos foi o comentario que eu vi ) ia ficar ANIMAL.<br/>\nah ainda metia o neon vermelho embaixo que nem o carro do Van disel no velosos e furiosos 1.<br/>\n<br/>\nFalando em kits do lado da mecanica em que o meu calibra tá tem um cara que lança parachoques estilo esse que vcs estavam comprando e tals , perguntei o preço e o cara falou 500 reais com ele montado e pintado no calibra.<br/>\ntinha 3 carros lá um omega CD preto com aros 18 rodas da stock car.<br/>\ne com os simbolos da Opel no lugar do simbolo do da GM e com as saias laterais com uma gradinha em formato oval deitada no final bem loco.<br/>\n<br/>\numa Omega suprema tambem com o parachoque tunning e ams memas caracteristicas do omega tambem e tinha um golf modelo antigo tb lançando os parachoque dianteiros e trazeiros.<br/>\nO parachoque trazeiro da Suprema era socado no chão apenas um palmo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2003-10-20T12:35:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSeguinte ...<br/>\n<br/>\nToda IE tem um recurso chamado CutOff ...<br/>\n<br/>\nO CutOff acontece quando a borboleta essa fechada e o motor esta a mais de +/- 1600 RPM ...<br/>\nO CutOff é o corte de injecao de combustivel ...<br/>\n<br/>\nPor exemplo ... <br/>\nem uma ladeira vc mantem o cambio engatado e a borboleta fechada ...<br/>\nse o motor estiver a mais de 1600 RPM ele estara consumindo combustivel nenhum ... zero litros por hora ,  0L/H<br/>\n<br/>\n....<br/>\n<br/>\n<br/>\nPara dirigir economicamente é o seguinte ...<br/>\n<br/>\nMantenha o CB em consumo instantaneo e use o alecelerador em uma altura economica ...  Lembrando ..  o corpo de borboleta do C20XE é duplo onde uma borboleta é economia (uns 20mm) e outra é performace (uns 60mm) ..  a borboleta menor sempre abre primeiro e depois que a borboleta grande abre, dalhe comida ...  <br/>\n<br/>\nUse o melhor range de RPM para a sua tocada ... pé leve e RPM medio é muito mais economico doque é pesado e rpm baixo ...<br/>\n<br/>\nUse o maximo de CutOff ...  se la na frente tem uma lombada ou semafaro ja vai reduzindo marcha para manter o RPM sempre maior que 1600 ...  ladeiras sempre engrenado em uma marcha que mantenha mais de 1600 RPM ...<br/>\n<br/>\nOutra coisa interessante da M2.8 é que ela tem um parametro para tempo de troca de marcha ...  se o tempo para troca de marcha é menor que 1seg ela reconhesse como tocada esportiva ...  trocas com tempo maior de 1,5 seg é reconhecido como tocada economica ...<br/>\n<br/>\nPnews sempre bem calibrados é essencial ...<br/>\n<br/>\nNa estrada sempre vidros e teto fechado ... apode acreditar assima de 120 AC gasta menos que vidro aberto ... <br/>\n<br/>\né isso ai<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-20T14:40:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLembre-se,<br/>\nse vc alterou as medidas originais do conjunto rodas-pneus, o seu velocimetro e cb não estão marcando corretamente. Logo o calculo de consumo que vc fez pode estar errado, pois a referência usada foi o seu proprio velocimetro que esta calibrado para as medidas originais.<br/>\nCalcule em quanto foi alterada as medidas do conjunto roda-pneu em relação ao original e, então, corrija os calculos feitos.<br/>\num abraço.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-20T17:01:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVou fazer algun s testes. Ja comprei um jogo de rodas 15 com pneu 195/55 e amanha estarei montando no cali. Tambem vou fazer geometria e alinhamento junto com o balanceamento, que creio que vai ajudar um pouco. Vou aproveitar os 15 e mandar as 18 pra reforma, pq uma esta um pouco torta e ta bem riscada. Ai sim vai ficar bonito. Quando estiver pronto vou montar de novo e tirar umas fotos dele. Mas que fica bonito, isso fica. Olhando o carro de tras, aqueles pneus 265... é um tesão. Mas por enquanto vou ir de 15 pra ver como o carro se comporta. Ah, tambem estou precisando das molas originais, que o cidadao q me vendeu atorou elas no meio e ta uma patrola pra dirigir. Pros curiosos, a roda 15 é Mangels Amazon (<a class=\"bbc_url\" href=\"http://www.mangels.com.br/rodas/img/rodas/amazon_pratacopa.jpg\" rel=\"nofollow external\" title=\"Link externo\">http://www.mangels.c...n_pratacopa.jpg</a>) e o pneu Goodyear Ventura, que tem um desenho legal, é um chicle no seco e na chuva, e barato!!!<br/>\n<br/>\nNovos resultados eu posto pra comparar<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Caramico",
+            "date": "2003-10-20T23:12:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTo pasmo com o consumo da ss na estrada <br/>\nela fez 11km/l andando numa media de 100km/h <br/>\n<br/>\nANIMAL  nunca tinha feito mais q 9km/l\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-21T12:37:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPaulo, que pneus vc tá usando mesmo?<br/>\n<br/>\nSe vc já gostou de 11km/l, saiba que a 100km/h este consumo ainda poderia melhorar *muito*... <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "seco",
+            "date": "2003-10-21T15:45:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDaí mafioso!!! Tô curioso para ver os resultados com a troca de rodas. Mas o que vale não é o tamanho do aro, mas a largura do pneu. O atrito com o solo aumenta coma largura do pneu. No seu caso deve ser animal a diferença. O tamanho da roda muda a marcação de velocidade e altera, consequentemente, a marcação do consumo no CB. Tem aqui no Fórum um tópico que traz um site que calcula a dirença entre os aros. Vale a pena ver.<br/>\n<br/>\nAbraços. Leandro.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-21T16:06:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPorra o meu faz 16 km/l andando a 100 km/h (no plano)...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-21T16:16:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tA propósito, como o Led mencionou, exitem duas borboletas na admissão.<br/>\n<br/>\nSe o cabo do acelerador estiver bem livre (como deve ser), dá para sentir claramente no pé onde a borboleta menor \"acaba\" e começa a abrir a grande.<br/>\n<br/>\nSabendo usar este sistema, acredito que qualquer um dos que estão fazendo 6km/l pode passar a fazer pelo menos 8...<br/>\n<br/>\n[]s,<br/>\ndaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Caio Furtado",
+            "date": "2003-10-21T22:56:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE isso ai........ comecarei a deixar o carro com a marcha engatada....<br/>\n A, na estrada, o meu cali  faz no maximo, uns 11/100<br/>\n Andando entre 100 e 120km/h com  ar ligado.....<br/>\n Ja que voces estao comentando de consumo muito inferiores ao meu, me deem uma ajudinha nisso ai.....<br/>\n A, diferente do Rod, eu ando na boa.......<br/>\nFalando da SS10 do paulo..... Nos viemos entre 100-120km/h<br/>\n Subindo a serra e andando na boa....  na vinda de flopis/lages eu vim dirigindo.... na volta.... eu nao sei como ele andou... Mas pra 6cc automatico... esta muito bom.....<br/>\n Entao........<br/>\n me deem uma ajuda e vamos ver se conseguimos subir a media do meu carro de 11km/l na estrada pra uns 15km/l<br/>\n em tempo, na cidade,  16.5/100<br/>\nAndando na boa....<br/>\n abracao a todos...<br/>\n<br/>\n Caio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Daniel Martins",
+            "date": "2003-10-22T10:33:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEh moçada, dá prá se perceber que neste tópico, pequenos detalhes fazem grandes diferenças!!!!  <br/>\nÉ incrível como uma alteração, por menor que seja reflete uma diferença de consumo...  isso me lembra um amigo meu, corredor de moto, que toda volta que ele dava com a moto na pista, ele limpava os aros, fui perguntar o que isso significava, e ele me falou que a poeira e a fuligem presas ao aro interferiam (de forma quase imperceptível, claro!!) na velocidade final da moto...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2003-10-22T14:55:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSeu pneu é 18\" 265...<br/>\n<br/>\né por isso, não é possível... Não dá pra fazer a mesma coisa de um pneu \"normal\" comparado ao seu...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Caramico",
+            "date": "2003-10-22T20:26:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tmeu pneu é  235/65 r15  da toyo <br/>\ne a ss ta bem mais economica do que antes, uma coisa que acho estranho nela é que qnd ela esta parada e desligada o ponteiro marca  uma quantidade e assim que a bomba entra em funcionamento o ponteiro  mexe muito pra baixo <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2003-10-23T02:04:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tqual a calibragem que vcs usam, eu só uso 40...<br/>\n<br/>\nnada de 28 não, principalmente perfil baixo...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "[SoloN]",
+            "date": "2003-10-23T09:16:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPneu 205/55 R16 uso calibragem de 30 a 35...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "femellao",
+            "date": "2003-10-24T01:17:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu uso 205/55-15 e coloco 30 na frente e 28 atras...<br/>\n<br/>\nMais q isso fica muito duro, da pra sentir todos os buracos!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2003-10-24T02:55:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu usava 30, 32... até que o Rod me deu a idéia, adimito que achei exagero, mas depois disso nunca mais fodeu uma roda...<br/>\n<br/>\nalém disso o carro fica um tesão na chuva...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2003-10-24T04:25:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlow,<br/>\n<br/>\n  UHeuehuaeh aderiu ao conforto 0 tb né? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> eu gosto... qt mais duro melhor uaeheau se fosse maciço seria show.<br/>\n<br/>\n  Hablando sério... eu boto 40 tb, mas vejo a máxima press q o pneu aguenta e tiro 10%.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "LuizBonfa",
+            "date": "2003-10-24T04:50:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t40??????????<br/>\nrapais daqui a pouco estoura <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\ncoloco 31\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-24T05:26:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t195 /65/15......31 na frente e 30 atras\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2003-10-24T08:17:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPneus originais . . . . carga normal . . . . 34 na frente e 32 no trazeiro..\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2003-10-24T16:02:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Alow,<br/><br/>  UHeuehuaeh aderiu ao conforto 0 tb né? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> eu gosto... qt mais duro melhor uaeheau se fosse maciço seria show.<br/><br/>  Hablando sério... eu boto 40 tb, mas vejo a máxima press q o pneu aguenta e tiro 10%.<br/><br/>[]s<br/>Rodrigo</p></blockquote><br/>Pra confirmar o que o Rod disse, o conforto é zero mesmo... hehehe<br/><br/>Mas em compensação eu bati um pega com uma Saveiro na Serra Grajaú-JPA com o Wolfsburg, como minha mãe que está com o carro os pneus estavam calibrados em 28, Sabem o que aconteceu??? Faltou somente uns 5mm pra roda encostar no chão, isso mesmo dobrei o pneu ao extremo...<br/><br/>E pior, se batesse, não seria a primeira vez, já que eu já fiz isso com o kadett, usando 28... Estava usando está calibragem pois eu estava morando numa cidade cheia de paralelepípedos e a vibração estava insuportável, até que um dia eu fiz uma curva rápido e porrei a roda no chão...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-24T16:33:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, eu encomendei as rodas 15 segunda feira e ainda não chegou!!!! Graças a  excelente organização da Mangels, que mandou o jogo errado. <br/>\nMais uma coisa. Comprei um modelo, parecia lindo, mas qual minha decepção quando vi a ENORME diferença entre 5 e 4 furos. Parecia até outro modelo. Ai pedi outra roda, a indiana.<br/>\nEspero que até amanha ja esteja co as 15, mas tem uma coisa. Terça feira eu montei um jogo 15 do vectra GSi (aquela feia tipo catavento) com pneu 205/60 15, e a media baixou... sabem quanto?! Pasmem... Foi de 6km/l para 7km/l!!!! Bem legal neh.<br/>\nAlguem tem alguma ideia do que possa ser?<br/>\n<br/>\nValeu<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2003-10-24T16:38:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMaior peso + maior atrito + relação final mais longa <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\n[]s,<br/>\nDaniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-10-28T16:19:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPneus 15 rodando. A media passou de 6 pra 7, mas acho q isso é por causa daquelas fulias do halm. Deixa eu ageitar aquelas gambiarras e ver se vai acertar a média.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2003-10-28T18:10:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>40??????????<br/>rapais daqui a pouco estoura <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>coloco 31</p></blockquote><br/>Alow,<br/><br/>  2 anos rodando assim... não estora pq como disse, vejo no pneu a pressão máxima e tiro 10%. Faz curva q nem o demo <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> diversão total na estrada...<br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2003-10-29T00:58:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p><blockquote class=\"ipsBlockquote\"><p>40??????????<br/>rapais daqui a pouco estoura <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>coloco 31</p></blockquote><br/>Alow,<br/><br/>  2 anos rodando assim... não estora pq como disse, vejo no pneu a pressão máxima e tiro 10%. Faz curva q nem o demo <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> diversão total na estrada...<br/><br/>[]s<br/>Rodrigo</p></blockquote><br/>Bonfá nem tinha visto esse seu coment, mas num estoura não, inclusive vi um programa na fábrica da PIRELLI neste weekend de madruga...<br/><br/>Aquele piloto propaganda dele já estava falando algo de acima de 28, já que assim evitasse empeno de rodas e pneus cortados...<br/><br/>Perfil baixo tem que ser assim mesmo, e digo mais, depois de começar a frequentar o meio automobilístico de rua, comecei a notar as  merdas que manuais e revistas falam... Como eu, Rod e alguns outros andam só 38 pra cima...<br/><br/>E estourar pneu é 80 pra cima tá???\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "[Ed]",
+            "date": "2003-10-29T15:27:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tputz... é só entrar na página da Toyo ou qualquer outro fabricante... e olhar as pressões recomendadas...<br/>\n<br/>\n  No meu caso.. Toyo proxes 205/50/R16 .... eu uso o recomendado 34!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Eugenio Resende",
+            "date": "2003-10-29T20:51:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tUso Toyo 600 F3, 195-60-15. 34 libras nos quatro. O carro não fica duro demais e o pneu não dobra tanto. Agora, se for pra dirigir que nem o Rodrigo... hum! Tem de ser 40 mesmo! <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nEugenio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "CBJ",
+            "date": "2003-11-01T01:20:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tae capone vc tem fotos do calibra com as 18?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2003-11-01T11:17:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>ae capone vc tem fotos do calibra com as 18?</p></blockquote><br/>Opa<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/oclube/membros/leandrolorenzon/\" title=\"\">http://www.clubecali...eandrolorenzon/</a><br/><br/>Mas agora estou com as 15 Mangels. Mas ficou Show de pelotas tambem.<br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sem_Sono",
+            "date": "2003-11-01T14:17:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tgosto é gosto ne galera<br/>\nquem tem 18 coloca 18 ken tem 15 ta doido pra por 17 ou 18<br/>\nenquanto todos falam em rebaixar o LULU deve tar kerendo por uma mola dupla no carro.<br/>\nninguem ta satisfeito<br/>\n<br/>\n :twisted: Sem Sono :twisted:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

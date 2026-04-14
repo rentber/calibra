@@ -1,0 +1,22 @@
+{
+    "title": "Alternador / Luz Da Bateria No Painel",
+    "url": "http://www.clubecalibra.com.br/forum/topic/18469-alternador-luz-da-bateria-no-painel/",
+    "id": "18469",
+    "messages": [
+        {
+            "author": "DenisMelo",
+            "date": "2020-12-29T21:46:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:00 +0000--><p>Bom vou deixar esse relato, vai que ajuda alguém, </p>\n<p> </p>\n<p>Meu Calibra do nada começou a não acender algumas luzes no painel, nem funcionar o RPM quando ligava o carro. Fui medir na marcha lenta e também não estava carregando o alternador. <br/><br/>\nApós ligar, se eu acelerasse até uns 3mil giros e soltasse o acelerador, o RPM voltava a funcionar, assim como o nivel de combustivel, etc..... POREM acendia a luz da bateria. Fui medir na marcha lenta novamente e nesse momento, o alternador ja passava a carregar normalmente. <br/><br/>\nDepois de estudar, analisar o problema, checar aterramentos e quase desmontar o painel, descobri que o problema era simplesmente UM FUSIVEL QUEIMADO. <br/><br/>\nO que acontece é que o alternador funciona sempre quando recebe excitação da lampada do painel que chega no alternador no pino D+ que fica atrás dele, quando ele recebe esse sinal ele sabe que deve começar a gerar energia junto é claro com a correia do mesmo. Além disso, ele tem um sistema de backup que ao perceber giros mais altos, passa a gerar energia de qq forma. E era isso que acontecia no meu carro. <br/><br/>\nComo o fusivel estava queimado (alias é o fusivel do acendedor de cigarro, que é compartilhado com parte do painel), não chegava positivo em um dos polos da lampada, então qdo virava a chave a 1a vez, a lampada não acendia, pois no D+ do alternador tinha terra, mas não tinha positivo vindo do painel. Porém quando o alternador começava a girar mais devido a aceleração, o alternador passava a enviar o positivo no D+ e no outro polo da lampada o devido ao fusivel estar queimado, ele aterrava em alguma outra parte do circuito do painel, e dai acendia a lampada. <br/><br/>\nComportamento era bizarro e dificil de entender, portanto fica a dica, sempre ao encontrar um problema elétrico, olhe TODOS os fusiveis do carro antes de qualquer coisa. Comece pelo mais simples =) <br/><br/>\nabraço<br/>\nDenis Melo - Garagem do Buda </p>\n<br>\n</br></div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2021-01-04T19:47:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:00 +0000--><p>Ótima dica hein... as vezes parece um bicho de 7 cabeças e é algo simples....</p>\n<p> </p>\n<p>Boa, japa</p>\n<br>\n</br></div>"
+        },
+        {
+            "author": "WALLACE BERRY",
+            "date": "2021-01-06T02:26:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:28:00 +0000--><p>excelente dica! grat por compartilhar!</p>\n<br>\n</br></div>"
+        }
+    ]
+}

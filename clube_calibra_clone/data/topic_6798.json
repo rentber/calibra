@@ -1,0 +1,132 @@
+{
+    "title": "Problema Na Partida",
+    "url": "http://www.clubecalibra.com.br/forum/topic/6798-problema-na-partida/",
+    "id": "6798",
+    "messages": [
+        {
+            "author": "RSR",
+            "date": "2006-01-24T00:50:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal,<br/>\n<br/>\nTo c/ o seguinte problema na partida:<br/>\n- a 1ª partida d manhã ocorre d forma super normal, pegando d prima(parece ate zero km);<br/>\n- porém depois q fica desligado por umas horas, demora 1 poco p/ pegar e qdo pega fica engasgando parecendo motor à alcool... depois estabiliza.<br/>\n- 2x até deu estouro no escape.<br/>\n<br/>\nEntão estou pensando q algo esta fazeno encharcar durante a partida ou já fica encharcado antes mesmo... assim qdo o motor ta bem frio, a partida funciona legal, mas qdo ainda kente, faz afogar.<br/>\n<br/>\nConversei c/ alguns colegas e cojitaram o Regulador d combusta... mas esse esta normal sem vazamentos, já testado por mim e pelo mecanico.<br/>\n<br/>\nTb falaram do sensor d temperatura da agua(q da sinal pra central) q poderia estar marcando bem abaixo do normal e assim fazendo a central injetar + na partida, mas tb checamos no Raster e td esta normal sem falhas.<br/>\n<br/>\nO mecanico chegou a falar q poderia ser os bicos pingando ou o canister.<br/>\n<br/>\nQ acham? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span> <br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>RSR</b>: 23 janeiro 2006 - 21:51\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2006-01-24T05:15:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão sei o que pode ser, mas hoje ouvi um estouro no escape quando troquei de 2ª pra 3ª a uns 6k rpm, o que pode ser? tem problema? vlw.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2006-01-24T19:26:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2006-01-24T19:35:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tisso é bico ...<br/>\n<br/>\nse você mandar o mecânico tirar os bicos e botar na flauta vai ver que inicialmente vai dar diferença entre eles de vasão.<br/>\n<br/>\nmesmo que limpe os bicos e a vasão deles fique equivalente ... horas ou dias depois o sintoma volta ...<br/>\n<br/>\nacho que tem que ver qual o bico que sempre dá problema e troca-lo.<br/>\n<br/>\nflws.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Caramico",
+            "date": "2006-01-24T19:37:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to meu faz a mesma merda mas só na primeira partida fria do dia <br/>\nbizonho\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2006-01-24T19:58:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem uma coisa nomeu que é muito chata, quando o carro tá fio, pega na primeira, fica redondo por 15 segundos, e depois fica pipocando, como se tivesse com excesso de gasosa (e ai o consumo instantâneo sobe par 2,7 l/hora), após o motor esquentar, vai ficando redondo, o consumo instantâneo vai marcar 1,2 l/h. . . . <br/>\nJá fiz de tudo, mas isto sempre permanece . . . <br/>\n[]s<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2006-01-24T22:39:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Célio\" data-date=\"24/01/2006, 16:58\"><p>Tem uma coisa nomeu que é muito chata, quando o carro tá fio, pega na primeira, fica redondo por 15 segundos, e depois fica pipocando, como se tivesse com excesso de gasosa (e ai o consumo instantâneo sobe par 2,7 l/hora), após o motor esquentar, vai ficando redondo, o consumo instantâneo vai marcar 1,2 l/h. . . . <br/>Já fiz de tudo, mas isto sempre permanece . . . <br/>[]s<br/>Célio<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=151957\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>No meu, acontece a mesmíssima coisa. Mas acho que é perfeitamente normal, a central deve mandar um pouco mais de gasolina para o motor aquecer mais rápido (que nem afogador). <br/>O motor \"pipocando\" acho que é a mudança de carga do atuador de marcha lenta, que deve abrir mais nessa fase de aquecimento.<br/>Mo meu demora uns 2 min, depois fica 1.2l/h.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio barreto",
+            "date": "2006-01-24T23:09:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNossa, todo mundo contando seus problemas. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/>\n<br/>\nProblemas com partida é comigo mesmo. 100% no álcool e sem partida à frio.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nFábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2006-01-24T23:31:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ quase uma terapia de grupo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "bmx-flatland",
+            "date": "2006-01-24T23:59:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFaz mais ou menos 1 ano que só consigo ligar o carro na segunda ou terceira vez que dou a partida, até hoje não consegui descobrir o porquê, regulador de pressão não vaza, maf ok, sonda ok,  bomba de combustível trocada a pouco mais de 1 ano, velas novas, cabos de velas ok, bateria nova, mangueiras não vazem combustível... sei lá o que é!<br/>\nAh, e a um dia atrás meu carro não ligava de jeito nenhum, levei na oficina, o cara passou limpa contato em um chicote da injeção e arumou um pequeno curto, voltou a ligar, mas continua o problema de ligar apenas na segunda ou terceira vez de tentativa.<br/>\nO que pode ser?  <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RUI PATRÃO",
+            "date": "2006-01-25T00:09:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu está acontecendo o seguinte, ele só está pegando depois da 4° ou 5° tentativa, quente ou frio, depois que ele pega fica alguns segundo falhando, como se tivesse dando falta de combustivel, aí ele estabiliza fica um tempo redondo é a maldita luz da injeção acende e a Rpm vai lá pra cima tipo uns 4500 rpm é trava nessa rotação por alguns segundo, depois ele volta a estabilizar, fica um tempinho bom é volta esse ciclo tudo de novo.<br/>\n<br/>\nA bomba eletrica é a sonda lambda foram trocado a uns 8 meses, o sensor maf tb acho que não é pois testei a sensor do cali do meu irmão é continuou o problema.<br/>\n<br/>\nPoderia ser o regulador de pressão do combustivel? mais pelo que sei o regulador fudido não faz a luz da injeção acender.<br/>\n<br/>\nEstou até com medo de encostar na oficina, se alquem tiver alguma sugestão posta aí......<br/>\n<br/>\nValeu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "bmx-flatland",
+            "date": "2006-01-25T00:24:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsse problema de partida e falha de abs, é um grande problema detectado sempre em calibras e Vectras Gsi, a maioria tem ou já teve esses problemas.  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Vinicius",
+            "date": "2006-01-25T10:33:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu começou juntamente com o vazamento de gasolina (mangueira sob a SFI, já solucionado). Porém, toda a vez que vou ligar o carro de manhã (frio) tenho que bater a chave por cerca de 4 a 5 segundos, desligar e bater a chave de novo, ai ele pega tranquilamente e segue tranquilo.<br/>\n<br/>\nQue droga.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2006-01-25T12:57:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Vinicius\" data-date=\"25/01/2006, 07:33\"><p>O meu começou juntamente com o vazamento de gasolina (mangueira sob a SFI, já solucionado). Porém, toda a vez que vou ligar o carro de manhã (frio) tenho que bater a chave por cerca de 4 a 5 segundos, desligar e bater a chave de novo, ai ele pega tranquilamente e segue tranquilo.<br/><br/>Que droga.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=152062\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Agora sim tá com cara de ser a mangueirinha que fica no tanque.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2006-01-25T13:58:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tesses que tem problema de demorar pra pegar, eu acho que o regulador de pressão de comb´não ta segurando a pressão com a bomba/motor desligado, ai vc tem que dar uma rápida partida pra elevar a pressão do comb, depois tenta denovo e pega..\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2006-01-25T14:06:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal,<br/>\n<br/>\nC eu precisar trocar os bicos, qual os compativeis c/ o c20xe?<br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Vinicius",
+            "date": "2006-01-25T14:40:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"lukguns\" data-date=\"25/01/2006, 10:57\"><p><blockquote class=\"ipsBlockquote\" data-author=\"Vinicius\" data-date=\"25/01/2006, 07:33\"><p>O meu começou juntamente com o vazamento de gasolina (mangueira sob a SFI, já solucionado). Porém, toda a vez que vou ligar o carro de manhã (frio) tenho que bater a chave por cerca de 4 a 5 segundos, desligar e bater a chave de novo, ai ele pega tranquilamente e segue tranquilo.<br/><br/>Que droga.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=152062\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Agora sim tá com cara de ser a mangueirinha que fica no tanque.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=152084\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Vamo que vamo! Não podemos desanimar. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> O mais complicado pra mim é o diagnóstico. Depois de feito, o resto é... er.. fácil. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2006-01-25T14:40:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"RSR\" data-date=\"25/01/2006, 11:06\"><p>Pessoal,<br/><br/>C eu precisar trocar os bicos, qual os compativeis c/ o c20xe?<br/><br/>RSR<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=152091\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Só Vectra GSI.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2006-01-25T14:58:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMe falaram q poderia ser as vedaçõe dos bicos... essas vedações tem compativeis tb?<br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>RSR</b>: 25 janeiro 2006 - 11:58\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2006-01-25T15:03:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem um kit de reparo baratim para bicos de Calibra/Vectra GSI, 8 O Rings + junta da borboleta, vou procurar o código.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2006-01-25T22:55:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLink para o catálogo de Kit de reparos de bicos da Bosch.<br/><a class=\"bbc_url\" href=\"http://www.bosch.com.br/br/autopecas/produtos/injecao/downloads/kits_reparos.pdf\" rel=\"nofollow external\" title=\"Link externo\">http://www.bosch.com...its_reparos.pdf</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2006-01-26T14:20:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"bmx-flatland\" data-date=\"24/01/2006, 20:59\"><p>Faz mais ou menos 1 ano que só consigo ligar o carro na segunda ou terceira vez que dou a partida, até hoje não consegui descobrir o porquê, regulador de pressão não vaza, maf ok, sonda ok,  bomba de combustível trocada a pouco mais de 1 ano, velas novas, cabos de velas ok, bateria nova, mangueiras não vazem combustível... sei lá o que é!<br/>Ah, e a um dia atrás meu carro não ligava de jeito nenhum, levei na oficina, o cara passou limpa contato em um chicote da injeção e arumou um pequeno curto, voltou a ligar, mas continua o problema de ligar apenas na segunda ou terceira vez de tentativa.<br/>O que pode ser?  <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span>  <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span>  <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <br/><br/>Abraços<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=152005\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote> <br/><br/>Bobina ?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Dan_Ubatuba",
+            "date": "2006-01-26T16:41:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu GSI antigo teve EXATAMENTE esses sintomas descritos. Começaram quando eu limpei o pré-filtro da bomba de combustível e quando montei tudo de volta ele soltou, ficou boiando na gasolina. A bomba trabalhou sem esse filtro e acabou entrando alguma sujeira que emperrou a válvula anti-retorno que segura a pressão na linha. O q ocorria a seguir, era q toda vez que eu desligava o motor, o combustível da linha inteira retornava para o tanque, e a cada nova partida a pobrezinha da bomba tinha q encher tudo de gasolina até dar pressão suficiente para o motor pegar.<br/>\n<br/>\nA má notícia é que não foi possível desentupir essa válvula e acabei trocando a bomba.<br/>\n<br/>\nAcho que vale a pena monitorar a pressão de combustível, há grandes chances de ser esse o problema de alguns.<br/>\n<br/>\nA melhor coisa é instalar um manômetro de óleo e combustível. Isso deveria ser original de fábrica em todos os carros!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Dan_Ubatuba</b>: 26 janeiro 2006 - 13:43\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2006-03-31T15:53:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tProblema resolvido!!! <span rel=\"lightbox\"><img alt=\":pompom\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/pompom.gif\"/></span> <br/>\n<br/>\nEra o tal de Reguladô de presson d combusta.<br/>\nNo meu caso ele ñ vazava ao tirar a mangueirinha, porém no aparelho da oficina sim... então, trocamos ele e agora as partidas estão normais, pegando sempre d prima. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/>\n<br/>\nCustos:<br/>\n- Regulador DS: R$ 100,00<br/>\n- Mão-de-obra: R$ 40,00 <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/>\n<br/>\nDúvida: tem como trocar o regulador sem precisar retirar o suporte dos bicos e caixa sfi? <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2006-03-31T16:38:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"RSR\" data-date=\"31/03/2006, 12:53\"><p>Problema resolvido!!! <span rel=\"lightbox\"><img alt=\":pompom\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/pompom.gif\"/></span> <br/><br/>Era o tal de Reguladô de presson d combusta.<br/>No meu caso ele ñ vazava ao tirar a mangueirinha, porém no aparelho da oficina sim... então, trocamos ele e agora as partidas estão normais, pegando sempre d prima. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/><br/>Custos:<br/>- Regulador DS: R$ 100,00<br/>- Mão-de-obra: R$ 40,00 <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/><br/>Dúvida: tem como trocar o regulador sem precisar retirar o suporte dos bicos e caixa sfi? <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/><br/>RSR<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=163610\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>É o regulador de pressão nem sempre vaza pela mangueira, este é o problema...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

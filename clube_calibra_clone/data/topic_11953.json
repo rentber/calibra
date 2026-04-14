@@ -1,0 +1,202 @@
+{
+    "title": "VELOCIDADE",
+    "url": "http://www.clubecalibra.com.br/forum/topic/11953-velocidade/",
+    "id": "11953",
+    "messages": [
+        {
+            "author": "Giba",
+            "date": "2008-01-06T22:14:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal<br/>\n<br/>\nAlguém saberia dizer qual é o erro médio do velocímetro do Calibra?<br/>\n<br/>\nLi em algum tópico que se estiver à velocidade constante e zerar o Computador de Bordo (CB) no modo velocidade média, ele marcará naquele instante a velocidade real (Ex: 120 no velocímetro e 105 no CB). Procede? A fonte de informação para a velocidade é diferente para o velocímetro e para o CB? Se modificamos o diâmetro externo do conjunto roda/pneu, vai alterar a leitura do velocímetro, mas se o CB tem outra fonte de informação não haverá alteração? Correto?<br/>\n<br/>\nMe iluminem, inestimáveis gurus!<br/>\n<br/>\nAbraço.<br/>\n<br/>\nGiba\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-06T22:36:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, vamos lá, hehehe<br/>\n<br/>\nA \"fonte\" de referência da velocidade do painel é a mesma para o CB. Ambas vem do cabo do velocímetro.<br/>\n<br/>\nA diferença é que o painel faz uma conversão por magnetismo, e com um conjunto de mola espiral, mantém o ponteiro próximo da velocidade do carro.<br/>\n<br/>\nAtrás do painel, há o sensor de velocidade, que possui uma roda com diversas placas reflexivas. Estas placas refletem o sinal infravermelho de um emissor, enviando a IE e ao CB o sinal digital da velocidade por frequência.<br/>\n<br/>\nPortanto, alterando o diâmetro externo do conjunto roda+pneu, você estará alterando simultâneamente o painel e o CB.<br/>\n<br/>\nO painel sempre virá de fábrica marcando menos do que a velocidade real do carro por medidas de segurança.<br/>\n<br/>\nO CB marca uma velocidade média do carro. Se você zerar o CB, nos primeiros instantes, ele mostrará a velocidade instantânea, pois quando dT ( variacao de tempo ) é muito pequena, tendendo a zero, a indicação da velocidade média tenderá a ser velocidade instantânea. <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2008-01-07T06:25:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO painel sempre virá de fábrica marcando <strong class=\"bbc\"><span style=\"color: #000000\">mais</span></strong> do que a velocidade real do carro por medidas de segurança.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-cid=\"249735\" data-date=\"6/01/2008, 20:36\"><p>Bom, vamos lá, hehehe<br/><br/>A \"fonte\" de referência da velocidade do painel é a mesma para o CB. Ambas vem do cabo do velocímetro.<br/><br/>A diferença é que o painel faz uma conversão por magnetismo, e com um conjunto de mola espiral, mantém o ponteiro próximo da velocidade do carro.<br/><br/>Atrás do painel, há o sensor de velocidade, que possui uma roda com diversas placas reflexivas. Estas placas refletem o sinal infravermelho de um emissor, enviando a IE e ao CB o sinal digital da velocidade por frequência.<br/><br/>Portanto, alterando o diâmetro externo do conjunto roda+pneu, você estará alterando simultâneamente o painel e o CB.<br/><br/>O painel sempre virá de fábrica marcando menos do que a velocidade real do carro por medidas de segurança.<br/><br/>O CB marca uma velocidade média do carro. Se você zerar o CB, nos primeiros instantes, ele mostrará a velocidade instantânea, pois quando dT ( variacao de tempo ) é muito pequena, tendendo a zero, a indicação da velocidade média tenderá a ser velocidade instantânea. <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/>[]s</p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-07T14:43:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTinha que ser o estagiário! <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-07T15:06:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tErro de digitação. Isso frequentemente acontece com gênios que não conseguem digitar tão rápido quanto seus pensamentos.<br/>\n<br/>\nPS: Procura-se curso de datilografia.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2008-01-14T11:11:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu, galera!<br/>\n<br/>\nObrigado.<br/>\n<br/>\nAbraço.<br/>\n<br/>\nGiba\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2008-01-15T01:43:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJá me fodi 2 vezes com o Focus, ele marca quase a velocidade certa. Eu passava no radar a 70 no velocímetro e ele tava a quase 70 mesmo ao invés de superestimar como qualquer outro carro. Eu pensava que estava a 60. Tomei 2 multas por causa disso.<br/>\n<br/>\nO do Calibra é mentirosíssimo. Quanto tá a 80, na verdade tá a menos de 70.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Doutor Eduardo Thimberg</b>: 14 janeiro 2008 - 22:44\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Leo Quirino",
+            "date": "2008-01-15T03:06:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcomo 95% dos carros.. se tá marcando 100km/h ele está aprox. a 95km/h....<br/>\n<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2008-01-15T11:05:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Doutor Eduardo Thimberg\" data-cid=\"250234\" data-date=\"14/01/2008, 23:43\"><p>O do Calibra é mentirosíssimo. Quanto tá a 80, na verdade tá a menos de 70.</p></blockquote><br/>É o que me pareceu, por aquela medição com o CB. A 120 Km/h no velocímetro o CB marcava 108 Km/h.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T15:00:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ tolerável. São exatos 10% de erro do velocímetro. Tá na faixa mesmo.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-01-15T17:28:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpor isso que passo a no mínimo 10km/h a menos do limite em radares, em alguns passo a 20km/h a menos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2008-01-15T17:46:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÊpa! Não seria ao contrário?<br/>\n<br/>\n- Se o velocímetro marca velocidade maior que a real, você estará mais lento do que imagina.<br/>\n- Os radares possuem margem de segurança de 7 Km/h até 100 Km/h e 7% acima disto (snme).<br/>\n- Portanto, você poderia passar um pouco mais rápido do que teu velocímetro indica.<br/>\n<br/>\nEx: Eu nunca fui multado na Rodovia dos Imigrantes, que permite 120 Km/h, com o Calibra ou qualquer outro carro marcando 130 Km/h no velocímetro.<br/>\n<br/>\nAbraço.<br/>\n<br/>\nGiba\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T19:05:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Giba\" data-cid=\"250244\" data-date=\"15/01/2008, 08:05\"><p>É o que me pareceu, por aquela medição com o CB. A 120 Km/h no velocímetro o CB marcava 108 Km/h.</p></blockquote>Garai <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span><br/><br/>O que tem a ver o ## com as calças? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span><br/><br/>O CB marca a velocidade média, que nada mais é do que a distância percorrida dividida pelo tempo em que o carro levou para fazer o percurso. <br/><br/>O velocímetro marca a velocidade instantânea, com um erro de 5 a 10%, sempre marcando mais do que a velocidade real instantânea. <br/><br/>Quer aferir o velocímetro, vá numa daquelas lombadas eletrônicas e fique passando com o carro em diversas velocidades para comparar. Se pretende superar a velocidade máxima permitida naquela via durante os testes, sugiro fazer uma reserva de $$$ pra bancar o teste <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2008-01-15T19:11:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tWest<br/>\n<br/>\nA questão inicial era: porque o CB marca uma velocidade diferente do velocímetro no exato instante em que você o \"zera\" a uma velocidade constante, se a fonte de informação é a mesma. Acho que o Puppets respondeu a questão, tirando o erro de digitação.<br/>\n<br/>\nAbraço.<br/>\n<br/>\nGiba\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T20:08:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAi meu, Deus! O tópico está indo para a segunda página baseado em informações do estagiário?? <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span><br/>\n<br/>\nVerifiquem a validade do extintor de incêndio dos seus Calibras. <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T20:41:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão tente remendar a besteira que vc falou: O Giba captou a idéia. Se vc zerar o CB, a primeira velocidade que mostrará será exatamente a velocidade instantânea do carro. Engenheiro de araque vc hein...<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T21:11:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>primeira velocidade que mostrará será exatamente a velocidade instantânea do carro</p></blockquote><br/><strong class=\"bbc\">Conceitualmente</strong>, vc está errado. <br/><br/>A velocidade instantânea é medida em um dt, equivalente a um ponto numa curva. <br/><br/>A velocidade média é a integral dessa curva dividida pelo tempo. Ou seja, não é a mesma coisa.<br/><br/>No entanto, <strong class=\"bbc\">numericamente</strong>, eu posso igualar ambas as velocidades de infinitas maneiras, o que torna irrelevante esse fato, pois sua solução não é única. O conceito, sim, é único. <br/><br/>Estagiário!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2008-01-15T21:13:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAi, tô achando lindo!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T21:14:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tA velocidade média é calculada à partir de um dS ( variação de espaço ) dividida por um dT ( variação no tempo ).<br/>\n<br/>\nSe dT tender a zero, a velocidade média tenderá a ser a velocidade instantânea. <br/>\n<br/>\nEstagiário mór.... <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T21:18:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-cid=\"250297\" data-date=\"15/01/2008, 18:14\"><p>A velocidade média é calculada à partir de um dS ( variação de espaço ) dividida por um dT ( variação no tempo ).<br/><br/>Se dT tender a zero, a velocidade média tenderá a ser a velocidade instantânea. <br/><br/>Estagiário mór.... <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span></p></blockquote>Pateta!<br/><br/>Vc acabou de dizer que a informação que vai para o velocímetro e para o CB é a mesma, ou seja, a velocidade instantânea.<br/><br/>Portanto, o CB não pode calcular a velocidade média da forma que vc citou. A única forma é calcular dividindo a integral da curva de velocidades instantâneas dividida pelo tempo. <br/><br/>MEU DEUS!!!  Incrível que a natureza não tenha dado conta de vc até hoje. Há falhas terríveis na teoria da Seleção Natural de Darwin <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2008-01-15T21:20:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAmbos estao certos, vcs so nao estao se entendendo!<br/>\nNo momento em que se zera o computador de bordo a velocidade media marcada eh aproximadamente a velocidade instantanea.<br/>\n<br/>\nO problema eh que o velocimetro tem uma calibragem do ponteiro que com certeza e diferente minimamente de calibra para calibra, e com certeza eh diferente da calibragem do computador de bordo. Inclisive existe um certo parafuso de regulagem no CB que eu nao sei para que serve mas deve ser para calibrar velocidade eou algo do tipo.<br/>\n<br/>\nFalow!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T21:22:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAi que puta que pariu!<br/>\n<br/>\nA diferença é que o velocímetro não acumula dados, e sempre está mostrando a velocidade instantânea. O CB armazena os dados de espaço em função do tempo, e recalcula o dS/dT o tempo inteiro, atualizando no display.<br/>\n<br/>\nSe vc zerar, a informação de tempo armazenada no CB será próxima de zero, fazendo a conta cair no meu post acima: Se dT tende a zero, a Vel média tende a ser a Vel. Instantânea...<br/>\n<br/>\nNão sabe, deixa.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T21:33:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-cid=\"250301\" data-date=\"15/01/2008, 18:22\"><p>Ai que puta que pariu!<br/><br/>A diferença é que o velocímetro não acumula dados, e sempre está mostrando a velocidade instantânea. O CB armazena os dados de espaço em função do tempo, e recalcula o dS/dT o tempo inteiro, atualizando no display.</p></blockquote><br/>Ai aiai ai ai. <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span> <br/><br/>Vamos por partes:<br/><br/>Premissas do estagiário:<br/><br/>1- informação de entrada do velocímetro e do CB são as mesmas<br/>2 - CB calcula DS/DT o tempo inteiro<br/><br/>Se CB calcula DS/DT, e o tempo é obtido por um cronômetro interno, o dado de entrada que falta é o DS. <br/>Então o CB recebe a informação de DS como dado de entrada.<br/><br/>Se Velocímetro e CB recebem a mesma informação, logo, velocímetro recebe DS e, provavelmente, ao invés da da velocidade, deve estar mostrando a Km. <br/><br/>Quem será que está mostrando a velocidade? O hodômetro? <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/><br/>Pelamordedeus! <br/><br/>Cada vez que vc tenta explicar, vc se afunda mais.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T21:37:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tIsso só mostra que vc deveria voltar para a faculdade.<br/>\n<br/>\nA fonte dos dados é a mesma do velocímetro e do CB SIM! O cabo do velocímetro.<br/>\n<br/>\nCaso vc tenha parado no tempo, existem microcontroladores que calculam o tempo muito bem viu... então dT não precisa ser fornecido.<br/>\n<br/>\ndS está sendo fornecido para o CB por meio de sinais digitais, q variam a frequência com a variação da velocidade.<br/>\n<br/>\nUma simples conta, transforma estes sinais em espaço percorrido.<br/>\n<br/>\nAgora, caso vc também não saiba, o velocímetro possui molas para contrapor a tendência do velocímetro virar um ventilador. Este conjunto de molas que equilibra o velocímetro para mostrar a velocidade instantânea.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2008-01-15T21:39:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPUTA QUE PARIU!! hauhauahuahuaa<br/>\n<br/>\nEXISTE UMA CALIBRAGEM DOS 2!! Afinal o sinal eh ANALOGICO!!!!<br/>\n<br/>\nSe as calibragens estiverem diferentes vai dar diferenca!!!!<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T21:41:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFuro de Reportagem!<br/>\n<br/>\nConsegui umas provas do Puppets na escolinha!<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_01_2008/post-266-1200433269.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[250307]\" title=\"genio_02.jpg - Tamanho: 11,65K, Downloads: 0\"><img alt=\"genio_02.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_01_2008/post-266-1200433269.jpg\"/></a>\n<br/>\n<br/>\n<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_01_2008/post-266-1200433279.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[250307]\" title=\"genio_04.jpg - Tamanho: 4,5K, Downloads: 0\"><img alt=\"genio_04.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_01_2008/post-266-1200433279.jpg\"/></a>\n<br/>\n<br/>\n<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_01_2008/post-266-1200433288.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[250307]\" title=\"genio_05.jpg - Tamanho: 7,27K, Downloads: 0\"><img alt=\"genio_05.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_01_2008/post-266-1200433288.jpg\"/></a>\n<br/>\n<br/>\n<br/>\n<span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span>:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T21:43:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSerá??? Por acaso vc não postou a clássica do limite, por não saber calcular? uahuahaua<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-15T21:43:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAliás, acabou seus argumentos errôneos sobre física? uahauhauh\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-15T21:46:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPuppets,<br/>\n<br/>\nDesisti de tentar te instruir. É como despejar um balde de conhecimento num copo de lícor. Vc corre o risco de começar perder informações básicas quando o copo transbordar, e aí vc não vai mais lembrar o seu nome, onde mora, etc. <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Humberto Duccini",
+            "date": "2008-01-16T21:14:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAmigos,<br/>\n<br/>\nSendo que estamos falando das velocidades indicadas no velocímetro e CB, vou descrever o que passou a ocorrer no meu Calibra após a instalação do painel digital.<br/>\n1 - Quando zero a Velocidade Média no CB, a primeira velocidade indicada é exatamente a metade daquela informada pelo painel digital. <br/>\n2 - Obviamente que isso afeta também os cálculos de Autonomia.<br/>\nO cabo do velocímetro foi substituído por um sensor de velocidade que envia o sinal para o painel digital. Do painel parte o sinal para o CB.<br/>\nAcredito que se fosse possível instalar algum circuito que dobrasse esse sinal (entre o painel e o CB) meu problema estaria resolvido.<br/>\nTambém pensei em mudar a fonte do sinal do CB para aquele fornecido na cental da Motronic (assim como fiz com meu alarme que possui aviso de velocidade programável).<br/>\nSubstitui (para testar) o computador do Calibra pelo do Vectra GSi, mas o problema persiste.<br/>\nLembrando que as conexões e o próprio painel digital não são parecidos com aqueles encontrados nos Omegas ou Monza/Kadett.<br/>\nEnfim, preciso encontrar uma solução. E para isso, conto a sua ajuda.<br/>\nUm abraço.<br/>\n<br/>\nHumberto Duccini\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-16T21:46:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHumberto, o fio que vai de sinal de velocidade para a IE, creio que ENTRE na IE, e não saia para algum lugar. Portanto, aquele sinal também deve estar alterado.<br/>\n<br/>\nCriar um circuito duplicador de sinal não é complicado.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2008-01-16T23:56:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu entendi aexplicaçao do pup , mas nao entendi a do west. <br/>\n<br/>\nentao chegamos a 4 caminhos: <br/>\n<br/>\no pup ta certo o west errado.<br/>\no pup tem mais didatica q o west.<br/>\nwest ta certo e eu sou burro e só entendi o estágiario.<br/>\nwest é gay.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2008-01-16T23:57:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thumberto segundo ateoria do west q eu nao entendi. oq o velocimetro mostrar e oq q o cb mostrar tem q ser diferentes. <br/>\n<br/>\nmas como nao entendi nada, nao vou ajudar kkk.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-17T00:07:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNa verdade, o Humberto alterou o painel inteiro. Por isso está diferente do CB.<br/>\n<br/>\nO painel original do calibra possue seu próprio conversor de velocidade do cabo do velocímetro, para sinal digital.<br/>\n<br/>\nEste sinal digital sai com uma frequencia tal que o CB interpreta de forma correta.<br/>\n<br/>\nComo o Humberto alterou o painel, e ele mesmo disse, alterou o conversor de velocidade do painel, assim o CB está recebendo uma frequencia de sinal diferente do que está programado para mostrar valores corretos.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2008-01-17T01:27:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO sinal eh 100% analogico e nao eh dado por frequencia e sim por tensao.<br/>\nComo eu disse existe uma calibragem do CB e do velocimetro para ambos marcarem a velocidade certa. mas eles sempre estao diferentes por isso a diferenca.<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Humberto Duccini",
+            "date": "2008-01-17T02:44:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-cid=\"250356\" data-date=\"16/01/2008, 19:46\"><p>Criar um circuito duplicador de sinal não é complicado.</p></blockquote><br/>Puppets ou Master,<br/>Vocês conseguem criar um circuito desses para o meu caso?<br/>Se sim, basta dizer o valor.<br/>Obrigado.<br/>Um abraço.<br/><br/>Humberto\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-17T09:13:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Warcelo\" data-cid=\"250378\" data-date=\"16/01/2008, 23:27\"><p>O sinal eh 100% analogico e nao eh dado por frequencia e sim por tensao.<br/>Como eu disse existe uma calibragem do CB e do velocimetro para ambos marcarem a velocidade certa. mas eles sempre estao diferentes por isso a diferenca.<br/><br/>Falow</p></blockquote>Warcelo, não é analógico não o sinal que chega ao CB.<br/><br/>Atrás do painel do carro tem um conversor, com placas reflexivas para o emissor infravermelho.<br/>O sinal que sai dali é digital, e imagino que siga para a IE e para o CB.<br/><br/>[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2008-01-17T09:14:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHumberto, mandei MP pra vc.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-01-17T13:00:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-cid=\"250366\" data-date=\"16/01/2008, 20:56\"><p>eu entendi aexplicaçao do pup , mas nao entendi a do west. <br/><br/>entao chegamos a 4 caminhos: <br/><br/>o pup ta certo o west errado.<br/>o pup tem mais didatica q o west.<br/>west ta certo e eu sou burro e só entendi o estágiario.<br/>west é gay.</p></blockquote><blockquote class=\"ipsBlockquote\" data-author=\"MasterRey\" data-cid=\"250367\" data-date=\"16/01/2008, 20:57\"><p>humberto segundo ateoria do west q eu nao entendi. oq o velocimetro mostrar e oq q o cb mostrar tem q ser diferentes. <br/><br/>mas como nao entendi nada, nao vou ajudar kkk.</p></blockquote>Vc só não é mais burro porque não é mais burro! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> Aê, Pokemon: isso aqui não é linux não.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "title": "Scanner Op-Com",
+    "url": "http://www.clubecalibra.com.br/forum/topic/15946-scanner-op-com/",
+    "id": "15946",
+    "messages": [
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-10T05:38:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Comprei duas unidades do Op-com (USB) firmware v1.39, software 090820b e uma unidade do Opel Scanner (RS232), ainda não testei o Opel Scanner pq meus computadores não tem entrada serial e o adaptador que encomendei ainda não chegou, pretendo testar se uma interface funciona com o programa da outra (Se conseguir simular que o usb esta em com1 e vice versa)<br/><br/><br/>Aqui vai o passo a passo de como conectar o Op-com ao calibra e ler os dados da ECU e do ABS-2E:<br/><br/>1- Compre a Op-com mais recente;<br/>2- Compre um conector OBD2 de 16 pinos de qualquer carro gm no ferro-velho;<br/>3- Abra o conector OBD2 (pela parte de trás) e com cuidado troque os terminais de posição para que você tenha terminais nos buracos 4,5,7,15 e 16. Os buracos são numerados na parte de trás do conector e não vem com 16 terminais, por isso é necessário o reposicionamento (eu comprei 1 de vectra e 1 de astra, se não me engano);<br/>4- Desencape o final dos fios e junte os fios dos terminais 4 e 5;<br/>5- Insira o fio 4 e 5 no terminal A (Ground) do conector ALDL de 10 pinos do Calibra;<br/>6- Insira o fio 7 no terminal G (K-Line) do conector ALDL de 10 pinos do Calibra;<br/>7- Insira o fio 15 no terminal K (L-Line) do conector ALDL de 10 pinos do Calibra;<br/>8- Insira o fio 16 no terminal F (+12v) do conector ALDL de 10 pinos do Calibra;<br/>9- Conecte o Op-com USB no seu computador, de preferência Notebook/Netbook;<br/>10- Instale os drivers usb;<br/>11- Insira o código de ativação do Op-com;<br/>12- Conecte o Op-com no conector OBD2 que está ligado ao conector ALDL;<br/>13- Selecione o ano 1994, veículo Omega-B, Engine, 20SE ou X 20 SE e comece a ler os dados.<br/><br/><br/>Para Inserir o código de ativação:<br/><br/>1- Na primeira vez que tentar realizar um diagnóstico, selecione: ano 1999, veículo CORSA-B, ENGINE, X12XE<br/>2- Abra o programa o Winhex, que vem no cd do Op-com em &lt;CD/DVD&gt;:\\ OP-COM\\ After the firmware upgrade using\\<br/>3- Vá no menu \"Tools\", selecione \"Open Run\"<br/>4- Desça até achar Op-com# e selecione<br/>5- Clique duas vezes em \"Primary Memory\"<br/>6- Vá no menu \"Search\", selecione \"Find Text\"<br/>7- Digite: serial number e pressione F3 até aparecer a mensagem: \"serial number\" was not found.<br/>8- Suba a tela até achar no texto à direita um código de 8-3 caracteres (Se você achar um com 8-8, basta colar no Op-com e clicar em \"activate\")<br/>9- Vá novamente no menu \"Search\", selecione \"Find Text\"<br/>10- Digite o código de 8-3 caracteres<br/>11- Copie no Op-com o código de 8-8 caracteres que ele vai achar e clique em \"Activate\"<br/><br/>Para fazer o diagnóstico de ECU do Calibra:<br/><br/>1- Vá em \"Dignostics\"<br/>2- Selecione \"1994\"<br/>3- Selecione \"Omega-B\"<br/>4- Selecione \"Engine\"<br/>5- Selecione \"20 SE\" ou \"X 20 SE\"<br/>6- Selecione \"Fault Codes\" para ler as falhas armazenadas<br/>6.1- Clique em \"Clear Fault Codes\" para apagar as falhas da memória da ECU<br/>7- Selecione \"Measuring Blocks\" para ler os dados dos sensores<br/>7.1- Clique nas setas ao lado do nome dos sensores para escolher qual será mostrado<br/>7.2- Clique no botão \"Next Block\" para ir para a próxima página de sensores<br/><br/>Para fazer o diagnóstico e ABS-2E do Calibra: <br/><br/>1- Vá em \"Dignostics\"<br/>2- Selecione \"1994\"<br/>3- Selecione \"Calibra\"<br/>4- Selecione \"Chassis\"<br/>5- Selecione \"ABS-2E\"<br/>6- Selecione \"Fault Codes\" para ler as falhas armazenadas<br/>6.1- Clique em \"Clear Fault Codes\" para apagar as falhas da memória da ECU<br/>7- Selecione \"Measuring Blocks\" para ler os dados dos sensores<br/>7.1- Clique nas setas ao lado do nome dos sensores para escolher qual será mostrado<br/>7.2- Clique no botão \"Next Block\" para ir para a próxima página de sensores<br/><br/>Fotos dos conectores:<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281418199,3356.jpg\" id=\"ipb-attach-url-14334-0-01166000-1775914274\" rel=\"lightbox[313159]\" title=\"conector obd2 16 pinos.jpg - Tamanho: 142,65K, Downloads: 4\"><img alt=\"conector obd2 16 pinos.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14334-0-01166000-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281418199,3356_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281418215,4849.jpg\" id=\"ipb-attach-url-14335-0-01179900-1775914274\" rel=\"lightbox[313159]\" title=\"conector aldl 10 pinos.jpg - Tamanho: 192,09K, Downloads: 2\"><img alt=\"conector aldl 10 pinos.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14335-0-01179900-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281418215,4849_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281418245,0429.jpg\" id=\"ipb-attach-url-14336-0-01186400-1775914274\" rel=\"lightbox[313159]\" title=\"conector obd2 no opcom.jpg - Tamanho: 178,99K, Downloads: 1\"><img alt=\"conector obd2 no opcom.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14336-0-01186400-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281418245,0429_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/><br/>Deu bastante trabalho gravar o vídeo e fazer a legenda, mas espero que ajude:<br/><a class=\"bbc_url\" href=\"http://www.youtube.com/watch?v=Q_tleaQX76U\" rel=\"nofollow external\" title=\"Link externo\">youtube - Diagnóstico Calibra 1994</a>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Led Zeppelin</b>: 10 agosto 2010 - 08:26\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2010-08-10T11:28:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Funcou tudo direitinho ??<br/>\nQuanto vc pagou ??<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2010-08-10T12:24:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Show de bola Sniper!<br/>\n<br/>\nDá o caminho das pedras pra gente conseguir esse brinquedo. <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-10T18:30:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Para abrir o conector OBD2:<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281464948,878.jpg\" id=\"ipb-attach-url-14337-0-01193400-1775914274\" rel=\"lightbox[313204]\" title=\"trava obd2 conector.jpg - Tamanho: 171,89K, Downloads: 0\"><img alt=\"trava obd2 conector.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14337-0-01193400-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281464948,878_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/><br/>Para reposicionar os terminais:<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281464969,6559.jpg\" id=\"ipb-attach-url-14338-0-01198800-1775914274\" rel=\"lightbox[313204]\" title=\"trava obd2 terminais.jpg - Tamanho: 168,38K, Downloads: 0\"><img alt=\"trava obd2 terminais.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14338-0-01198800-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-393-1281464969,6559_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/><br/><br/>Funciona tudo, não parei para comparar os valores apresentados pelos sensores entre as opções de motor Omega-B, 20 SE e X 20 SE, mas dá pra fazer usando o botão que tem para exportar os dados, aí é só comparar.<br/><br/>No video que fiz, vocês podem ver o erro no ABS, que realmente está com problema e a bomba de retorno fica ligada direto, por isso ando com ele desligado, ele indica erro no circuito do relé da bomba e erro na central do ABS. Espero que seja apenas no relé da bomba, ainda tenho que tentar consertar isso.<br/><br/>Para comprar, basta ir no e-bay, que você acha o Op-com na faixa de US$30-40, vem da China ou Hong Kong. Só tem que escolher um vendedor com bastante pontos, reparem que alguns vendedores colocam o preço de Us$0,01-1 mas o frete é de quase Us$30.<br/><br/>Na escolha do aparelho, existem dois tipos, o com leds que indicam Power, Rx (Recebendo) e TX (Transmitindo), eu comprei deste tipo, e o sem indicação.<br/><br/>Eu dou preferência para compras em Hong Kong(Em média 30 dias), pois chegam mais rápido que compras da China (Em média 45 dias).<br/><br/><a class=\"bbc_url\" href=\"http://cgi.ebay.com/ebaymotors/OBD-II-Vauxhall-Diagnostic-OP-SAAB-Interface-W41-_W0QQcmdZViewItemQQitemZ180543892815QQptZMotorsQ5fCarQ5fTruckQ5fPartsQ5fAccessories\" rel=\"nofollow external\" title=\"Link externo\">e-bay Op-com com indicação</a><br/><br/><a class=\"bbc_url\" href=\"http://cgi.ebay.com/ebaymotors/OP-COM-Opel-Vauxhall-Diagnostic-Interface-CAN-OBD2-W41-_W0QQcmdZViewItemQQitemZ320572463860QQptZMotorsQ5fAutomotiveQ5fTools\" rel=\"nofollow external\" title=\"Link externo\">e-bay Op-com sem indicação</a><br/><br/>Não estou achando o Opel Scanner que comprei no e-bay, paguei mais caro que o op-com, mas o software dele parece ser melhor, exibe gráficos e etc, mas não pude testar ainda.<br/><br/>Aqui tem os vídeos do Opel Scanner:<br/><br/><a class=\"bbc_url\" href=\"http://www.youtube.com/watch?v=GnJb1zoTWsY\" rel=\"nofollow external\" title=\"Link externo\">Youtube- Opel Scanner Vectra BR</a><br/><br/><a class=\"bbc_url\" href=\"http://www.youtube.com/watch?v=OyAx3fLt0Tw\" rel=\"nofollow external\" title=\"Link externo\">Youtube - Opel Scanner C20Let</a><br/><br/>A opções de scanner com transmissão sem fio para Iphone:<br/><a class=\"bbc_url\" href=\"http://www.youtube.com/watch?v=prCTsUPXLGs&amp;feature=related\" rel=\"nofollow external\" title=\"Link externo\">Youtube - wireless OBD2</a><br/><br/><br/>Eu comprei dois conectores OBD2, um pretendo colocar dentro do carro, puxando os fios do compartimento do motor ou quem sabe se achá-los do lado de dentro, perto da ECU, e o outro deixarei solto para poder eventualmente escanear outros veículos.<br/><br/>Assim, o calibra poderá ser escaneado por qualquer scanner, inclusive o da bosch, já que os pinos usados são os mesmos.<br/><br/>Agora tá mastigado hein hehe <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/smile.gif\"/></span> <br/>Para doações em minha conta, mande MP haha <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/biggrin.gif\"/></span>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Led Zeppelin</b>: 10 agosto 2010 - 17:12\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-08-10T19:00:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Show Sniper! Show mesmo!<br/>\n<br/>\nAcho que vale a pena comprar um e fazermos um scanner pro Calibra sim <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "da Matta",
+            "date": "2010-08-10T19:58:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Achei algo parecido no site chines que quase todo deve conhecer!!!<br/><br/>Dêem uma olhada....<br/><br/><a class=\"bbc_url\" href=\"http://www.dealextreme.com/products.dx/category.713\" rel=\"nofollow external\" title=\"Link externo\">OBD/OBD2 Car Diag. Tools</a><br/><br/>E aqui tem o que eu acho que o Sniper comprou!<br/><br/><a class=\"bbc_url\" href=\"http://www.dealextreme.com/details.dx/sku.33585\" rel=\"nofollow external\" title=\"Link externo\">OP-COM USB Diagnostic Cable for OPEL Cars</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-10T20:06:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Eu compro coisas no dealextreme, mas lá o op-com está coisa de Us$15,00 mais caro.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-08-10T20:15:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Mas Sniper, este valor do dealextreme já é entregue... free shipping. No Ebay você ainda precisa pagar o frete, não precisa?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-11T02:22:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Sim, no dealextreme, que fica em Honk Kong, custa 43 dolares, no ebay custa em média 30 dolares (scanner + frete), só que os vendedores colocam o preço baixo e o frete caro totalizando os 30 dolares, para pagar menos de comissão pro e-bay, entendeu? A vantagem do dealextreme é que com certeza chega.<br/>\n<br/>\nVocê quer comprar para fazer um scanner pro calibra? como assim... eu já o abri e dentro tem um microprocessador com linhas de código que pra você copiar e montar outro circuito acaba saindo mais barato e fácil comprar o montado hehe.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-08-11T03:30:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Eu quero comprar pra USAR como scanner, e não pra FAZER um, heheheh <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nDeste site eu já comprei muita coisa... to quase ganhando carteirinha de sócio! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-11T04:52:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000--><blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"313206\" data-date=\"10 agosto 2010 - 17:00\" data-time=\"1281466817\"><p>Show Sniper! Show mesmo!<br/><br/>Acho que vale a pena comprar um e fazermos um scanner pro Calibra sim <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/smile.gif\"/></span><br/></p></blockquote><br/><br/>Você que disse que ia fazer um scanner hehehe. Cada doido com a sua mania <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>abs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-08-11T12:06:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->UHauhauh falha minha!  <span rel=\"lightbox\"><img alt=\":porrada:\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/porrada.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2010-08-11T12:29:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000--><blockquote class=\"ipsBlockquote\" data-author=\"'Puppets'\" data-cid=\"313240\" data-date=\"11 agosto 2010 - 01:30\" data-time=\"1281497450\"><p>Deste site eu já comprei muita coisa... to quase ganhando carteirinha de sócio! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/tongue.gif\"/></span></p></blockquote>Tem gente que já tem essa carteirinha do eBay faz tempo hehehe  <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/rolleyes.gif\"/></span> <br/><br/>[]s,<br/>Gordo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2010-08-11T16:26:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Tem esse também:<br/>\n<br/>\n<a class=\"bbc_url\" href=\"http://www.aldlcable.com/\" rel=\"nofollow external\" title=\"Link externo\">http://www.aldlcable.com/</a><br/>\n<br/>\nAldl para USB<br/>\n<br/>\nParabéns pela iniciativa!!!<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Humberto Duccini",
+            "date": "2010-08-12T03:44:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Senhores,<br/><br/>Encontrei o programa que vem com o OPEL Scanner: <br/><br/><a class=\"bbc_url\" href=\"http://rapiddigger.com/download/autoscanner-opel-v1-0-1-71-advanced-a274-rar-7999536/\" rel=\"nofollow external\" title=\"Link externo\">Download Programa Opel Scanner</a><br/><br/>Trata-se da versão AutoScanner Opel V1.0.1.71 Advanced A274.<br/>Veja demonstração: <br/><br/><a class=\"bbc_url\" href=\"http://www.youtube.com/watch?v=OyAx3fLt0Tw\" rel=\"nofollow external\" title=\"Link externo\">AutoScanner Calibra C20LET</a><br/><br/>Veja tela inicial:<br/><br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-89-12815845660332.jpg\" id=\"ipb-attach-url-14346-0-01208900-1775914274\" rel=\"lightbox[313350]\" title=\"Tela inicial.JPG - Tamanho: 83,74K, Downloads: 2\"><img alt=\"Tela inicial.JPG\" class=\"attach\" height=\"441\" id=\"ipb-attach-img-14346-0-01208900-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_08_2010/post-89-12815845660332_thumb.jpg\" style=\"width:640;height:441\" width=\"640\"/></a>\n<br/><br/>Sniper, por gentileza veja se é possível fazê-lo funcionar com o OPCom.<br/>Se sim, teremos acesso a uma ferramenta bastante completa, e de baixo custo.<br/><br/>Aguardo comentários.<br/>Um abraço.<br/><br/>Humberto Duccini\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-12T05:01:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Como disse, o problema é que o Opel scanner que é usado com o programa Autoscanner Opel usa interface serial e o Op-com usa interface USB, se você me ensinar a simular uma interface serial a partir de uma usb com software, eu testo hehe. Estou esperando chegar o adaptador serial--&gt; usb para testar o opel scanner com o autoscanner.<br/>\n<br/>\nAbs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Humberto Duccini",
+            "date": "2010-08-12T21:57:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000--><blockquote class=\"ipsBlockquote\" data-author=\"'sniper.arnaud'\" data-cid=\"313353\" data-date=\"12 August 2010 - 02:01\" data-time=\"1281589278\"><p>Como disse, o problema é que o Opel scanner que é usado com o programa Autoscanner Opel usa interface serial e o Op-com usa interface USB, se você me ensinar a simular uma interface serial a partir de uma usb com software, eu testo hehe. Estou esperando chegar o adaptador serial--&gt; usb para testar o opel scanner com o autoscanner.<br/><br/>Abs.<br/></p></blockquote><br/>Sniper,<br/><br/>Vamos aguardar com ansiedade a chegada do seu adaptador serial --&gt; USB.<br/>Por gentileza é possível informar o link / site de onde você comprou o Opel scanner?<br/>Obrigado.<br/><br/>Humberto\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-13T03:44:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Comprei no e-bay mas não estava achando para postar...<br/>Foi exatamente este que comprei, mesmo vendedor, mas demorou muito pra chegar, uns 45 dias ou mais, vem sem cd, sem cabo, apenas um link para baixar o programa, mas como já foi postado o Autoscanner 1.71, baixem ele que é mais recente que o do link que o vendedor me passou:  Us$39 - Frente grátis.<br/><br/><a class=\"bbc_url\" href=\"http://cgi.ebay.com/ebaymotors/Opel-Scanner-_W0QQcmdZViewItemQQitemZ200460937466QQptZMotorsQ5fAutomotiveQ5fTools\" rel=\"nofollow external\" title=\"Link externo\">Opel Scanner</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "Humberto Duccini",
+            "date": "2010-08-23T21:19:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Olá Sniper, tudo bem?<br/>\n<br/>\nNovidades?<br/>\nRecebeu o seu adaptador serial para USB?<br/>\nVerificou se o OP-COM funciona com o programa AutoScanner?<br/>\nUm abraço.<br/>\n<br/>\nHumberto\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-08-25T22:53:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Ainda esperando o adaptador chegar...<br/>\nAinda não descobri como simular uma porta com...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-08-29T15:40:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000--><blockquote class=\"ipsBlockquote\" data-author=\"'sniper.arnaud'\" data-cid=\"314091\" data-date=\"25 agosto 2010 - 19:53\" data-time=\"1282776823\"><p>Ainda esperando o adaptador chegar...<br/>Ainda não descobri como simular uma porta com...<br/></p></blockquote><br/>Esse adaptador vc compra em qq loja de informatica de shopping hein.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-09-02T21:18:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Os adaptadores chegaram segunda feira, ainda não tive tempo de testar, talvez amanhã consiga. A diferença é que aqui no brasil é 10x mais caro <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/biggrin.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-10-19T22:41:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Up, comprei o opel sacanner<span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/unsure.gif\"/></span> a algum tempo, e a disgrama precisa de um adaptador ALDL OBDII.<br/> <br/>Não queria ficar abrindo fiação do carro, queria um cabo adaptador, alguem sabe onde vende esse tipo de adaptador ou cabo?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-10-19T22:51:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Achei o maldito cabo adaptador....<span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/porrada.gif\"/></span> <br/><br/><a class=\"bbc_url\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=320578138425\" rel=\"nofollow external\" title=\"Link externo\">http://cgi.ebay.com/...em=320578138425</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2010-10-21T02:56:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Acabei não testando o opel-scanner pois estava fazendo uma manutenção no carro e parei para viajar, assim que der testo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-10-21T13:53:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Deve funcionar....... agora que descobri que ALDL = OBD1 tudo ficou mais claro.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-10-21T14:36:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Eu tava estranhando o link que vc tinha mandado mesmo, pois o conversor é para OBD1. Se for realmente igual, isso já ajuda um monte.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-10-21T19:50:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000--><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_10_2010/post-46-1287690629,5934.jpg\" id=\"ipb-attach-url-14691-0-01222900-1775914274\" rel=\"lightbox[316475]\" title=\"plug-5.jpg - Tamanho: 79,76K, Downloads: 0\"><img alt=\"plug-5.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14691-0-01222900-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_10_2010/post-46-1287690629,5934_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_10_2010/post-46-1287690773,6542.jpg\" id=\"ipb-attach-url-14692-0-01217200-1775914274\" rel=\"lightbox[316475]\" title=\"324775566_o.jpg - Tamanho: 100,45K, Downloads: 0\"><img alt=\"324775566_o.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-14692-0-01217200-1775914274\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_10_2010/post-46-1287690773,6542_thumb.jpg\" style=\"width:639;height:480\" width=\"639\"/></a>\n<br/>\n<br/>\nParece que encaixa hein...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2010-10-21T20:00:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Vendo as fotos, parece que só encaixar se retirar os posicionadores de plástico ao lado do conector. Mas se a distância entre pinos for a mesma, tranquilo!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2010-10-22T10:55:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:32 +0000-->Não precisa retirar posicionador nenhum, vai encaixar perfeitamente.<br/>\nInclusive note uma guia inferior à direita no conector fêmea que vai casar certinho com \"buraco\" no conector macho (à esquerda na primeira foto). <br/>\nAté a trava externa bate. <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://www.clubecalibra.com.br/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-11-10T19:41:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000-->O cabo adaptador OBDI para OBDII encaixou perfeitamente, mas o software (autoscanner) não funfou....rsrs....Pobre é uma merda...<br/>\n<br/>\nPreciso de outro software, lembrando que o meu é o Opel Scanner, mas nao achei mais o link dele no Ebay e nao lembro qual o programa recomendado, nao veio CD nenhum....rsrs.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2010-12-01T20:10:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000-->A bagaça finalmente funcionou, foi preciso abandonar o adaptador USB-serial e usar a entrada seria do proprio notebook. Nessa solução tive que usar um extensão femea femea serial DB25 para que o notebook possa fica dentro do carro e nao no cofre do motor.<br/>\n<br/>\nO software nao é lá grande coisa, mas tem todos os dados necessários, só nao tem dados do sistema ABS o que realmente é uma pena.<br/>\n<br/>\nsegue foto dos dados da leitura.<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2010/post-46-1291234243,3986.gif\" id=\"ipb-attach-url-15033-0-07964900-1775914278\" rel=\"lightbox[318096]\" title=\"scanner.gif - Tamanho: 28,05K, Downloads: 10\"><img alt=\"scanner.gif\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-15033-0-07964900-1775914278\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2010/post-46-1291234243,3986_thumb.gif\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<br/>\n</div>"
+        },
+        {
+            "author": "Guilherme Gheller",
+            "date": "2011-11-09T12:51:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><blockquote class=\"ipsBlockquote\" data-author=\"'Marcio Leal'\" data-cid=\"318096\" data-date=\"01 dezembro 2010 - 17:10\" data-time=\"1291234251\"><p>A bagaça finalmente funcionou, foi preciso abandonar o adaptador USB-serial e usar a entrada seria do proprio notebook. Nessa solução tive que usar um extensão femea femea serial DB25 para que o notebook possa fica dentro do carro e nao no cofre do motor.<br/><br/>O software nao é lá grande coisa, mas tem todos os dados necessários, só nao tem dados do sistema ABS o que realmente é uma pena.<br/><br/>segue foto dos dados da leitura.<br/><br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2010/post-46-1291234243,3986.gif\" id=\"ipb-attach-url-15033-0-07964900-1775914278\" rel=\"lightbox[318096]\" title=\"scanner.gif - Tamanho: 28,05K, Downloads: 10\"><img alt=\"scanner.gif\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-15033-0-07964900-1775914278\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2010/post-46-1291234243,3986_thumb.gif\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/></p></blockquote><br/>Olá amigos, bom dia. Estou fuçando algumas coisas no meu calibra, com um amigo que tem um scanner. Voces sabem me informar se o scanner bluetooth ELM327 funciona no calibra?<br/><br/><br/>Aguardo uma ajuda! Abraço\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2014-01-15T05:00:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><p>Desenterrando tópico. </p>\n<p> </p>\n<p>Atualizando os links do OP-COM. </p>\n<p>Comprei estes aqui.  </p>\n<p><a class=\"bbc_url\" href=\"http://dx.com/p/op-com-v-can-diagnostic-interface-for-opel-257188#.UtYVQJ5dV8E\" rel=\"nofollow external\" title=\"Link externo\">http://dx.com/p/op-c...88#.UtYVQJ5dV8E</a></p>\n<p><a class=\"bbc_url\" href=\"http://dx.com/p/10-pin-to-16-pin-obd2-diagnostic-cable-for-opel-30cm-115655#.UtYVgZ5dV8E\" rel=\"nofollow external\" title=\"Link externo\">http://dx.com/p/10-p...55#.UtYVgZ5dV8E</a></p>\n<p> </p>\n<p>Estão funcionando perfeitamente, lê todos os sensores do calibra seguindo a dica do Sniper na primeira pagina selecionando omegaB. </p>\n<p> </p>\n<p>Recomendo. </p>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2014-01-24T13:33:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><p>Boa!</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcelo M-7",
+            "date": "2014-04-11T04:09:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><p>Quem quiser mais de imediato tem no Mercado Livre o Scanner por R$ 90 + R$ 56 do adaptador.</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2014-10-03T15:52:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><p>Esse OPCOM tem o corsa GSi X16XE?</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2014-10-06T21:57:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><blockquote class=\"ipsBlockquote\" data-author=\"RSR\" data-cid=\"347057\" data-time=\"1412351533\">\n<div>\n<p>Esse OPCOM tem o corsa GSi X16XE?</p>\n</div>\n</blockquote>\n<p>Na lista do software tem</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2014-10-07T23:24:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><p>Blz.</p>\n<p>Marcio, o corsa gsi tem conector ALDL né? precisa daquele cabo adaptador</p>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2014-10-08T14:53:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<!--cached-Sat, 11 Apr 2026 13:29:34 +0000--><p>precisei comprar um cabo adaptador de ALDL para OBD.</p>\n<p> </p>\n<p>Corsa GSI não lembro qual conector é.</p>\n<br/>\n</div>"
+        }
+    ]
+}

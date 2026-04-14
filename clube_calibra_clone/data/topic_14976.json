@@ -1,0 +1,87 @@
+{
+    "title": "Autonomia no CB",
+    "url": "http://www.clubecalibra.com.br/forum/topic/14976-autonomia-no-cb/",
+    "id": "14976",
+    "messages": [
+        {
+            "author": "pypyno",
+            "date": "2009-08-05T00:14:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom pessoal, pra quem não sabe sou o novo proprietario do calibra que era do Warcelo, estou com ele a poucos meses e como o carro está em dia tenho me dedicado a reparar detalhes, um deles é a autonomia que marca cerca de 200km a mais, o que causa isso eu sei, são as trilhas de carbono desgastadas pelo alcool da gasolina, e revirando o bendito google encontrei uma suposta solução neste link:<br/><br/><a class=\"bbc_url\" href=\"http://www.abs-zero.com/FC/TankCals.htm\" rel=\"nofollow external\" title=\"Link externo\">http://www.abs-zero....FC/TankCals.htm</a><br/><br/>No forum encontrei somente comentarios sobre um tal parafuso de regulagem...<br/><br/>Se alguem puder me ajudar com o link acima, pois meu ingles eh uma merda e entendi uns 80% do processo, apesar de parecer simples...<br/><br/>Abraço!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcelo M-7",
+            "date": "2009-08-27T03:53:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVai firme amigo...<br/>\n<br/>\nExistem dois procedimentos, este é o mais preciso: <br/>\n<br/>\nTrabalhando sob o carro, retire a ficha do remetente nível do tanque de combustível no tanque de combustível. <br/>\nEmpurre a resistência de pinos nos orifícios ficha de contato (no tear final, não o tanque). <br/>\nTrabalhando sob o capot, retire o 10-pin conector de diagnóstico dele é escudo inicial. <br/>\nConecte o clip no conector de diagnóstico entre os pinos A e D. <br/>\nMude a ignição ligada. <br/>\nO monitor de computador de combustível agora mudou, deve ler-se \"d: 1\" na parte inferior do ecrã. <br/>\nPressione o botão de controle de combustível grande computador várias vezes até que mostra esta exposição \"d: 5\" <br/>\nImprensa na 'minutos de adaptação \"chave usando uma caneta. <br/>\nO ecrã mudará para mostrar \"12L\" na metade superior e \"A\" na metade inferior. <br/>\nPressione o botão de controle de grandes novamente. <br/>\nA metade superior do ecrã muda novamente, para mostrar \"120\", que é o valor do resistor que você precisa. <br/>\nPressione a tecla de controle levantados para iniciar a calibração. <br/>\nO visor mostra \"- - - -\" na metade superior, até a calibração está completa. <br/>\nAo concluir, a metade superior do ecrã mostra a faixa restante (com o resistor ligado). <br/>\nTrabalhando sob o capot, retire o clip do conector de diagnóstico. <br/>\nDesligue a ignição. <br/>\nTrabalhando sob o carro, retire o resistor do emissor tanque tear. <br/>\nLigue o remetente tanque tear de volta para o remetente do tanque. <br/>\nIsso mesmo, você está feito. <br/>\n<br/>\n<br/>\n<br/>\nAqui está o método aproximado para aqueles de vocês que são demasiado apertado para ir e comprar um resistor de 6 pence ;-) <br/>\n<br/>\nDrive rodada até o medidor de combustível lê muito pouco acima do topo do vermelho. <br/>\nTrabalhando sob o capot, retire o 10-pin conector de diagnóstico dele é escudo inicial. <br/>\nConecte o clip no conector de diagnóstico entre os pinos A e D. <br/>\nMude a ignição ligada. <br/>\nO monitor de computador de combustível agora mudou, deve ler-se \"d: 1\" na parte inferior do ecrã. <br/>\nPressione o botão de controle de combustível grande computador várias vezes até que mostra esta exposição \"d: 5\" <br/>\nImprensa na 'minutos de adaptação \"chave usando uma caneta. <br/>\nO ecrã mudará para mostrar \"12L\" na metade superior e \"A\" na metade inferior. <br/>\nPressione a tecla de controle levantados para iniciar a calibração. <br/>\nO visor mostra \"- - - -\" na metade superior, até a calibração está completa. <br/>\nAo concluir, a metade superior do ecrã mostra a faixa restante (com o resistor ligado). <br/>\nTrabalhando sob o capot, retire o clip do conector de diagnóstico. <br/>\nDesligue a ignição. <br/>\nÉ realmente a pena ficar um resistor e fazer isso corretamente. A função gama é tão útil quanto a sua calibração e um dia você pode precisar para ter certeza de quanto combustível você ainda possui em seu tanque. Lembre-se que após a reinicialização, o computador de combustível utiliza um valor de 28,1 milhas por galão por um tempo até que mediu seu estilo de condução e adaptadas.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2009-08-27T12:01:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCaraio que dialeto é esse.. nao entendi porra nenhuma ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "pypyno",
+            "date": "2009-08-27T13:24:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValew pela ajuda Marcelo, ainda não mexi nisso porque quero ter certeza que realmente corrige a autonomia, pois ainda não consigo entender como que pode corrigir se as trilhas estão desgastadas..mas...<br/>\n<br/>\nMe falaram que tem um how-to em espanhol na net, bem explicativo com imagens e tal, ainda não encontrei...<br/>\n<br/>\nFicou meio maluco o texto, usou o tradutor do google?  <span rel=\"lightbox\"><img alt=\"B)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/cool.gif\"/></span> <br/>\n<br/>\nAbraço!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2009-08-28T00:43:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComedia o enimiga hein......\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2009-08-28T09:52:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Led Zeppelin\" data-cid=\"294865\" data-date=\"27/08/2009, 09:01\"><p>Caraio que dialeto é esse.. nao entendi porra nenhuma ...<br/><br/>Falow</p></blockquote><br/>Hahaha, tá parecendo \"googles\" ou \"Babilones\" !!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2009-08-28T12:40:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPelo que entendi, esse procedimento é para calibrar o computador de bordo para ele interpretar corretamente o nível de combustível no tanque, caso a bóia esteja funcionando corretamente. Se a bóia está estragada não vai resolver. Mas o fato de ele estar apresentando sempre 200km a mais na autonomia pode ser que calibrando melhore, o seu ponteiro de combustível funciona corretamente?<br/>\n<br/>\nVou arriscar uma tradução mais próxima da língua portuguesa hehehe, descrevendo de forma mais prática:<br/>\n<br/>\nVocê vai precisar de:<br/>\n- um pedaço de clip (ou qualquer arame/fio em U)<br/>\n- um resistor de 120 Ohm<br/>\n<br/>\nProcedimento:<br/>\n<br/>\n1. Embaixo do tanque do carro, desconecte o chicote da bóia<br/>\n2. Encaixe as pernas do resistor no plug do chicote<br/>\n3. No cofre do motor, retire o plug de diagnóstico do seu encaixe (aquele que usam no scanner).<br/>\n4. Faça um jump com o clip nos pinos A e D<br/>\n5. Ligue a ignição (acho que não seja necessário ligar o motor, só virar a chave)<br/>\n6. O computador de bordo vai apresentar \"d : 1\" no display inferior<br/>\n7. Pressione o botão grande do computador de bordo (acredito que seja o que troca as funções do CB, o de cima) várias vezes até aperecer \"d : 5\" no display<br/>\n8. Pressione o botão de ajuste de minutos com uma caneta (daqueles bem pequenos que ficam entre os dois botões grandes do CB, o da diteira)<br/>\n9. O cb vai mostrar \"12L\" no display superior e \"A\" no inferior<br/>\n10. Aperte o botão grande novamente (o de cima)<br/>\n11. O display superior do CB vai mudar para \"120\" (que é o valor do resistor que está lá no chicote, ou seja, vai fazer a leitura do valor retornado pela resistência da bóia)<br/>\n12. Pressione o botão \"elevado\" do CB para iniciar a calibragem (acredito que seja o botão que zera os valores no CB, o grande de baixo)<br/>\n13. Vai aparecer \"- - - -\" no display superior até a calibragem acabar.<br/>\n14. Quando terminar, vai mudar para alguma coisa diferente disso que eu não entendi bem o que seja.<br/>\n15. Retire o clip do plug de diagnóstico<br/>\n16. Desligue a ignição<br/>\n17. Retire o resistor do chicote da bóia<br/>\n18. E reconecte o chicote na bóia do tanque<br/>\n<br/>\nÉ isso.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Mortari</b>: 28 agosto 2009 - 09:43\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "pypyno",
+            "date": "2009-08-28T15:09:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRealmente a calibragem não vai resolver devido ao desgaste da boia, dei uma olhada no CC portuga e encontrei este mesmo tutorial, um pouco mais explicativo e com imagens, parece que esta calibragem se aplica em uma margem de erro de 3 litros pra + ou pra -, regulando de meio em meio litro.<br/>\n<br/>\nSobre a marcação do ponteiro de combustivel eu ACHO que está ok, desde que tenho ele mantenho nos 30 litros, preço que ta a gasolina nao consigo manda enche, e nunca deixei chegar na reserva tambem...<br/>\n<br/>\nTroca da bóia resolve?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2009-08-28T21:00:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSe o marcador está correto o problema não deve ser a bóia, se não me engano o sinal que vai para o marcador do painel é o mesmo que vai para o CB.<br/>\n<br/>\nMas se você nunca deixou chegar na reserva como sabe que o CB está marcando 200km a mais na autonomia?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "pypyno",
+            "date": "2009-08-28T21:08:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSei, ou acho que sei, que marca 200km a amis pelo que observei desde a viagem de SP até aqui,,quando peguei o carro com o Warcelo, acompanhando a media de consumo com o hodometro parcial conclui que a autonomia diminui de acordo, assim como qaundo eu abasteço ela aumenta de maneira correta, isso sempre com aproximadamente 200 km a mais.<br/>\n<br/>\nVou encher o tanque pra ver se o ponteiro marca até o fim, até pensei em baixar o tanque e esvaziar, fazer uma limpeza, mas vi que o Warcelo fez a pouco tempo, não tem o porque refazer...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2009-08-28T21:14:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOutra coisa, você está rodando na gasolina ou no álcool? Se estiver na gasolina, sabe se o Warcelo já converteu o carro alguma vez para o álcool?<br/><br/>Não é comum a bóia apresentar problemas nos carros que rodam só na gasolina, o álcool que existe na gasolina (teoricamente) é anidro e não vai provocar oxidação ou desgaste das trilhas da bóia, o que pode causar isso é combustível batizado. Os carros que apresentam problemas na bóia são os que foram convertidos a álcool (que é hidratado), aí a boia vai pro saco mesmo.<br/><br/>Se eu fosse você, enchia o tanque (e uma garrafa PET, por precaução hehehe) de gasolina e andava com o carro até quase secar, assim já checa o comportamento do ponteiro e do CB e tenta tirar alguma conclusão. Se o ponteiro marcar certinho, desde cheio até vazio, o problema com certeza não é na bóia, aí é mhelhor você dar uma olhada no CB.<br/><br/>Se não me engano o Warcelo já andou mexendo nesse CB, talvez até tenha trocado, dá uma pesquisada no fórum:<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=Search&amp;CODE=show&amp;searchid=fd679f8062faecc68dea0f2a61661d6d&amp;search_in=posts&amp;result_type=posts&amp;highlite=%2Bbordo\" title=\"\">http://www.clubecali.....ghlite=+bordo</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "pypyno",
+            "date": "2009-08-28T23:58:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara não tem post do Warcelo aqui que eu não tenho visto rsrs, confesso que não sei se algum dia ele chegoua  rodar no alcool, creio que não, e sobre o CB já ter sido substituido pode até ser, sei que ele ferrou o do Fritz uma vez e acho que deu o dele e ficou com o estragadoe depois trocou, mas as funções estão otimas, o CB está com a tela perfeita, novo, só essa marcação da autonomia que não esta 100%...<br/>\n<br/>\nVou fazer o teste do tanque cheio quando eu tiver dinheiro pra encher...ou seja...não sei quando..heehe...mas se a bomba de combustivel puxar ar não tem perigo de queima?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2009-08-30T02:57:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlha eu aqui!!!!<br/>\n<br/>\nDepois de mais de 2 meses sem entrar no clube pra ler alguma coisa fiquei curioso com meu ex carro!<br/>\n<br/>\n1-Bom nunca usei nada além de gasolina!<br/>\n<br/>\n2-Eu já fiz limpeza no tanque, bomba, escador e etc ( inclusive bebi muita gaolina nesse dia e a mesma escorreu no meu suvaco e eu fiquei ardendo o dia inteiro ) ehhehehe Nesta limpeza eu troquei o fio da boia ( que estava meio ruim ) e medi com um multimetro toda e trilha da fita de carbono, concluindo que apenas proximo da reserva estava meio falha, mas nada preocupante.<br/>\n<br/>\n3-Lembre-se que uma vez na minha vida quebrei o CB do Fritz e agora ele está com o meu, depois disso arrumei outro CB que pode estar calibrado diferente!<br/>\n<br/>\n4- Como o ML disse, a informação vem do mesmo lugar, tanto para o CB quanto para o painel.<br/>\n<br/>\n5- Conclusão: Nao mexa na boia, mexa no computador de bordo! E lembrando-se que se trata de uma medição de resistência ( tem uma ponte de Wheatstone do painel ) qualquer cabo com OSMAR pode mudar, e muito, a autonomia.<br/>\n<br/>\n6- O West é gay<br/>\n<br/>\n7- Um abraço pro pessoal!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "pypyno",
+            "date": "2009-08-30T20:51:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNa bóia e no painel não vou mecher, vou testar esse metodo que descrevi um dia desse, ando meio sem tempo e muito azarado..melhor deixar quieto...<br/>\n<br/>\nO tal de West é viado mesmo? I Marcelo, como tu descobriu?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Giba",
+            "date": "2009-08-30T21:47:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÂnus de convivência.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "pypyno",
+            "date": "2009-08-30T23:19:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Giba\" data-cid=\"295011\" data-date=\"30/08/2009, 18:47\"><p>Ânus de convivência.</p></blockquote><br/>Saquei! <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "title": "medidas do diametro do tubo por cv",
+    "url": "http://www.clubecalibra.com.br/forum/topic/13820-medidas-do-diametro-do-tubo-por-cv/",
+    "id": "13820",
+    "messages": [
+        {
+            "author": "Bruno-SP",
+            "date": "2008-11-17T02:36:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSAIBA DIMENSIONAR TUBOS DE ADMISSÃO E DESCARGA<br/>\n<br/>\n<br/>\n<br/>\nUma grande dúvida que assola até mesmo preparadores experientes é qual o diâmetro ideal para os tubos de admissão e escapamento.<br/>\n<br/>\n<br/>\nJá ouvimos falar coisas como; usa 2 polegadas que fica bom, mas por que? <br/>\n<br/>\nPorque eu usei no carro de fulano e ficou bom. Mas baseado em que?<br/>\n<br/>\n<br/>\n<br/>\nBom, a Turbocar vai dar uma dica no dimensionamento dos tubos de admissão e escape.<br/>\n<br/>\n<br/>\nTudo varia conforme o fluxo de ar que o motor respira, para tal é necessário saber valores como litragem do motor, rpm máxima, eficiência volumétrica entre outros.<br/>\n<br/>\n<br/>\nAdmissão<br/>\n<br/>\n<br/>\nCaso os tubos de admissão forem muito pequenos (em diâmetro), isso irá amarrar o carro. <br/>\n<br/>\nCaso forem muito grandes ira aumentar o Turbo lag.<br/>\n<br/>\n<br/>\nRecomendamos de uma forma geral:<br/>\n<br/>\n<br/>\nCarros até 300 HP os tubos devem ser entre 2.0 polegadas e 2.25 polegadas.<br/>\n<br/>\n<br/>\nCarros entre 300 HP e 400 HP devem ser 2.25 pol antes do intercooler e 2.5 Pol depois.<br/>\n<br/>\n<br/>\nPara carros com mais de 400 HP 2.5 polegadas são suficientes.<br/>\n<br/>\n<br/>\nEscapamento<br/>\n<br/>\n<br/>\nO escapamento de carros turbo já funciona um pouco diferente, deve ser o mais livre possível. A pressão do escapamento, backpressure, é multiplicada pela razão de expansão ta turbina, que de uma forma geral é de 2:1. Sendo assim um backpressure de 5 psi, se torna 10 psi, roubando desempenho do motor.<br/>\n<br/>\nAlem disso um escapamento mais livre ajuda a diminuir o Turbo lag.<br/>\n<br/>\n<br/>\nRecomendação:<br/>\n<br/>\n<br/>\nMotores menores de 1500 cc podem usar 2.25 polegadas<br/>\n<br/>\n<br/>\nMotores entre 1500 cc e 1600 cc 2.5 polegadas<br/>\n<br/>\n<br/>\nMotores entre 1600 cc e 2200 cc 3.0 polegadas<br/>\n<br/>\n<br/>\nMotores entre 2200 cc e 2500 cc 3.5 polegadas<br/>\n<br/>\n<br/>\nMotores de corrida 4.0 polegadas\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GuilhermeBuonfiglio",
+            "date": "2008-11-18T16:29:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCalcular o diâmetro da tubulação de escape de carro turbo pela cilindrada é furada. Tem vários fatores envolvidos... Por exemplo, um motor 1600cc com expectativa de 400HP vai precisar de 3\" no mínimo.<br/>\n<br/>\nO melhor escape pra motor turbo é um enorme cone logo depois da turbina, e nada mais. Mas deve ficar um pouco barulhento... <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Roberto Junior",
+            "date": "2008-11-18T16:58:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEssas medidas tao um tanto qto generalizadas!<br/>\n<br/>\nO diametro está mais relacionado com a potencia doq com a cilindrada!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2008-11-18T17:10:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO diametro do escape nao esta relacionado somente a potencia e sim tb ao comprimento do tubo ...<br/>\n<br/>\nDimencionar escape pela cilindrada é generalizar...<br/>\n<br/>\nSim, o mais correto é aumentar o diametro conforme o comprimento, pois os gases vao perdendo velocidade pelo atrito com as parece do tubo ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Bruno-SP",
+            "date": "2008-11-19T04:50:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tmas aqui esta falando de DIMENSIONAR TUBOS DE <span style=\"font-size: 12px;\">ADMISSÃO</span> E <span style=\"font-size: 12px;\">DESCARGA</span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2008-11-19T10:44:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Bruno-SP\" data-cid=\"275560\" data-date=\"19/11/2008, 01:50\"><p>mas aqui esta falando de DIMENSIONAR TUBOS DE <span style=\"font-size: 12px;\">ADMISSÃO</span> E <span style=\"font-size: 12px;\">DESCARGA</span></p></blockquote><br/><br/>?????\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2008-11-19T11:03:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Bruno-SP\" data-cid=\"275560\" data-date=\"19/11/2008, 02:50\"><p>mas aqui esta falando de DIMENSIONAR TUBOS DE <span style=\"font-size: 12px;\">ADMISSÃO</span> E <span style=\"font-size: 12px;\">DESCARGA</span></p></blockquote> <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>Tubos de Admissão é a pressurização (antes do corpo de borboleta);<br/><br/>Tubos de Descarga é o escape (depois da caixa quente da turbina).\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Gordo</b>: 19 novembro 2008 - 08:06\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2008-11-19T11:17:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlguem ja pensou em usar termotape no escape todo? assim os gases nao esfriem e ficam quentes sendo expulsos mais facilmente pelo motor.<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

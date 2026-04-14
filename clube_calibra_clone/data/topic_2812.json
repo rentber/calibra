@@ -1,0 +1,582 @@
+{
+    "title": "Instalação do Hallmeter...",
+    "url": "http://www.clubecalibra.com.br/forum/topic/2812-instalacao-do-hallmeter/",
+    "id": "2812",
+    "messages": [
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T16:59:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, como alguns jah sabem, acabei queimando meu Hallmeter qdo fui instala-lo.<br/><br/>Porem, segui todas as instrucoes do manual, e ainda assim queimou.<br/><br/>Vou citar como fiz, e se cometi algum erro, por favor, alguem me fale.<br/><br/>Primeiramente, comprei um Hallmeter da Beast Racing Pro Series II ( com regulagem ).<br/><br/>De acordo com o Rod, ele usava a escala 0-400-900-1100. Como o manual dizia, olhando o hall pela parte de tras, fui colocando as escalas, da DIREITA pra ESQUERDA, em ordem crescente.<br/><br/>Ai, pesquisei sobre a sonda lambda, e vi q a minha, q eh de 3 fios, possui 2 fios brancos, e 1 preto, sendo o preto q eh o fio do sinal dela.<br/><br/>Ta... Agora vou colocar EXATAMENTE o q esta escrito no manual do Hall:<br/><br/><em class=\"bbc\">FIO VERMELHO: Conecte um fusivel 1A e ligue numa fonte de 12V q seja ligada/desligada junto com a chave da ignicao ( pos-chave )<br/><br/>FIO AZUL: Conecte ao terra da bateria<br/><br/>FIO BRANCO: conecte ao fio do sinal da sonda lambda<br/><br/>FIO PRETO: conecte ao fio terra da sonda lambda.<br/><br/>Caso a sonda lambda seja de 3 fios, ela eh aterrada no escapamento, assim, conecte o fio preto do medidor no bloco do motor para uma leitura mais precisa.</em><br/><br/>Ta, comecei a fazer como mandado: o Fio vermelho, eu liguei em um porta fusivel, e dai no fio q alimenta a lampada do porta luvas, jah q ela soh recebe tensao com a chave ligada tb. Antes, eu testei a tensao certinho, e deu os 12 V. Fiz a ligacao porem deixei sem o fusivel, para nao ter problemas.<br/>O fio azul, eu liguei no outro fio da lampada do porta luvas, q pra mim, eh o mesmo terra da bateria ( sera q aki foi o erro? acho dificil, jah q entre o fio de tensao, e este fio aki da 12 V).<br/><br/>O Fio branco, eu liguei no fio preto da lambda<br/>E o fio preto, eu ia ligar no terra da bateria, porem, pra evitar erros, liguei no bloco do motor, como indicado ( alias, daria na mesma ligar no bloco ou no terra da bateria? ).<br/><br/>Ta... como eu nao tinha colocado nenhum fusivel, virei a chave, e nao me suspreendi em nao acender nada no Hall. Ate ai beleza.<br/><br/>Soh q liguei o carro, e qdo liguei, logo comecou a aparecer fumaca, desliguei rapidamente o carro, e os fios da lambda estava fervendo!!!<br/>Tanto q estao agora todos unidos ( nao sei se chegou a dar curto, mas a borracha de cada fio uniram ).<br/><br/>Alguem me diz o q eu fiz de errado. Estranho q isso aconteceu mesmo sem o fio vermelho estar com fusivel, ou seja, nao tinha uma tensao alimentando o Hall.<br/><br/>Sera q ele veio com curto, ou o q eu fiz de errado?<br/><br/>Abracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Puppets</b>: 27 setembro 2004 - 16:03\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2004-09-27T17:19:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPup acho melhor da proxima vez mandar esse trampo pro Magyver zepillin\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2004-09-27T17:52:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"27/09/2004, 13:59\"><p>Bom, como alguns jah sabem, acabei queimando meu Hallmeter qdo fui instala-lo.<br/><br/>Porem, segui todas as instrucoes do manual, e ainda assim queimou.<br/><br/>Vou citar como fiz, e se cometi algum erro, por favor, alguem me fale.<br/><br/>Primeiramente, comprei um Hallmeter da Beast Racing Pro Series II ( com regulagem ).<br/><br/>De acordo com o Rod, ele usava a escala 0-400-900-1100. Como o manual dizia, olhando o hall pela parte de tras, fui colocando as escalas, da DIREITA pra ESQUERDA, em ordem crescente.<br/><br/>Ai, pesquisei sobre a sonda lambda, e vi q a minha, q eh de 3 fios, possui 2 fios brancos, e 1 preto, sendo o preto q eh o fio do sinal dela.<br/><br/>Ta... Agora vou colocar EXATAMENTE o q esta escrito no manual do Hall:<br/><br/><em class=\"bbc\">FIO VERMELHO: Conecte um fusivel 1A e ligue numa fonte de 12V q seja ligada/desligada junto com a chave da ignicao ( pos-chave )<br/><br/>FIO AZUL: Conecte ao terra da bateria<br/><br/>FIO BRANCO: conecte ao fio do sinal da sonda lambda<br/><br/>FIO PRETO: conecte ao fio terra da sonda lambda.<br/><br/>Caso a sonda lambda seja de 3 fios, ela eh aterrada no escapamento, assim, conecte o fio preto do medidor no bloco do motor para uma leitura mais precisa.</em><br/><br/>Ta, comecei a fazer como mandado: o Fio vermelho, eu liguei em um porta fusivel, e dai no fio q alimenta a lampada do porta luvas, jah q ela soh recebe tensao com a chave ligada tb. Antes, eu testei a tensao certinho, e deu os 12 V. Fiz a ligacao porem deixei sem o fusivel, para nao ter problemas.<br/>O fio azul, eu liguei no outro fio da lampada do porta luvas, q pra mim, eh o mesmo terra da bateria ( sera q aki foi o erro? acho dificil, jah q da 12 V igual ).<br/><br/>O Fio branco, eu liguei no fio preto da lambda<br/>E o fio preto, eu ia ligar no terra da bateria, porem, pra evitar erros, liguei no bloco do motor, como indicado ( alias, daria na mesma ligar no bloco ou no terra da bateria? ).<br/><br/>Ta... como eu nao tinha colocado nenhum fusivel, virei a chave, e nao me suspreendi em nao acender nada no Hall. Ate ai beleza.<br/><br/>Soh q liguei o carro, e qdo liguei, logo comecou a aparecer fumaca, desliguei rapidamente o carro, e os fios da lambda estava fervendo!!!<br/>Tanto q estao agora todos unidos ( nao sei se chegou a dar curto, mas a borracha de cada fio uniram ).<br/><br/>Alguem me diz o q eu fiz de errado. Estranho q isso aconteceu mesmo sem o fio vermelho estar com fusivel, ou seja, nao tinha uma tensao alimentando o Hall.<br/><br/>Sera q ele veio com curto, ou o q eu fiz de errado?<br/><br/>Abracos</p></blockquote> Quanto custa um hallmeter, e porque é útil tê-lo instalado no carro?<br/><br/>PL<br/><br/>p.s: Desculpe a ignorância..\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T18:28:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO preco de um hallmeter pode variar de marca pra marca, de vendedor pra vendedor, e de modelo pra modelo.<br/>\n<br/>\nEu comprei um beast racing pro series II, e paguei 110 reais.<br/>\n<br/>\nO Hall serve para mostrar, de forma lumisosa, a o sinal da sonda lambda, informando se a mistura esta rica, ideal, ou pobre.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-09-27T18:48:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>O fio azul, eu liguei no outro fio da lampada do porta luvas, q pra mim, eh o mesmo terra da bateria ( sera q aki foi o erro? acho dificil, jah q da 12 V igual ).</p></blockquote><br/>Segundo o manual do seu hallmeter, lá diz para aterrar o fio azul, no negativo da bateria. <br/> O terra, quando vc mede no multímetro, tem que marcar 0, e não 12V. Então, creio que vc acabou pegando um fio com sinal de 12V no porta-luvas, e não terra, e aí que vc queimou seu hallmeter. <br/> Se os fios de sua sonda uniram e estão derretidos, terá de re-fazer todo o chicote da mesma, isso se tiver alguma parte boa.. Eu ainda aconselharia trocar a sonda. Creio que seu hallmeter deu o curto na sonda, devido ter sido alimentado incorretamente. <br/> Quanto aterrar no bloco, não vejo pq, eu aterraria tudo no negativa da bateria, como eu sempre fiz e nunca tive problemas. Eu já tive problemas quando tentei aterrar no bloco, chassi e etc.. Agora na bateria, funciona sempre e com sinal direitinho.<br/><br/><br/><br/>Abraços,<br/><br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T18:52:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntao Matheus, o outro fio, eu liguei no fio neutro da lampada do porta luvas. ou seja, entre os 2 fios, tinha os 12 V.<br/>\n<br/>\nO vermelho eu liguei no fio q vem 12V quando a chave esta virada, e o fio azul, no outro fio q nao vem tensao da lampada.<br/>\n<br/>\nNao entendo o q deu errado\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T18:59:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAh, outra coisa. Nao foram os fios da sonda lambda q derreteram, foi do Hallmeter.<br/>\n<br/>\nA sonda creio estar normal, mesmo pq o carro nao apresentou nenhum tipo de anomalia no comportamento dele.<br/>\n<br/>\nEu axo q nao consegui expressar direito soh como eu liguei o fio vermelho e o azul, neh Matheus?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-09-27T20:04:56+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thum..agora entendi direito. Acho que foi minha compreenção do texto que não foi boa. <br/>\n Então, não ví nenhum problema na instalação. Eu acho que esse hallmeter já deve ter vindo com algum problema interno. O difícil vai ser provar isso. <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T20:07:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVerdade. Esta eh a merda de comprar coisas na internet. Nao vou ter como provar pro pilantra q o Hall nao estava bom  <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2004-09-27T20:44:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAmeaça o cara de sujar ele no mercado livre, explica para ele que fez igual ao manual, e que é didatico em estalação.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T20:46:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, eu vou ver o veredito final hj no posto com o Led, se foi erro meu, deixa quieto, mas se fiz tudo certo, vou tomar algumas providencias mesmo!<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-27T20:52:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcomprou onde???<br/>\nno ml, com seu vizinho ou com pentadex?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T20:55:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MURILLOALANIS\" data-date=\"27/09/2004, 17:52\"><p>comprou onde???<br/>no ml, com seu vizinho ou com pentadex?</p></blockquote> Meu vizinho????<br/><br/>Comprei no ML\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-09-27T21:09:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"27/09/2004, 17:55\"><p>Meu vizinho????<br/><br/>Comprei no ML</p></blockquote> é...<br/>vc não tinha dito que um cara ai ia ver se arrumava pra vc?<br/>vizinho ou não sei lá...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-27T21:21:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAÊ!<br/>\n<br/>\n1º... Os fios deste hall são uma bosta (tenho um).<br/>\n2º... Tive o mesmo problema de derreter qdo instalei... Não lembro pq, talvez um curto momentâneo, etc... Mas, saiu até fumaça como vc...<br/>\n3º... Eu instalei no bloco do motor sim, pois é o terra mais próximo ao terra da referência da sonda lambIda... <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nTenta começar novamente, corta os fios derretidos e começa novamente, principalmente atente para a configuração das pastilhas de resistores que vc vai instalar... Ok? <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\nAbrax,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T21:23:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntao Erick, eu percebi q estes fiozinho era um lixo mesmo, mto fininhos.<br/>\n<br/>\nSoh q pra eu instalar de novo, eu precisaria abrir o Hall e trocar os fios, pq grudou um no outro aki. Foi feio o negocio, hehe<br/>\n<br/>\nAgora, das pastilhas, eu fiz certo, nao foram elas tb.<br/>\n<br/>\nVou levar o Hall hj no posto, pro pessoal dar uma olhada...<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-09-27T22:14:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHmm usei ele por um bom tempo e nunca tive probs... nem com isntalação nem com fios.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-09-27T22:28:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"27/09/2004, 15:52\"><p>Entao Matheus, o outro fio, eu liguei no fio neutro da lampada do porta luvas. ou seja, entre os 2 fios, tinha os 12 V.<br/><br/>O vermelho eu liguei no fio q vem 12V quando a chave esta virada, e o fio azul, no outro fio q nao vem tensao da lampada.<br/><br/>Nao entendo o q deu errado</p></blockquote>Se nao me engano a luz do porta luvas como a luz do teto .. quando a porta esta fechada e assim a luz apagada fica positivo positivo .. e nao negativo e positivo ....<br/><br/>Meu .. antes de ligar qualquer porra no carro .. MULTIMETRO ... teste ligado desligado, de ponta cabeca ...  essa porra é foda ... ja apanhei bastante tb ,, mas ainda bem nao derreti nada ...<br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Led Zeppelin</b>: 27 setembro 2004 - 19:33\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T22:34:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPera ai, vc ta dizendo q os 2 fios q vao pra lampada do porta luvas recebem tensao???<br/>\n<br/>\nPqp, soh falta ser isso!<br/>\n<br/>\nEu testei os fios com chave ligada e desligada, mas nunca ia imaginar q o outro fio pudesse receber tensao tb, ainda mais se tratando de lampada do porta luvas\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-27T22:46:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEngenheiro capuxeta vc brother... <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nO que custa por um terminal e fazer um massa certo só pro hallmeter? <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-27T22:49:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPo, jah tem fio ali do jeito q eu \"queria\", pq nao usa-lo!<br/>\n<br/>\nFalando serio, se nao foi o q o Led falou, nao tenho ideia do q pode ser!<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-09-28T06:40:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCaralho! sabe pra q serve o ascendedor de cigarro!?<br/>\né padrão tem fio grosso , da proxima trabalhe ali!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-28T18:29:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPra que fio grosso masterrey? A corrente q vai circular ali sao MILI amperes.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-28T18:42:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMesmo pq o problema nao foi com bitola de fio, pq se fosse, os fios do proprio Hall nao seria tao finos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-09-28T22:35:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO Pos Chave vc pode usar mesmo o do acendedor de cigado ..<br/>\n<br/>\nmas o Terra .. tem que ser na bateria ou na carcaca do motor .. <br/>\nAcredite .. da diferenca ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-29T01:12:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTudo bem Led, que da diferenca eu acredito, mesmo pq mili-amperes na leitura significam uma diferenca boa.<br/>\n<br/>\nSoh o q disse q ligando onde liguei, por mais imprecisa q fosse a leitura, nao era pra ter acontecido o q aconteceu, certo?<br/>\n<br/>\nPreciso ver isso meio rapido, pq se nao foi erro meu, preciso tomar as medidas cabíveis, se eh q isso vai ser possivel neh! <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-09-29T01:54:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"28/09/2004, 22:12\"><p>Tudo bem Led, que da diferenca eu acredito, mesmo pq mili-amperes na leitura significam uma diferenca boa.<br/><br/>Soh o q disse q ligando onde liguei, por mais imprecisa q fosse a leitura, nao era pra ter acontecido o q aconteceu, certo?<br/><br/>Preciso ver isso meio rapido, pq se nao foi erro meu, preciso tomar as medidas cabíveis, se eh q isso vai ser possivel neh! <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/><br/>Abracos</p></blockquote> refaz as porras dos fios que agente testa la no posto ...<br/>hehe<br/><br/>Falow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-29T02:00:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPreciso tentar refazer o chicote do hall. Mas antes vou tentar trocar o hall com o cara, se nao der, mando ele pra PQP, e tento refazer o chicote!<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2004-09-29T03:41:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAfinal de contas, alguém ajudou o puppets no posto?<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-09-29T12:11:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Paulo Henrique\" data-date=\"29/09/2004, 00:41\"><p>Afinal de contas, alguém ajudou o puppets no posto?<br/><br/>PL</p></blockquote> Eu ajudei .... Falei para ele mudar de curso na faculdade  <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span> <br/><br/>[]'s <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-09-29T14:25:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"West\" data-date=\"29/09/2004, 09:11\"><p>Eu ajudei .... Falei para ele mudar de curso na faculdade  <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span> <br/><br/>[]'s <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span></p></blockquote> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span> <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-09-29T17:23:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAh seu tampinha safado!  <span rel=\"lightbox\"><img alt=\":angry:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/mad.gif\"/></span> <br/>\n<br/>\nUAHEUAHEUAHE  <span rel=\"lightbox\"><img alt=\":rindo\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/marrir.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2004-10-11T00:36:18+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSenhores,<br/>\n<br/>\nQual a melhor marca/modelo de hallmeter?<br/>\n<br/>\nObrigado,<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-11T21:34:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera, finalmente instalei o hallmeter!!!  <span rel=\"lightbox\"><img alt=\":uhuu\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/uhu.gif\"/></span> <br/>\n<br/>\nMas agora o carro comeca a falhar depois de 1 minuto mais ou menos. Ele nao acelera, o giro nao sobe, e comeca a fazer tipo uns backfire no escapamento.<br/>\n<br/>\nOs leds do hall tb ficam com comportamento estranho, entao da pra perceber q o sinal na sonda ficou ruim.<br/>\n<br/>\nSe eu desconecto o fio, o carro volta ao normal.<br/>\n<br/>\nSera q tenho o mesmo problema q o NightRider? Se eu colocar meu hallmeter junto vai dar erro?<br/>\nEstranho q sai pra dar uma volta uma hora com o carro, e ele funcionou direitinho!<br/>\n<br/>\nIsso poderia estar sendo causado pelos reguladores das faixas atras do hall, q estaria com defeito?<br/>\n<br/>\nBem estranho...<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-12-11T22:14:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFala Puppets.<br/>\n Com certeza tem alguma coisa ligada errada. Me passe o esquema de ligação que vc fez.<br/>\n O fato de só falhar um minuto depois, é devido a injeção trabalhar em loop aberto até a sonda esquentar, e então vai para loop fechado, considerando o sinal da mesma para corrigir a mistura, e é justamente após esse período que vc notou. <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-11T22:20:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntao Matheus, o carro soh falha qdo ligo o fio do hallmeter no fio da lambda. Os leds ficam bem malucos, e logo apos o carro falha. Se tiro o fio, o carro volta ao normal...<br/>\n<br/>\nUma vez o carro funcionou legal, porem eu tinha escolhido uma escala errada. Troquei a escala por uma indicada pelo Led Zeppelin, e comecou a falhar. Sera q pode ser mal contato nos resistores atras do HM?<br/>\n<br/>\nAh, outra coisa q percebi:<br/>\nQdo instalei, coloquei o fio do HM no fio da sonda, e fui dar uma votla... o carro falhou, nao consegui nem sair da garagem... voltei pra tras, empurrando o carro. Desliguei, e liguei de novo... o carro volta ao normal, e volta a falhar. Isso vc falou q eh o loop. Blz..<br/>\n<br/>\nAi tirei o fio... o carro ficou normal<br/>\nConectei de novo, porem sem colocar a fita isolante em volta. Ai o carro funcionou normal.<br/>\nSera q a cola da fita pode estar atrapalhando?<br/>\n<br/>\nEu tentei deixar sem a fita a pouco, mas falhou igual, mas creio q tenha vestigios de cola. To pensando em ir limpar ali com querosene pra tirar o q sobrou de cola, e colocar o fio do HM e testar de novo.<br/>\n<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-12-11T22:32:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEsse hallmeter possui regulagem? Que hallmeter é esse?  Vc pode regular qual faixa de mili-volts aciona os leds vermelhos, amarelos e verdes, seria isso? <br/>\nSe for esse tipo de regulagem, não iria alterar nada no funcionamento.<br/>\n O que esta acontecendo no seu caso, é que o hallmeter esta roubando/alterando a tensão da sonda(esse é o único diagnóstico que eu estou vendo), e por isso seu motor falha. Então, acho que tem algo ligado errado. Será que vc não ligou o fio errado do hallmeter no fio do sinal da sonda? <br/>\n Quanto o resto da cola da fita, isso não conseguiria isolar o contato. De qualquer forma, não custa limpar, para ficar uma ligação precisa. <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-11T22:36:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSim, ele possui regulagem...<br/>\n<br/>\nEh um Beast Racing Pro Series II<br/>\n<br/>\nConfigurei para:<br/>\n0-300mV - Pobre<br/>\n300-700 - Ideial<br/>\n700-900 - Rica<br/>\n<br/>\nRecomendacoes do Led Zeppelin<br/>\nMatheus, eu liguei os fios certo sim, tanto q ele chegou a funcionar uma hora. To achando q eh mal contato, ou por algum motivo, esta tendo alguma resistencia demais no fio, e esta roubando corrente.<br/>\n<br/>\nEu nao soldei o fio, mas axo q vo lah limpar, e soldar de uma vez. Espero q o carro nao falhe.<br/>\n<br/>\nPrimeiro preciso confirmar q nao vou precisar ir ate Floripa ainda hj!<br/>\nSe nao precisar, vou dar um jeito nisso.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-12-11T22:49:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLegal essa hallmeter Puppets. A faixa de regulagem que vc colocou esta boa. Mas ele só vai até 900mv? O correto de um hallmeter é ir até 1 volt, pois a mistura ideal no álcool para melhor desempenho, é em torno de 950mv na sonda. <br/>\n<br/>\nQuanto ao mal contato, realmente estranho. Será que vc não puxou o fio da sonda meio forte, e possa ter partido o mesmo lá na sonda? Se ligou tudo certinho, não vejo como dar problema. <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-11T22:53:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntao, eu posso regular a faixa ate 1100mV, mas snme carro original nao passa dos 900mV mesmo em WOT...<br/>\n<br/>\nAgora, eu nao puxei o fio da lambda forte nao, pq se tivesse rompido, o carro tb falharia qdo eu desconectasse o fio.<br/>\n<br/>\nTo achando q eh sujeira ali na parte descascada. Vo soh esperar a confirmacao da minha mae se vou precisar ir pra Floripa ou nao, pra arrumar isso.<br/>\n<br/>\nMatheus, vc tem MSN ou ICQ?<br/>\nAcho q eh mais facil...<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-12-11T22:57:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSim. Um motor a gasolina original dificilmente passa dos 850mv. Acima dos 900mv começa a dar excesso na gasolina. <br/>\n<br/>\n<br/>\nPega meu icq Puppets: 261-826-688<br/>\n<br/>\nEu vou dar uma saída agora pra comer algo, mas logo volto.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2004-12-12T13:39:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"11/12/2004, 19:32\"><p>O que esta acontecendo no seu caso, é que o hallmeter esta roubando/alterando a tensão da sonda(esse é o único diagnóstico que eu estou vendo), e por isso seu motor falha. Então, acho que tem algo ligado errado. Será que vc não ligou o fio errado do hallmeter no fio do sinal da sonda?</p></blockquote> Matheus,<br/><br/>Foi exatamente isto o que eu falei pro Puppy ontem.<br/><br/>Ele ligou o positivo do hallmeter no fio da lâmpada do porta-luvas, coisa que eu não faria. Tem lâmpada e interruptor envolvidos no negócio, sabe-se lá se ele não ligou na posição errada.<br/><br/>Sugeri que ele use aquele chicote solto que existe próximo ao plug de octanagem, para a alimentação, e aterre no alternador, prá não ter que levar fios até a bateria.<br/><br/>Foi assim que fiz aqui, e ficou 100%.<br/><br/>[]s,<br/>Daniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fantasma",
+            "date": "2004-12-12T15:27:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE se usar o fio positivo do acendedor de cigarros para ligar o hallmeter? nao teria problemas tambem nao eh?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2004-12-12T17:56:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO pupete nem soldou os fios, um simples e pequeno Joule na emenda pode dar este problema, vamos ver...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-12T18:29:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGM, depois eu fui lah, e soldei, e continuou falhando o carro!<br/>\n<br/>\nAcordei agora <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> mas daqui a pouco eu vou lah fazer o q o Zamora sugeriu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2004-12-12T21:26:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"GREEN-MONSTER\" data-date=\"12/12/2004, 14:56\"><p>O pupete nem soldou os fios, um simples e pequeno Joule na emenda pode dar este problema, vamos ver...</p></blockquote> Eu tb não soldei, e nunca deu problema...<br/><br/>[]s,<br/>Daniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2004-12-12T22:11:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"dmzamora\" data-date=\"12/12/2004, 18:26\"><p>Eu tb não soldei, e nunca deu problema...<br/><br/>[]s,<br/>Daniel</p></blockquote> Putz, mas eu creio que estes sinais são como som, qualquer mal contato pode gerar interferências...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-12-12T23:12:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntão pessoal. Quando eu vou instalar qualquer componente eletrônico no carro(seja hallmeter, iluminação dos manômetros, conta-giros), eu sempre pego abaixo do painel do carro, no chicote principal. Vou testando fio a fio com um multímetro, para ver qual fornece a tensão no momento certo(no caso do hallmeter, seria + com chave virada na bateria). Procuro sempre um fio com bitola considerável, justamente pra não ter risco de roubar tensão e fazer falhar algum componente eletrônico do carro.<br/>\n Até hoje nunca tive problemas em nenhuma de minhas instalações.<br/>\n<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T00:12:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAi, ontem eu filmei como fica o Hallmeter falhando...<br/><br/><a class=\"bbc_url\" href=\"http://www.geocities.com/thiagoinforsato/Img00003.avi\" rel=\"nofollow external\" title=\"Link externo\">Video</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-12-13T00:23:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpup sem duvida vc ta com curto ou mal contato no fio de sinal\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-12-13T00:25:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tsequinte talvez o fio de sinal esteja batendo no terra ou simplesmente abrindo o circuito . de forma intermitente <br/>\nsua alimentaçao esta boa\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T00:26:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara, curto nao eh, e nem mal contato.<br/>\nOntem eu fiz um pequeno circuito com um potenciometro, e liguei no fio q deve ir pra sonda, e o hall funcionou perfeitamente...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-12-13T03:22:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thmm...<br/>\nno hall q eu fiz tb liguei a alimentação dele na alimentação da luz do porta luvas, ficou normal...<br/>\nmeus fios tb não estão soldados...<br/>\nsó acho estranho q em marcha lenta fica no meio certinho, ae qq aceleradinha ele voa pro ultimo led de mistura rica, quando vc acelera ele voa pro amarelo, e quando tira o pé cai direto pro vermelho.. isso com o carro parado..<br/>\nporem quando o carro ta andando ele chega na beradinha do amarelo e raramente entra no amarelo...<br/>\nem reduzidas TODAS cai no vermelho..<br/>\n<br/>\nquando vc liga o carro com o motor frio a marcha lenta fica lenta meeesmo...<br/>\ncerca de 250~300rpm <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>\ne morre em seguida...<br/>\nae é só segurar a uns 1500 rpm por poucos segundos e volta ao normal 900 rpm..<br/>\n<br/>\nas vezes quando eu bato uma água no motor ele fica falhando, mas não é o distribuidor q ta molhando, eu sempre checo e ta sequinho...<br/>\ne ontem eu lavei e ele tava falhando, ae eu abri o caput com o motor ligado e vi saindo uma aguinha bem suja (preta) do vãozinho de uma tampinha de borracha...<br/>\nremovi ela e dava direto no volante do motor, aparecia os dentinhos virando e ficava espirrando água...<br/>\nae eu sai dar uma volta, se vc apertasse o acelerador rápido demais comaçava a sar socos no motor, falhando muuuito, ae eu apertava o acelerador devagarinho até o final das marchas, o carro tava bem fraco..<br/>\nquando eu tava chegando em casa parou de falhar...<br/>\nae eu abri a tampinha e o volante tava sequinho...<br/>\npq ta entrando água lá?<br/>\na água tava transbordando com a tampinha fechada, mas era a água que o volante trazia pra cima com os dentinhos..<br/>\ntem perigo de entrar água na parte de baixo do motor por ali??<br/>\no que mais pode estar molhando e fazendo falhar, já que o distribuidor ta seco e acredito que este lugar (onde tava saindo água) estando molhado não estaria fazendo falhar..<br/>\ne a marcha lenta muito fraca nos primeiros segundos de funcionamento do motor?<br/>\n<br/>\no carro é um polo classic 1.8mi ano 98\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T03:41:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQdo no hall acende todos os leds no video, nao eh q ta dando fundo de escala, eu to achando q o hall perdeu o sinal da sonda, e fica todo aceso, q nem ele esta agora, sem estar ligado na sonda!<br/>\n<br/>\nTanto q antes o hall estava pra acender o ultimo led amarelo em 1100mV, e isso nao ocorre em carro original, creio eu....<br/>\n<br/>\nAmanha vo tentar ver isso de vez, senao vou desinstalar ele, pq algo me diz q ele vai pra coluna logo logo <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-12-13T04:18:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tcara !<br/>\npo se da falta de sinal é mal contato!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T04:21:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNao eh mal contato, eu soldei jah!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-12-13T04:23:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tporra pup pode ser o fio! <br/>\nquebrado no meio <br/>\nou a sonda q não ta aterrando direito\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T05:00:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO fio estava perfeito tb. Alem de ter comprado ele ontem mesmo, depois q deu o problema, eu testei a resistencia do fio, e mexi nele inteiro, pra ver se ele estava partido... nada... perfeitinho!<br/>\n<br/>\nAmanha vou fazer ultimos testes... se nao der, vo mandar um cara instalar, junto com alguns outros instrumentos, heheh\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2004-12-13T11:11:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MURILLOALANIS\" data-date=\"13/12/2004, 00:22\"><p>só acho estranho q em marcha lenta fica no meio certinho, ae qq aceleradinha ele voa pro ultimo led de mistura rica, quando vc acelera ele voa pro amarelo, e quando tira o pé cai direto pro vermelho.. isso com o carro parado..</p></blockquote> Desconfio fortemente que sua injeção está operando em \"modo de segurança\"...<br/><br/>[]s,<br/>Daniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "NightRider",
+            "date": "2004-12-13T11:33:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa puppets é o seguinte, me falaram que em alguns calibras a problema de interferencia na sonda com o hallmeter, o meu é assim tb, por isso a solução é uma outra sonda, o seus problemas sao os mesmo que eu tive ao instalar o meu hallmeter, por isso pode comprando uma sonda de um fio mesmo que fica tudo beleza.<br/>\nSei que tem gente que instala com a mesma sonda, mas isso parece que é em alguns calibras ha mesmo esse problema, ou seria a marca do hallmeter? a minha é a mesma do puppets, derrepente po ser isso.....<br/>\n<br/>\noutra coisa, nao pode soldar o fio do sinal da sonda com o hallmeter que vai dar problema de leitura, vi isso em algum site, mas nao me lembro a onde, sei que da problema de leitura.....<br/>\n<br/>\nabraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>NightRider</b>: 13 dezembro 2004 - 08:36\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2004-12-13T11:40:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu acho que esse hallmeter é bugado. Deve ter vindo com os fios trocados.<br/>\n E eu não entendo pq esse hallmeter tem dois terras. Pra mim, o pau esta justamente nesse \"terra extra\" que diz pra ligar no terra da sonda. <br/>\n Todos hallmeters que instalei até hoje, tinham apenas um terra, e todos funcionaram perfeitamente, em vários carros(vários tipos de injeção). Inclusive uso um para acerto de carro, que possui um jacarézinho no positivo e negativo pra ligar a bateria, e um fio de sinal pra conectar no fio de sinal da sonda. É tão simples de colocar, e nunca deu problema. <br/>\n Eu não vejo pq o Calibra ter esse problema. Pra mim o problema esta no hallmeter. Esse hallmeter esta alterando a tensão do sinal da sonda. Agora o pq disso, que eu tbm gostaria de saber. O problema deve estar nesse terra extra. Ou então inverteram os fios lá dentro. <br/>\n Se alguém que tiver Calibra, e trabalha ou mora aqui na minha região, é só passar aqui em casa, que a gente já tira a dúvida em relação a sonda dar pau. Coloco o hallmeter em um minuto. <br/>\n<br/>\nEdson, vc colocou uma sonda extra em seu carro? A leitura no hallmeter ficou ok?<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "NightRider",
+            "date": "2004-12-13T11:56:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\topa matheus ainda nao coloquei, mas vou colocar pra ter um hallmeter funcionando no carro. vou aproveitar e colocar uma sonda nova de 4 fios no lugar da antiga, e pegar essa antiga e ligar no hallmeter.<br/>\nNao sei se é o problema do hallmeter mas sempre é com essa marca.....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>NightRider</b>: 13 dezembro 2004 - 08:58\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-12-13T12:06:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCara... Naum devia dar problema naum...<br/>\nO meu tbém é best racing (comprado do Bonfá) e funfa belezinha... <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nPode ser que a sonda de vcs esteja bichada já!<br/>\n<br/>\nPuppy, leva no posto que a gente testa no Papa calibra... Okey? <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nAbrax,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T14:40:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, mandei o seguinte e-mail pra BEAST RACING:<br/>\n<br/>\n\"Comprei um Hallmeter Pro Series II, e qdo instalei, o<br/>\ncarro comecou a falhar. Qdo tirei o fio q vai pra sonda lambda pegar o<br/>\nsinal, o carro voltou ao normal. Creio q o Hallmeter esteja roubando o<br/>\nsinal da sonda lambda. <br/>\nQueria saber o q pode estar acontecendo, e gostaria que voces<br/>\nconfirmassem a cor de cada fio, e pra onde ele deve ser ligado. Temo q<br/>\nalgum fio esteja invertido em relacao ao manual q veio junto.\"<br/>\n<br/>\nE a resposta:<br/>\n<br/>\n<br/>\n\"Thiago<br/>\n<br/>\nPelos seus relatos trata-se de um Corsa, certo?<br/>\n<br/>\nIsso foi constatado em outros 2 casos, pois a sonda de 1 fio, quando<br/>\npassa do fim da sua vida útil (40,000Km) não consegue ter um sinal forte<br/>\no suficiente para os dois circuitos. Recomendamos a instalação de uma<br/>\nsegunda sonda de 4 fios (nova) em separado para o medidor de mistura.\"<br/>\n<br/>\nSoh nao sei da onde ele tirou q tenho um Corsa, mas ta valendo!<br/>\n<br/>\nO q ele disse tem sentido? Sera mesmo q a sonda estando meio velha, pode nao ter sinal suficiente pra suprir a central e o hall?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "NightRider",
+            "date": "2004-12-13T14:55:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpuppets é o seguinte, eu troquei a minha sonda original pois achei que poderia ser isso, mas nao mudou en nada, o hallmeter continuou robando ao sinal alterando a injeção.<br/>\nVai por mim, pelo menos em alguns calibras acho que tem que colocar uma sonda extra, eu vou fazer isso no meu.... <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T14:57:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teh, o jeito vai ser fazer isso mesmo!<br/>\n<br/>\nComo talvez eu acabe colocando outros instrumentos agora no fim do ano no carro ( manometros ), e jah vou pedir para uma loja instalar, jah vou mandar isntalar o hall junto, vamos ver!<br/>\n<br/>\nA todos, valeu a paciencia <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-13T15:16:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"11/12/2004, 18:34\"><p>Galera, finalmente instalei o hallmeter!!!  <span rel=\"lightbox\"><img alt=\":uhuu\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/uhu.gif\"/></span> <br/><br/><br/>[]s</p></blockquote> Não adiantou em nada a famosa recomendação: \"Não sabe, deixa!\"  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2004-12-13T19:02:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"13/12/2004, 12:57\"><p>eh, o jeito vai ser fazer isso mesmo!<br/><br/>Como talvez eu acabe colocando outros instrumentos agora no fim do ano no carro ( manometros ), e jah vou pedir para uma loja instalar, jah vou mandar isntalar o hall junto, vamos ver!<br/><br/>A todos, valeu a paciencia <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span></p></blockquote>Leva lá no posto à noite que eu instalo para vc, é no retorno do tanque? eu levo duas abraçadeiras <span rel=\"lightbox\"><img alt=\":uhuu\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/uhu.gif\"/></span>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Sergio Albino Amback</b>: 13 dezembro 2004 - 16:03\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T19:27:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNao comprei ainda Sergio, hehehe<br/>\nVou ganhar de natal do papai <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span><br/>\nTem q fiacr debaixo da arvore de natal ainda, uHAUAHUAHAUH\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-13T20:08:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"13/12/2004, 16:27\"><p>Nao comprei ainda Sergio, hehehe<br/>Vou ganhar de natal do papai <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span></p></blockquote> Vc foi uma boa moça durante o ano todo?<br/><br/>[]'s   <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2004-12-13T20:32:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnão não uma moça má! <br/>\nhauahuah <br/>\nnanometro vai no bico de bicicleta do motor?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-13T20:57:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnanometro vai na escala de medidas... Snme um nanometro eh equivalente a 10^-9m...<br/>\n<br/>\nAgora, um Manometro de combustivel sim, pode ser ligado ali no bico de bicicleta da flauta de combustivel...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-14T03:20:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHallmeter finalmente funfando perfeitamente!!!<br/>\n<br/>\nAcho q meu carro tava de TPM, cheguei no posto, liguei novamente os fios, e funcionou direitinho!<br/>\n<br/>\nFilho da puta...<br/>\n<br/>\nDepois posto um videozinho <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\nValeu a todos a paciencia novamente, e West e Nagy, se vierem com o papo do ESTAGIARIO, vou mandar vcs enfiarem oa papa-calibras falsificados de vcs no **!!!!<br/>\n<br/>\nMe respeitem porra! Soh viram as lanternas do meu calibra com o pisca... <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-12-14T03:32:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thahaha..<br/>\npelo jeito o pup dominou nas puxadas hj...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-12-14T09:33:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"14/12/2004, 00:20\"><p>Hallmeter finalmente funfando perfeitamente!!!<br/><br/>Acho q meu carro tava de TPM, cheguei no posto, liguei novamente os fios, e funcionou direitinho!<br/><br/>Filho da puta...<br/><br/>Depois posto um videozinho <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span></p></blockquote> Cara estagiário...<br/><br/>O que vale é a lição aprendida... Esta que vc vai levar pelo resto da sua vida! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>Tá vendo? Nada como a supervisão de engenheiros experientes para vc conseguir instalar o seu hallmeter!  <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-12-14T09:39:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tbusted v3.0! <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-14T14:56:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Erick Nagy\" data-date=\"14/12/2004, 06:33\"><p>Cara estagiário...</p></blockquote> Como prometido...<br/><br/>ENFIA SEU PAPA-CALIBRA NO **!!!<br/><br/>HAUHAUUHA<br/><br/>Nem vem com desculpa q largou mal nao.... eu continuo brincando de burn-out e ainda assim nao teve proceis nao!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-14T15:56:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"14/12/2004, 11:56\"><p>Como prometido...<br/><br/>ENFIA SEU PAPA-CALIBRA NO **!!!<br/><br/>HAUHAUUHA<br/><br/>Nem vem com desculpa q largou mal nao.... eu continuo brincando de burn-out e ainda assim nao teve proceis nao!</p></blockquote> Estagiário - Puppy,<br/><br/>O seu, está guardado!  :sm45 <br/><br/>[]'s (Engenheiro Supervisor West) <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-14T15:57:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tApelation Detected.... <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-14T16:09:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"14/12/2004, 12:57\"><p>Apelation Detected.... <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span></p></blockquote>  :sm30 <br/><br/><br/>[]'s  :sm16\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-12-14T16:31:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"14/12/2004, 11:56\"><p>Como prometido...<br/><br/>ENFIA SEU PAPA-CALIBRA NO **!!!<br/><br/>HAUHAUUHA<br/><br/>Nem vem com desculpa q largou mal nao.... eu continuo brincando de burn-out e ainda assim nao teve proceis nao!</p></blockquote> Aí... Tô achando que o Carica me sacaneou... Hauehuaheuaeiai<br/><br/>O carro passou pelo preparador dele antes de me entregar... Acho que rolou uma propina do clube para a oficina para tirar o carro do ajuste... <br/>Mas, deixa eu regular esta bosta direito e vc vai ver o que é bom para estagiário... <span rel=\"lightbox\"><img alt=\":puppets\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/puppets.gif\"/></span> <br/><br/>Hauehauehuaheiaeiai<br/><br/>Ass. O Engenheiro Responsável <br/> <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-14T16:32:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPqp, embarguem a obra... Nagy e West como engenheiros responsaveis..<br/>\n<br/>\nAinda perdendo rpa estagiario... tsc tsc tsc\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-14T17:25:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEstagiário - Puppets,<br/>\n<br/>\nAnote a lista de material para próxima aula:<br/>\n<br/>\n- 2 folhas de papel carbono pautado<br/>\n- 1 carretel de linha de cota<br/>\n- 1 par de isoietas<br/>\n- 1 apontador para lapiseira 0,5<br/>\n- 1 caixinha de ponto de fuga<br/>\n<br/>\nAnotou tudo?  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/>\n<br/>\n[]'s Prof. Dr. Eng. West  <span rel=\"lightbox\"><img alt=\"B)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/cool.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-14T17:27:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFaltou o Livre-Docente tb West...<br/>\n<br/>\nSandalia da humildade pra vc, uHAUHAUHA\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-14T21:38:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa, finalmente meu hall esta funcionando perfeitamente!!!<br/><br/><a class=\"bbc_url\" href=\"http://www.geocities.com/thiagoinforsato/HallmeterFuncionando.avi\" rel=\"nofollow external\" title=\"Link externo\">Video do Hall funfando</a>\n<br/>\n</div>"
+        },
+        {
+            "author": "MURILLOALANIS",
+            "date": "2004-12-15T02:24:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"MURILLOALANIS\" data-date=\"13/12/2004, 00:22\"><p>quando vc liga o carro com o motor frio a marcha lenta fica lenta meeesmo...<br/>cerca de 250~300rpm <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>e morre em seguida...<br/>ae é só segurar a uns 1500 rpm por poucos segundos e volta ao normal 900 rpm..<br/><br/>as vezes quando eu bato uma água no motor ele fica falhando, mas não é o distribuidor q ta molhando, eu sempre checo e ta sequinho...<br/>e ontem eu lavei e ele tava falhando, ae eu abri o caput com o motor ligado e vi saindo uma aguinha bem suja (preta) do vãozinho de uma tampinha de borracha...<br/>removi ela e dava direto no volante do motor, aparecia os dentinhos virando e ficava espirrando água...<br/>ae eu sai dar uma volta, se vc apertasse o acelerador rápido demais comaçava a sar socos no motor, falhando muuuito, ae eu apertava o acelerador devagarinho até o final das marchas, o carro tava bem fraco..<br/>quando eu tava chegando em casa parou de falhar...<br/>ae eu abri a tampinha e o volante tava sequinho...<br/>pq ta entrando água lá?<br/>a água tava transbordando com a tampinha fechada, mas era a água que o volante trazia pra cima com os dentinhos..<br/>tem perigo de entrar água na parte de baixo do motor por ali??<br/>o que mais pode estar molhando e fazendo falhar, já que o distribuidor ta seco e acredito que este lugar (onde tava saindo água) estando molhado não estaria fazendo falhar..<br/>e a marcha lenta muito fraca nos primeiros segundos de funcionamento do motor?<br/><br/>o carro é um polo classic 1.8mi ano 98</p></blockquote>bom..<br/>foi se uma graninha hj...<br/>foi trocado <br/>-atuador de marcha lenta<br/>-jogo de velas<br/>-filtro de ar<br/>-limpeza dos bicos<br/><br/>no total deu 350<br/>e o atuador de marcha lenta custou 140<br/>o carro ta funcionando redondinho agora...<br/>muito bom mesmo...<br/>quando deixei o carro lá sai com uma certa confiança, e quando voltei comprovei que o seriço na oficina que eu levei foi muito bem efetuado<br/><br/>o fato de estar falhando com qq umidade do ar, é q tem uma trinca na bobina, e esta eu não troquei, pois o cara disse que o preço era em média 300 reais...<br/><br/><br/>alguem dá um help ai...<br/>o preço é este mesmo?<br/>será q acha + barato?<br/><br/><br/>e o cara disse q a sonda lambda ta ruim tb, tem horas que eu noto que o hall fica travado bem no meio e não muda de jeito nenhum...<br/>preço sugerido pelo mecanico da sonda lambda de 4 fios 170....<br/><br/><br/>matheus, GM, vcs que mexem com mecanica vejam se os preços estão ok, e se naum tiver se conseguem mais barato pra mim...<br/><br/>denovo repito...<br/>o carro é um polo classic 1.8 mi ano 98..\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>MURILLOALANIS</b>: 14 dezembro 2004 - 23:25\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2004-12-15T12:29:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"West\" data-date=\"14/12/2004, 14:25\"><p>Estagiário - Puppets,<br/><br/>Anote a lista de material para próxima aula:<br/><br/>- 2 folhas de papel carbono pautado<br/>- 1 carretel de linha de cota<br/>- 1 par de isoietas<br/>- 1 apontador para lapiseira 0,5<br/>- 1 caixinha de ponto de fuga<br/><br/>Anotou tudo?  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/><br/>[]'s Prof. Dr. Eng. West  <span rel=\"lightbox\"><img alt=\"B)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/cool.gif\"/></span></p></blockquote>Ops! Esqueceu do principal:<br/>a- Uma caixinha de vetores;<br/>b- duas caixinhas de vetores curvilíneos!!<br/>HEHHEEheheheh...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Ives</b>: 15 dezembro 2004 - 09:30\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Eugenio Resende",
+            "date": "2004-12-15T13:07:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tViva! O Hallmeter do Puppy funcionou, finalmente! Sobra, então, um espaçozinho pra zoada de praxe, né?  <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/>\n<br/>\nUm item a mais pra lista do West: envelope redondo pra carta-circular.  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/>\n<br/>\n[]s<br/>\nEugenio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Eugenio Resende</b>: 15 dezembro 2004 - 10:08\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "dmzamora",
+            "date": "2004-12-15T13:26:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"14/12/2004, 18:38\"><p>Opa, finalmente meu hall esta funcionando perfeitamente!!!<br/><br/><a class=\"bbc_url\" href=\"http://www.geocities.com/thiagoinforsato/HallmeterFuncionando.avi\" rel=\"nofollow external\" title=\"Link externo\">Video do Hall funfando</a></p></blockquote> E qual era o defeito, afinal? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/>[]s,<br/>Daniel\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-15T13:51:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBoa pergunta Zamora...<br/>\n<br/>\nSimplesmente troquei o fio q ia da sonda ate o hall, e funcionou.<br/>\nMas o fio q tava antes esta perfeito, testei ele mesmo depois de tirar...<br/>\n<br/>\nDaqui a pouco o West e o Nagy vai vim com a velha piada q o defeito era a pecinha q instalava...<br/>\n<br/>\nSabe neh: \"A mesma praça....\"<br/>\n<br/>\nEstas mesmas piadas sempre... eles nao se cansam <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Erick Nagy",
+            "date": "2004-12-15T13:58:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFazer o q?<br/>\n<br/>\nO problema todo estava no método empregado.<br/>\nO carro do cara parecia aquelas gambiarras elétricas que tem em favela... Manja?<br/>\nE ainda por cima, ele meteu um furo na parede de fogo dele! <br/>\ntsc...tsc...tsc...<br/>\nJoselito SN.<br/>\n<br/>\nO carro dele desvalorizou um 1000 reais com esta! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\nAbrax,\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-15T14:00:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tErrado.<br/>\n<br/>\nO defeito era a parteira .... que deixou isso nascer e não matou logo no ninho <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nEstagiário, já comprou todo material? Os itens complementares que os prof. Ives e Eugênio indicaram também? <br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2004-12-15T14:02:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Erick Nagy\" data-date=\"15/12/2004, 10:58\"><p>O carro dele desvalorizou um 1000 reais com esta! <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/>Abrax,</p></blockquote> Foi sorte não ter pegado fogo!  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-15T14:02:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVai cheirar peido de velha vcs dois <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2004-12-15T14:33:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"15/12/2004, 11:02\"><p>Vai cheirar peido de velha vcs dois <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span></p></blockquote> Não, Puppets... <br/>Diga \"<strong class=\"bbc\">VÃO</strong> cheirar peido de velha <strong class=\"bbc\">vocês dois</strong>...\"<br/>Hiheiahiahah\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-12-15T14:34:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCorrigindo:<br/><strong class=\"bbc\">Vão</strong> Cheirar peido de velha <strong class=\"bbc\">vocês TRÊS</strong><br/><br/><span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-09T07:09:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGente agora é a minha vez.<br/>\n<br/>\nAcabou de chegar o hallmeter que comprei do Pentadex, e quero instalar ele.<br/>\n<br/>\nVi que no carro do Puppets, a regulagem foi feita da seguinte forma:<br/>\n- 0-300 Mistura pobre;<br/>\n- 300-700 Ideal; e<br/>\n- 700-900 Mistura rica.<br/>\n<br/>\nNo meu hallmeter veio assim:<br/>\n- 0-700 Mistura pobre;<br/>\n- 700-900 Ideal; e<br/>\n- 900-1200 Mistura rica.<br/>\n<br/>\nA diferença de um pra outro está muito grande, será que isso vai afetar demais no funcionamento do hall? Se eu precisar mudar essas faixas, eu consigo achar aqueles jumpers que vão lá atrás do hall pra vender separado?<br/>\n<br/>\nDepois de toda essa treta, nem pensar em colocar a mão aí, vou ver se alguém no posto me ajuda a colocar...<br/>\n<br/>\nMinha outra dúvida é: Notei que o hall tem os seguintes fios:<br/>\n- Vermelho;<br/>\n- Azul;<br/>\n- Branco;<br/>\n- Preto; e...<br/>\n- um outro que passa em volta de todos esses citados acima... só os fios, não tem capa colorida como os outros... pra que serve isso aí?<br/>\n<br/>\nSe for muito fácil eu tento fazer em casa sim, mas se for meio chato prefiro deixar pro posto...<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Fábio</b>: 09 março 2005 - 04:11\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-09T07:15:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFabio, este fio q passa em volta q nao tem capa colorida, eh apenas uma blindagem magnetica.<br/>\n<br/>\nComo qualquer variacao na tensao vai mostrar no hall, o cabo tem q ser imune ao campo magnetico do meio externo.<br/>\n<br/>\nEntao este eh o motivo de ter este fio entre a capa de borracha preta, e os fios coloridos.<br/>\n<br/>\nInstalar realmente eh bem simples. Nao tem erro nao!<br/>\nOs jumper nao vieram juntos??!?!?<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-09T07:36:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tObrigado pela explicação.<br/>\n<br/>\nCara, os jumper vieram juntos sim, mas são nessa escala que eu coloquei no post anterior, entendeu? A minha dúvida é se, como as faixas são muito diferentes das suas, isso vai ter muita diferença do resultado final...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-09T07:37:49+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAh unica diferenca eh o jeito q os leds acenderao...<br/>\n<br/>\nAo inves dele variar mais na faixa normal, ele vai ficar em grande parte na parte pobre, pelo jeito qo seu esta escalado.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-09T07:50:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEntão, foi por isso que eu perguntei se há desse tipo de jumper pra vender... onde vc costuma comprar esses fio? Que bitola devo usar?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "NightRider",
+            "date": "2005-03-09T11:01:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa fabio eu acho que essa escala estava pra carro turbinado que era o caso do penta, será que ele nao tem essa escala que vc quer?<br/>\n<br/>\nabraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-09T23:36:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFabio, na instalacao do meu, eu usei fio comum mesmo. Soh q maleavel, senao fica ruim de mexer.<br/>\n<br/>\nOs jumpers eu nao sei onde pode achar pra vender <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-10T04:00:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBeleza pessoal, obrigado pelas dicas. Vou ver se o Penta tem os jumpers para colocar ele em normal-mode, eheh...<br/>\n<br/>\n[]s<br/>\nFábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-10T04:13:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tele vai com os jumpers pra vc escolehr qual q vai colocar, o penta deve ter, qq coisa em www.beastracing.com.br vc pode comprar eles.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-10T21:56:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu Rod, obrigado pelas dicas!<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-05-01T13:26:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComprei um hallmeter também.<br/>\n<br/>\nHoje instalo.<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-08-05T07:48:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAproveitando o tópico aberto pelo nosso livre docente em engenharia elétrica, tenho uma dúvida:<br/>\n<br/>\nQual é o maldito fio da sonda lâmbda que é o sinal? Temos 3 fios, um preto e 2 brancos, pelo que o Puppy disse o preto é o sinal que liga no hallmeter, é isso mesmo ou entendi errado?<br/>\n<br/>\nAbrax\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-08-05T10:59:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBem, pelo que eu li no arquivo técnico, o fio preto é mesmo o retorno para a ECU e os 2 brancos são alimentação, espero que dê certo... se estiver errado, por favor, me corrijam!<br/>\n<br/>\nAbraços,<br/>\n<br/>\nFábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "tanaka",
+            "date": "2006-08-05T17:02:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tôpa Pessoal, tudo blza???<br/>\n<br/>\nBom disso eu posso falar <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/>\nO fio Preto é o sinal mesmo, ele que manda o sinal para o módulo.E é nele que vc liga o sinal do Hallmeter.<br/>\n<br/>\nOs dois Brancos, são do aquecimento da sonda. <br/>\n1 vc liga no negativo da bateria/ ou terra do carro ( prisioneiro do coletor por exemplo )<br/>\n2 vc liga em algum positivo pós chave ( que só dá energia quando vc vira a chave ).<br/>\n<br/>\nAbraços<br/>\n<br/>\n            Ciro\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>tanaka</b>: 05 agosto 2006 - 14:03\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2006-08-05T18:20:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to Preto é o de sinal e os outros são pra aquecer a sonda.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-08-06T04:36:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa, obrigado a vocês dois, eu passei os fios do terra e sinal para o cofre do motor ontem, talvez hoje eu ligue tudo, agora vai ser fácil.<br/>\n<br/>\nAbraços,<br/>\n<br/>\nFábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "tanaka",
+            "date": "2006-08-06T13:12:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Fábio\" data-date=\"6/08/2006, 02:36\"><p>Opa, obrigado a vocês dois, eu passei os fios do terra e sinal para o cofre do motor ontem, talvez hoje eu ligue tudo, agora vai ser fácil.<br/><br/>Abraços,<br/><br/>Fábio.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=183864\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/><br/>ôpa Fabio blza?<br/><br/>De nada!!!!  bem eu não manjo muito <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>  hehehe  mas no que eu puder ajudar tamos ai!!!!!<br/><br/><br/>Abraços<br/><br/>         Ciro\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2006-08-07T22:36:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSó pra lembrar que o Hallmeter meu e do seco ( beast racing pro series II ) pararam de funcionar. Na verdade, os 2 carros estavam funcionando normalmente, e depois de um tempo, o carro começou a falhar muito por causa dele. QUando delsigo o hall, o carro volta ao normal. Quase certeza que o hall está roubando sinal da sonda lambda. Não tive paciencia ainda de desmontar ali, e colocar um resistor de 100k pra ver se isso para.<br/>\n<br/>\nNa verdade, faz mto tempo que não mexo no calibra.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-08-08T18:20:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHall instalado, funfou direitinho logo de cara. Manômetro de combustível também.<br/>\n<br/>\nAliás, o manômetro que eu instalei é da Cronomac, e ele não fica pulsando não, quando piso, é claro, se enfiar o pé e tirar ele dá um pulso acima do valor real e volta, mas se firmar o pé ele sobe e fica. Nunca vi como ficam os manômetros da peãozada que instalou por aí (vi que o Led horse tem, mas não vi ligado), mas existem 2 segredos para evitar pulsações em manômetros.<br/>\n<br/>\nUm deles é escorvar a linha até o instrumento, que consiste em retirar todo o ar da linha e deixar o mínimo do mínimo possível lá dentro. Eu dei uma partida curta (o carro nem chega a pegar) só para pressurizar a flauta e o álcool chegou na ponta do tubinho. Eu estava segurando ele com um pano na ponta para não me lascar todo, depois eu conectei rapidamente o instrumento e apertei bem. Só fiz isso e ele não pulsa. Outra alternativa é, além de escorvar a linha, usar algum tipo de restrição próximo da flauta, não permitindo que o combustível vá até o instrumento com numa porrada só, uma peça que contenha um orifício de restrição suavisa a pressurização da linha e evita que o ponteiro pulse.<br/>\n<br/>\nBem, é isso, estou satisfeito com a instalação e funcionamento dos instrumentos.<br/>\n<br/>\nObrigado pela ajuda de vocês mais uma vez.<br/>\n<br/>\nAbraços,<br/>\n<br/>\nFábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

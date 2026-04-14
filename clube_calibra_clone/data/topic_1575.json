@@ -1,0 +1,82 @@
+{
+    "title": "Pirometro improvisado",
+    "url": "http://www.clubecalibra.com.br/forum/topic/1575-pirometro-improvisado/",
+    "id": "1575",
+    "messages": [
+        {
+            "author": "Puppets",
+            "date": "2004-04-05T23:43:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAe galera, seguinte:<br/>\nEstes dias eu tava pensando se nao dava pra um pirometro pro calibra usando o sensor de temperatura do CB mesmo!<br/>\nO q nao sei eh se o CB tem como fundo de escala temperaturas na ordem das centenas.<br/>\nSe colocassemos o sensor de temperatura do CB no escapamento, talvez funcionaria direito.<br/>\nCreio q o sensor de temperatura usado no carro eh do tipo termopar. Os termopares sao feitos a partir de 2 fios de metais diferentes soldados em uma das pontas. Esta ponta soldada eh usada pra medir a temperatura. Pela propriedade do material, qdo esta junta sofre variacao de temperatura, ha uma diferenca de potencial eletrico nas outras extremidades dos fios. Eh assim q mede-se a temperatura. Normalmente estes 2 fios sao padronizados, para q se saiba o valor da temperatura para determinado valor de tensao lido nas extremidades. Estes sensores sao utilizados em multimetros e normalmente usam-se os termopares do tipo K. Jah q sao usados em multimetros, sua precisao eh boa, e eles medem temperaturas acima de 100ºC. Portanto, acho q nao seria problema para o sensor. Teria q ver se o CB aceita esta medicao.<br/>\nBom, sei q temos membros q sabem se isso seria possivel!<br/>\nAbracos!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fmbaldani",
+            "date": "2004-04-06T00:17:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> desculpa a INGNORANÇA, mas pra quê serve ou o que faz um pirometro?? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-04-06T00:21:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tmede a temperatura dos gases de saida do escapamento!<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fmbaldani",
+            "date": "2004-04-06T00:23:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\te qual a utilidade de saber essa temperatura? seria só pra motores preparados ou pros originais tb/;<br/>\ndesculpa a ignorância mais uma vez... =)<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-04-06T00:26:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.clubecalibra.com.br/upped/rod-pir-2.jpg\"/></span><br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-04-06T00:30:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEGR VALVE  <br/>\n<br/>\nDefinition: The EGR valve is the main emissions control component in the exhaust gas recirculation system. The valve is located on the intake manifold, and opens a small passageway between the exhaust and intake manifold to allow a metered amount of exhaust to flow back into the engine. This reduces combustion temperatures and helps control the formation of oxides of nitrogen. The EGR valve is opened by the application of vacuum to its control diaphragm. Some also require a certain amount of exhaust back pressure before they'll open. On newer vehicles, the valve is electronic and uses one or more solenoids or a small stepper motor. The valve should remain closed while the engine is cold and at idle. It should only open once the engine has warmed up and is running at part-throttle. If the valve sticks shut (or is disconnected), NOX emissions will soar and detonation will often result (See Detonation and Spark Knock). If it sticks in the open position or fails to close all the way, it acts like a vacuum leak resulting in a rough idle, hesitation and possible stalling.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-04-06T13:20:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvc so esqueceu de um detalhe ...<br/>\n<br/>\nNo cano de escape, na area da lambda, a temperatura chega a 600 Cº ...<br/>\nNo coletor chega a 900Cº<br/>\n<br/>\nUm sensor comum nunca ia aguentar ...<br/>\nO sensor de temperatura do CP muito menos ...<br/>\n<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-04-06T15:20:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE o sensor do pirometro fica onde entao? Qual a media de temperatura q ele deve ler?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2004-04-06T17:36:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRecomendação: carros turbo: saída da turbina: carros aspro: no coletor. O termopar aguenta até 1200oC.<br/>\n<br/>\nA idéia dele era usar um termopar no lugar do sensor de temperatura original.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2004-04-06T21:01:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAE!!!!<br/>\nMas teria q ser um termopar com a mesma constante de variacao de diferencial do sensor original!<br/>\nAbracos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "GREEN-MONSTER",
+            "date": "2004-04-09T00:09:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"fmbaldani\" data-date=\"5/04/2004, 21:23\"><p>e qual a utilidade de saber essa temperatura? seria só pra motores preparados ou pros originais tb/;<br/>desculpa a ignorância mais uma vez... =)<br/>[]s</p></blockquote> Bem o pirometro acusa se sua mistura está rica ou pobre, aí vc regula, em carros normais, é mais onda mesmo...<br/><br/>Mas mesmo assim qnt mais instrumentos melhor na minha opinião...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-04-09T01:04:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGraaaande GM<br/>\n<br/>\nCarinha ...<br/>\nsim .. o pirometro tb deixa visivel a mistura ...<br/>\nMas com o mesmo valor lambda podemos ver a temperatura alterar por causa da queima ...  <br/>\nAssim diria que o pirometro mostra mais o efeito de ignicao (ponto e queima) ..<br/>\n<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Belloli",
+            "date": "2004-04-16T15:00:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tJá que o assunto são os sensores de temperatura, estou com uma dúvida:<br/>\nO sensor do computador de bordo é o mesmo de outros carros??   <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span> <br/>\n<br/>\nProcurei no cep, mas está só para Calibra mesmo <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span> <br/>\n<br/>\nLiguei pra autorizada, mas era uma pequena fortuna. Tem outra solução?<br/>\n<br/>\nMe ajudem a tirar o F do meu computador! <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/>\n<br/>\nT+\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2004-04-16T15:06:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tExclusivo com certeza nao é ...<br/>\n<br/>\nPois o computador de bordo nao é exclusivo ...<br/>\n<br/>\nE para teste eu coloquei o sensor de um astra 95 no meu carro e continuou funcionando certinho ...<br/>\n<br/>\n<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Belloli",
+            "date": "2004-04-16T15:33:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu Led. Agora o problema é achar um. Alguém tem um sobrando ou sabe onde conseguir?? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span> <br/>\n<br/>\nUm Abraço.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

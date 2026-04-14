@@ -1,0 +1,157 @@
+/* Reset and Basic Styles */
+body {
+    background: #e2e2e2 url(https://www.clubecalibra.com.br/forum/public/style_images/Light345/bg.png);
+    font-family: helvetica, arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.main_width {
+    margin: 0 auto;
+    width: 87%;
+    min-width: 960px;
+}
+
+#header_bar {
+    background: #323232;
+    padding: 10px 0;
+    text-align: right;
+    color: #9f9f9f;
+    font-size: 11px;
+}
+
+#user_navigation a { color: #fff; text-decoration: none; }
+
+#branding {
+    background: #f7f7f7;
+    min-height: 64px;
+    border-bottom: 1px solid #ddd;
+}
+
+#primary_nav {
+    background: #ddd;
+    border-bottom: 3px solid #800000;
+}
+
+#community_app_menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+#community_app_menu li a {
+    display: block;
+    padding: 10px 20px;
+    background: #ccc;
+    color: #666;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px 4px 0 0;
+}
+
+#community_app_menu li.active a {
+    background: #800000;
+    color: #fff;
+}
+
+#content {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+    min-height: 500px;
+}
+
+.maintitle {
+    background: #4f4f4f;
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px 4px 0 0;
+    margin: 0;
+}
+
+.ipb_table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ipb_table th {
+    background: #e4e4e4;
+    padding: 10px;
+    text-align: left;
+    font-size: 11px;
+    color: #444;
+}
+
+.ipb_table td {
+    padding: 15px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.topic_title {
+    font-size: 14px;
+    color: #800000;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.topic_title:hover {
+    text-decoration: underline;
+}
+
+/* Post blocks */
+.post_block {
+    background: #fff;
+    border: 1px solid #D6d6d6;
+    margin-bottom: 10px;
+    display: flex;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.author_info {
+    width: 160px;
+    padding: 15px;
+    background: #f8f8f8;
+    border-right: 1px solid #D6d6d6;
+    text-align: center;
+}
+
+.author_info strong {
+    color: #800000;
+    font-size: 14px;
+}
+
+.post_body {
+    flex: 1;
+    padding: 15px;
+}
+
+.posted_info {
+    font-size: 11px;
+    color: #777;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+.ipsType_pagetitle {
+    font-size: 26px;
+    color: #323232;
+    margin-bottom: 20px;
+}
+
+.hidden { display: none; }
+
+/* Styles for forum content */
+.bbc_center { text-align: center; display: block; }
+blockquote {
+    border: 1px solid #ddd;
+    border-left: 3px solid #800000;
+    background: #f9f9f9;
+    padding: 10px;
+    margin: 10px 0;
+}

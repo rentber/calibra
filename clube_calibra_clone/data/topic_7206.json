@@ -1,0 +1,102 @@
+{
+    "title": "Reset Da Ecu Da Injeção Eletrônica",
+    "url": "http://www.clubecalibra.com.br/forum/topic/7206-reset-da-ecu-da-injecao-eletronica/",
+    "id": "7206",
+    "messages": [
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-18T07:48:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPessoal,<br/>\n<br/>\nJá li por ai que nossa injeção eletrônica se adapta a forma como dirigimos.<br/>\n<br/>\nNão sei se isso é verdade ou não, alguem pode confirmar?<br/>\n<br/>\nProcurei pelo forum e não achei nada... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/>\n<br/>\nSe é verdade que ela se adapta, o que ela faz? Como podemos tirar proveito dessa readaptação?<br/>\n<br/>\nSó para finalizar, eu resetei a ECU do meu Calibra e percebi uma melhora na performance do carro, principalmente de saída e abaixo dos 3.000 RPMs.<br/>\n<br/>\nSerá que meu cérebro quis me enganar, pois eu estava sabendo que a central foi reiniciada? (eu deveria ter feito uns 0-100 km e/ou 0-400m para poder ter comparado antes...)<br/>\n<br/>\nBom, quando eu for trocar o óleo, vou fazer uma descarbonização e limpeza de bicos. Daí reseto novamente a central e quero ver, se realmente melhorar o arranque quero nem vê o Calibrão cantando pneu <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "lucaskj",
+            "date": "2006-03-18T11:16:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tReadapta sim mas eu não sei quais são as melhoras...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2006-03-18T12:19:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcho que os mais experts vão poder te explicar mais melhor, mas pelo que sei quando você reseta a ECU a injeção reinicia utilizando os mapas com avanço mais \"agressivos\" que possui na memória e ao detectar pré-detonações no motor (devido normalmente à nossa gasolina lixo), ela vai alterando esses mapas para mais \"mansos\" e recuando o avanço até chegar a um limite onde cessem as pré-detonações. A partir daí, a cada X ciclos do motor sem pré-detonações ela troca para um mapa com avanço mais adiantado, se continuar X ciclos sem pré-detonações ela adianta o avanço novamente, e vai fazendo isso até o knock-sensor acusar novas pré-detonações. Ela fica constantemente alterando mapas dessa forma.<br/>\nSe tiver algum erro conceitual, por favor, alguém me corrija, mas acredito que a idéia é essa. Também não sei até que ponto a forma de condução influi nisso.<br/>\n<br/>\nResumindo: sim, quando reseta a ECU o carro melhora <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2006-03-18T14:20:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Luiz Menezes Jr\" data-date=\"18/03/2006, 04:48\"><p>Pessoal,<br/><br/><br/>Só para finalizar, eu resetei a ECU do meu Calibra e percebi uma melhora na performance do carro, principalmente de saída e abaixo dos 3.000 RPMs.<br/><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161749\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Luiz, como vc resetou a ECU?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-18T14:49:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Célio\" data-date=\"18/03/2006, 11:20\"><p>Luiz, como vc resetou a ECU?<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161769\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Fala Célio,<br/><br/>Foi mau, eskeci de dizer que levei numa auto-elétrica que tem rasther por computador.<br/> <br/>Pelo programa dá para resetar a ECU e como a auto-elétrica é do meu primo não paguei nada, mas não sei quanto ele cobraria para fazer isso, preciso ligar para ele...(Campinas/SP)...<br/><br/>Mortari, se ela ajusta as pré-detonações vai ser fácill de saber, pq nossa ECU marca quantas pré-detonações aconteceram desde a partida do motor. Quando eu resetar novamente vou verificar se acontecem as pré-detonações...<br/><br/>Quando vi na tela do PC antes de resetar, ficava sempre 0 pré-detonações, possívelmente já estava adaptada...<br/><br/>Mas que deu um gás a mais deu sim <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "lucaskj",
+            "date": "2006-03-18T17:19:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Luiz Menezes Jr\" data-date=\"18/03/2006, 11:49\"><p>Fala Célio,<br/><br/>Foi mau, eskeci de dizer que levei numa auto-elétrica que tem rasther por computador.<br/> <br/>Pelo programa dá para resetar a ECU e como a auto-elétrica é do meu primo não paguei nada, mas não sei quanto ele cobraria para fazer isso, preciso ligar para ele...(Campinas/SP)...<br/><br/>Mortari, se ela ajusta as pré-detonações vai ser fácill de saber, pq nossa ECU marca quantas pré-detonações aconteceram desde a partida do motor. Quando eu resetar novamente vou verificar se acontecem as pré-detonações...<br/><br/>Quando vi na tela do PC antes de resetar, ficava sempre 0 pré-detonações, possívelmente já estava adaptada...<br/><br/>Mas que deu um gás a mais deu sim <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161770\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Não é necessário rasther para resetar. Apenas soltar os fios da bateria e longe da bateria você encostá-los, depois coloque o positivo primeiro e em seguida o negativo. Pronto. Ligue e você vai perceber a diferença.<br/><br/> <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcin",
+            "date": "2006-03-18T17:35:50+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLucas, tem que esperar não sei quantas horas, não é só desligar e religar, mas não sei quanto tempo é necessario também.<br/>\n<br/>\nLuiz, a injeção também se readapta ao modo de dirigir pra deixar o carro mais econômico também.<br/>\n<br/>\n[]´s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2006-03-18T17:59:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSe você apenas soltar os cabos da bateria, e curto circuitá-los ( osa cabos, não a bateria!!! ) por alguns segundos, a ECU tb se resetará!!!<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-18T19:40:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Puppets\" data-date=\"18/03/2006, 14:59\"><p>Se você apenas soltar os cabos da bateria, e curto circuitá-los ( osa cabos, não a bateria!!! ) por alguns segundos, a ECU tb se resetará!!!<br/><br/>[]s<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161788\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>É, isso dá certo mesmo... Juntando os cabos você descarrega qualquer capacitor e tira a alimentação da ECU...<br/><br/>Então quer dizer que realmente existe uma mudança de performance...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lucaskj",
+            "date": "2006-03-18T21:03:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNo momento sim.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-03-19T03:04:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRealmente, eu dirijo rapido mas com tocada mansa, comecei a dar uns 20 a 140km e marcar o tempo na passagem dos 100km/h, chegava a dar 11 a 13s, muito alto para um carro que ja saia dos 20km/h sempre com motor cheio, bom to chegando nos 10s.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2006-03-19T12:05:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Luiz Menezes Jr\" data-date=\"18/03/2006, 16:40\"><p>É, isso dá certo mesmo... Juntando os cabos você descarrega qualquer capacitor e tira a alimentação da ECU...<br/><br/>Então quer dizer que realmente existe uma mudança de performance...<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161792\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Pelo menos até hoje eu faço assim e sempre deu certo, a mudança de comportamento é notória dependendo do caso. No começo eu tinha receio de fazer isso, mas depois me acostumei, e funciona.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-03-19T18:19:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCerta vez fui socorrer um amigo que tinha tido problemas na bateria do carro dele, com uma semana a bateria abriu um buraco na tampa. Bom quando ele me falou falei na hora seu alternador ta bichado. Fui até a casa dele e tiramos a minha bateria e colocamos no carro dele. Bom o carro pegou e por cagada o começou a funfar tudo sozinho, limpador, e fumaça do radio. Bom voltei a bateria pro meu carro e fomos direto pro auto eletrico. Chegando la 20V no alternador e meu CB não funfava mais, o cara se negou a mexer no meu carro na hora que segundo ele era problema de injeção. Não deixei o carro e fui até outro auto eletrico que vinha levando o carro. Bom o procedimento foi desconectar a bateria fechar o bendito curto e religar, pronto nunca mais tive problemas.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-19T21:35:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Fábio\" data-date=\"19/03/2006, 09:05\"><p>Pelo menos até hoje eu faço assim e sempre deu certo, a mudança de comportamento é notória dependendo do caso. No começo eu tinha receio de fazer isso, mas depois me acostumei, e funciona.<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161827\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Acho que a única desvantagem em desligar a bateira para resetar a ECU é arrumar o relógio de novo, e reconfigurar o controle do vidro elétrico... <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2006-03-19T23:45:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Luiz Menezes Jr\" data-date=\"18/03/2006, 05:48\"><p>Pessoal,<br/><br/>Já li por ai que nossa injeção eletrônica se adapta a forma como dirigimos.<br/><br/>Não sei se isso é verdade ou não, alguem pode confirmar?<br/><br/>Procurei pelo forum e não achei nada... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/><br/>Se é verdade que ela se adapta, o que ela faz? Como podemos tirar proveito dessa readaptação?<br/><br/>Só para finalizar, eu resetei a ECU do meu Calibra e percebi uma melhora na performance do carro, principalmente de saída e abaixo dos 3.000 RPMs.<br/><br/>Será que meu cérebro quis me enganar, pois eu estava sabendo que a central foi reiniciada? (eu deveria ter feito uns 0-100 km e/ou 0-400m para poder ter comparado antes...)<br/><br/>Bom, quando eu for trocar o óleo, vou fazer uma descarbonização e limpeza de bicos. Daí reseto novamente a central e quero ver, se realmente melhorar o arranque quero nem vê o Calibrão cantando pneu <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=161749\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Limpeza de bicos, tem 20 mil Km que dei um trato, este carro esta na maior performance da sua injeção no momento, sempre usei aditivada Texaco, tem o maior torque que conheço nos Calibras que já dirigi, o Marcio quando pilotou o mesmo também reparou neste ponto positivo do carro, Calibra em baixo RPM não anda mesmo, mas o seu ja dar para sentir ele subir aos 2500 RPM, pergunte antes de gastar!<br/><br/>Abraço:\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-03-20T03:28:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFala Sérgio,<br/>\n<br/>\nRealmente o carro tá muito bom mesmo... Eu não gastei nada não...<br/>\n<br/>\nComo a oficina elétrica é do meu primo ele só me cobra as peças <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>, e no caso para ligar no PC a injeção e ver todos os sensores ele faz de graça para mim...<br/>\n<br/>\nLimpeza dos bicos vou fazer daqui uns 3 mil quando for trocar o óleo, mas também não vai me cobrar... <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nDe quanto é quanto tempo é necessário fazer limpeza de bicos e descarbonização?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Erico",
+            "date": "2006-03-21T12:26:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom , para os que tem problemas com filtro esportivo , e ja tentaram de tudo e o carro ainda falha, eu consegui manter a lenta isolando o retorno de oleo para o coletor , instalado um daqueles respiros de oleo.A lenta ficou como original.<br/>\n Agora com os dutos de admissao , escape e angulaçao de valvulas e mais um escape 2.5o carrinho ta um capeta...hehehe<br/>\n<br/>\n<br/>\nabraço\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RenatoMacoris",
+            "date": "2006-05-30T17:36:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Erico\" data-date=\"21/03/2006, 09:26\"><p>Bom , para os que tem problemas com filtro esportivo , e ja tentaram de tudo e o carro ainda falha, eu consegui manter a lenta isolando o retorno de oleo para o coletor , instalado um daqueles respiros de oleo.A lenta ficou como original.<br/> Agora com os dutos de admissao , escape e angulaçao de valvulas e mais um escape 2.5o carrinho ta um capeta...hehehe<br/>abraço<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=162028\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote><br/>Bom, primeiramente gostaria de cumprimentar toda a galera do clube, felizmente no dia 16 desse mês realizei um sonho que eu tinha desde os 14 anos (é...pensando bem nao faz muito tempo, pois estou com 19), comprei um calibra <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> , até mes que vem me torno membro definitivo do clube, ainda nao tive tempo de me associar direito, mas vamos ao ponto, Erico, voce colocou filtro no seu cali e a lenta ficava variando???? eu vou colocar um Simota extreme ou um HP racing no meu, mas ai a lenta varia muito ou nem da para perceber direito. Valeu\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2006-05-31T01:23:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEm 1º lugar seja bem vindo RMACORIS!<br/>\nTb adquiri meu Calibra com 19...isso eh ótimo! Tomara q lhe traga muitas felicidades!<br/>\n<br/>\nQuanto ao filtro...eskece isso meu! Não serve pra nada no Calibra....nem o barulho do ar vc vai ouvir...além de em alguns casos ficar ocilando a lenta como foi o caso de muitos aki! Coloca um chip remapeado q o resultado é muito melhor e ainda por cima de resolve os problemas de poko torque em baixa...Abraço!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Ventoinha do radiador ligada direto",
+    "url": "http://www.clubecalibra.com.br/forum/topic/4660-ventoinha-do-radiador-ligada-direto/",
+    "id": "4660",
+    "messages": [
+        {
+            "author": "Fantasma",
+            "date": "2005-05-01T19:01:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHoje a tarde fui limpar a agua do sistema do motor, tirei o termometro que indica a temperatura do painel e com uma mangueira dentro do reservatorio de agua, deixei por um tempo trocando de agua dentro do sistema. Tudo certinho, voltei o termometro no seu lugar ainda com a agua circulando pelo sistema, apertei ele, e dei partida no motor, nao deu nem 3 minutos a ventoinha acionou e enquanto o motor ficar ligado ela nao desliga e no painel agora nao marca a temperatura. Mas parece qua agua esta circulando normalmente pelo sistema.<br/>\nAlguem tem ideia do que acontece?<br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-05-01T20:19:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tzuou o contato eletrico do sensor<br/>\nlembre se os fios tem 10 anos estão ressecados\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fantasma",
+            "date": "2005-05-01T20:25:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAgora acho que acertei o problema da ventoinha, tirei um plugue que fica no radiador, do outro lado da ventoinha e passei um limpa contato, a ventoinha funciona so quando o carro esta quente, porem o marcador de temperatura no painel acusa um pouquinho acima da faixa azul qndo liga a ventoinha, mas percebe que o carro esta bem acima dessa temperatura. Acho que fodeu esse sensor do painel.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fantasma",
+            "date": "2005-05-02T12:13:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE normal no VGSi a temperatura no painel nao passar dos 90º de jeito algum, enquanto num vectra gls mesmo ano a temperatura chegar no meio, entre 90º e 100º ?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-05-03T00:22:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tvec A e calibras = 95 graus a temp normal de trabalho.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "title": "Comportamento estranho",
+    "url": "http://www.clubecalibra.com.br/forum/topic/4258-comportamento-estranho/",
+    "id": "4258",
+    "messages": [
+        {
+            "author": "RSR",
+            "date": "2005-03-02T19:18:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera,<br/>\n<br/>\nMeu cali tá com um comportamento estranho:<br/>\nD vez em qdo ele acelera sozinho até umas 2.000rpm e depois volta, qdo dirijo na cidade e coloco em ponto morto em movimento e tb engatado. <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <br/>\n<br/>\nOq pod ser? Sensor d marcha lenta sujo? Só q qdo deixo ele parado funcionando, a lenta fica normal, estavel. <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>\n<br/>\nRecentemente trokei velas, filtro d combustivel e d ar, ando sempre c/ gasolina q axo boa, ñ misturo c/ alcool, o desempenho está bom... onti mesmo passei dos 250km/h(desculpa aí rod)... porém meu escape está c/ apenas o abafadô intermediário(to esperando o preço da silenpro), será q influencia?<br/>\n<br/>\nGrato pela atenção!<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>RSR</b>: 02 março 2005 - 22:22\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-03-02T19:22:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPode ser o sensor de oxigenio ( Sonda Lambda)\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-02T19:23:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ttá com pinta de admissão aeuhaeuah <br/>\n<br/>\no escape acho que só influenciaria se tivesse vazando pela flange entre o coletor e o resto do escape.<br/>\n<br/>\ntdo bem os 250 aeuhaeuh o recorde de painel tá 255 em descida euahaeu obvio que reais nao devo ter chegado nem nos 230. Um dia consigo filmar essas proezas, pelo menos havia 2 testemunhas de consolação auehhue  <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-02T19:37:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\t99% de chance de ser o atuador da marcha lenta enroscando devido o acúmulo de sujeira. Limpe o atuador e veja se para.<br/>\n<br/>\nAproveite para verificar mangueiras do atuador, se estão bem presas, se não estão furadas, danificados..verificar todas linhas de vacuo que se conectando ao corpo da borboleta.. Qualquer fuga de ar falsa na admissão depois da borboleta, sobe a aceleração, e é justamente isso que o atuador faz para controlar a marcha lenta(ele libera e bloqueia a passagem de ar da SFI box direto pro coletor de admissão depois da borboleta). <br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mr. Calibra",
+            "date": "2005-03-02T20:13:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu tb tava fazendo isso, principalmente quando frio... mandei limpar os bicos e parou...<br/>\n<br/>\nas vezes ele segurava em 1.1krpms e quando parava totalmente ele voltava pros 900rpms...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-02T21:44:26+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"2/03/2005, 16:37\"><p>99% de chance de ser o atuador da marcha lenta enroscando devido o acúmulo de sujeira. Limpe o atuador e veja se para.</p></blockquote>Yep. Tive esse mesmo problema, limpei o atuador da marcha lenta e ficou novo de novo.<br/><br/>Abraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-03-03T01:21:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu, pessoal!<br/><br/>Axo q neste sabado verei td isso com o mecânico.<br/><br/>Sobre o escape... ñ sei ñ c ñ ta vazando viu... em marcha lenta ta uma vibração/ressonância feia na região do intermediario... pod c algumas chapinhas d proteção d calor ou vazamento.<br/><br/><blockquote class=\"ipsBlockquote\"><p>tdo bem os 250 aeuhaeuh o recorde de painel tá 255 em descida euahaeu obvio que reais nao devo ter chegado nem nos 230. Um dia consigo filmar essas proezas, pelo menos havia 2 testemunhas de consolação auehhue</p></blockquote>Intaum, Rod... meu cali ta c/ rodas/pneus originais... nakela velocidade, olhei pro conta giro e marcava 6.750rpm... isso mesmo, um riskinho antes do 7.000... oq daria 247,5km/h d real, certo? <span rel=\"lightbox\"><img alt=\":ives\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ivesdance.gif\"/></span> <br/><br/>Abraços!<br/>RSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-03T01:29:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSó com gps pra ter a certeza definitiva uaeheuh mas pela relação do cambio daria +- isso de real mesmo.<br/>\n<br/>\nAgora... q pta descida vc pegou hein eauhaeuaehuhae <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-03-03T13:24:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMeu Calibra faz isso a muito tempo!<br/>\n<br/>\nTem como limpar o atuador da marcha lenta em casa???<br/>\n<br/>\nOutra: agora meu carro ta fazendo direto...tipo, eu acelero em primeira pra arrancar e quando piso na embreagem pra trocar pra segundo o carro mantem o giro tipo como se eu estivesse acelerando na troca de marchas. Isso incomoda bastante pq quando quero arrancar na manha e coloco a 2ª o carro dá aquele soco pq ta acelerado...Isso acontece muito com o  carro frio..<br/>\n<br/>\nO q pode ser?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-03-03T13:47:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"RSR\" data-date=\"2/03/2005, 22:21\"><p>Valeu, pessoal!<br/><br/>Axo q neste sabado verei td isso com o mecânico.<br/><br/>Sobre o escape... ñ sei ñ c ñ ta vazando viu... em marcha lenta ta uma vibração/ressonância feia na região do intermediario... pod c algumas chapinhas d proteção d calor ou vazamento.<br/><br/>Intaum, Rod... meu cali ta c/ rodas/pneus originais... nakela velocidade, olhei pro conta giro e marcava 6.750rpm... isso mesmo, um riskinho antes do 7.000... oq daria 247,5km/h d real, certo? <span rel=\"lightbox\"><img alt=\":ives\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ivesdance.gif\"/></span> <br/><br/>Abraços!<br/>RSR</p></blockquote> Nem o Calibra Turbo chega a 247 km/h real, quando mais o nosso manco.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-03T13:52:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Meu Calibra faz isso a muito tempo!<br/><br/>Tem como limpar o atuador da marcha lenta em casa???<br/><br/>Outra: agora meu carro ta fazendo direto...tipo, eu acelero em primeira pra arrancar e quando piso na embreagem pra trocar pra segundo o carro mantem o giro tipo como se eu estivesse acelerando na troca de marchas. Isso incomoda bastante pq quando quero arrancar na manha e coloco a 2ª o carro dá aquele soco pq ta acelerado...Isso acontece muito com o carro frio..<br/><br/>O q pode ser?</p></blockquote><br/>Com o coletor montado no carro, é meio chatinho de acessar o atuador. Vc tem que ir pela lateral direita e ver se tem acesso as abraçadeiras das mangueiras dele. É só vc soltar as abraçadeiras e puxa-lo, pois ele só fica preso pelas mangueiras. <br/><br/>Para limpa-lo, é só deixar de molho na gasolina(não precisa colocar o atuador inteiro de molho, e sim apenas a parte inferior que tem as janelas), até sair toda sujeira, borras... E depois lubrificar com WD40. <br/><br/>Os seus sintomas também são de atuador sujo, provavelmente esta enroscando aberto, por isso o giro ta subindo muito. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-03T13:58:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ isso aí, fiz isso que o Matheus falou e o carro ficou com a lenta 100%. <br/>\n<br/>\nCom relação à sua retirada, só lembrando que além das mangueiras, o atuador tem uma fiação elétrica plugado nele, então depois que vc soltar as mangueiras, não se esqueça de soltar o plug dele, blz? Na erdade eu achei mais fácil acessá-lo por baixo do carro. Levantei o carro no macaco, iluminei bem a áre e tirei o atuador. Achei mais fácil porque dá pra ver ele direitinho por baixo, e pra quem não conhece ele direito, é mais chato ainda mexer por cima.<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-03-03T14:00:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPOw, alguém tem uma foto com esse atuador em destaque? Não tenho a menor idéia de onde ele fica.... e depois desses últimos posts de Matheus e Fábio to disposto a limpar em casa mesmo...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-03T14:03:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBoas dicas Fábio!!! Tinha esquecido do chicote.<br/>\n<br/>\n<br/>\nSonic, aguenta mão aí, vou tirar umas fotos do meu coletor com o atuador montado pra vc entender.<br/>\n<br/>\n<br/>\nSó um segundo amigo.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-03T14:47:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcabei de tirar as fotos. Tirei de todos os ângulos possíveis. As setas indicam onde vc terá de soltar as abraçadeiras. Nas mangueiras do meu atuador esta sem abraçadeiras, pois vou colocar todas novas, joguei as velhas fora. Vc vai notar que o meu coletor de admissão é um pouco diferente do seu, pois o meu é da versão com traction control, por isso possui aqueles dois corpos de borboleta e coletor mais curto no assentamento delas. <br/><br/><br/>A foto abaixo é a visão por trás do coletor, a seta esta indicando a mangueira que vc deverá soltar da SFI box, essa é a mais fácil de remover:<br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img188.exs.cx:81/img188/1900/coletorsfi1ut.jpg\"/></span><br/><br/><br/>Essa é a foto por cima, é a visão que vc tem do seu coletor/sfi box quando vc abre o capo. Eu assinalei abaixo onde é que fica o atuador:<br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img33.exs.cx:81/img33/9719/coletorsfi22gq.jpg\"/></span><br/><br/>Aqui a vista lateral direita, a qual vc poderá ter acesso ao atuador com o coletor montado no carro. Dependendo da posição que estão as abraçadeiras, poderá dificultar bastante. Assinalei a mangueira inferior que terá de soltar a abraçadeira: <br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img126.exs.cx:81/img126/7498/coletorsfi30yp.jpg\"/></span><br/><br/>Aqui mostra uma visão privilegiada na qual vc não terá com o coletor montado no carro. As setas indicam novamente as mangueiras que vc terá de soltar as abraçadeiras para remover o atuador:<br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img196.exs.cx:81/img196/561/coletorsfi43tx.jpg\"/></span><br/><br/>Essa é a visão mais aproximada do atuador:<br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img181.exs.cx:81/img181/4867/coletorsfi57qk.jpg\"/></span><br/><br/><br/>E aqui é a visão que vc terá acessando por baixo do carro, como o Fábio sugeriu. Realmente parece ser mais fácil acessando por baixo. Caso vc não consiga acessar pela lateral direita, então tente acessar por baixo:<br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img181.exs.cx:81/img181/2501/coletorsfi64io.jpg\"/></span><br/><br/><br/><br/>Qualquer dúvida, é só falar.<br/><br/><br/><br/>Abraços,<br/><br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-03T16:40:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPo, otimas fotos!<br/>\n<br/>\nEu tb nao sabia onde era o atuador, mas vendo as fotos agora, eh bem simples de retira-lo e limpa-lo!!<br/>\n<br/>\nValeu Matheus!<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-03T16:50:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tshow!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-03T16:50:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAcho q seria bom levar estas fotos pra parte de manutencao hein Rod...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-03-03T19:14:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPorra véio, pode cre Matheus!!!!!<br/>\n<br/>\nMuito obrigado!!!<br/>\n<br/>\nVou limpar essa bagaça em casa mesmo. Vou retirar sábado e depois repasso os results pra galera...<br/>\n<br/>\nAbrax!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-03T19:22:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tConcordo plenamente... só fazer o artigo e postar no guia técnico <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2005-03-03T19:32:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGarai! <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span><br/>\n<br/>\nMeu carro, no scanner, acusou defeito no atuador da marcha lenta.<br/>\n<br/>\nSolução simples: limpá-lo <br/>\nSolução Missão Impossível : achá-lo <span rel=\"lightbox\"><img alt=\":ph34r:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/ph34r.gif\"/></span> <br/>\n<br/>\nSério mesmo. Não limpei porque não achei o maldito!<br/>\n<br/>\nÓTIMAS FOTOS! GUIA TÉCNICO NELAS!!!! <br/>\n<br/>\nValeu, por mais essa, Matheus <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sérgio",
+            "date": "2005-03-03T20:04:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, tem um liquido indicado para limpeza?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-03T20:06:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPode usar gasolina mesmo, como ele disse.<br/>\n<br/>\nAi depois usa o WD-40 pra lubrificar...<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-03T20:19:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tValeu pessoal.. Não sabia que esse atuador tava pregando canseira em tantos colegas assim, se eu soubesse que essas fotos iria ajudar bastante, teria tirado antes, pois pra mim estava fácil, já que estou com todas peças do C20XE avulsas aqui em casa.. <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/><br/>Quanto ao artigo, eu não sei ao certo como devo faze-lo, se vcs me derem uma idéia, com certeza farei, o que puder acrescentar ao clube, será ótimo. <br/><br/><blockquote class=\"ipsBlockquote\"><p>Matheus, tem um liquido indicado para limpeza?</p></blockquote><br/>O Puppets já reforçou o que eu tinha dito. A gasolina remove muito bem as borras. Essas borras se criam devido ao sistema de ventilação do cárter, que joga o vapor para a borboleta, e acaba melando tudo que esta no caminho. Motores com vapor do sistema de ventilação direcionado para um catch tank, não tem esse problema de acumular borras no atuador. Em carros turbinados obrigatoriamente tem que separar o retorno do vapor de óleo, se não, quando vem pressão na turbina, vc irá pressurizar o cárter. <br/><br/>Lembrando que na hora de limpar o atuador, não se deve coloca-lo inteiro no pote com gasolina, mas sim apenas a região inferior com as duas janelas. Colocar o atuador inteiro pode acarretar algum problema no sistema eletrônico dele, pois não sabemos se ele é tão bem vedado na região que vai o conector do chicote. <br/> Existe produtos específicos para remover carbonização em lojas de peças automotivas. Eu nunca ví necessidade de usar esses produtos quando eu limpei atuadores(inclusive esse meu do C20XE), a gasolina sempre foi um produto de limpeza fácil, mas caso esteja difícil de deixar limpo com a gasolina, então pode apelar para um removedor específicio. <br/> Para saber se a limpeza foi suficiente, basta vc colocar seu dedo mindinho em uma das janelas, e mexer a guilhotina interna, ela deverá se mover livremente e voltar automaticamente quando vc solta, sem travar. Se estiver enroscando, deixe de molho por mais tempo na gasolina. Jamais tente jogar óleo no atuador sujo para força-lo a desenroscar, antes de lubrificar, primeiro descarbonize. <br/><br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "João Cesar",
+            "date": "2005-03-03T20:50:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to meu fazia isso também chegava a uns 1100 rpms ...<br/>\n<br/>\nsolução:<br/>\n<br/>\ntroquei o cabo de velas originais beru por cabos novos<br/>\nsupressives esqueci a marca .<br/>\n<br/>\nfacada 70 conto  <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/>\n<br/>\nalguêm quer comprar os beru ainda não dão fuga de corrente uhahuuha estão semi-novos tem só +ou - uns 9 anos hehehehe .<br/>\n<br/>\nabrax.<br/>\n<br/>\nps. troquei a bobina por uma bobina do kadett 2.0 96 8v que por sinal é a mesma do vctra 2.0 8v 97 e que por sinal é a mesma do calibra preço 80 contos .<br/>\na do calibra saia nada mais nada menos do que 600 !<br/>\nfoda esse lance de só mudar o nome .. pqp<br/>\n<br/>\nfalows.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-03-04T03:10:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Alemão - SP\" data-date=\"3/03/2005, 10:47\"><p>Nem o Calibra Turbo chega a 247 km/h real, quando mais o nosso manco.</p></blockquote> Alemão,<br/><br/>Mas isso foi numa grande descida.... agora c o conta-giros mente, aí ñ tem como saber mesmo.<br/><br/>RSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-03-04T03:22:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEskeci d mencionar, mas onti mesmo nessas aceleradas autônomas loucas, ascendia tb a luz da injeção.<br/>\n<br/>\nMas olha q estranho: hj fui a Limeira/SP... num total d 480km d viajem e ñ houve nenhuma falha sequer! <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <br/>\n<br/>\nBem, muito obrigado Matheus e pessoal pela grande ajuda e o \"guia d manutenção do atuador\" <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <br/>\n<br/>\nAbraços!<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Humberto Duccini",
+            "date": "2005-03-04T06:37:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOi,<br/>\n<br/>\n   Ratificando. Ao realizar limpeza no atuador, fique atento as suas mangueiras de borracha, especialmente a menor. Ela tende a rasgar, furar, etc. onde é fixada a abraçadeira, sendo difícil a visualização do defeito, mesmo ela estando na mão.<br/>\n   Esse fato é responsável para os muitos casos onde ao nos aproximarmos de um semáforo ou lombada, o motor do carro parece que vai morrer, depois acelera e volta ao normal. Além da marcha lenta irregular.<br/>\n   Para aqueles que tiverem a oportunidade de levar o carro até um scanner após a limpeza do atuador e verificação das suas mangueiras, aconselho realizar um reset no módulo e seus capacitores (na parte do IAC - marcha lenta). Digo isso porque alguns módulos tendem a perder seus parâmetros de marcha lenta e só com um reset mais forte ele volta a funcionar (e nem sempre desligar a bateria resolve).<br/>\n   Por isso, em alguns casos quando vamos para a estrada (tudo normal) e voltamos para o trânsito da cidade, num primeiro momento o veículo se porta de forma OK. Mas bastam alguns quilômetros para que ele torne a apresentar o problema.<br/>\n   Após a manutenção a melhora é nítida. Depois é só andar com o carro e deixar que ele se reprograme (ficando melhor ainda).<br/>\n   Parabéns ao Matheus pelas excelentes fotos. <br/>\n   Um abraço.<br/>\n<br/>\n Humberto Duccini\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-04T11:37:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAs fotos e as sugestões do Matheus já são core para um guia. Assim que esse tópico estiver resolvido podemos editar a parte das fotos e fazer um tópico exclusivo.<br/>\n<br/>\nSensacional a iniciativa.<br/>\n<br/>\nUma pergunta: Para quem está com o carro com comportamento normal e quiser limpar o atuador, normalmente quais são as melhoras perceptíveis?<br/>\n<br/>\nAbraço,<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-04T11:57:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Paulo Henrique\" data-date=\"4/03/2005, 08:37\"><p>Uma pergunta: Para quem está com o carro com comportamento normal e quiser limpar o atuador, normalmente quais são as melhoras perceptíveis?<br/><br/>Abraço,<br/><br/>PL</p></blockquote> Paulo, não sei se entendi direito a sua pergunta, mas se o carro estiver com a marcha lenta zeradinha, não há por que fazer essa limpeza, a não ser como manutenção preventiva. <br/><br/>Nesse caso, eu acredito que você não irá notar nenhuma diferença, pois me parece que esse atuador funciona como um by-pass do sistema de entrada de ar. Portanto se ele estiver funcionando corretamente e você mesmo assim fizer a preventiva, provavelmente não irá notar diferença alguma, uma vez que ele afeta apenas a marcha lenta do caro que já estava boa, certo?<br/><br/>Abraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Ives",
+            "date": "2005-03-04T12:49:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPô, parabéns de novo Matheus!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "seco",
+            "date": "2005-03-04T12:55:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão é NADA fácil retirar o atuador. Só consigo fazê-lo por baixo do carro, o que já requer uma boa rampa ou elevacar. E ainda assim tem que remover protetores, etc, etc.<br/><br/>Nas fotos, sem o motor, caixa, etc, em volta fica simples de vê-lo. Na real, é dificílimo acessá-lo.<br/><br/>Uma sugestão quebra-galho: soltar a mangueira que fica presa à SFI e encher de spray lubrificante por ali. Primeiro com o motor desligado. Deixe agir por meia hora. Depois passe a borrifar com o motor ligado. Vai ficar falhando bastante. Depois é só reconectar a mangueira.<br/><br/>Tenho notado que muitos assuntos se repetem no fórum. Antes de postar as dúvidas, é bom que se faça uma pesquisa por assunto. Por exemplo, esse assunto de atuador da lenta estava explicado no tópico:<br/><br/><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?showtopic=2144&amp;hl=\" title=\"\">http://www.clubecali...wtopic=2144&amp;hl=</a><br/><br/>Abraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>seco</b>: 04 março 2005 - 10:05\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-03-04T13:40:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTem algum problema em usar Querozene ao invéz de Gasolina? É q eu nunca fui adepto a usar gasolina em partes do carro...sei lá, acho q lugar de gasolina é no tanque! Sempre uso querozene pra limpar coisas sujas... Ah, outra coisa: é necessário lubrificar após a limpeza?<br/>\n<br/>\nÉ amanha o dia... caso eu não conseguir, vou gritar aki dnovo!!! hauahuahuahau!<br/>\n<br/>\nValew\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "seco",
+            "date": "2005-03-04T13:43:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVai gritar\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-03-04T13:46:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thauhauahuahauhaua!!!!<br/>\n<br/>\nAntes de eu gritar te ligo e levo aí pra ti limpar essa bagaça pra mim!!! hauhauahauhauhau!!!! <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>  Já temos q trocar a iluminação do meu painel mesmo....\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T13:57:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Tem algum problema em usar Querozene ao invéz de Gasolina? É q eu nunca fui adepto a usar gasolina em partes do carro...sei lá, acho q lugar de gasolina é no tanque! Sempre uso querozene pra limpar coisas sujas... Ah, outra coisa: é necessário lubrificar após a limpeza?<br/><br/>É amanha o dia... caso eu não conseguir, vou gritar aki dnovo!!! hauahuahuahau!</p></blockquote>Não há problema algum usar gasolina para limpeza. Vc pode usar querosene também, mas é mais fraco.<br/><br/>É bom lubrificar depois da limpeza, mas não obrigatório. A única desvantagem em lubrificar, é que passa acumular sujeira mais rapidamente(devido a oleosidade segurar toda sujeira). <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-03-04T14:30:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGASOLINA EO MELHOR modo de fazer limpeza.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-03-04T14:55:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE este modo de limpeza \"light\", de se borrifar lubrificante direto na mangueira que sai da SFI?<br/>\nSei que se tiver muita borra não vai ajaudar, mas se for sometne falta de lubrificação? Pode causar alguma avaria este processo?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T15:21:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>E este modo de limpeza \"light\", de se borrifar lubrificante direto na mangueira que sai da SFI?<br/>Sei que se tiver muita borra não vai ajaudar, mas se for sometne falta de lubrificação? Pode causar alguma avaria este processo?</p></blockquote><br/>Avaria não vai causar..único efeito incoveniente disso é que o motor vai fumegar o óleo..<br/><br/>Se for pouca coisa mesmo que estiver impedindo o livre movimento da guilhotina, aí o óleo poderá resolver, mas provavelmente vai dar problema de novo. Pra deixar zerado, tem que tirar e limpar mesmo.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-03-04T15:31:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, antes de sair com o Calibra pela manhâ, não importando a temperatura ambiente, eu tenho que esquentá-lo muito bem, saso contrario, sai falhando, engasgando, e às vezes até morre e fica difícol de pegar. E quando muito quente, ele não pega se não se acelerar . . . fato anormal para injeção eletrõnica. Que achas?<br/>\n[]s<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-03-04T15:35:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"3/03/2005, 17:19\"><p>Essas borras se criam devido ao sistema de ventilação do cárter, que joga o vapor para a borboleta, e acaba melando tudo que esta no caminho. Motores com vapor do sistema de ventilação direcionado para um catch tank, não tem esse problema de acumular borras no atuador. Em carros turbinados obrigatoriamente tem que separar o retorno do vapor de óleo, se não, quando vem pressão na turbina, vc irá pressurizar o cárter.</p></blockquote> Matheus,<br/><br/>Por acaso esse sistema d ventilação do carter por acaso tem uma mangueirinha q é ligada à caixa SFI? Tipo é o \"respiro do óleo\"? C for ñ podemos direcionar essa mangueira p/ à atmosfera, tipo deixando ela pra baixo?<br/><br/>É facil instalar/adaptar um Catch tank em nossos motores?<br/><br/>RSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T15:54:37+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Matheus, antes de sair com o Calibra pela manhâ, não importando a temperatura ambiente, eu tenho que esquentá-lo muito bem, saso contrario, sai falhando, engasgando, e às vezes até morre e fica difícol de pegar. E quando muito quente, ele não pega se não se acelerar . . . fato anormal para injeção eletrõnica. Que achas?<br/>[]s<br/>Célio</p></blockquote><br/>Típica anomalia de sensor de temperatura da água. Mas pode ser outros ítens. Primeira coisa é vc fazer o jump no LDL e ler a memória de avarias de sua ECU, ela é um importante começo para termos base. Muitas vezes a ECU não te mostra exatamente qual é o problema, mas os erros que ela indica, acaba dando pistas de onde esta o problema. <br/> Então, primeiro passo, antes de sair trocando qualquer peça, é fazer leitura da memória de avarias.<br/><br/><br/><blockquote class=\"ipsBlockquote\"><p>Matheus,<br/><br/>Por acaso esse sistema d ventilação do carter por acaso tem uma mangueirinha q é ligada à caixa SFI? Tipo é o \"respiro do óleo\"? C for ñ podemos direcionar essa mangueira p/ à atmosfera, tipo deixando ela pra baixo?<br/><br/>É facil instalar/adaptar um Catch tank em nossos motores?<br/><br/>RSR</p></blockquote><br/>A mangueira de vapor de óleo do sistema de ventilação do cárter, no C20XE ela sai da tampa de válvulas, que na realidade são duas, uma grossa e outra fina, ambas se conectam ao corpo de borboleta. <br/>Vc pode sim desconectar essas mangueiras do corpo de borboleta(lembrando de fechar as tomadas do corpo de borboleta) e colocar direto para atmosfera, mas o incoveniente disso é que mela todo o cofre do motor, da cheiro de óleo no interior do carro e também pinga óleo na pista. <br/> O correto é vc fechar a mangueira menor(ela serve apenas como segurança caso a maior fique entupida), e ficar só com a mangueira maior conectada ao um catch tank. Esse catch tank não precisa ser aquelas garrafinhas de alumínio bonitas e caras que vendem em lojas de preparação, vc pode colocar recipientes plásticos que resistem calor do cofre, como frasco de aditivo e etc. Vc faz um furo no meio do recipiente, para introduzir a mangueira de vapor do óleo, e na boca dele vc adapta um filtrinho de respiro.<br/><br/>Veja como era meu catch tank quando tinha acabado de montar meu 8V turbo(repare que ainda tinha ar condicionado meu carro, heheheh):<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://img177.exs.cx/img177/2708/motorgsiturboantigo4kn.jpg\"/></span><br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Matheusc20xe</b>: 04 março 2005 - 12:56\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-04T17:40:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, eu entendi perfeitamente o esquema do catch tank, a explicação está muito bem elaborada, mas eu não sei para que serve o catch tank? Ele contribui em alguma no desempenho ou funcionamento do motor?<br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-04T17:44:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEh soh pro vapor do oleo nao ser jogado no chao, melando a pista, e nem sujar o cofre do motor.<br/>\n<br/>\nEu pretendo fazer isso.<br/>\n<br/>\nMatheus, o consumo de oleo aumenta mto fazendo isso?<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T17:59:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Matheus, eu entendi perfeitamente o esquema do catch tank, a explicação está muito bem elaborada, mas eu não sei para que serve o catch tank? Ele contribui em alguma no desempenho ou funcionamento do motor?<br/><br/>Abraços, Fábio.</p></blockquote><br/>Como o Puppets já falou, ele serve para vc guardar o fluido decorrente do vapor de óleo.<br/> No seu motor do jeito que ta, o vapor de óleo é queimado junto com a mistura admitida, diminuindo assim os níveis de emissões de poluentes. Se vc colocar direto para atmosfera, irá melar o cofre, gotejar no asfalto e etc..fica uma lambança, fora o fato do odor de óleo dentro do carro. Já no catch tank vc terá um reservatório desse vapor de óleo, ele irá condensar e se tornar um líquido que é a mistura da água com o óleo. Quando o reservatório(catch tank) encher, é só tira-lo do carro e jogar fora o fluido, e monta-lo novamente. Mas demora bastante pra encher. Só enche rápido se vc estourar a canaleta de algum pistão..hehehehehe. <br/> Os catch tanks que são vendidos nas lojas de preparação, são bem úteis no sentido de fazer a drenagem, pois possuem uma torneirinha na região inferior do reservatório que é só vc abrir pra escoar todo líquido. Além dessa facilidade, é muito mais bonito. Na época que eu fiz essa foto, eu tinha acabado de montar o kit no meu carro, por isso o motor(que estava 100% original no miolo) estava todo sujo e com esse catch tank tabajara.. depois eu tirei o reservatório, e usei um respiro direto na mangueira(não é o ideal, pois mesmo assim goteja). Agora no meu C20XE eu vou usar um catch tank da SummitRacing que o Erick vai trazer pra mim!  <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> <br/><br/><blockquote class=\"ipsBlockquote\"><p>Matheus, o consumo de oleo aumenta mto fazendo isso?</p></blockquote><br/>Não aumenta não Puppets..<br/><br/>Iria aumentar o consumo de óleo, caso vc liberasse a placa de vedação do sistema de ventilação do carter que vai fixada na tampa de válvulas. A tampa que eu vendi para o Segião esta 100% aliviada, no caso dele, o consumo de óleo aumenta. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-04T18:04:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Agora no meu C20XE eu vou usar um catch tank da SummitRacing que o Erick vai trazer pra mim!</p></blockquote><br/>Fotos? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/>[]s<br/>Rodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-04T18:11:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSem fazer esta liberacao da placa q vc fez na tampa q vc vendeu pro Sergio, e soh tirando este respiro para uma garrafinha, tem melhora no rendimento/potencia do motor? O sergio disse q o carro dele sobe giro mais rapido, mas nao sei se eh por causa desta liberacao ai.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T18:27:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Fotos? <br/><br/>[]s<br/>Rodrigo</p></blockquote><br/>yeap! <br/><br/>Olha que catch tank jeitosinho:<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://static.summitracing.com/global/images/prod/large/sum-g1506.jpg\"/></span><br/><br/>E custa apenas 30 dólares. Se mandar alguém trazer, fica baratíssimo.. e se for pedir pra Summit enviar, mesmo pagando frete e os 60% de impostos, ainda não fica tão caro assim, comparando com os catch tank nacionais que na minha opinião são mais feios e custa na faixa de 150 reais. <br/><br/><blockquote class=\"ipsBlockquote\"><p>Sem fazer esta liberacao da placa q vc fez na tampa q vc vendeu pro Sergio, e soh tirando este respiro para uma garrafinha, tem melhora no rendimento/potencia do motor? O sergio disse q o carro dele sobe giro mais rapido, mas nao sei se eh por causa desta liberacao ai.</p></blockquote><br/>Sim, só de vc tirar o vapor de óleo indo para o motor, em alguns casos, ganha um pouco de potência, pois vc ocupa a admissão com parte de vapor de óleo junto com a mistura. Mas é quase irrelevantes.. costuma ser relevante em motores que tem sistema de ventilação do cárter bem forte(principalmente aqueles que andam com folga grande nos pistões/anéis e acaba pressurizando mais ainda o cárter). <br/>O ganho aliviando a placa existe e é relevante, tanto que o Sérgio sentiu o ganho na mesma hora que eu troquei a tampa pra ele.. Mas o maior ganho é no \"acelerate power\", isso é, na potência de aceleração, o motor sobe de giro mais rápido.. mesma sensação de quando vc alivia o volante do motor, menor inércia a ser vencida. E tbm promove um pequeno ganho de potência final. <br/> Se vc quiser, é só me mandar sua tampa, que eu modifico a placa dela pra vc. <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-04T18:31:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tshow mesmo!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-04T18:32:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEh uma ideia a se pensar! Gostei. Eh um jeito facil de ganhar uns cvs extras. Liberando a tampa de valvulas + catch tank pro vapor de oleo + chip, qual sera a potencia final ganha? Uns 10 cv?<br/>\n<br/>\nInfelizmente meu carro esta no RS agora. Eu precisaria tirar a tampa, e te mandar, e deixar o carro encostado neste tempo, pq nao tenho outro carro lah pra usar. Mas pode ter certeza q assim q eu tiver a chance, mando a tampa pra vc sim matheus. E agradeco desde jah <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2005-03-04T18:33:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"4/03/2005, 15:27\"><p>yeap! <br/><br/>Olha que catch tank jeitosinho:<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://static.summitracing.com/global/images/prod/large/sum-g1506.jpg\"/></span><br/><br/>E custa apenas 30 dólares. Se mandar alguém trazer, fica baratíssimo.. e se for pedir pra Summit enviar, mesmo pagando frete e os 60% de impostos, ainda não fica tão caro assim, comparando com os catch tank nacionais que na minha opinião são mais feios e custa na faixa de 150 reais.</p></blockquote> Em princípio, muito me interessa <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/>O que mais ele oferece em termos de funcionalidade, que não se encontra nos produtos made-in Brazil ? Ou é só design mesmo? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span><br/><br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-04T18:35:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tsmelling grupo de compras <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-03-04T18:35:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"West\" data-date=\"4/03/2005, 15:33\"><p>Em princípio, muito me interessa <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/><br/>O que mais ele oferece em termos de funcionalidade, que não se encontra nos produtos made-in Brazil ? Ou é só design mesmo? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span><br/><br/><br/>[]'s</p></blockquote>   Em qual site esta isso , com certeza chega sem impostos 30 paus os caras não enchem o sco não\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T18:37:42+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Eh uma ideia a se pensar! Gostei. Eh um jeito facil de ganhar uns cvs extras. Liberando a tampa de valvulas + catch tank pro vapor de oleo + chip, qual sera a potencia final ganha? Uns 10 cv?</p></blockquote><br/>heheheh..infelizmente não ganha tudo isso. O chip eu não posso estimar o ganho, aliás, esse é um assunto bem discutido no fórum, e não precisamos entrar de novo na discussão.. <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> <br/><br/> Mas liberando o sistema de ventilação do cárter e direcionando o mesmo para um catch-tank, seu ganho não vai ultrapassar os 2 a 3cv, o que já é ótimo, considerando que é \"free horsepower\".. <br/><br/><blockquote class=\"ipsBlockquote\"><p>Infelizmente meu carro esta no RS agora. Eu precisaria tirar a tampa, e te mandar, e deixar o carro encostado neste tempo, pq nao tenho outro carro lah pra usar. Mas pode ter certeza q assim q eu tiver a chance, mando a tampa pra vc sim matheus. E agradeco desde jah</p></blockquote><br/>Então, se vc quiser, eu posso te vender uma tampa personalizada a base de troca, posso pintar na cor que vc quiser(cores comuns, é claro..heheh). Eu pinto primeiro, alivio a placa dela, deixo tudo pronto, e envio pra vc, aí vc monta no seu carro, e me envia a sua antiga.  <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T18:41:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Em princípio, muito me interessa <br/><br/>O que mais ele oferece em termos de funcionalidade, que não se encontra nos produtos made-in Brazil ? Ou é só design mesmo?</p></blockquote><br/>Hum..funcionalidade, nada mais..faz exatamente o mesmo que os catch tank nacionais fazem. E ele é de plástico, deve considerar isso, pois os nacionais são de alumínio ou aço inox, o que tem maior custo pra ser produzido. Talvez por isso que o preço dele seja tão bom. <br/><br/>Mas a vantagem que tem sobre o nacionais, é somente subjetiva, ou seja, somente estética, e é claro, o preço. <br/><br/><br/><blockquote class=\"ipsBlockquote\"><p>Em qual site esta isso , com certeza chega sem impostos 30 paus os caras não enchem o sco não</p></blockquote><br/>A receita ta pegando TUDO..eu falo isso pq estou trazendo peças direto lá de fora. Até objetos de baixo valor tão cobrando impostos. O Brasil ta fechando as portas totalmente para a importação. <br/>Mas mesmo que pague os 60% de impostos fica com um preço bom. <br/><br/>Ah, quanto ao site, é da Summit: www.summitracing.com<br/><br/>pesquise por \"breather tank\". <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Matheusc20xe</b>: 04 março 2005 - 15:42\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Eugenio Resende",
+            "date": "2005-03-04T20:29:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Rodrigo\" data-date=\"4/03/2005, 15:35\"><p>smelling grupo de compras <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span></p></blockquote> Interessante: tá cheirando aqui também.  <span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span> <br/><br/>Tão vendo? Cês ficam postando essas novidades... Agora é esse catch tank pro óleo. Praga! Praga! Praga! Se tiver grupo de compras... tô dentro.  <span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span> <br/><br/>[]s<br/>Eugenio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-04T20:32:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu idem aeuhea\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2005-03-04T21:19:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"4/03/2005, 15:41\"><p>E ele é de plástico, deve considerar isso, pois os nacionais são de alumínio ou aço inox, o que tem maior custo pra ser produzido.<br/>(...)<br/>Mas a vantagem que tem sobre o nacionais, é somente subjetiva, ou seja, somente estética, e é claro, o preço.</p></blockquote> Como você pode se esquecer Matheus!!<br/>E o alívio de peso??? hehehe  <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/><br/>Abraço,<br/><br/>Fabio Mortari\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-03-04T21:37:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa Matheus, agora ficou ainda mais interessante!<br/>\nMe manda por MP o qto vc cobraria pra fazer este alivio na tampa pintada na cor vermelha mesmo ( somum nao eh, hehe ), a base de troca.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-04T21:40:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Como você pode se esquecer Matheus!!<br/>E o alívio de peso??? hehehe    <br/><br/>Abraço,<br/><br/>Fabio Mortari</p></blockquote><br/>heheheeheh.. sacana!!! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/><br/><br/><blockquote class=\"ipsBlockquote\"><p>Opa Matheus, agora ficou ainda mais interessante!<br/>Me manda por MP o qto vc cobraria pra fazer este alivio na tampa pintada na cor vermelha mesmo ( somum nao eh, hehe ), a base de troca.</p></blockquote>Beleza Puppets, estarei te enviando a MP!<br/><br/><br/>Abraços!<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-05T03:27:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<span rel=\"lightbox\"><img alt=\"&lt;_&lt;\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/dry.gif\"/></span><br/>\n<br/>\nPoxa, Eu devia ter pego aquela tapa pra mim... Muito loka.. Mas pensei que não estivesse à venda..<br/>\n<br/>\n<span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-03-05T12:51:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"4/03/2005, 12:54\"><p>Típica anomalia de sensor de temperatura da água. Mas pode ser outros ítens. Primeira coisa é vc fazer o jump no LDL e ler a memória de avarias de sua ECU, ela é um importante começo para termos base. Muitas vezes a ECU não te mostra exatamente qual é o problema, mas os erros que ela indica, acaba dando pistas de onde esta o problema.</p></blockquote> Caro Matheus, este sensoer de Temperatura de água, esta relacionado ao sistema de arrefecimento ou injeção eletrônica? Onde ele fica? Ainda não consegui achar o CEP dele, pode me ajudar?<br/>{}s<br/>Célio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "seco",
+            "date": "2005-03-06T01:54:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO sensor de temperatura da água pode ser localizado na parte da \"frente\" do motor, onde entra a mangueira grossa de água. Tem dois sensores, um envia os dados para o painel, o outro para a central. Como no caso de outros semsores. só vai gerar código de erro se parar de funcionar. Se marcar errado não acusa códigos de erro em scanners.<br/>\n<br/>\nQuanto ao catch tank, o meu é beemmm simples: mangueira de gás de cozinha na saída do cabeçote até a parte de baixo do carro.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>seco</b>: 05 março 2005 - 22:56\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-06T03:13:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Caro Matheus, este sensoer de Temperatura de água, esta relacionado ao sistema de arrefecimento ou injeção eletrônica? Onde ele fica? Ainda não consegui achar o CEP dele, pode me ajudar?</p></blockquote><br/>Fala grande Célio..o Seco já explicou onde fica, que é no casulo da válvula termostática. O sensor de temperatura da água da injeção é aquele com conector de duplo pino. O sensor de um fio simples, é apenas o indicador do painel que nada interfere na injeção.<br/><br/>O código GM do sensor de temperatura da água é:<br/>90510183<br/><br/><blockquote class=\"ipsBlockquote\"><p>Como no caso de outros semsores. só vai gerar código de erro se parar de funcionar. Se marcar errado não acusa códigos de erro em scanners.</p></blockquote>Vc não esta equivocado Seco? Pelo que pude notar, a maioria das injeções interpretam um sensor como defeituoso bastando o mesmo estar com faixa de voltagem anormal para o uso do momento. Assim como a sonda lambda, se vc utilizar mistura muito rica por qualquer motivo, a ECU vai registrar que a lambda esta com problema pelo fato de registrar mistura muito rica, mesmo não sendo ela o problema. <br/><br/><br/><blockquote class=\"ipsBlockquote\"><p>Quanto ao catch tank, o meu é beemmm simples: mangueira de gás de cozinha na saída do cabeçote até a parte de baixo do carro.</p></blockquote>O incoveniente disso é que mela toda região onde sai o vapor do óleo, além de pingar óleo no asfalto, ajudando a sujar a pista. Por isso em competições é obrigatório o uso de catch tank para o vapor de óleo.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2005-03-06T13:22:20+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, esse retorno de vapor de oleo não serve para lubrificar a parte de cima do motor, cilindros e assim teriamos ganho de potencia as custas da redução de vida util do motor alem de aumento de consumo? Me diz mais uma coisa existem duas mangueiras saindo da tampa de valvulas, na parte de traz da tampa, a mais grossa que vai ligada em baixo da caixa SFI tem que função? Seria a mangueira que leva o vapor de oleo para o atuador? Pergunto isso porque nos momentos de fuçador achei essa mangueira sem abraçadeira no lado da caixa, acho que trabalhando sob pressão deveria ter pulado fora e isso não aconteceu, ou não pulou fora porque ta ligado em uma depressão de ar que sugava a mangueira para o conector.<br/>\n<br/>\nFoi legal ter visto esse topico pois desde que comprei o carro ele oscila a aceleração em baixa chega as vezes até 1,4 Krpm e depois normaliza, vou aproveitar que vou ter que fazer o cabeçote e fazer a limpeza desta peça.<br/>\n<br/>\nSei que não faz parte deste topico, mas o meu motor estava rajando um pouco em altas rotações, pretendo mandar o carro pra retifica esta semana, ai vem a questão a grana ta curta e tenho muitas coisas pra fazer inclusive no carro, vale a pena fazer o motor todo agora ou faço o cabeçote e espero começar a rajar forte para fazer a parte de baixo tambem?<br/>\n<br/>\nDesculpe,se não estou enganado, mas se não todos a grande maioria aqui pelo que vejo, procura o aumento de desempenho do carro e eu vou na contra mão insistindo na redução de consumo, faço isso porque apesar de gostar do carro só tenho esse e acabo usando o carro para trabalho na rua no dia a dia mesmo e principalmente no transito, então gosto de ter força e torque no carro, mas não quero aumentar os custos com manutenção e nem com combustivel. Tambem não pensem que ando feito uma lesma todos que andam comigo acham que corro, eu mesmo acho que ando devagar.<br/>\n<br/>\nSó para terminar meu livro, vejo um calibra vermelho na vila galvão em guarulhos toda vez que vou para sampa, gostaria de saber se é de alguem daqui? Eu não tive tempo ainda de parar, pois estou de busão, e perguntar.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fábio",
+            "date": "2005-03-06T13:54:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMatheus, então quer dizer que, se eu não liberar a tampa de válvulas e apenas fizer o catch-tank não muda em nada o desempenho do carro?<br/>\n<br/>\nO ganho de aceleração (como no caso do Sérgio) está ligado à liberação da tampa ou do catch-tank (ou de ambos?)? <br/>\n<br/>\nAbraços, Fábio.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-06T14:51:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Matheus, esse retorno de vapor de oleo não serve para lubrificar a parte de cima do motor, cilindros e assim teriamos ganho de potencia as custas da redução de vida util do motor alem de aumento de consumo? Me diz mais uma coisa existem duas mangueiras saindo da tampa de valvulas, na parte de traz da tampa, a mais grossa que vai ligada em baixo da caixa SFI tem que função? Seria a mangueira que leva o vapor de oleo para o atuador? Pergunto isso porque nos momentos de fuçador achei essa mangueira sem abraçadeira no lado da caixa, acho que trabalhando sob pressão deveria ter pulado fora e isso não aconteceu, ou não pulou fora porque ta ligado em uma depressão de ar que sugava a mangueira para o conector.</p></blockquote><br/>Não Fábio.. o vapor de óleo não tem qualquer função de lubrificação. O vapor de óleo é apenas uma consequência do funcionamento do motor, no qual o movimento das peças internas junto com o pouco vazamento(até motor novo vaza um pouco) de compressão dos cilindros, gera uma ventilação, que por sua vez ocorre em contato com o lubrificante quente, e assim gera um vapor de óleo. Esse vapor de óleo precisa sair do motor para o mesmo não trabalhar pressurizado(quanto mais pressurizado seu motor trabalhar, mais lento será pra subir giro e menor potência final vc terá), e por isso existe as mangueiras na tampa de válvulas para saída do mesmo. A lubrificação do motor é feita pelo óleo, pelo líquido, e não pelo vapor. Mesmo que o vapor tivesse alguma qualidade de lubrificação, nenhum efeito iria provocar, pois o motor em funcionamento fica com todas suas peças internas com filme de óleo, impossibilitando que algo externo atue na lubrificação em conjunto..salvo se tal componente se misturar ao óleo, que nesse caso seria pior e não melhor. <br/><br/>Essa mangueira de vapor de óleo, não leva vapor de óleo para o atuador exclusivamente, ela leva vapor de óleo para o corpo de borboleta, que por sua vez irá levar o vapor de óleo para todo o coletor de admissão, e que finalmente será admitido pelo motor. Como o atuador é ligado no coletor de admissão, ele pode sofrer carbonização decorrente do vapor de óleo, apesar do sentido em puxa o ar ser o inverso(o vacuo da admissão do motor puxa o ar da caixa SFI para o coletor de admissão). <br/><br/>Em um motor aspirado, dificilmente uma mangueira na admissão pula fora justamente pelo fato que vc citou. Em um motor aspirado nunca haverá pressão positiva no coletor, e sim somente pressão negativa, e portanto,  pressão negativa vai somente puxar e não empurrar. E é também por esse motivo que o motor queima óleo usando retentores velhos nas guias de admissão.. Se vc tirar os retentores das guias de escape, vai notar que não vai alterar de forma relevante o consumo de óleo, não em funcionamento, iria queimar somente durantes as partidas, no qual os gases do escape não estão gerando pressão, impedindo que o óleo desça. <br/> A mangueira maior do vapor de óleo que sai da tampa de válvulas, é ligada em uma tomada generosa no corpo de borboleta. Por isso, se for remover, lembrar de colocar uma mangueira tipo \"dedo amputado\", ou então fazer mangueira sem fim garantindo a boa vedação, caso contrário vai dar entrada de ar falsa.<br/><br/><br/><blockquote class=\"ipsBlockquote\"><p>Sei que não faz parte deste topico, mas o meu motor estava rajando um pouco em altas rotações, pretendo mandar o carro pra retifica esta semana, ai vem a questão a grana ta curta e tenho muitas coisas pra fazer inclusive no carro, vale a pena fazer o motor todo agora ou faço o cabeçote e espero começar a rajar forte para fazer a parte de baixo tambem?</p></blockquote><br/>Se vc não esta com condições financeiras de fazer o motor completo, vc pode fazer uma \"retífica parcial\". Isso é, vc faria o cabeçote por completo(troca de retentores, banho químico, assentamento de sedes, esmerilhamento das válvulas, plaina..), e na parte de baixo vc trocaria apenas os anéis dos pistões(caso os cilindros não estejam riscados) e bronzinas das bielas.<br/> É normal o motor dar uma fumadinha em regime elevado, pois a pressão do óleo fica alta(por isso quando liga o motor frio, e se vc acelerar um pouco que seja, pode fumar também, pois a pressão do óleo fica muito alta e as folgas ainda estão grandes), mas não pode ser algo tão absurdo, salvo se vc esta usando óleo muito fino e aumentou a pressão na bomba, mas creio que não seja seu caso. Portanto, é provavel que seus retentores e anéis já não estejam vedando bem. Com a retífica parcial que eu citei acima, vc corrigiria esse problema.<br/><br/><blockquote class=\"ipsBlockquote\"><p>Matheus, então quer dizer que, se eu não liberar a tampa de válvulas e apenas fizer o catch-tank não muda em nada o desempenho do carro?<br/><br/>O ganho de aceleração (como no caso do Sérgio) está ligado à liberação da tampa ou do catch-tank (ou de ambos?)? <br/><br/>Abraços, Fábio.</p></blockquote><br/>Vc pode até ganhar Fábio, mas é beeeemmm pequeno. <br/>O maior ganho vc tem utilizando a tampa aliviada igual eu vendi para o Sérgio. Mas ele ainda esta usando o vapor de óleo indo para a admissão, o que eu mesmo achei que não iria dar certo, pois a tampa que eu vendi pra ele, era usada em um motor de competição na europa que girava mais de 8.000rpm, esta simplesmente com passagem direta do vapor de óleo. O problema quando vc coloca uma tampa dessa e liga o vapor de óleo na admissão, que a marcha lenta do motor costuma até alterar(devido o volume de vapor que é admitido). Mas me surpreendeu que no caso dele não deu nenhuma diferença, mas ainda sim aconselho ele fazer um catch tank, pois a longo prazo irá carbonizar mais o coletor e dutos de admissão do motor dele. <br/><br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-06T15:10:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOk ok ok... Me convenceu.<br/>\n<br/>\nSe vc vier no Dinoday conversamos antes e vc traz uma para mim <span rel=\"lightbox\"><img alt=\":rolleyes:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/rolleyes.gif\"/></span><br/>\nPra economizar vou fazer um catch tank com garrafa de gatorade.<br/>\n<br/>\nChefe, <br/>\n<br/>\nTrocar essa tampa já colocando uma junta nova é muito trampo?<br/>\n<br/>\nPL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-06T15:45:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Ok ok ok... Me convenceu.<br/><br/>Se vc vier no Dinoday conversamos antes e vc traz uma para mim <br/>Pra economizar vou fazer um catch tank com garrafa de gatorade.<br/><br/>Chefe, <br/><br/>Trocar essa tampa já colocando uma junta nova é muito trampo?<br/><br/>PL</p></blockquote><br/>heheheheh..beleza grande Paulo.. O catch tank pode ser qualquer recipiente que resista o calor do cofre e do vapor de óleo, e por isso é bom posiciona-lo o mais distante possível do motor. <br/><br/>A junta é outro detalhe que esqueci de comentar. Se a junta for muito antiga, ela fica ressecada, aí depois que troca, fica vazando.. Se a junta foi trocada a pouco tempo e ela ainda esta com elasticidade, provavelmente não terá problemas de vazamentos se reaproveita-la. Mas pelo que me recordo do seu carro, acho que já estava vazando um pouquinho da tampa, então poderia unir o útil ao agradável. <br/><br/>Eu troco a tampa pra vc na hora, sem custo adicional.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Paulo Henrique",
+            "date": "2005-03-06T15:47:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"6/03/2005, 12:45\"><p>heheheheh..beleza grande Paulo.. O catch tank pode ser qualquer recipiente que resista o calor do cofre e do vapor de óleo, e por isso é bom posiciona-lo o mais distante possível do motor. <br/><br/>A junta é outro detalhe que esqueci de comentar. Se a junta for muito antiga, ela fica ressecada, aí depois que troca, fica vazando.. Se a junta foi trocada a pouco tempo e ela ainda esta com elasticidade, provavelmente não terá problemas de vazamentos se reaproveita-la. Mas pelo que me recordo do seu carro, acho que já estava vazando um pouquinho da tampa, então poderia unir o útil ao agradável. <br/><br/>Eu troco a tampa pra vc na hora, sem custo adicional.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida</p></blockquote> We gotta a deal.<br/><br/><span rel=\"lightbox\"><img alt=\";)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/wink.gif\"/></span><br/><br/>PL\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fantasma",
+            "date": "2005-03-06T18:39:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Matheusc20xe\" data-date=\"2/03/2005, 16:37\"><p>99% de chance de ser o atuador da marcha lenta enroscando devido o acúmulo de sujeira. Limpe o atuador e veja se para.<br/><br/>Aproveite para verificar mangueiras do atuador, se estão bem presas, se não estão furadas, danificados..verificar todas linhas de vacuo que se conectando ao corpo da borboleta.. Qualquer fuga de ar falsa na admissão depois da borboleta, sobe a aceleração, e é justamente isso que o atuador faz para controlar a marcha lenta(ele libera e bloqueia a passagem de ar da SFI box direto pro coletor de admissão depois da borboleta). <br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida</p></blockquote> Como se faz para limpar esse atuador da marcha lenta..<br/>Onde fica?<br/><br/>[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-06T19:05:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlá Fantasma.<br/>\n<br/>\nEntre na página número 2, eu coloquei umas fotos nessa página, mostrando onde ele fica e como deverá ser feita a limpeza.<br/>\n<br/>\n<br/>\nAbraços,<br/>\n<br/>\n<br/>\nMatheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Sonic",
+            "date": "2005-03-13T16:36:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFala galera!<br/>\n<br/>\nOntem eu limpei o atuador!!!! Heheheheh!!! Eu sou d+!!!!<br/>\nTa mas sem frescura, pow, essa bagaça é muito difícil de tirar! Ta doido! Se alguém quiser comprovar é só vir dar uma olhada nos arranhões que ficaram no meu braço direito...ah, sem contar as unhas todas pretas de “mexânico”. VIU TIO SECO, EU NÃO GRITEI!!!<br/>\n<br/>\nCaras, eu acessei o atuador pelo lado da SFI, por cima mesmo. Levantei o carro e achei q o trampo seria mais difícil por baixo. Comecei a tira-lo ás 13hs e só as 14:30 eu conseguir desprender o plug do chicote. Eita, esse foi um trampo danado! Parecia q tava colado e o chicote era curto Pkaraio e não ajudou nada pq eu tive q desplugar com uma só mão. Aí já imaginem o trampo né.....<br/>\n<br/>\nBom, limpando o danado com gasolina eu notei uma coisa q achei estranho: naquela parte que tem a janelinha q abre e fecha eu observei q a minha janelinha nunca ficava totalmente fechada, sempre existiu uma frestinha pequena, mesmo depois da limpeza! Não sei se isso é normal, mas o meu está assim! Mas o movimento da janelinha está bem livre e ficou bem limpinho! Alguém sabe responder se essa frestinha é normal? Matheus??<br/>\n<br/>\nPelas 18hs o atuador já estava no lugar. Agora vou rodar uns dias com o carro pra ver se há resultados positivos e se resolvi o meu problema...<br/>\n<br/>\nAh, vou aproveitar a deixa pra perguntar outra coisa: enquanto o atuador estava de molho na gasolina eu aproveitei a gasolina com um pincel pra limpar as pinças do meu carro. Elas foram pintadas de amarelo e estavam meio sujas de pó das pastilhas e talz. Bom limpando as mesmas observei q 1 dos meus discos dianteiros está trincado. Tem uma rachadura q corta do centro (raio) do disco até a ponta.... Bem, fiquei meio cabreiro! Qual o problema em rodar com o disco assim???<br/>\n<br/>\nAbrax, <br/>\nSonic<br/>\n :sm37  :sm37  :sm37  :sm37  :sm37\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "MasterRey",
+            "date": "2005-03-13T17:32:48+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\to disco rachado é perigossissimo! vc pode ter um acidente feissimo com o disco assim\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Matheusc20xe",
+            "date": "2005-03-13T18:09:14+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\"><p>Bom, limpando o danado com gasolina eu notei uma coisa q achei estranho: naquela parte que tem a janelinha q abre e fecha eu observei q a minha janelinha nunca ficava totalmente fechada, sempre existiu uma frestinha pequena, mesmo depois da limpeza! Não sei se isso é normal, mas o meu está assim! Mas o movimento da janelinha está bem livre e ficou bem limpinho! Alguém sabe responder se essa frestinha é normal? Matheus??</p></blockquote><br/><br/>Legal Sonic!! Essa frestinha é normal sim. <br/><br/>E a marcha lenta? parou de subir agora?<br/><br/><blockquote class=\"ipsBlockquote\"><p>Ah, vou aproveitar a deixa pra perguntar outra coisa: enquanto o atuador estava de molho na gasolina eu aproveitei a gasolina com um pincel pra limpar as pinças do meu carro. Elas foram pintadas de amarelo e estavam meio sujas de pó das pastilhas e talz. Bom limpando as mesmas observei q 1 dos meus discos dianteiros está trincado. Tem uma rachadura q corta do centro (raio) do disco até a ponta.... Bem, fiquei meio cabreiro! Qual o problema em rodar com o disco assim???</p></blockquote><br/>Como o Master Ray falou, disco trincado é muito perigoso. Mas tem que ver se realmente esta trincado ou se é apenas um risco profundo. Verifique isso corretamente. Se realmente estiver trincado, troque os dois discos dianteiros o mais rápido possível.<br/><br/><br/>Abraços,<br/><br/><br/>Matheus S. Almeida\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-03-13T20:05:22+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPar de disco novo na autoz tava 200 snme.<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-04-27T14:30:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera,<br/>\n<br/>\nFui no mecanico e passamos o raster no motor: tudo em ordem exceto a bateria q indicava baixa voltagem, mas nd tao absurdo, tanto q fizemos uns pekenos testes e parecia normal.<br/>\nAí, mesmo assim, falei pro mecanico limpar o atuador pois provavelmente estaria sujo e ele ñ sabia q o vapor d oleo ia pro atuador.<br/>\nDespois d limpado, notei uma melhora na marcha lenta e fico normal por uns 2 dias.<br/>\nPorem ainda o problema persistia.... menos frequente, mas ainda existia.<br/>\n<br/>\nNa semana passada minha bateria arriou d vez e tive q trocar(e isso q ñ tenho som foderoso e meu alarme ñ funfa)... pergunto:<br/>\nSera q ñ era ela q prejudicava o funcionamento da lenta? <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span> <br/>\nBateria fraca pod prejudicar o funcionamento correto do motor, já q ha muita eletronica embarcada?<br/>\nLembrando q meu carro ñ variava a lenta qdo parado, mas somente em movimento e na cidade ond rodamos quase sempre em baixa rotação(acelerava qdo banguelado e uns engasgos d vez em qdo)... na estrada ñ havia falhas.<br/>\n<br/>\nAté agora ñ notei as falhas.<br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-04-27T14:40:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPode ser o teu alternador , ou até mesmo o regulador de voltagem , certamente ele altera o carro pois as ocilações de voltagem nos sensores pode prejudicar  o funcionamento dos mesmos .\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "lukguns",
+            "date": "2005-04-27T15:06:09+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBaixa tensão faz os bicos injetores diminuirem o tempo de abertura.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>lukguns</b>: 27 abril 2005 - 12:34\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-04-27T15:11:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOlha, isso é fato. Meu carro ainda tá com baixa voltagem, não queria ter que trocar o alternador. Tá complicado isso.<br/>\n<br/>\nA marcha lenta de carro com baixa voltagem é sempre mais alta que a normal. o meu nunca abaixa de 1100 rpm, mesmo com o atuador estando OK. E também fica oscilante.<br/>\n<br/>\nMas aquelas aceleradas fortes do nada são atuador sujo mesmo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-04-27T17:57:01+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tE quais são as voltagens ideais??<br/>\n<br/>\nEm lenta assimque liga o carro<br/>\nEm lenta com o carro quente<br/>\nEm lenta com a ventoinha do radiador ligado<br/>\nEm lenta com AC ligado<br/>\nÀ noite com farol baixo ligado e carro quente<br/>\nÀ noite com farol baixo ligado e carro quente e ar ligado<br/>\n<br/>\nCada pergunta vale 0,5 pontos na PFinal. Resultados na Direção em 3 dias úteis. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Anônimo",
+            "date": "2005-04-27T18:08:46+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tQue eu saiba a voltagem tem que se manter constante, o que muda é a corrente resultante, quanto mais coisa ligada, mais o alternador sofre.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-04-27T22:15:51+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSim, mas o certo é ficar tudo em 12v certinho sem nunca abaixar ou 14v?<br/>\n<br/>\nOu o alternador que manda 14v mas o sistema do carro fica gerenciado sempre em 12v nos voltimetros? pq no preto o voltimetro do som sempre fica em 11.8 a 12.4 somente. <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2005-04-27T22:50:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tCom o carro ligado, tem q marcar 14 V sempre....<br/>\nDesligado tem q marcar proximo de 12V com tudo desligado.<br/>\n<br/>\nSe vc liga farol, a tensao cai um pouco.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2005-04-27T23:00:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\thmmm entao acho q vou acrescentar alguns itens na lista do black aehaaeuheau<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-05-02T19:59:35+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tIh, galera,<br/>\n<br/>\nOs problemas continuam... as aceleradas autônomas e engasgadas d vez em qdo.... mesmo limpando o atuador da marcha lenta e c/ bateria nova... será q ñ pod ser outra coisa? <span rel=\"lightbox\"><img alt=\":unsure:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/unsure.gif\"/></span> <br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fabrizio95",
+            "date": "2005-05-02T20:04:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTu mediu o alternador , para ver se ele está mandando carga suficiente para carregar a bateria?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-05-02T20:22:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"fabrizio95\" data-date=\"2/05/2005, 17:04\"><p>Tu mediu o alternador , para ver se ele está mandando carga suficiente para carregar a bateria?<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=95482\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>Ainda ñ.... vo v isso.. apesar q axo q ñ tenha muito a v c/ eletrica... mas vai saber...<br/><br/>Só pra lembrar, essas falhas só ocorrem c/ o carro em movimento.. nunca funcionando parado. <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span> <br/><br/>RSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "RSR",
+            "date": "2005-05-03T17:39:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tSiguinti,<br/>\n<br/>\nFui hj numa autoeletrica e o funcionario mediu na bateria... dava 14,0v em media na marcha lenta e nem variava(significamente) acelerando... baixava p/ 13,7v c/ tds os farios ligados, ventilação e ar-condicionado... aí ele me disse q o alternador está bom.<br/>\n<br/>\nRSR\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Célio",
+            "date": "2005-05-03T21:31:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ eu já tive um problema com um tal de \"estator\" do alternador, e o mesmo começou a gerar 17 V, quasei acavei com a ECU, fritei os sensores e explodi a bateria!!! Depois da manutenção (preço de banana), tudo voltou ao normal.<br/>\n[]s<br/>\nCélio\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Luiz Menezes Jr",
+            "date": "2006-04-02T12:55:00+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera,<br/>\n<br/>\nHoje eu percebi no meu Calibra um problema parecido, mas não igual..<br/>\n<br/>\nQuando estou na rua e desengato para frear num semaforo, percebo que a rotação fica em 2000 rpms, e demora muito pra cair  pra baixo de 1000, será que é o atuador da marcha lenta que está sujo?<br/>\n<br/>\nIsso não acontece toda vez não...<br/>\n<br/>\nAlias o que eu percebi é que quando ele demora muito pra cair, ao ligar o ar condicionado ele desce...<br/>\n<br/>\nPode ser combustível ruim também? Acho que não, pois o carro parado e ligado consome 1.0 L/H com o ar-condicionado desligado.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Fabio Melo",
+            "date": "2006-04-02T13:14:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPelo que pude ler aqui no forum não é normal não, mas o meu ha 3 anos que o tenho e 3 dias sempre fez isso, não sei te dizer o que é, mas meu atuador ja foi limpo e não resolveu o problema.<br/>\n<br/>\nO mais novo problema do meu carro é cabo de vela. Quando caia em buracos o carro ficava sem forças, manco de tudo e sem contar a falhadeira em baixa rotação, foi quando lembrei que um ex-aluno meu que tem auto eletrico, me falou para medir o cabo. Enfim fiz o teste e no primeiro muito mal contato e quando tem. Vou atraz do bendito cabo essa semana.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

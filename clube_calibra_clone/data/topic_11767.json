@@ -1,0 +1,112 @@
+{
+    "title": "[How To Gambi] - Sensor de nivel de agua",
+    "url": "http://www.clubecalibra.com.br/forum/topic/11767-how-to-gambi-sensor-de-nivel-de-agua/",
+    "id": "11767",
+    "messages": [
+        {
+            "author": "Warcelo",
+            "date": "2007-12-01T19:54:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, esse sensor custa muito caro, e eu como um estudante estagiario pobre coitado resolvi arrumar esse pepino por apenas 1 real e 70 centavos ( R$1,70 )<br/>\n<br/>\nEntao ai vai o tabajara way to do it! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> <br/>\n<br/>\n<br/>\nBom esse sensor eh contituido por uma boia envolta por um ima e um sensor magnetico ( Reed Switch )<br/>\n<br/>\nCom o tempo temperatura e pressao elevados esse Reed Switch estoura a ampola ou estraga de vez, mas como ele fica dentro do tubo do sensor de nivel eh preciso trocar a peca interira.....<br/>\n<br/>\n<br/>\n<br/>\nOU NAO!!!!<br/>\n<br/>\nChegou o metodo tabajara e tosco de troca-lo!<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196537731.jpg\" id=\"ipb-attach-url-8036-0-69183300-1776079514\" rel=\"lightbox[247736]\" title=\"01_12_07_1612.jpg - Tamanho: 315,79K, Downloads: 2\"><img alt=\"01_12_07_1612.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-8036-0-69183300-1776079514\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196537731_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<br/>\n<br/>\nPrimeiro vc quebra o sensor em 3 partes como na figura, vc pode usar uma segueta ou se for tosco como eu use um alicate de corte <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nDeposivc vai ver os fios ligados em uma peca grande azul de vidro, tire ele e jogue fora e compre um reed switch menor e mais facil de trabalhar como esse:<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196538146.jpg\" id=\"ipb-attach-url-8037-0-69192900-1776079514\" rel=\"lightbox[247736]\" title=\"reed.JPG - Tamanho: 24,79K, Downloads: 5\"><img alt=\"reed.JPG\" class=\"attach\" height=\"453\" id=\"ipb-attach-img-8037-0-69192900-1776079514\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196538146_thumb.jpg\" style=\"width:640;height:453\" width=\"640\"/></a>\n<br/>\n<br/>\nELE TEM QUE SER NORMALMENTE ABERTO <br/>\nSolde 2 fios nele como nas setas azuis <br/>\n<br/>\n<br/>\nDepois disso vem uma parte chata, vc tem que colocar ele dentro do tubo e alinha-lo com o fim do curso da boia; pra isso, colque ele do lado do tubo de forma que seu centro fique no final do curso da boia e use a propria perna do switch para regular a profundidade.<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196538630.jpg\" id=\"ipb-attach-url-8038-0-69198400-1776079514\" rel=\"lightbox[247736]\" title=\"altura.JPG - Tamanho: 175,91K, Downloads: 13\"><img alt=\"altura.JPG\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-8038-0-69198400-1776079514\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196538630_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Warcelo</b>: 01 dezembro 2007 - 17:39\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2007-12-01T20:00:28+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAgora depois de regular sua altura teste com um multimetro movendo a boia para cima e para baixo a fim de conferir se este correto:<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196538930.jpg\" id=\"ipb-attach-url-8039-0-69203400-1776079514\" rel=\"lightbox[247737]\" title=\"01_12_07_1618.jpg - Tamanho: 506,11K, Downloads: 0\"><img alt=\"01_12_07_1618.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-8039-0-69203400-1776079514\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196538930_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<br/>\nResistencia \"INFINITA\" para quando a boia estiver em baixo.<br/>\n<br/>\ne:<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196539035.jpg\" id=\"ipb-attach-url-8040-0-69207400-1776079514\" rel=\"lightbox[247737]\" title=\"01_12_07_1619.jpg - Tamanho: 485,05K, Downloads: 0\"><img alt=\"01_12_07_1619.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-8040-0-69207400-1776079514\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196539035_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<br/>\n<br/>\nResistencia \" NULA \" para quando a boia estiver no fim do curso.<br/>\n<br/>\nDepois que tudo estiver correto , solde os fios do switch nos originais do sensor e coloque tudo no lugar tomando cuidado para isolar as soldas.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2007-12-01T20:04:40+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAi eh so usar o super tabajara bomder pra colar tudo e fazer essa porcaria voltar a funcionar <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span> :<br/>\n<br/>\n<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196539325.jpg\" id=\"ipb-attach-url-8041-0-69211200-1776079514\" rel=\"lightbox[247738]\" title=\"01_12_07_1658.jpg - Tamanho: 244,92K, Downloads: 3\"><img alt=\"01_12_07_1658.jpg\" class=\"attach\" height=\"480\" id=\"ipb-attach-img-8041-0-69211200-1776079514\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_12_2007/post-1868-1196539325_thumb.jpg\" style=\"width:640;height:480\" width=\"640\"/></a>\n<br/>\n<br/>\n<br/>\nDepois eu usei uma cola quente em volta das partes que eu colei para evitar entrada de agua/vapor d agua fazendo o reed switch durar mais.<br/>\n<br/>\n<br/>\nDepois algum moderador coloca na perte de guia tecnico.<br/>\n<br/>\nAbraco para todos e boa sorte quem tem um sensor estragado e nao quer gastar 100 contos pra arrumar.<br/>\n<br/>\nGastei meia hora pra arrumar e exatos R$1,70.<br/>\n<br/>\n<br/>\nFalow!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "AlvaroCastroJr",
+            "date": "2007-12-01T20:21:25+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tLegal meu velho, me precisa ter um certo talento rsrs\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2007-12-01T21:06:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTalento?? Vc vem me falar que precisa de talento pra fazer uma gambiarra tosca dessas???<br/>\nAHUAHAUHAUHAUHA<br/>\n<br/>\nQuanto mais tosco vc for melhor o sensor funciona! <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2007-12-02T02:37:30+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDaria pra fazer um esquema desses para colocar no tanque de combustível e acabar com o problema de bóia?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2007-12-02T03:13:39+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNao, pois o tanque de combustivel precisa de medir com uma escala maior.<br/>\nSimplificando, esse esquema so serve para medir se esta cheio ou vazio o do tanque precisa de saber a quantidade.<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2007-12-03T01:14:24+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOk, valeu.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2007-12-03T01:46:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\twell, eu como uma nulidade em engenhocas deste tipo, pagaria tranquilamente ou solicitaria apoio tecnico pra meter a mao na massa pra mim <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\nse tiver com tempo sobrando, eu tenho um sensor desses sobrando... daria pra deixar sempre um a mais pra pronto envio e depois a pessoa te envia o dela pra arrumar, e assim vai.<br/>\n<br/>\nqq coisa só falar <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span><br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2007-12-03T16:03:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPode mandar que eu arrumo!<br/>\n<br/>\nAbraco!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2007-12-03T16:04:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tblz <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span> manda o endereco por MP q vou te mandar os 2, ai vc fica sempre com um a mao pros mais necessitados!!<br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "jctpv",
+            "date": "2007-12-30T20:20:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBacana a criatividade ... mas em que tipo de loja compro este tal de \"Reed Switch\"\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2007-12-30T22:02:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom na maioria de lojas de componentes eletronicos tem. Nao sei se todas cidades tem esse tipo de loja, mas na internet vc pode procurar na farnell.com.br que deve ter tb!<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "fernando junior",
+            "date": "2008-03-22T03:47:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBacana, mas... kd as imagens???\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2008-03-22T04:02:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnao eskece de mandar a minha de volta pls hein aeuhaeuhaeuhea <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2008-03-22T15:36:08+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRod eu te perguntei em outro topico, ams vc nao respondeu!<br/>\nEu perdi seu endereco!<br/>\nSe vc tiver alguma tampinha sobrando eu posso te levar essa no OF ou entao se vc tiver com pressa me mande uma MP com ondereco que eu envio! Abraco!!!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Rodrigo",
+            "date": "2008-03-22T15:54:34+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOpa, acho q tenho sim, vou verificar e te falo aeuah <br/>\n<br/>\n[]s<br/>\nRodrigo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-08-22T20:32:27+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGarai. Ainda não tinha visto esse tópico <span rel=\"lightbox\"><img alt=\":blink:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/blink.gif\"/></span><br/>\n<br/>\nJá era! Warcelo, vou mandar minha peça pelo Correio com a \"cervejinha\" inclusa dentro do pacote. <span rel=\"lightbox\"><img alt=\":P\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/tongue.gif\"/></span><br/>\n<br/>\nPode ser? <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Warcelo",
+            "date": "2008-08-23T03:13:19+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVc nao será o primeiro a fazer isso nem o último! <br/>\n<br/>\nManda ver West! Nao se preocupe com a cervejinha. Aproveite quando for me mandar as camisas de volta, que por falar nisso vc recebeu?<br/>\n<br/>\nAbarco!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-08-23T03:35:05+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tRecebi sim. <span rel=\"lightbox\"><img alt=\":)\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/smile.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "gato28df",
+            "date": "2009-01-16T20:20:21+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\ttambem estou com esse problema...posso te mandar minha tampa? como \"ajuda de custo\" (risos), eu te mando junto aquela peca onde vao os dois botoes para subir os vidros... o botao de subir o vidro do motorista esta falhando, mas a de subir o vidro do passageiro esta ok... pode ser que vc consiga arrumar a falha e dai vc fica com ela de reserva...pode ser?<br/>\npode me mandar seu endereco via mp?<br/>\nobrigado,<br/>\n:-)<br/>\nAdriano\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Duvidas sobre reles automotivos",
+    "url": "http://www.clubecalibra.com.br/forum/topic/5499-duvidas-sobre-reles-automotivos/",
+    "id": "5499",
+    "messages": [
+        {
+            "author": "Marcio Leal",
+            "date": "2005-08-30T15:19:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDuvidas sobre reles automotivos.<br/>\n<br/>\n<br/>\nPergunto muito pouco no forum, então resolvi expor minha ignorancia nesse assunto:<br/>\n<br/>\nSeguinte, eu nunca mexi com rele automotivo e queria entender como funciona os reles de 4 e 5 pinos.<br/>\n<br/>\nPreciso fazer um gambiarra e para isso preciso de um rele que<br/>\n<br/>\n- Contato fechado quando bobina em aberto <br/>\n- Contato aberto quando bobina recebe 12V<br/>\n<br/>\nPreciso de um outro relê + convencional tambem que:<br/>\n<br/>\n- Contato fechado quando bobina recebe 12V <br/>\n- Contato aberto quando bobina em aberto<br/>\n<br/>\n<br/>\nSei que no mundo automotivo tem um padrão de pinagem de reles, coisa do tipo 87a, 87b, queria saber esse tipo de coisa,  codigo de rele para comprar......<br/>\n<br/>\nAlguém poderia me ajudar? <span rel=\"lightbox\"><img alt=\":huh:\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/huh.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2005-08-30T16:07:07+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu uso reles assim .. mas nao sao automotivos ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-08-30T16:53:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tDaria para embutir um relezinho destes dentro da caixinha preta, led?<br/>\n<br/>\nPreciso de um NF (normalmente fechado) ou seja<br/>\n<br/>\n- Contato fechado quando bobina em aberto <br/>\n- Contato aberto quando bobina recebe 12V<br/>\n<br/>\nNão precisa aguanter mais que 500mA o rele.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "[SoloN]",
+            "date": "2005-08-30T17:38:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPoxa marcio! Vc fazendo gambi? Fikei decepcionado agora... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span>\n<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-08-30T17:58:31+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tnão é gambi não, são uns controles extras para eu regular o carro no turbo...tipo pig back....<br/><br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"[SoloN]\" data-date=\"30/08/2005, 14:38\"><p>Poxa marcio! Vc fazendo gambi? Fikei decepcionado agora... <span rel=\"lightbox\"><img alt=\":(\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/sad.gif\"/></span><br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=120959\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "[SoloN]",
+            "date": "2005-08-30T18:08:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAHmmmmmmmmmmmm n entendi nada...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Lobão do Calibra",
+            "date": "2005-09-16T21:56:36+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tfala ai marcio, tu deve estar querendo que o rele mande corrente quando vc aplicar um positivo nele ok, então é assim se vc pegar um rele comum de 4 pinos vc terá os pinos 30, 85, 86, 87. Na maioria dos carros o pino 30 é um positivo direto da bateria, o 85 o positivo que aciona a bobina, o 86 é o terra direto, e o 87 a saida positiva quando o rele armado. No caso de reles de 5 pinos tem de ficar esperto pois alguns vem 30, 85, 86, 87, 87, que no caso os dois pinos 87 recebem corrente ao mesmo tempo. Ja os que vem 30, 85, 86, 87, 87a, é a mesma coisa do rele de 4 pinos só que quando a bobina esta desarmada o 87a esta com corrente, e quando a bobina esta armada o 87 esta com corrente. Lembrando que já que será uma adaptação não existe ordem nos pinos desde que se aplique um positivo e um negativo nos pinos 85 e 86 ai um que vc vai aplicar por comando ou botão e o outro que fica alimentado direto, e o q vc aplica em 30 sai em 87 seja um positivo ou negativo. Basicamente é isto se não tivcer ajudado explique melhor sua duvida que lhe digo melhor o que fazer, ok\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Marcio Leal",
+            "date": "2005-09-16T22:26:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tExplicação perfeita. Brigado<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"Lobão do Calibra\" data-date=\"16/09/2005, 18:56\"><p>fala ai marcio, tu deve estar querendo que o rele mande corrente quando vc aplicar um positivo nele ok, então é assim se vc pegar um rele comum de 4 pinos vc terá os pinos 30, 85, 86, 87. Na maioria dos carros o pino 30 é um positivo direto da bateria, o 85 o positivo que aciona a bobina, o 86 é o terra direto, e o 87 a saida positiva quando o rele armado. No caso de reles de 5 pinos tem de ficar esperto pois alguns vem 30, 85, 86, 87, 87, que no caso os dois pinos 87 recebem corrente ao mesmo tempo. Ja os que vem 30, 85, 86, 87, 87a, é a mesma coisa do rele de 4 pinos só que quando a bobina esta desarmada o 87a esta com corrente, e quando a bobina esta armada o 87 esta com corrente. Lembrando que já que será uma adaptação não existe ordem nos pinos desde que se aplique um positivo e um negativo nos pinos 85 e 86 ai um que vc vai aplicar por comando ou botão e o outro que fica alimentado direto, e o q vc aplica em 30 sai em 87 seja um positivo ou negativo. Basicamente é isto se não tivcer ajudado explique melhor sua duvida que lhe digo melhor o que fazer, ok<br/><p class=\"bbc_right\"><a class=\"bbc_url\" href=\"http://www.clubecalibra.com.br/forum/index.php?act=findpost&amp;pid=125020\" title=\"\">&lt;{POST_SNAPBACK}&gt;</a></p></p></blockquote>\n<br/>\n</div>"
+        },
+        {
+            "author": "Lobão do Calibra",
+            "date": "2005-09-17T13:17:06+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tfalou Marcio, qualquer encrenca é só perguntar :sm37\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

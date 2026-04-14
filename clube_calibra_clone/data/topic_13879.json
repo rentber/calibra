@@ -1,0 +1,67 @@
+{
+    "title": "[Turbo] Turbina enche mas a potência não vem",
+    "url": "http://www.clubecalibra.com.br/forum/topic/13879-turbo-turbina-enche-mas-a-potencia-nao-vem/",
+    "id": "13879",
+    "messages": [
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2008-11-26T16:34:54+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu sei que aqui é o Forum do Calibra, mas com certeza é mais seguro perguntar aqui do que em qualquer outro lugar. Se vocês acharem o tópico inadequado, podem jogar no lixo.<br/>\n<br/>\nO fato é que a turbina está subindo bem, e rápido (é uma turbina pequena, original), batendo no fundo de escala (1.2 kg). Segurando o acelerador, ela não parece perder pressurização, o que indica que não deve haver vazamentos.<br/>\n<br/>\nMas mesmo com a turbina cheia, empurrando o ar forte, o motor fica vacilante e dá \"socos\", alternando despejos de potência com seguradas. Com isso, o desempenho fica bem abaixo do possível. Com o novo escape, o caro melhorou muito, e o giro não amarra, indo facilmente até 7000 rpm. Porém a embreagem regulada, sem patinar, demonstrou que ainda existem essas falhas de potência.<br/>\n<br/>\nIsso é sintoma de falta de combustível? Estou desconfiado da bomba. Me disseram que cabos e velas ruins dão mais falhas em baixa rotação, mas percebo mais a falta de potência em alta.<br/>\n<br/>\nIdéias?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2008-11-26T17:01:33+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAlemonets<br/>\n<br/>\nNa minha humilde opinião pode ser alimentação ou elétrico, como bobina por exemplo.<br/>\n<br/>\nPara certificar se a alimentação está dando conta, excesso ou falta ( pode ser excesso tb), seria bom colocar pelo menos um hallmeter na sonda lambda, é super fácil a instalação e um hall não custa muito mais do que 50,00 além do que te auxiliará sempre, não confie que o cara limpou os bicos, vale a pena limpar novamente.<br/>\n<br/>\nOutra forma de verificar é colocar um instrumento de pressão de combustível para verificar a pressão na linha ou na flauta, também te auxiliará sempre e não custa muito.<br/>\n<br/>\nBomba e filtro e pré-filtro (importantíssimo trocar filtro) você pode verificar na dinamica, é rápido e não cobram muito, chegue cedo num sábado e eles disconectam a linha, inserem um medidor e verificam a pressão da bomba.<br/>\n<br/>\nParte elétrica, Cabos e Velas eu trocaria mesmo sem ter problemas, vale ai a indicação do Matheus.<br/>\n<br/>\nBobina, já é mais complicado, mas o diagnóstico pode ser feito depois da troca de velas e cabos.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2008-11-26T17:41:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPoisé, eu vou levar no mecânico com estes pontos em vista. O filtro de combustível é novo.<br/>\n<br/>\nEu acho que está com problema de alimentação. É possível também ser excesso, mesmo com o chip e os bicos originais? Falta de combustível é compreensível por entupimentos ou bomba fraca, mas excesso não sei como teria.<br/>\n<br/>\nA limpeza de bico, troca de cabos e velas já está marcada. O PL vai trazer uma bomba superdimensionada para 500 hp dos States em breve, e vou trocar também. Eu queria por essa instrumentação toda, mas não tem lugar e odeio aquelas colunas de instrumentos.<br/>\n<br/>\nGostaria da ajuda de vocês para isso, excluindo o Puppets que foi montar o Hallmeter e o Calibra entrou em combustão espontânea. <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\nDá para verificar falta / excesso com um hallmeter externo no Posto?<br/>\n<br/>\nAbraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "West",
+            "date": "2008-11-26T18:02:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tVerificar falta ou excesso com hallmeter externo só dá se for com uma wide colocada na ponteira de escape. Só oficina de preparação que tem essa traquitana.<br/>\n<br/>\n<br/>\n[]'s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Gordo",
+            "date": "2008-11-26T18:08:58+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tTroque as velas e cabo... filtro e pré-filtro.<br/>\n<br/>\nFaça um teste de centelhamento, o mecanico pode ver se existe falha na centelha com esse teste, se tiver pode ser bobina.<br/>\n<br/>\nFalha muito grande de ignição o carro da uma puta duma cabeçada... já tive essa experiencia e assustei, mas nada grave aconteceu.<br/>\n<br/>\nFalha na bomba é cabeça e um perda de força, voce acelera mas o carro não vai e a velocidade reduz lentamente ate a bomba voltar a funcionar ou o ar sair da linha de combustivel.<br/>\n<br/>\nExcesso o carro vai so que engasgando, ele tem força, da umas cabeças, mas vai andando e fede combustivel.<br/>\n<br/>\nUm hallmeter iria te ajudar muito a saber se tem excesso ou falta de combustivel, um manometro de combustivel tambem ia, o legal é que voce estaria vendo a variação da pressao de combustivel e da pra ter uma ideia se a bomba está boa ou ruim.<br/>\n<br/>\nAté da pra colocar no posto um hallmeter e ver se a mistura ta boa, o problema é encontrar os fios da sonda-lambda, o resto é baba.<br/>\n<br/>\nSe vc quiser Alemão podemos fazer isso no sabado ou domingo (a tarde), vou ate sua casa e instalo o hallmeter.<br/>\nCompra um hallmeter baratinho da ODG, uns R$70,00... ai vc me fala se precisa de ajuda.<br/>\n<br/>\nAbraços,<br/>\nGORDO.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>Gordo</b>: 26 novembro 2008 - 15:14\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Roberto Junior",
+            "date": "2008-11-26T18:10:23+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO meu S3 estava assim tbm!<br/>\n<br/>\nPensava eu que era vela! até entortar uma biela...<br/>\n<br/>\nConfira seus bicos\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "W",
+            "date": "2008-11-26T18:12:57+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tColoca a instrumentação no porta-luvas ou em algum lugar que não te encha o saco, quando sentir alguma coisa errada vc abre o porta-luvas e verifica o que está ocorrendo\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2008-11-26T18:31:13+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"Roberto Junior\" data-cid=\"276242\" data-date=\"26/11/2008, 16:10\"><p>O meu S3 estava assim tbm!<br/><br/>Pensava eu que era vela! até entortar uma biela...<br/><br/>Confira seus bicos</p></blockquote><br/>O bico não estava abrindo?<br/><br/>W, tem um lugar debaixo do rádio, acho que vou por lá.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "AGR",
+            "date": "2008-11-26T19:10:43+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tPor favor, joguem esse post para o lixo. <br/>\nEu, mais do que ninguém, fui crucificado quando reclamei do excesso de potência do Passat Veyron TS, com motor 1.9 de 82,5 cv. Só porque era AP. <br/>\nGordo, 70 reais um instrumento da ODG é baratinho? Num país onde o salário  mínimo são 480 reais? <br/>\nDesgraçados!<br/>\n<br/>\nAlemão, meu palpitio: alimentação. Hallmeter nele!\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-11-27T01:31:29+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tComo diria um antigo membro do CCB, taca o carro do barranco <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> ou taca fogo.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Doutor Eduardo Thimberg",
+            "date": "2008-11-27T12:20:04+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n<blockquote class=\"ipsBlockquote\" data-author=\"AGR\" data-cid=\"276253\" data-date=\"26/11/2008, 17:10\"><p>Por favor, joguem esse post para o lixo. <br/>Eu, mais do que ninguém, fui crucificado quando reclamei do excesso de potência do Passat Veyron TS, com motor 1.9 de 82,5 cv. Só porque era AP. <br/>Gordo, 70 reais um instrumento da ODG é baratinho? Num país onde o salário  mínimo são 480 reais? <br/>Desgraçados!<br/><br/>Alemão, meu palpitio: alimentação. Hallmeter nele!</p></blockquote><br/>Hueahaeuh mas o que tem a ver o Passat com isso? Eu também acho que está injetando combustível a menos. Será confirmado semana que vem.<br/><br/><blockquote class=\"ipsBlockquote\" data-author=\"sniper.arnaud\" data-cid=\"276281\" data-date=\"26/11/2008, 23:31\"><p>Como diria um antigo membro do CCB, taca o carro do barranco <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span> ou taca fogo.</p></blockquote><br/>Quem seria este safado?<br/><br/>Abraços\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-11-29T14:59:32+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tUm tal de alemão, que anda sumido. Conhece? rs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

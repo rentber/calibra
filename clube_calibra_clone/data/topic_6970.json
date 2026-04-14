@@ -1,0 +1,42 @@
+{
+    "title": "[dúvida]frequência Do Pulso Do Sensor De Velocidad",
+    "url": "http://www.clubecalibra.com.br/forum/topic/6970-duvidafrequencia-do-pulso-do-sensor-de-velocidad/",
+    "id": "6970",
+    "messages": [
+        {
+            "author": "Puppets",
+            "date": "2006-02-09T00:24:52+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tGalera, alguém sabe aí qual a relação de <strong class=\"bbc\">(Freq. Pulsos) / (Km/h)</strong>, que o painel fornece pro CB?<br/><br/>To pensando em montar um circuitinho que mostre a velocidade real instantânea do carro, e possivelmente fazer emitir um aviso sonoro quando passar de uma velocidade programável.<br/><br/>Como ainda não sei mexer com microcontrolador, vai ser tudo na base dos CIs mesmo. Vai ficar um circuito grande, heheh, mas quero fazer por vontade própria.<br/><br/>Então, preciso saber desta relação, pra poder configurar o circuito.<br/><br/>[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "[SoloN]",
+            "date": "2006-02-09T10:05:41+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tO de km/h eu n sei, mas o rpm me parece que são 2x o rpm.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2006-02-09T10:51:10+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu tn nao sei .. fiz o do marcio e do erick mas nao anotei quanto de frequencia para x velocidade ...<br/>\n<br/>\nprimeiro mostrei no display a frequancia vindo do sensor a 100/h no painel ..<br/>\ndepois inventem uma equacao e coloquei uma variavem de afericao ....<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2006-02-09T22:20:12+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tHmmm, é que no caso, você tinha GPS pra poder aferir perfeitinho neh. Eu não tenho como fazer isso. A não ser ficar zerando a VEL MEDIA do CB o tempo inteiro, e comparar.<br/>\n<br/>\nO problema é que provavelmente não usarei nenhum microcontrolador. Será tudo com CIs mesmo. E então eu teria q saber a relação pra fazer o divisor de frequência certinho!<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2006-02-10T00:39:16+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom, acho q vou usar microcontrolador sim. Acabei de comprar um gravador de PIC. Mas primeiro ele vai ter q chegar, e eu aprender a usar. Mas aí vai ficar legal!<br/>\n<br/>\nFalei também com um cara da empresa responsável pela produção de placas de circuito impresso, e ele falou que vai me ensinar as manhas de um programa pra fazer as trilhas.<br/>\n<br/>\nSe der certo, vou fazer outras coisas tb hehehe<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2006-02-10T10:57:03+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tsymphony ???<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Puppets",
+            "date": "2006-02-10T20:48:45+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tNão, é o Tango.<br/>\n<br/>\n[]s\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}

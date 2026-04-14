@@ -1,0 +1,67 @@
+{
+    "title": "Módulo do ABS",
+    "url": "http://www.clubecalibra.com.br/forum/topic/13544-modulo-do-abs/",
+    "id": "13544",
+    "messages": [
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-09-25T01:35:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMeu carro possuia um problema no ABS que nunca consegui saber pois em nunhum lugar havia o scanner para testá-lo.<br/>Semana passada o levei numa autorizada Bosch onde apesar de não ter o plug, o rapaz ligou uns fios no conector obdII e conseguiu ler o problema, que seria o relé da válvula solenoide. <br/>F--&gt;POSITIVO / A--&gt;TERRA / G--&gt;DATA / K--&gt; DATA (Se não me engano)<br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.clubecalibra.com.br/extra-files/plug-6.jpg\"/></span><br/>F G H J K<br/>E D C B A<br/><br/>Testei com o multímetro para ver se chegava corrente, acionando o primeiro relé com o dedo, a bomba era acionada mas acionando o segundo, nada acontecia.<br/>[<a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306692.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[270508]\" title=\"abs0.jpg - Tamanho: 71,97K, Downloads: 1\"><img alt=\"abs0.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306692.jpg\"/></a>\n<br/><br/>Acabei por desmontar todo o módulo, os relés são soldados, então não os puxes <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span>, eu quebrei as ligações mas soldei facilmente. O problema é que o módulo não foi feito para ser aberto, tive que usar o dremel para cortar a lateral dele e abrir. Achei pequenos fios que saem dos terminais visíveis por fora e vão para a placa interna, alguns deles rompidos, sinceramente não sei se eu os arrebentei quando abri ou se já haviam alguns arrebentados pois são bem finos e vagabundos.<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306709.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[270508]\" title=\"abs1.jpg - Tamanho: 93,61K, Downloads: 1\"><img alt=\"abs1.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306709.jpg\"/></a>\n<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306718.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[270508]\" title=\"abs2.jpg - Tamanho: 63,19K, Downloads: 1\"><img alt=\"abs2.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306718.jpg\"/></a>\n<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306728.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[270508]\" title=\"abs3.jpg - Tamanho: 78,53K, Downloads: 1\"><img alt=\"abs3.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306728.jpg\"/></a>\n<br/><a class=\"resized_img\" href=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306741.jpg\" id=\"ipb-attach-url-\" rel=\"lightbox[270508]\" title=\"abs4.jpg - Tamanho: 92K, Downloads: 1\"><img alt=\"abs4.jpg\" class=\"bbc_img linked-image\" itemprop=\"image\" src=\"http://www.clubecalibra.com.br/forum/uploads/monthly_09_2008/post-393-1222306741.jpg\"/></a>\n<br/><br/>Estou soldando fios finos em todos os terminas para ver se o problema é solucionado ou se precisarei de outra central, como o funcionário da Bosch disse, eles fazem para estragar e jogar fora. Ou partirei para o abs do vectra 97.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>sniper.arnaud</b>: 24 setembro 2008 - 22:41\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Bruno-SP",
+            "date": "2008-09-25T04:27:53+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\teu tenho uma central dessa\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-09-25T05:04:47+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBem, após soldar os fios nos respectivos terminais (esqueci de tirar foto e não quero arriscar abrir e ter que resoldar algo) algo mudou, pois agora, consigo realizar o diagnóstico através dos pinos A e K, que antes não conseguia.<br/>\n<br/>\nOs código que apareceram foram:<br/>\n<br/>\n12 - Início de Diagnóstico<br/>\n19 - Circuito do Relé da Válvula<br/>\n55 - Erro na Central do ABS (por que será? rs)<br/>\n<br/>\nAgora vou ter que retirar e ver se tem algo em curto.<br/>\n<br/>\n<br/>\nEssa sua central tá funcionando direitinho? Quanto quer nela?<br/>\nAbs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-09-25T20:44:44+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tAchei mais um pequeno fio partido e já o soldei, agora ao virar a chave, a luz não acende mas o relé fica armado. Antes ele armava e desarmava.<br/>\n<br/>\nVou verificar se a lâmpada queimou ou se o terminal que manda sinal pra lâmpada está solto.<br/>\n<br/>\nAguém pode me ajudar dizendo se o normal é que o relé da válvula(mais próximo a tubulação) fique armado?<br/>\n<br/>\nabs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2008-09-25T22:08:38+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu postei o esquema eletrico do ABS a uns anos atraz ... nao sei se ainda esta disponivel no forum ...<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "DenisMelo",
+            "date": "2008-09-26T12:04:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tpelo que eu tenho lido no omegaclube, é normal armar sim...\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Mortari",
+            "date": "2008-09-26T13:22:55+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tOs esquemas do Led:<br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.clubecalibra.com.br/upped/led-abs1.jpg\"/></span><br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.clubecalibra.com.br/upped/led-abs2.jpg\"/></span><br/><br/><span rel=\"lightbox\"><img alt=\"Imagem\" class=\"bbc_img\" src=\"http://www.clubecalibra.com.br/upped/led-abs3.jpg\"/></span><br/><br/>É isso mesmo Led?\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2008-09-26T13:45:15+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tÉ isso ae Mort.<br/>\n<br/>\no 2e é o usado no calibra<br/>\nos 5.x sao os usados nos vectras B<br/>\n<br/>\nfalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-09-27T02:06:59+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tMuito obrigado. Tem a legenda indicando o que significa os circulos e quadrados envolvendo o número dos terminais e o que significa o \"linha\" ex: 1--&gt;1'?<br/>\nabs.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n<p class=\"edit\">\n\t\t\t\t\t\t\tEste post foi editado por <b>sniper.arnaud</b>: 26 setembro 2008 - 23:23\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</p>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2008-09-29T12:03:02+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tFusivel 14<br/>\nTerminal 1<br/>\nDiodo<br/>\n<br/>\n....<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "sniper.arnaud",
+            "date": "2008-09-30T00:43:11+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tEu percebi pelo ' que era do plug de 4 pinos <span rel=\"lightbox\"><img alt=\":D\" class=\"bbc_emoticon\" src=\"http://clubeca/forum/public/style_emoticons/default/biggrin.gif\"/></span><br/>\n<br/>\nNo caso gostaria de saber sobre as esferas pretas com número do terminal e os quadrados brancos com número. Mas devem ser positivo e negativo comuns.<br/>\n<br/>\nAgora a numeração do conector de 15 vias está errada, pois ao desmontar o plug, vi a numeração na peça que indica que o 1 é no lugar do 8 e o 9 no lugar do 15. E os pinos 3, 8 e 11 não são conectados a nada.\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        },
+        {
+            "author": "Led Zeppelin",
+            "date": "2008-09-30T11:57:17+00:00",
+            "content": "<div class=\"post entry-content\" itemprop=\"commentText\">\n\t\t\t\t\tBom.. os esquemas da ciclo sao bem confiaveis ...  eu nunca tive problema ...  mas tb nunca usei esse desenho de ABS.<br/>\n<br/>\nOs ovais preto é saida de tensao<br/>\nos retangulos bancos sao entrada de tencao<br/>\nos circulos preto sao pinos de alientacao de sensores/atuadores<br/>\nos nr sozinhos sao pinos de sinais..<br/>\n<br/>\nFalow\n\t\t\t\t\t\n\t\t\t\t\t<br/>\n</div>"
+        }
+    ]
+}
